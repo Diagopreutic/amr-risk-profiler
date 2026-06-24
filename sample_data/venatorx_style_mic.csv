@@ -1,0 +1,501 @@
+Isolate,Year,Organism,Family,Region,Country,Age,Gender,BodySite,Facility,CAZ_MIC,C_MIC,CIP_MIC,CL_MIC,FEP_MIC,GM_MIC,IPM_MIC,LVX_MIC,MEM_MIC,MI_MIC,SXT_MIC,TIM_MIC,TZP_MIC
+1,2018,Escherichia coli,Enterobacterales,North America,Japan,53,F,Respiratory,Hospital,32.0,2,0.12,4.0,1.0,16.0,4.0,0.12,16.0,8.0,8.0,8,8
+2,2022,Acinetobacter baumannii,Enterobacterales,North America,Brazil,35,M,Blood,Hospital,16.0,16,4.0,2.0,0.5,1.0,8.0,8.0,0.5,0.25,16.0,16,1
+3,2021,Staphylococcus aureus,Enterobacterales,North America,India,33,M,Respiratory,Hospital,64.0,4,0.03,8.0,8.0,0.5,4.0,1.0,16.0,4.0,1.0,8,16
+4,2020,Staphylococcus aureus,Enterobacterales,North America,Japan,39,M,Blood,Hospital,64.0,4,0.5,4.0,8.0,8.0,4.0,1.0,1.0,2.0,2.0,4,8
+5,2020,Klebsiella pneumoniae,Enterobacterales,North America,United States,58,F,Blood,Hospital,16.0,2,4.0,0.5,16.0,4.0,2.0,0.5,0.25,4.0,32.0,4,32
+6,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,34,M,Blood,Hospital,2.0,32,8.0,1.0,32.0,16.0,0.5,0.25,0.03,1.0,16.0,8,16
+7,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,79,M,Urine,Hospital,8.0,32,0.12,1.0,4.0,0.5,0.5,8.0,2.0,0.25,2.0,16,32
+8,2022,Klebsiella pneumoniae,Enterobacterales,North America,India,50,M,Urine,Hospital,2.0,32,1.0,2.0,16.0,0.5,8.0,1.0,2.0,4.0,1.0,32,8
+9,2019,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,75,F,Urine,Hospital,8.0,2,0.06,1.0,16.0,4.0,0.25,2.0,16.0,2.0,2.0,4,1
+10,2018,Klebsiella pneumoniae,Enterobacterales,North America,India,63,F,Blood,Hospital,32.0,4,0.06,8.0,1.0,16.0,0.25,0.12,4.0,1.0,4.0,128,1
+11,2021,Staphylococcus aureus,Enterobacterales,North America,Germany,40,M,Blood,Hospital,2.0,32,0.25,1.0,16.0,2.0,1.0,0.25,0.03,1.0,4.0,64,8
+12,2023,Acinetobacter baumannii,Enterobacterales,North America,Brazil,33,M,Respiratory,Hospital,4.0,8,4.0,2.0,0.5,8.0,8.0,4.0,1.0,1.0,1.0,4,4
+13,2022,Staphylococcus aureus,Enterobacterales,North America,Germany,67,M,Respiratory,Hospital,0.25,2,2.0,0.5,8.0,16.0,4.0,0.12,4.0,1.0,0.5,128,32
+14,2022,Staphylococcus aureus,Enterobacterales,North America,Germany,40,F,Respiratory,Hospital,16.0,2,0.5,8.0,32.0,16.0,4.0,0.12,0.5,0.5,4.0,4,4
+15,2022,Staphylococcus aureus,Enterobacterales,North America,India,34,F,Blood,Hospital,4.0,4,0.12,8.0,8.0,4.0,2.0,4.0,0.5,0.5,16.0,32,64
+16,2022,Escherichia coli,Enterobacterales,North America,Japan,80,M,Respiratory,Hospital,4.0,32,0.06,4.0,32.0,8.0,0.25,0.5,8.0,0.5,1.0,16,2
+17,2021,Staphylococcus aureus,Enterobacterales,North America,Germany,50,M,Respiratory,Hospital,4.0,2,0.12,1.0,0.5,4.0,1.0,0.25,2.0,0.25,2.0,32,4
+18,2018,Escherichia coli,Enterobacterales,North America,India,21,F,Urine,Hospital,0.5,32,0.06,0.5,4.0,8.0,0.25,1.0,2.0,8.0,1.0,128,32
+19,2023,Pseudomonas aeruginosa,Enterobacterales,North America,United States,51,F,Blood,Hospital,8.0,16,0.06,4.0,16.0,4.0,8.0,0.25,0.5,0.5,1.0,128,1
+20,2020,Pseudomonas aeruginosa,Enterobacterales,North America,United States,48,M,Respiratory,Hospital,16.0,32,2.0,2.0,8.0,4.0,8.0,0.12,0.12,0.25,8.0,8,4
+21,2021,Klebsiella pneumoniae,Enterobacterales,North America,United States,75,M,Urine,Hospital,2.0,32,0.06,8.0,32.0,2.0,0.5,0.12,1.0,0.25,2.0,32,32
+22,2020,Escherichia coli,Enterobacterales,North America,United States,65,F,Blood,Hospital,0.5,4,0.03,4.0,4.0,4.0,1.0,0.12,16.0,8.0,1.0,128,16
+23,2019,Escherichia coli,Enterobacterales,North America,Japan,30,F,Blood,Hospital,2.0,32,0.5,2.0,8.0,8.0,1.0,0.25,2.0,1.0,32.0,64,32
+24,2023,Staphylococcus aureus,Enterobacterales,North America,Japan,28,F,Urine,Hospital,0.5,2,0.12,8.0,2.0,16.0,16.0,2.0,4.0,0.5,1.0,128,8
+25,2022,Klebsiella pneumoniae,Enterobacterales,North America,Japan,58,M,Blood,Hospital,2.0,4,0.5,8.0,32.0,4.0,2.0,0.5,0.06,1.0,1.0,16,64
+26,2021,Klebsiella pneumoniae,Enterobacterales,North America,United States,21,M,Blood,Hospital,8.0,4,0.06,2.0,0.5,0.5,8.0,0.12,16.0,0.25,32.0,8,64
+27,2020,Staphylococcus aureus,Enterobacterales,North America,United States,39,F,Urine,Hospital,0.5,2,0.06,0.5,1.0,4.0,2.0,0.12,0.12,0.5,4.0,32,64
+28,2022,Escherichia coli,Enterobacterales,North America,Germany,27,F,Respiratory,Hospital,16.0,2,0.25,0.5,0.5,1.0,4.0,1.0,16.0,0.5,0.5,64,1
+29,2021,Staphylococcus aureus,Enterobacterales,North America,India,19,F,Blood,Hospital,1.0,2,2.0,2.0,8.0,0.5,2.0,4.0,0.5,4.0,2.0,128,16
+30,2020,Staphylococcus aureus,Enterobacterales,North America,Germany,79,M,Urine,Hospital,64.0,2,0.25,2.0,1.0,0.5,0.5,0.5,16.0,0.25,4.0,64,1
+31,2020,Pseudomonas aeruginosa,Enterobacterales,North America,India,24,F,Respiratory,Hospital,16.0,4,0.5,0.5,2.0,4.0,16.0,0.12,8.0,1.0,1.0,64,2
+32,2019,Escherichia coli,Enterobacterales,North America,United States,18,M,Respiratory,Hospital,1.0,2,0.5,0.5,16.0,16.0,4.0,0.25,4.0,4.0,4.0,32,4
+33,2018,Escherichia coli,Enterobacterales,North America,Brazil,80,M,Respiratory,Hospital,8.0,2,0.12,4.0,2.0,4.0,8.0,1.0,16.0,8.0,8.0,8,16
+34,2021,Klebsiella pneumoniae,Enterobacterales,North America,Germany,30,F,Blood,Hospital,0.25,32,0.12,4.0,1.0,2.0,16.0,0.25,2.0,2.0,1.0,16,8
+35,2023,Pseudomonas aeruginosa,Enterobacterales,North America,United States,72,F,Respiratory,Hospital,0.25,2,0.25,0.5,0.5,0.5,0.5,8.0,8.0,0.5,16.0,16,64
+36,2018,Escherichia coli,Enterobacterales,North America,Brazil,20,F,Respiratory,Hospital,64.0,2,0.03,2.0,1.0,8.0,0.25,4.0,0.06,1.0,4.0,64,4
+37,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,28,F,Blood,Hospital,32.0,2,2.0,0.5,32.0,0.5,4.0,0.5,0.03,0.5,32.0,32,16
+38,2022,Escherichia coli,Enterobacterales,North America,United States,25,M,Urine,Hospital,0.5,2,1.0,4.0,4.0,16.0,1.0,8.0,1.0,2.0,0.5,64,32
+39,2019,Pseudomonas aeruginosa,Enterobacterales,North America,India,65,F,Urine,Hospital,1.0,8,0.12,8.0,32.0,8.0,2.0,0.5,8.0,0.5,2.0,4,64
+40,2021,Escherichia coli,Enterobacterales,North America,Japan,59,M,Urine,Hospital,0.5,32,0.25,8.0,1.0,16.0,0.5,0.12,4.0,2.0,16.0,64,2
+41,2018,Acinetobacter baumannii,Enterobacterales,North America,Brazil,49,M,Blood,Hospital,2.0,16,0.12,2.0,2.0,1.0,1.0,8.0,1.0,2.0,32.0,32,32
+42,2022,Escherichia coli,Enterobacterales,North America,Japan,34,F,Respiratory,Hospital,1.0,8,1.0,4.0,1.0,0.5,1.0,8.0,1.0,8.0,1.0,128,1
+43,2022,Escherichia coli,Enterobacterales,North America,India,23,F,Respiratory,Hospital,1.0,2,2.0,8.0,2.0,1.0,1.0,0.5,2.0,1.0,32.0,16,8
+44,2020,Escherichia coli,Enterobacterales,North America,Germany,56,F,Urine,Hospital,4.0,16,0.03,4.0,4.0,8.0,8.0,2.0,8.0,8.0,1.0,16,4
+45,2018,Staphylococcus aureus,Enterobacterales,North America,Brazil,33,M,Respiratory,Hospital,0.5,2,0.25,2.0,16.0,1.0,4.0,0.25,8.0,1.0,2.0,4,64
+46,2023,Escherichia coli,Enterobacterales,North America,United States,57,F,Urine,Hospital,32.0,16,0.03,4.0,2.0,16.0,2.0,2.0,0.06,4.0,2.0,64,32
+47,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,64,M,Respiratory,Hospital,16.0,8,0.5,2.0,16.0,0.5,0.25,2.0,1.0,2.0,2.0,64,64
+48,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,74,F,Urine,Hospital,16.0,32,0.12,8.0,8.0,0.5,2.0,2.0,0.25,4.0,32.0,128,32
+49,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,51,F,Urine,Hospital,0.5,4,0.25,2.0,2.0,1.0,0.5,1.0,4.0,1.0,16.0,4,4
+50,2022,Acinetobacter baumannii,Enterobacterales,North America,United States,18,F,Blood,Hospital,16.0,16,0.5,8.0,32.0,8.0,1.0,2.0,1.0,4.0,16.0,8,32
+51,2022,Staphylococcus aureus,Enterobacterales,North America,India,36,M,Urine,Hospital,32.0,8,0.12,0.5,4.0,4.0,1.0,1.0,16.0,1.0,1.0,128,1
+52,2019,Klebsiella pneumoniae,Enterobacterales,North America,Germany,75,M,Blood,Hospital,0.5,8,0.25,0.5,1.0,2.0,0.25,4.0,0.5,1.0,32.0,4,8
+53,2020,Staphylococcus aureus,Enterobacterales,North America,India,53,M,Blood,Hospital,16.0,32,2.0,0.5,32.0,4.0,1.0,0.25,2.0,1.0,4.0,32,1
+54,2020,Klebsiella pneumoniae,Enterobacterales,North America,Japan,59,F,Blood,Hospital,2.0,16,4.0,2.0,32.0,4.0,0.5,1.0,0.06,4.0,8.0,16,32
+55,2020,Staphylococcus aureus,Enterobacterales,North America,United States,48,F,Respiratory,Hospital,32.0,8,0.03,4.0,0.5,4.0,8.0,0.5,16.0,2.0,8.0,128,64
+56,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,28,M,Blood,Hospital,4.0,8,0.25,1.0,32.0,4.0,16.0,1.0,0.06,0.25,8.0,128,16
+57,2021,Acinetobacter baumannii,Enterobacterales,North America,India,78,F,Respiratory,Hospital,32.0,16,4.0,0.5,32.0,0.5,0.25,0.12,0.25,4.0,8.0,128,32
+58,2018,Staphylococcus aureus,Enterobacterales,North America,Brazil,69,F,Respiratory,Hospital,0.5,4,0.5,8.0,16.0,1.0,4.0,0.5,8.0,4.0,4.0,8,2
+59,2022,Acinetobacter baumannii,Enterobacterales,North America,India,84,M,Blood,Hospital,2.0,2,0.06,4.0,1.0,4.0,4.0,8.0,16.0,0.25,8.0,32,64
+60,2022,Staphylococcus aureus,Enterobacterales,North America,Germany,75,M,Urine,Hospital,1.0,8,1.0,4.0,8.0,0.5,1.0,0.12,0.5,8.0,32.0,64,8
+61,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,37,F,Urine,Hospital,1.0,2,0.06,2.0,4.0,2.0,2.0,2.0,0.5,2.0,2.0,128,16
+62,2022,Escherichia coli,Enterobacterales,North America,Brazil,35,F,Urine,Hospital,1.0,2,0.03,2.0,8.0,0.5,8.0,2.0,0.03,0.25,4.0,4,32
+63,2020,Pseudomonas aeruginosa,Enterobacterales,North America,United States,34,M,Respiratory,Hospital,2.0,8,1.0,0.5,8.0,8.0,1.0,1.0,16.0,1.0,1.0,128,16
+64,2023,Escherichia coli,Enterobacterales,North America,Brazil,79,F,Urine,Hospital,0.5,16,0.5,0.5,8.0,0.5,0.25,0.12,0.03,8.0,2.0,16,4
+65,2020,Staphylococcus aureus,Enterobacterales,North America,Brazil,55,F,Urine,Hospital,16.0,16,2.0,8.0,4.0,0.5,1.0,0.12,0.03,0.5,16.0,4,16
+66,2019,Klebsiella pneumoniae,Enterobacterales,North America,Germany,48,F,Urine,Hospital,4.0,4,0.25,1.0,8.0,4.0,0.5,0.25,0.5,8.0,8.0,32,16
+67,2023,Klebsiella pneumoniae,Enterobacterales,North America,Japan,82,F,Respiratory,Hospital,32.0,8,4.0,4.0,4.0,1.0,1.0,0.12,0.03,1.0,1.0,64,64
+68,2020,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,58,F,Urine,Hospital,16.0,2,0.25,4.0,0.5,2.0,0.5,0.12,0.06,0.5,4.0,4,8
+69,2018,Acinetobacter baumannii,Enterobacterales,North America,Germany,78,M,Urine,Hospital,0.5,16,2.0,1.0,0.5,1.0,0.5,0.25,2.0,1.0,16.0,4,8
+70,2020,Pseudomonas aeruginosa,Enterobacterales,North America,United States,83,M,Respiratory,Hospital,0.25,4,0.03,1.0,32.0,1.0,16.0,0.25,4.0,2.0,0.5,128,8
+71,2022,Staphylococcus aureus,Enterobacterales,North America,Brazil,23,M,Respiratory,Hospital,2.0,16,0.03,4.0,32.0,8.0,0.25,4.0,0.12,4.0,0.5,128,1
+72,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,42,F,Respiratory,Hospital,4.0,32,4.0,0.5,8.0,8.0,4.0,2.0,4.0,8.0,2.0,4,1
+73,2020,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,67,M,Respiratory,Hospital,1.0,16,4.0,2.0,1.0,1.0,8.0,0.12,2.0,0.5,8.0,128,1
+74,2018,Escherichia coli,Enterobacterales,North America,India,72,M,Urine,Hospital,32.0,4,8.0,8.0,16.0,8.0,4.0,2.0,0.12,8.0,2.0,128,16
+75,2022,Escherichia coli,Enterobacterales,North America,India,27,F,Respiratory,Hospital,8.0,32,0.12,4.0,1.0,8.0,16.0,0.12,4.0,2.0,16.0,128,4
+76,2020,Klebsiella pneumoniae,Enterobacterales,North America,United States,39,M,Blood,Hospital,16.0,16,0.03,4.0,2.0,4.0,0.25,0.5,1.0,0.25,16.0,8,64
+77,2019,Staphylococcus aureus,Enterobacterales,North America,Brazil,54,M,Blood,Hospital,0.25,16,8.0,0.5,2.0,4.0,1.0,0.12,8.0,8.0,4.0,32,16
+78,2019,Pseudomonas aeruginosa,Enterobacterales,North America,United States,71,M,Urine,Hospital,32.0,32,1.0,0.5,0.5,16.0,0.5,0.12,0.06,1.0,2.0,128,1
+79,2021,Staphylococcus aureus,Enterobacterales,North America,India,25,M,Respiratory,Hospital,0.5,32,0.12,1.0,16.0,2.0,4.0,0.12,0.12,2.0,0.5,128,1
+80,2022,Escherichia coli,Enterobacterales,North America,Japan,58,M,Urine,Hospital,4.0,2,2.0,1.0,4.0,2.0,4.0,1.0,0.25,4.0,16.0,32,4
+81,2023,Escherichia coli,Enterobacterales,North America,Japan,37,F,Urine,Hospital,2.0,32,8.0,0.5,2.0,4.0,16.0,1.0,0.25,0.25,32.0,8,64
+82,2020,Staphylococcus aureus,Enterobacterales,North America,Japan,32,M,Urine,Hospital,32.0,16,0.12,8.0,4.0,16.0,1.0,0.5,8.0,0.5,4.0,4,1
+83,2018,Escherichia coli,Enterobacterales,North America,Japan,52,M,Blood,Hospital,1.0,4,2.0,0.5,0.5,8.0,0.5,2.0,4.0,4.0,4.0,8,2
+84,2022,Escherichia coli,Enterobacterales,North America,India,45,F,Urine,Hospital,1.0,4,4.0,4.0,4.0,0.5,16.0,4.0,1.0,0.5,16.0,4,1
+85,2021,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,60,M,Urine,Hospital,2.0,16,0.5,2.0,4.0,2.0,4.0,4.0,1.0,0.25,8.0,8,4
+86,2022,Staphylococcus aureus,Enterobacterales,North America,Japan,39,F,Urine,Hospital,2.0,4,1.0,4.0,2.0,8.0,8.0,2.0,8.0,0.25,0.5,4,64
+87,2018,Acinetobacter baumannii,Enterobacterales,North America,Japan,73,F,Urine,Hospital,0.5,8,0.12,1.0,16.0,1.0,2.0,1.0,0.5,4.0,8.0,64,16
+88,2019,Escherichia coli,Enterobacterales,North America,Japan,23,F,Blood,Hospital,0.5,16,8.0,1.0,1.0,16.0,2.0,1.0,0.12,0.25,32.0,32,8
+89,2022,Staphylococcus aureus,Enterobacterales,North America,Brazil,75,M,Respiratory,Hospital,1.0,16,8.0,4.0,0.5,8.0,1.0,0.25,0.06,0.25,16.0,32,2
+90,2022,Staphylococcus aureus,Enterobacterales,North America,United States,19,M,Urine,Hospital,4.0,32,8.0,1.0,4.0,16.0,8.0,1.0,0.25,2.0,4.0,64,4
+91,2020,Staphylococcus aureus,Enterobacterales,North America,India,67,F,Blood,Hospital,2.0,2,2.0,4.0,32.0,0.5,0.5,0.12,2.0,0.25,4.0,16,8
+92,2022,Staphylococcus aureus,Enterobacterales,North America,India,41,M,Urine,Hospital,2.0,4,0.03,0.5,2.0,4.0,16.0,8.0,0.5,2.0,1.0,16,2
+93,2023,Klebsiella pneumoniae,Enterobacterales,North America,Japan,43,F,Urine,Hospital,16.0,32,0.25,0.5,0.5,4.0,0.5,0.5,0.5,2.0,8.0,8,16
+94,2020,Staphylococcus aureus,Enterobacterales,North America,Germany,19,M,Blood,Hospital,1.0,8,0.5,4.0,32.0,4.0,2.0,4.0,0.5,2.0,1.0,16,64
+95,2023,Klebsiella pneumoniae,Enterobacterales,North America,Germany,65,M,Blood,Hospital,64.0,4,8.0,4.0,4.0,16.0,1.0,8.0,16.0,1.0,2.0,8,2
+96,2019,Staphylococcus aureus,Enterobacterales,North America,United States,29,F,Blood,Hospital,16.0,4,0.5,0.5,1.0,2.0,4.0,1.0,16.0,4.0,1.0,32,2
+97,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,62,F,Urine,Hospital,0.5,4,0.5,8.0,8.0,4.0,4.0,8.0,0.06,2.0,2.0,128,1
+98,2022,Acinetobacter baumannii,Enterobacterales,North America,Brazil,66,F,Respiratory,Hospital,1.0,8,0.06,0.5,2.0,8.0,16.0,1.0,0.06,1.0,2.0,32,32
+99,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,74,F,Respiratory,Hospital,0.5,4,4.0,8.0,32.0,8.0,8.0,0.12,0.12,0.25,0.5,8,8
+100,2018,Acinetobacter baumannii,Enterobacterales,North America,India,65,M,Urine,Hospital,1.0,16,0.25,4.0,2.0,8.0,0.5,0.12,8.0,0.5,16.0,64,2
+101,2022,Acinetobacter baumannii,Enterobacterales,North America,India,38,F,Respiratory,Hospital,2.0,8,0.03,8.0,4.0,2.0,0.5,0.12,0.5,0.25,4.0,64,2
+102,2019,Acinetobacter baumannii,Enterobacterales,North America,India,67,F,Blood,Hospital,0.5,16,8.0,8.0,4.0,16.0,16.0,8.0,8.0,0.25,32.0,16,1
+103,2022,Acinetobacter baumannii,Enterobacterales,North America,Japan,73,M,Respiratory,Hospital,0.25,2,0.06,1.0,1.0,0.5,2.0,1.0,2.0,0.5,1.0,8,8
+104,2018,Escherichia coli,Enterobacterales,North America,United States,39,M,Urine,Hospital,2.0,16,0.03,4.0,4.0,2.0,0.25,0.5,1.0,0.5,8.0,64,16
+105,2022,Staphylococcus aureus,Enterobacterales,North America,Germany,26,F,Respiratory,Hospital,16.0,32,0.03,1.0,0.5,4.0,8.0,1.0,0.12,0.25,1.0,8,2
+106,2022,Pseudomonas aeruginosa,Enterobacterales,North America,United States,77,M,Respiratory,Hospital,1.0,2,0.5,2.0,8.0,0.5,4.0,0.25,0.25,0.5,4.0,128,1
+107,2022,Klebsiella pneumoniae,Enterobacterales,North America,Germany,27,F,Urine,Hospital,32.0,4,0.03,1.0,16.0,2.0,0.25,8.0,0.06,2.0,4.0,8,8
+108,2021,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,57,M,Blood,Hospital,2.0,16,4.0,2.0,32.0,4.0,8.0,8.0,1.0,0.5,4.0,16,16
+109,2020,Staphylococcus aureus,Enterobacterales,North America,Japan,33,M,Urine,Hospital,64.0,16,0.5,8.0,2.0,4.0,4.0,0.12,0.12,0.5,8.0,64,4
+110,2022,Staphylococcus aureus,Enterobacterales,North America,United States,26,M,Respiratory,Hospital,1.0,16,0.12,2.0,1.0,0.5,4.0,4.0,0.12,0.25,16.0,4,2
+111,2019,Staphylococcus aureus,Enterobacterales,North America,Brazil,70,M,Respiratory,Hospital,4.0,8,0.03,0.5,4.0,1.0,16.0,0.5,0.03,0.25,2.0,8,2
+112,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,27,F,Respiratory,Hospital,16.0,16,0.5,1.0,8.0,1.0,2.0,0.12,4.0,0.25,16.0,4,32
+113,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,62,F,Blood,Hospital,0.25,16,0.06,4.0,32.0,4.0,2.0,8.0,16.0,1.0,1.0,16,64
+114,2020,Klebsiella pneumoniae,Enterobacterales,North America,Germany,64,F,Urine,Hospital,64.0,2,8.0,2.0,0.5,1.0,4.0,0.12,0.5,2.0,2.0,32,32
+115,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,22,F,Blood,Hospital,2.0,16,0.12,2.0,1.0,4.0,0.5,0.25,1.0,4.0,2.0,8,8
+116,2021,Acinetobacter baumannii,Enterobacterales,North America,India,29,M,Respiratory,Hospital,4.0,8,0.5,2.0,1.0,8.0,0.5,0.12,16.0,2.0,32.0,16,32
+117,2018,Klebsiella pneumoniae,Enterobacterales,North America,Japan,71,F,Respiratory,Hospital,8.0,2,0.03,1.0,1.0,8.0,8.0,1.0,1.0,2.0,0.5,64,4
+118,2018,Klebsiella pneumoniae,Enterobacterales,North America,India,51,F,Blood,Hospital,8.0,8,0.06,2.0,4.0,1.0,0.5,2.0,2.0,8.0,2.0,128,1
+119,2019,Escherichia coli,Enterobacterales,North America,Brazil,26,F,Urine,Hospital,0.25,8,0.06,4.0,32.0,16.0,2.0,0.5,0.5,0.5,2.0,4,4
+120,2018,Escherichia coli,Enterobacterales,North America,India,84,F,Respiratory,Hospital,32.0,2,0.03,8.0,0.5,0.5,0.5,0.12,1.0,4.0,16.0,32,16
+121,2020,Pseudomonas aeruginosa,Enterobacterales,North America,United States,35,F,Respiratory,Hospital,8.0,32,2.0,4.0,16.0,0.5,0.5,0.12,1.0,8.0,4.0,4,16
+122,2022,Pseudomonas aeruginosa,Enterobacterales,North America,United States,18,F,Urine,Hospital,64.0,4,8.0,8.0,8.0,0.5,4.0,8.0,4.0,2.0,32.0,32,64
+123,2021,Escherichia coli,Enterobacterales,North America,Germany,79,F,Blood,Hospital,4.0,4,8.0,8.0,8.0,1.0,8.0,4.0,2.0,8.0,16.0,128,64
+124,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,19,F,Respiratory,Hospital,8.0,8,0.12,0.5,8.0,16.0,2.0,8.0,1.0,0.25,8.0,64,2
+125,2023,Acinetobacter baumannii,Enterobacterales,North America,Japan,55,F,Respiratory,Hospital,2.0,32,4.0,1.0,0.5,1.0,0.25,1.0,0.03,8.0,16.0,8,1
+126,2021,Klebsiella pneumoniae,Enterobacterales,North America,Japan,84,M,Urine,Hospital,64.0,16,0.5,1.0,16.0,8.0,0.5,1.0,16.0,2.0,1.0,8,2
+127,2018,Klebsiella pneumoniae,Enterobacterales,North America,Japan,56,M,Respiratory,Hospital,32.0,16,0.03,0.5,1.0,2.0,0.5,4.0,8.0,0.5,4.0,64,64
+128,2022,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,57,F,Blood,Hospital,64.0,4,0.03,0.5,4.0,0.5,16.0,2.0,0.06,0.25,8.0,64,32
+129,2021,Pseudomonas aeruginosa,Enterobacterales,North America,India,44,M,Urine,Hospital,4.0,32,0.5,4.0,8.0,2.0,1.0,1.0,0.12,4.0,1.0,8,1
+130,2021,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,26,M,Blood,Hospital,32.0,32,0.25,1.0,8.0,0.5,1.0,0.5,16.0,1.0,0.5,4,2
+131,2021,Acinetobacter baumannii,Enterobacterales,North America,India,56,F,Respiratory,Hospital,2.0,8,0.03,0.5,2.0,2.0,0.25,1.0,0.25,0.5,0.5,16,8
+132,2021,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,78,F,Respiratory,Hospital,4.0,8,8.0,1.0,2.0,4.0,2.0,0.12,8.0,1.0,16.0,32,16
+133,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,24,F,Respiratory,Hospital,16.0,2,2.0,1.0,4.0,4.0,16.0,0.25,4.0,8.0,8.0,16,64
+134,2021,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,76,M,Urine,Hospital,0.25,16,0.5,0.5,0.5,1.0,1.0,4.0,8.0,1.0,1.0,128,32
+135,2022,Escherichia coli,Enterobacterales,North America,Brazil,45,M,Blood,Hospital,16.0,32,8.0,0.5,16.0,8.0,4.0,8.0,0.03,0.25,16.0,64,2
+136,2019,Acinetobacter baumannii,Enterobacterales,North America,United States,53,F,Blood,Hospital,0.25,8,8.0,4.0,0.5,4.0,0.5,0.12,0.5,0.5,8.0,64,1
+137,2021,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,29,F,Urine,Hospital,8.0,8,8.0,8.0,4.0,1.0,0.5,0.12,1.0,0.25,16.0,4,16
+138,2018,Klebsiella pneumoniae,Enterobacterales,North America,Germany,59,M,Respiratory,Hospital,4.0,8,0.12,2.0,8.0,2.0,8.0,0.12,8.0,4.0,32.0,128,8
+139,2020,Acinetobacter baumannii,Enterobacterales,North America,Brazil,30,F,Blood,Hospital,4.0,2,4.0,4.0,0.5,0.5,0.25,4.0,0.12,4.0,32.0,64,64
+140,2020,Staphylococcus aureus,Enterobacterales,North America,India,36,M,Respiratory,Hospital,4.0,16,0.5,8.0,32.0,16.0,2.0,0.5,0.25,8.0,1.0,16,16
+141,2023,Acinetobacter baumannii,Enterobacterales,North America,Japan,66,F,Blood,Hospital,4.0,16,2.0,8.0,2.0,8.0,1.0,0.5,0.06,2.0,16.0,32,8
+142,2019,Staphylococcus aureus,Enterobacterales,North America,Germany,21,F,Urine,Hospital,2.0,32,4.0,0.5,0.5,1.0,0.25,0.12,4.0,4.0,2.0,64,4
+143,2019,Staphylococcus aureus,Enterobacterales,North America,Japan,47,F,Blood,Hospital,4.0,32,0.06,8.0,8.0,8.0,2.0,8.0,16.0,1.0,2.0,128,1
+144,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,57,F,Urine,Hospital,8.0,8,0.5,0.5,4.0,8.0,16.0,1.0,0.06,2.0,8.0,32,64
+145,2023,Acinetobacter baumannii,Enterobacterales,North America,Germany,26,M,Urine,Hospital,16.0,32,0.06,0.5,8.0,4.0,0.25,4.0,0.12,0.25,8.0,4,32
+146,2023,Klebsiella pneumoniae,Enterobacterales,North America,India,37,M,Blood,Hospital,4.0,8,0.12,2.0,16.0,0.5,8.0,2.0,0.25,2.0,2.0,32,2
+147,2018,Pseudomonas aeruginosa,Enterobacterales,North America,India,41,M,Urine,Hospital,8.0,16,0.25,4.0,4.0,16.0,2.0,0.12,8.0,2.0,32.0,64,16
+148,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,62,F,Respiratory,Hospital,32.0,16,4.0,0.5,16.0,16.0,8.0,4.0,0.5,0.25,1.0,4,4
+149,2022,Staphylococcus aureus,Enterobacterales,North America,Brazil,83,F,Respiratory,Hospital,64.0,32,4.0,1.0,2.0,16.0,0.25,1.0,0.12,2.0,0.5,64,8
+150,2018,Staphylococcus aureus,Enterobacterales,North America,Japan,74,F,Blood,Hospital,0.25,16,0.25,1.0,4.0,16.0,16.0,2.0,0.25,4.0,0.5,8,32
+151,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,30,M,Respiratory,Hospital,16.0,2,0.12,1.0,1.0,16.0,0.25,0.25,1.0,1.0,16.0,128,32
+152,2019,Acinetobacter baumannii,Enterobacterales,North America,India,19,M,Respiratory,Hospital,1.0,2,0.5,8.0,8.0,8.0,16.0,4.0,0.25,2.0,2.0,32,2
+153,2023,Klebsiella pneumoniae,Enterobacterales,North America,India,21,F,Respiratory,Hospital,0.5,8,8.0,1.0,1.0,0.5,4.0,8.0,0.06,0.5,4.0,8,4
+154,2019,Staphylococcus aureus,Enterobacterales,North America,Japan,57,F,Urine,Hospital,32.0,8,8.0,1.0,8.0,2.0,1.0,0.5,8.0,0.5,8.0,4,32
+155,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,28,F,Respiratory,Hospital,0.25,16,0.12,0.5,16.0,1.0,0.25,0.12,0.5,0.25,4.0,4,64
+156,2021,Pseudomonas aeruginosa,Enterobacterales,North America,India,33,M,Urine,Hospital,32.0,8,0.06,0.5,32.0,1.0,4.0,4.0,0.12,0.5,8.0,64,1
+157,2018,Acinetobacter baumannii,Enterobacterales,North America,United States,74,M,Blood,Hospital,16.0,8,2.0,0.5,32.0,8.0,0.25,8.0,4.0,4.0,0.5,16,32
+158,2021,Acinetobacter baumannii,Enterobacterales,North America,Japan,76,F,Blood,Hospital,64.0,32,0.12,2.0,0.5,8.0,4.0,1.0,4.0,8.0,1.0,128,8
+159,2021,Escherichia coli,Enterobacterales,North America,Germany,74,F,Respiratory,Hospital,16.0,4,0.06,2.0,0.5,4.0,8.0,2.0,0.06,2.0,32.0,8,16
+160,2022,Klebsiella pneumoniae,Enterobacterales,North America,Germany,34,M,Blood,Hospital,32.0,8,0.03,2.0,32.0,8.0,0.5,0.25,0.03,2.0,4.0,128,1
+161,2023,Escherichia coli,Enterobacterales,North America,India,59,F,Urine,Hospital,0.5,8,0.25,8.0,2.0,0.5,0.5,0.12,0.03,2.0,1.0,128,16
+162,2021,Acinetobacter baumannii,Enterobacterales,North America,India,58,M,Respiratory,Hospital,64.0,8,0.25,2.0,0.5,1.0,0.5,8.0,4.0,1.0,2.0,4,16
+163,2020,Escherichia coli,Enterobacterales,North America,Japan,30,M,Blood,Hospital,0.5,32,1.0,0.5,2.0,16.0,0.5,1.0,2.0,1.0,2.0,32,16
+164,2020,Klebsiella pneumoniae,Enterobacterales,North America,India,55,F,Urine,Hospital,1.0,32,0.06,1.0,16.0,2.0,0.25,0.25,4.0,2.0,1.0,128,32
+165,2020,Pseudomonas aeruginosa,Enterobacterales,North America,India,53,F,Blood,Hospital,0.5,8,2.0,1.0,2.0,4.0,0.5,2.0,2.0,4.0,2.0,8,64
+166,2022,Acinetobacter baumannii,Enterobacterales,North America,United States,44,F,Urine,Hospital,2.0,8,2.0,8.0,0.5,2.0,4.0,0.12,0.5,1.0,16.0,4,32
+167,2019,Pseudomonas aeruginosa,Enterobacterales,North America,United States,68,M,Blood,Hospital,16.0,8,0.5,1.0,16.0,1.0,1.0,0.12,1.0,2.0,0.5,128,32
+168,2019,Staphylococcus aureus,Enterobacterales,North America,Germany,63,F,Respiratory,Hospital,1.0,2,0.06,0.5,1.0,8.0,8.0,0.25,4.0,1.0,2.0,16,64
+169,2020,Staphylococcus aureus,Enterobacterales,North America,Japan,53,F,Blood,Hospital,32.0,8,0.5,4.0,2.0,8.0,8.0,1.0,0.25,0.5,4.0,4,16
+170,2018,Escherichia coli,Enterobacterales,North America,Japan,66,F,Respiratory,Hospital,8.0,4,2.0,2.0,0.5,8.0,8.0,0.5,16.0,0.5,4.0,128,16
+171,2018,Staphylococcus aureus,Enterobacterales,North America,Brazil,69,M,Respiratory,Hospital,8.0,2,0.25,0.5,8.0,2.0,2.0,0.25,8.0,0.25,32.0,64,8
+172,2018,Acinetobacter baumannii,Enterobacterales,North America,Brazil,55,F,Respiratory,Hospital,64.0,2,0.12,4.0,4.0,4.0,1.0,0.5,8.0,1.0,32.0,4,32
+173,2022,Acinetobacter baumannii,Enterobacterales,North America,Germany,35,F,Respiratory,Hospital,2.0,8,0.5,1.0,32.0,16.0,16.0,0.5,16.0,4.0,2.0,8,1
+174,2022,Escherichia coli,Enterobacterales,North America,United States,68,F,Blood,Hospital,2.0,2,0.25,8.0,2.0,4.0,0.5,1.0,0.25,4.0,4.0,4,8
+175,2022,Acinetobacter baumannii,Enterobacterales,North America,United States,66,M,Respiratory,Hospital,64.0,16,0.25,8.0,1.0,2.0,2.0,1.0,0.06,8.0,0.5,128,4
+176,2020,Acinetobacter baumannii,Enterobacterales,North America,Germany,83,F,Urine,Hospital,8.0,8,0.25,1.0,1.0,1.0,2.0,8.0,0.5,0.25,8.0,4,64
+177,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,28,M,Respiratory,Hospital,8.0,4,0.12,2.0,1.0,4.0,8.0,4.0,4.0,4.0,1.0,64,1
+178,2018,Escherichia coli,Enterobacterales,North America,United States,46,M,Respiratory,Hospital,1.0,16,2.0,2.0,4.0,2.0,2.0,0.5,4.0,4.0,0.5,32,16
+179,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,79,F,Urine,Hospital,0.5,8,0.5,4.0,0.5,4.0,8.0,8.0,0.25,1.0,8.0,32,2
+180,2021,Staphylococcus aureus,Enterobacterales,North America,United States,52,M,Urine,Hospital,0.5,16,0.5,0.5,2.0,0.5,16.0,1.0,0.12,0.5,1.0,64,64
+181,2023,Acinetobacter baumannii,Enterobacterales,North America,Brazil,81,F,Blood,Hospital,1.0,16,1.0,1.0,16.0,1.0,1.0,0.25,0.5,1.0,4.0,128,32
+182,2018,Escherichia coli,Enterobacterales,North America,Japan,18,M,Blood,Hospital,0.5,2,0.25,0.5,16.0,8.0,16.0,0.5,8.0,4.0,0.5,4,2
+183,2020,Staphylococcus aureus,Enterobacterales,North America,Brazil,20,F,Urine,Hospital,16.0,4,0.03,4.0,8.0,2.0,0.5,4.0,0.03,8.0,16.0,4,64
+184,2022,Staphylococcus aureus,Enterobacterales,North America,India,71,F,Respiratory,Hospital,0.25,8,4.0,0.5,32.0,2.0,16.0,4.0,0.25,2.0,16.0,4,8
+185,2020,Escherichia coli,Enterobacterales,North America,India,42,F,Urine,Hospital,8.0,32,0.03,2.0,16.0,4.0,0.5,0.5,0.12,2.0,8.0,64,64
+186,2020,Staphylococcus aureus,Enterobacterales,North America,Germany,52,M,Urine,Hospital,64.0,2,1.0,4.0,8.0,2.0,8.0,0.25,8.0,2.0,16.0,32,32
+187,2018,Pseudomonas aeruginosa,Enterobacterales,North America,United States,46,M,Blood,Hospital,16.0,2,0.12,8.0,32.0,8.0,1.0,0.25,0.5,0.25,4.0,4,1
+188,2020,Pseudomonas aeruginosa,Enterobacterales,North America,India,45,M,Urine,Hospital,2.0,32,0.06,1.0,0.5,1.0,16.0,0.12,0.03,2.0,1.0,8,2
+189,2019,Pseudomonas aeruginosa,Enterobacterales,North America,India,80,M,Urine,Hospital,0.25,32,0.03,0.5,16.0,8.0,0.25,2.0,0.12,0.25,1.0,32,4
+190,2019,Acinetobacter baumannii,Enterobacterales,North America,United States,24,F,Respiratory,Hospital,32.0,2,8.0,4.0,2.0,1.0,2.0,1.0,0.03,8.0,1.0,64,2
+191,2022,Staphylococcus aureus,Enterobacterales,North America,India,69,M,Respiratory,Hospital,0.25,8,0.25,0.5,16.0,2.0,16.0,1.0,0.5,8.0,1.0,16,1
+192,2021,Acinetobacter baumannii,Enterobacterales,North America,Germany,77,M,Urine,Hospital,16.0,16,0.25,0.5,32.0,4.0,0.25,2.0,16.0,2.0,2.0,128,64
+193,2021,Staphylococcus aureus,Enterobacterales,North America,United States,62,M,Respiratory,Hospital,16.0,2,2.0,8.0,4.0,16.0,0.5,4.0,1.0,1.0,1.0,128,64
+194,2020,Staphylococcus aureus,Enterobacterales,North America,Brazil,44,M,Urine,Hospital,0.5,4,0.03,8.0,0.5,1.0,0.25,4.0,8.0,4.0,8.0,64,8
+195,2023,Escherichia coli,Enterobacterales,North America,India,28,F,Respiratory,Hospital,16.0,4,1.0,4.0,2.0,4.0,1.0,0.12,4.0,2.0,1.0,16,2
+196,2018,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,63,F,Urine,Hospital,0.5,16,0.5,8.0,2.0,0.5,1.0,2.0,8.0,4.0,8.0,128,2
+197,2020,Acinetobacter baumannii,Enterobacterales,North America,Brazil,49,M,Blood,Hospital,1.0,4,0.5,0.5,32.0,0.5,4.0,8.0,0.25,2.0,2.0,64,64
+198,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,28,F,Urine,Hospital,32.0,8,0.06,0.5,32.0,8.0,0.5,4.0,16.0,0.5,8.0,32,4
+199,2020,Escherichia coli,Enterobacterales,North America,Japan,42,F,Blood,Hospital,64.0,4,8.0,1.0,4.0,8.0,0.5,0.5,0.12,0.25,4.0,16,1
+200,2023,Escherichia coli,Enterobacterales,North America,Brazil,82,M,Blood,Hospital,1.0,16,0.12,0.5,32.0,2.0,0.5,0.5,0.5,0.5,32.0,64,4
+201,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,35,M,Respiratory,Hospital,64.0,2,2.0,8.0,4.0,4.0,16.0,8.0,2.0,2.0,4.0,32,8
+202,2023,Acinetobacter baumannii,Enterobacterales,North America,India,29,M,Respiratory,Hospital,64.0,4,2.0,0.5,2.0,2.0,16.0,0.12,0.12,1.0,2.0,8,16
+203,2020,Escherichia coli,Enterobacterales,North America,Japan,63,M,Blood,Hospital,16.0,4,0.25,2.0,16.0,1.0,0.5,1.0,0.12,2.0,8.0,128,4
+204,2022,Escherichia coli,Enterobacterales,North America,Brazil,31,M,Respiratory,Hospital,0.5,32,0.06,8.0,8.0,2.0,0.5,0.12,0.06,0.5,8.0,4,64
+205,2020,Escherichia coli,Enterobacterales,North America,Brazil,79,M,Blood,Hospital,1.0,32,0.12,4.0,4.0,1.0,0.25,8.0,0.03,8.0,4.0,64,16
+206,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,75,F,Blood,Hospital,16.0,8,4.0,1.0,4.0,8.0,16.0,0.12,1.0,1.0,4.0,32,64
+207,2022,Escherichia coli,Enterobacterales,North America,India,83,M,Respiratory,Hospital,64.0,2,8.0,2.0,8.0,2.0,4.0,0.12,16.0,8.0,4.0,32,4
+208,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,79,F,Blood,Hospital,32.0,16,8.0,2.0,16.0,1.0,8.0,0.5,0.12,1.0,2.0,4,16
+209,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,34,M,Respiratory,Hospital,2.0,8,0.12,4.0,4.0,4.0,1.0,0.25,0.5,1.0,2.0,16,4
+210,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,32,M,Respiratory,Hospital,1.0,32,1.0,2.0,0.5,8.0,4.0,1.0,16.0,2.0,32.0,128,16
+211,2019,Acinetobacter baumannii,Enterobacterales,North America,Brazil,40,F,Blood,Hospital,64.0,4,0.06,1.0,0.5,1.0,0.25,0.5,4.0,0.5,8.0,8,32
+212,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,49,F,Blood,Hospital,1.0,32,2.0,4.0,1.0,16.0,4.0,0.5,0.03,0.5,0.5,64,4
+213,2022,Acinetobacter baumannii,Enterobacterales,North America,India,76,F,Respiratory,Hospital,2.0,32,0.25,8.0,4.0,2.0,4.0,1.0,1.0,1.0,32.0,128,64
+214,2020,Acinetobacter baumannii,Enterobacterales,North America,Japan,67,M,Urine,Hospital,64.0,4,2.0,2.0,8.0,4.0,1.0,1.0,0.06,4.0,8.0,128,64
+215,2022,Staphylococcus aureus,Enterobacterales,North America,United States,61,M,Urine,Hospital,8.0,16,2.0,0.5,16.0,16.0,4.0,8.0,0.12,0.25,0.5,32,64
+216,2019,Acinetobacter baumannii,Enterobacterales,North America,United States,76,M,Urine,Hospital,1.0,4,8.0,2.0,1.0,2.0,4.0,1.0,0.12,1.0,16.0,8,2
+217,2018,Pseudomonas aeruginosa,Enterobacterales,North America,India,61,M,Urine,Hospital,0.25,4,0.5,8.0,16.0,1.0,2.0,1.0,2.0,4.0,8.0,64,32
+218,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,43,F,Respiratory,Hospital,2.0,4,0.25,8.0,8.0,8.0,0.5,2.0,0.06,4.0,32.0,16,1
+219,2020,Klebsiella pneumoniae,Enterobacterales,North America,Japan,45,M,Urine,Hospital,64.0,16,0.5,2.0,0.5,0.5,0.25,0.25,0.12,1.0,4.0,32,1
+220,2023,Pseudomonas aeruginosa,Enterobacterales,North America,India,52,M,Blood,Hospital,2.0,4,0.06,0.5,2.0,2.0,16.0,2.0,0.12,0.25,4.0,64,64
+221,2018,Escherichia coli,Enterobacterales,North America,Brazil,23,F,Urine,Hospital,16.0,16,0.06,2.0,2.0,16.0,0.5,8.0,0.25,0.25,2.0,64,2
+222,2020,Staphylococcus aureus,Enterobacterales,North America,India,67,M,Respiratory,Hospital,1.0,8,0.5,8.0,32.0,2.0,1.0,0.5,2.0,1.0,2.0,8,64
+223,2022,Staphylococcus aureus,Enterobacterales,North America,Japan,61,M,Blood,Hospital,16.0,16,4.0,8.0,32.0,8.0,4.0,0.25,0.25,4.0,8.0,64,8
+224,2019,Escherichia coli,Enterobacterales,North America,Brazil,66,M,Urine,Hospital,16.0,32,0.5,0.5,16.0,4.0,0.5,0.5,0.25,0.25,16.0,32,4
+225,2022,Acinetobacter baumannii,Enterobacterales,North America,India,53,M,Respiratory,Hospital,8.0,2,4.0,1.0,4.0,1.0,1.0,0.25,1.0,8.0,32.0,128,1
+226,2019,Escherichia coli,Enterobacterales,North America,Japan,70,F,Urine,Hospital,16.0,32,0.06,2.0,4.0,1.0,4.0,2.0,2.0,4.0,16.0,32,16
+227,2022,Acinetobacter baumannii,Enterobacterales,North America,United States,81,F,Blood,Hospital,8.0,2,0.5,0.5,2.0,4.0,4.0,8.0,0.03,0.25,8.0,128,32
+228,2021,Escherichia coli,Enterobacterales,North America,Japan,56,F,Blood,Hospital,2.0,8,1.0,8.0,16.0,0.5,4.0,2.0,8.0,1.0,4.0,128,8
+229,2021,Pseudomonas aeruginosa,Enterobacterales,North America,United States,47,M,Urine,Hospital,16.0,4,0.25,0.5,0.5,2.0,0.25,0.12,16.0,0.5,2.0,128,32
+230,2019,Acinetobacter baumannii,Enterobacterales,North America,Germany,25,F,Urine,Hospital,32.0,16,0.03,4.0,1.0,2.0,2.0,0.5,2.0,8.0,16.0,64,4
+231,2020,Acinetobacter baumannii,Enterobacterales,North America,Japan,70,F,Respiratory,Hospital,32.0,16,0.03,8.0,0.5,16.0,2.0,2.0,1.0,2.0,2.0,32,8
+232,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,78,M,Urine,Hospital,0.5,32,8.0,4.0,4.0,0.5,4.0,0.5,2.0,0.5,1.0,4,4
+233,2018,Staphylococcus aureus,Enterobacterales,North America,Japan,64,F,Respiratory,Hospital,16.0,8,1.0,4.0,2.0,16.0,0.5,2.0,0.5,0.5,32.0,16,16
+234,2022,Acinetobacter baumannii,Enterobacterales,North America,Brazil,75,M,Blood,Hospital,0.25,32,0.12,1.0,1.0,2.0,0.5,2.0,0.25,2.0,8.0,16,1
+235,2020,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,75,F,Urine,Hospital,8.0,4,0.12,8.0,2.0,4.0,8.0,0.5,0.25,0.25,2.0,64,8
+236,2022,Acinetobacter baumannii,Enterobacterales,North America,Germany,71,F,Blood,Hospital,8.0,4,0.03,2.0,32.0,4.0,4.0,2.0,0.06,0.5,32.0,32,8
+237,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,51,M,Urine,Hospital,2.0,4,8.0,0.5,4.0,1.0,8.0,0.5,8.0,0.25,32.0,16,8
+238,2020,Klebsiella pneumoniae,Enterobacterales,North America,United States,24,M,Blood,Hospital,64.0,8,0.03,1.0,16.0,16.0,0.5,0.12,0.25,2.0,2.0,4,8
+239,2019,Acinetobacter baumannii,Enterobacterales,North America,Germany,18,M,Urine,Hospital,32.0,16,2.0,1.0,32.0,1.0,16.0,0.5,0.12,4.0,4.0,64,16
+240,2021,Staphylococcus aureus,Enterobacterales,North America,United States,31,F,Urine,Hospital,0.25,32,0.12,2.0,32.0,0.5,0.5,1.0,16.0,1.0,4.0,16,8
+241,2018,Staphylococcus aureus,Enterobacterales,North America,India,46,M,Blood,Hospital,0.5,4,0.25,1.0,2.0,8.0,4.0,0.12,1.0,0.25,8.0,4,2
+242,2021,Acinetobacter baumannii,Enterobacterales,North America,Brazil,67,F,Blood,Hospital,0.5,4,0.12,2.0,32.0,4.0,0.5,8.0,2.0,1.0,32.0,8,2
+243,2018,Acinetobacter baumannii,Enterobacterales,North America,Japan,48,M,Urine,Hospital,64.0,32,4.0,2.0,32.0,16.0,16.0,1.0,0.12,8.0,4.0,128,16
+244,2021,Klebsiella pneumoniae,Enterobacterales,North America,India,19,M,Respiratory,Hospital,4.0,8,0.03,1.0,32.0,2.0,1.0,0.12,0.12,0.5,16.0,4,64
+245,2021,Acinetobacter baumannii,Enterobacterales,North America,Japan,32,F,Blood,Hospital,16.0,4,0.25,4.0,2.0,0.5,8.0,8.0,4.0,0.25,8.0,16,32
+246,2018,Klebsiella pneumoniae,Enterobacterales,North America,Japan,83,F,Urine,Hospital,32.0,32,0.12,1.0,1.0,0.5,1.0,4.0,0.5,0.25,32.0,32,16
+247,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,84,F,Blood,Hospital,16.0,8,0.12,4.0,8.0,2.0,8.0,0.12,0.06,4.0,2.0,4,64
+248,2020,Klebsiella pneumoniae,Enterobacterales,North America,India,43,M,Respiratory,Hospital,0.25,32,0.06,1.0,32.0,1.0,2.0,0.25,8.0,0.25,2.0,4,64
+249,2022,Klebsiella pneumoniae,Enterobacterales,North America,Germany,71,M,Urine,Hospital,0.5,32,8.0,8.0,32.0,16.0,0.25,0.5,0.5,2.0,2.0,128,8
+250,2018,Escherichia coli,Enterobacterales,North America,Japan,66,M,Respiratory,Hospital,2.0,32,0.25,1.0,4.0,0.5,0.5,1.0,2.0,8.0,32.0,32,1
+251,2019,Staphylococcus aureus,Enterobacterales,North America,Germany,80,F,Blood,Hospital,2.0,8,0.25,0.5,1.0,16.0,4.0,4.0,0.25,2.0,8.0,8,16
+252,2020,Escherichia coli,Enterobacterales,North America,India,77,F,Blood,Hospital,16.0,16,0.25,0.5,2.0,1.0,0.5,0.5,1.0,1.0,1.0,8,16
+253,2019,Escherichia coli,Enterobacterales,North America,United States,60,M,Urine,Hospital,0.5,32,8.0,8.0,8.0,0.5,0.5,2.0,4.0,0.5,0.5,16,2
+254,2019,Staphylococcus aureus,Enterobacterales,North America,Brazil,44,F,Urine,Hospital,2.0,4,0.25,8.0,4.0,1.0,2.0,0.12,8.0,0.25,4.0,64,32
+255,2021,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,59,M,Respiratory,Hospital,1.0,2,0.25,1.0,2.0,0.5,0.5,2.0,0.12,0.25,16.0,64,64
+256,2018,Pseudomonas aeruginosa,Enterobacterales,North America,United States,39,F,Respiratory,Hospital,0.5,4,0.12,4.0,2.0,2.0,0.25,8.0,2.0,8.0,4.0,8,4
+257,2022,Acinetobacter baumannii,Enterobacterales,North America,Germany,41,F,Respiratory,Hospital,0.5,16,0.12,2.0,0.5,1.0,4.0,1.0,16.0,0.25,4.0,64,8
+258,2018,Klebsiella pneumoniae,Enterobacterales,North America,India,58,F,Urine,Hospital,0.5,8,0.03,0.5,2.0,4.0,4.0,1.0,2.0,0.25,16.0,128,2
+259,2019,Escherichia coli,Enterobacterales,North America,India,56,M,Urine,Hospital,8.0,2,1.0,2.0,8.0,4.0,8.0,0.5,0.06,4.0,4.0,8,2
+260,2021,Acinetobacter baumannii,Enterobacterales,North America,Japan,56,F,Urine,Hospital,2.0,8,0.03,4.0,1.0,0.5,16.0,8.0,0.06,1.0,32.0,4,2
+261,2022,Escherichia coli,Enterobacterales,North America,Germany,43,M,Blood,Hospital,2.0,2,0.12,8.0,32.0,0.5,0.25,0.12,0.12,1.0,8.0,128,4
+262,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,45,F,Urine,Hospital,4.0,8,0.06,8.0,0.5,0.5,1.0,0.5,0.06,4.0,16.0,32,2
+263,2019,Staphylococcus aureus,Enterobacterales,North America,India,18,M,Urine,Hospital,16.0,8,0.12,0.5,8.0,1.0,0.5,0.12,4.0,2.0,16.0,64,2
+264,2023,Staphylococcus aureus,Enterobacterales,North America,Japan,58,F,Blood,Hospital,32.0,16,2.0,1.0,4.0,0.5,16.0,8.0,16.0,8.0,8.0,8,8
+265,2023,Klebsiella pneumoniae,Enterobacterales,North America,Germany,56,M,Blood,Hospital,4.0,8,1.0,2.0,16.0,1.0,2.0,1.0,1.0,1.0,0.5,8,16
+266,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,80,M,Urine,Hospital,8.0,8,8.0,0.5,32.0,4.0,0.25,8.0,1.0,4.0,2.0,8,4
+267,2020,Acinetobacter baumannii,Enterobacterales,North America,United States,51,F,Urine,Hospital,16.0,16,0.25,2.0,4.0,1.0,4.0,2.0,4.0,8.0,0.5,8,8
+268,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,49,F,Respiratory,Hospital,16.0,16,8.0,0.5,8.0,1.0,0.25,1.0,0.5,1.0,4.0,16,2
+269,2021,Escherichia coli,Enterobacterales,North America,Japan,22,M,Urine,Hospital,0.5,32,0.03,0.5,8.0,2.0,0.5,1.0,0.5,0.5,1.0,4,16
+270,2021,Klebsiella pneumoniae,Enterobacterales,North America,United States,31,F,Respiratory,Hospital,64.0,4,0.5,0.5,4.0,4.0,8.0,0.25,1.0,8.0,4.0,128,16
+271,2019,Acinetobacter baumannii,Enterobacterales,North America,Germany,40,M,Urine,Hospital,0.5,8,4.0,1.0,1.0,1.0,2.0,1.0,0.25,0.5,2.0,32,64
+272,2018,Staphylococcus aureus,Enterobacterales,North America,United States,43,M,Blood,Hospital,2.0,4,0.5,4.0,4.0,1.0,8.0,2.0,0.03,0.25,0.5,128,1
+273,2018,Escherichia coli,Enterobacterales,North America,Japan,42,M,Blood,Hospital,8.0,8,8.0,0.5,1.0,2.0,2.0,8.0,1.0,2.0,0.5,32,32
+274,2023,Acinetobacter baumannii,Enterobacterales,North America,Brazil,44,M,Respiratory,Hospital,2.0,2,0.12,8.0,4.0,0.5,8.0,1.0,8.0,8.0,4.0,8,4
+275,2020,Staphylococcus aureus,Enterobacterales,North America,Brazil,69,M,Urine,Hospital,1.0,8,0.03,1.0,8.0,2.0,2.0,8.0,0.03,0.25,0.5,32,1
+276,2020,Staphylococcus aureus,Enterobacterales,North America,Brazil,26,M,Blood,Hospital,64.0,2,2.0,0.5,1.0,16.0,0.25,8.0,0.12,8.0,16.0,4,16
+277,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,40,M,Urine,Hospital,0.25,8,0.03,1.0,1.0,2.0,0.25,1.0,0.12,4.0,16.0,64,2
+278,2022,Escherichia coli,Enterobacterales,North America,Brazil,28,M,Respiratory,Hospital,1.0,32,2.0,4.0,16.0,0.5,8.0,1.0,8.0,8.0,8.0,64,2
+279,2018,Klebsiella pneumoniae,Enterobacterales,North America,United States,38,M,Urine,Hospital,64.0,32,2.0,0.5,2.0,8.0,0.25,0.12,1.0,1.0,1.0,4,64
+280,2018,Staphylococcus aureus,Enterobacterales,North America,Japan,63,F,Blood,Hospital,16.0,8,4.0,0.5,1.0,0.5,1.0,0.25,1.0,0.5,16.0,32,2
+281,2019,Staphylococcus aureus,Enterobacterales,North America,Brazil,21,F,Blood,Hospital,0.25,2,0.5,8.0,8.0,1.0,0.25,8.0,2.0,2.0,8.0,32,8
+282,2020,Acinetobacter baumannii,Enterobacterales,North America,Brazil,40,M,Respiratory,Hospital,16.0,4,8.0,2.0,16.0,0.5,1.0,0.12,0.12,0.25,2.0,8,2
+283,2022,Escherichia coli,Enterobacterales,North America,Germany,19,M,Respiratory,Hospital,64.0,2,0.06,1.0,16.0,16.0,4.0,0.5,4.0,8.0,0.5,4,1
+284,2020,Escherichia coli,Enterobacterales,North America,Japan,81,F,Respiratory,Hospital,0.25,16,0.25,4.0,16.0,16.0,0.5,2.0,0.03,2.0,4.0,64,1
+285,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,66,F,Respiratory,Hospital,2.0,32,0.06,8.0,32.0,4.0,2.0,0.25,0.06,1.0,16.0,8,1
+286,2023,Pseudomonas aeruginosa,Enterobacterales,North America,United States,34,F,Blood,Hospital,4.0,8,2.0,1.0,8.0,4.0,16.0,8.0,8.0,2.0,0.5,32,8
+287,2018,Escherichia coli,Enterobacterales,North America,Japan,31,F,Blood,Hospital,0.5,2,2.0,2.0,2.0,4.0,0.25,2.0,2.0,4.0,0.5,8,8
+288,2021,Acinetobacter baumannii,Enterobacterales,North America,Germany,24,F,Blood,Hospital,0.5,2,4.0,0.5,32.0,4.0,0.25,0.12,0.06,2.0,2.0,32,1
+289,2021,Pseudomonas aeruginosa,Enterobacterales,North America,United States,49,F,Blood,Hospital,0.5,32,2.0,1.0,1.0,4.0,0.5,0.25,0.5,8.0,4.0,4,4
+290,2020,Escherichia coli,Enterobacterales,North America,Brazil,68,M,Respiratory,Hospital,0.5,4,0.12,2.0,2.0,16.0,8.0,4.0,0.03,8.0,4.0,16,2
+291,2022,Escherichia coli,Enterobacterales,North America,Germany,57,M,Respiratory,Hospital,2.0,2,0.03,0.5,16.0,8.0,1.0,8.0,2.0,8.0,2.0,32,8
+292,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,77,M,Blood,Hospital,4.0,2,8.0,8.0,32.0,0.5,4.0,8.0,4.0,2.0,1.0,16,64
+293,2023,Acinetobacter baumannii,Enterobacterales,North America,India,41,M,Respiratory,Hospital,1.0,4,0.5,8.0,2.0,2.0,0.25,4.0,0.12,4.0,0.5,32,16
+294,2019,Staphylococcus aureus,Enterobacterales,North America,United States,36,F,Urine,Hospital,1.0,16,0.03,1.0,16.0,16.0,8.0,0.12,0.25,0.5,0.5,8,64
+295,2021,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,50,F,Blood,Hospital,0.5,32,8.0,1.0,32.0,2.0,0.25,4.0,0.12,0.25,0.5,16,2
+296,2021,Klebsiella pneumoniae,Enterobacterales,North America,India,31,F,Respiratory,Hospital,32.0,4,8.0,0.5,16.0,1.0,4.0,0.12,0.25,1.0,8.0,64,2
+297,2023,Staphylococcus aureus,Enterobacterales,North America,Germany,83,M,Respiratory,Hospital,0.5,16,0.5,2.0,0.5,16.0,0.5,0.12,0.12,8.0,16.0,16,32
+298,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,30,M,Urine,Hospital,64.0,2,2.0,0.5,8.0,4.0,16.0,2.0,0.12,0.25,4.0,4,4
+299,2019,Klebsiella pneumoniae,Enterobacterales,North America,India,50,M,Respiratory,Hospital,4.0,2,0.03,1.0,1.0,4.0,1.0,1.0,0.5,2.0,0.5,128,32
+300,2018,Pseudomonas aeruginosa,Enterobacterales,North America,United States,52,F,Urine,Hospital,32.0,2,0.03,2.0,16.0,2.0,0.5,2.0,8.0,0.5,2.0,64,8
+301,2020,Escherichia coli,Enterobacterales,North America,Brazil,21,M,Respiratory,Hospital,8.0,32,0.12,4.0,0.5,0.5,1.0,4.0,4.0,1.0,32.0,64,2
+302,2022,Klebsiella pneumoniae,Enterobacterales,North America,India,49,M,Urine,Hospital,1.0,8,1.0,2.0,32.0,2.0,0.25,0.12,0.12,0.25,1.0,64,32
+303,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,48,F,Respiratory,Hospital,8.0,32,0.06,1.0,1.0,2.0,0.5,1.0,16.0,4.0,4.0,64,8
+304,2023,Staphylococcus aureus,Enterobacterales,North America,Japan,35,F,Blood,Hospital,1.0,2,0.03,4.0,2.0,16.0,4.0,4.0,0.12,4.0,4.0,64,32
+305,2021,Acinetobacter baumannii,Enterobacterales,North America,Brazil,26,F,Blood,Hospital,0.5,2,2.0,4.0,1.0,1.0,1.0,1.0,16.0,4.0,2.0,32,8
+306,2018,Acinetobacter baumannii,Enterobacterales,North America,Brazil,21,M,Respiratory,Hospital,1.0,32,2.0,4.0,16.0,0.5,1.0,1.0,0.25,4.0,4.0,4,1
+307,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,18,M,Blood,Hospital,1.0,2,2.0,2.0,2.0,2.0,8.0,1.0,1.0,0.5,4.0,32,16
+308,2021,Escherichia coli,Enterobacterales,North America,Germany,50,M,Blood,Hospital,0.5,2,4.0,8.0,16.0,16.0,0.25,8.0,0.12,2.0,4.0,8,1
+309,2019,Klebsiella pneumoniae,Enterobacterales,North America,India,24,M,Respiratory,Hospital,0.25,8,4.0,1.0,0.5,2.0,1.0,0.12,4.0,0.25,16.0,64,16
+310,2018,Staphylococcus aureus,Enterobacterales,North America,Japan,82,F,Blood,Hospital,64.0,16,1.0,8.0,4.0,2.0,0.5,8.0,0.25,1.0,8.0,16,4
+311,2021,Escherichia coli,Enterobacterales,North America,India,34,M,Urine,Hospital,4.0,4,0.5,1.0,32.0,8.0,2.0,4.0,8.0,2.0,0.5,128,32
+312,2022,Staphylococcus aureus,Enterobacterales,North America,Germany,61,M,Blood,Hospital,2.0,8,4.0,1.0,32.0,4.0,1.0,4.0,0.03,4.0,0.5,32,64
+313,2018,Acinetobacter baumannii,Enterobacterales,North America,Brazil,63,F,Blood,Hospital,64.0,16,0.25,2.0,1.0,1.0,0.25,0.5,1.0,0.25,2.0,32,4
+314,2019,Klebsiella pneumoniae,Enterobacterales,North America,Japan,51,M,Respiratory,Hospital,1.0,8,0.03,2.0,2.0,16.0,0.25,1.0,0.06,4.0,32.0,128,64
+315,2019,Acinetobacter baumannii,Enterobacterales,North America,Japan,77,M,Blood,Hospital,2.0,4,2.0,4.0,2.0,4.0,8.0,0.5,8.0,1.0,0.5,16,1
+316,2021,Staphylococcus aureus,Enterobacterales,North America,Germany,25,M,Blood,Hospital,32.0,2,0.12,1.0,4.0,0.5,0.25,0.25,0.5,8.0,0.5,16,1
+317,2022,Escherichia coli,Enterobacterales,North America,Brazil,33,M,Respiratory,Hospital,8.0,8,8.0,8.0,4.0,2.0,8.0,8.0,2.0,2.0,8.0,16,64
+318,2022,Escherichia coli,Enterobacterales,North America,India,34,M,Respiratory,Hospital,2.0,32,0.25,1.0,0.5,16.0,16.0,1.0,8.0,2.0,4.0,128,16
+319,2023,Acinetobacter baumannii,Enterobacterales,North America,India,27,F,Blood,Hospital,1.0,16,4.0,2.0,16.0,2.0,2.0,4.0,1.0,4.0,1.0,64,8
+320,2022,Staphylococcus aureus,Enterobacterales,North America,Germany,37,F,Respiratory,Hospital,0.25,32,0.03,8.0,1.0,4.0,1.0,0.12,0.03,4.0,1.0,4,2
+321,2019,Escherichia coli,Enterobacterales,North America,United States,38,M,Urine,Hospital,0.25,2,1.0,2.0,2.0,4.0,8.0,4.0,0.12,0.25,8.0,16,4
+322,2018,Acinetobacter baumannii,Enterobacterales,North America,Germany,69,M,Respiratory,Hospital,0.5,2,0.5,4.0,16.0,8.0,16.0,2.0,0.12,2.0,4.0,16,16
+323,2021,Escherichia coli,Enterobacterales,North America,India,38,M,Blood,Hospital,32.0,8,0.5,8.0,8.0,16.0,0.25,8.0,16.0,0.25,8.0,32,32
+324,2023,Acinetobacter baumannii,Enterobacterales,North America,Japan,76,F,Respiratory,Hospital,8.0,2,0.12,8.0,2.0,0.5,16.0,0.12,16.0,1.0,1.0,4,64
+325,2023,Acinetobacter baumannii,Enterobacterales,North America,Japan,69,F,Urine,Hospital,2.0,8,8.0,2.0,32.0,4.0,16.0,1.0,0.5,4.0,4.0,64,4
+326,2019,Escherichia coli,Enterobacterales,North America,United States,78,F,Respiratory,Hospital,32.0,32,0.25,2.0,2.0,4.0,0.25,1.0,8.0,8.0,32.0,64,8
+327,2019,Acinetobacter baumannii,Enterobacterales,North America,Brazil,25,M,Urine,Hospital,0.5,4,4.0,0.5,4.0,0.5,0.25,1.0,0.12,0.5,2.0,8,2
+328,2018,Staphylococcus aureus,Enterobacterales,North America,United States,83,M,Respiratory,Hospital,0.5,8,0.25,2.0,1.0,8.0,8.0,0.12,2.0,1.0,2.0,4,1
+329,2018,Staphylococcus aureus,Enterobacterales,North America,Brazil,59,M,Urine,Hospital,2.0,16,0.03,8.0,1.0,0.5,0.25,1.0,0.25,2.0,1.0,32,8
+330,2021,Escherichia coli,Enterobacterales,North America,Germany,83,M,Blood,Hospital,64.0,2,4.0,2.0,4.0,2.0,4.0,0.5,0.12,1.0,8.0,8,16
+331,2021,Klebsiella pneumoniae,Enterobacterales,North America,India,41,M,Respiratory,Hospital,8.0,32,0.06,1.0,4.0,1.0,0.25,2.0,0.12,0.5,0.5,128,1
+332,2020,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,81,F,Respiratory,Hospital,32.0,4,0.12,0.5,16.0,0.5,4.0,0.25,0.5,0.5,1.0,64,4
+333,2019,Pseudomonas aeruginosa,Enterobacterales,North America,India,57,M,Blood,Hospital,1.0,32,4.0,1.0,2.0,8.0,0.5,1.0,0.25,1.0,8.0,128,16
+334,2022,Escherichia coli,Enterobacterales,North America,Japan,22,F,Urine,Hospital,32.0,16,8.0,1.0,32.0,1.0,0.25,2.0,0.12,2.0,0.5,32,32
+335,2020,Staphylococcus aureus,Enterobacterales,North America,India,45,F,Urine,Hospital,0.25,2,8.0,8.0,8.0,1.0,0.25,0.12,0.25,8.0,32.0,128,64
+336,2022,Acinetobacter baumannii,Enterobacterales,North America,Japan,27,F,Urine,Hospital,1.0,16,0.25,2.0,0.5,16.0,0.5,4.0,0.06,2.0,2.0,4,4
+337,2023,Staphylococcus aureus,Enterobacterales,North America,Brazil,81,M,Respiratory,Hospital,4.0,2,2.0,0.5,16.0,16.0,2.0,4.0,16.0,1.0,2.0,8,4
+338,2019,Escherichia coli,Enterobacterales,North America,Germany,38,F,Respiratory,Hospital,0.25,8,0.12,0.5,8.0,0.5,0.25,0.12,0.25,2.0,4.0,4,64
+339,2019,Escherichia coli,Enterobacterales,North America,Brazil,32,M,Blood,Hospital,32.0,32,2.0,8.0,2.0,1.0,8.0,0.12,0.06,4.0,8.0,64,16
+340,2023,Staphylococcus aureus,Enterobacterales,North America,India,55,M,Respiratory,Hospital,32.0,32,0.5,8.0,4.0,8.0,4.0,4.0,1.0,1.0,4.0,32,2
+341,2021,Klebsiella pneumoniae,Enterobacterales,North America,India,46,M,Urine,Hospital,4.0,32,0.03,4.0,2.0,8.0,1.0,0.25,8.0,1.0,32.0,8,16
+342,2019,Acinetobacter baumannii,Enterobacterales,North America,United States,24,M,Respiratory,Hospital,1.0,8,0.25,0.5,8.0,16.0,16.0,8.0,0.25,0.5,32.0,8,2
+343,2021,Staphylococcus aureus,Enterobacterales,North America,United States,72,F,Respiratory,Hospital,0.25,8,0.5,0.5,4.0,4.0,4.0,1.0,8.0,8.0,1.0,32,8
+344,2021,Escherichia coli,Enterobacterales,North America,India,74,F,Urine,Hospital,8.0,4,0.12,0.5,4.0,0.5,4.0,0.5,2.0,8.0,8.0,8,4
+345,2023,Escherichia coli,Enterobacterales,North America,United States,67,F,Urine,Hospital,4.0,32,0.25,4.0,1.0,16.0,0.5,0.25,4.0,0.5,2.0,32,64
+346,2019,Escherichia coli,Enterobacterales,North America,Japan,59,M,Urine,Hospital,16.0,8,0.5,4.0,2.0,0.5,4.0,2.0,0.12,1.0,32.0,32,1
+347,2023,Escherichia coli,Enterobacterales,North America,Japan,44,M,Respiratory,Hospital,8.0,16,0.03,8.0,4.0,0.5,2.0,0.12,0.03,0.5,1.0,8,32
+348,2023,Escherichia coli,Enterobacterales,North America,Brazil,54,F,Urine,Hospital,0.5,4,0.06,0.5,4.0,8.0,16.0,0.5,0.25,8.0,2.0,8,2
+349,2019,Staphylococcus aureus,Enterobacterales,North America,Brazil,52,M,Blood,Hospital,0.5,16,2.0,0.5,2.0,4.0,2.0,0.5,16.0,0.25,8.0,16,1
+350,2018,Acinetobacter baumannii,Enterobacterales,North America,India,29,F,Urine,Hospital,32.0,4,0.25,8.0,8.0,0.5,4.0,0.25,4.0,0.5,16.0,32,16
+351,2021,Staphylococcus aureus,Enterobacterales,North America,United States,23,F,Blood,Hospital,0.5,16,1.0,8.0,1.0,1.0,1.0,0.5,4.0,0.5,0.5,8,16
+352,2018,Staphylococcus aureus,Enterobacterales,North America,Germany,34,F,Urine,Hospital,64.0,2,1.0,4.0,4.0,4.0,0.25,1.0,8.0,2.0,4.0,16,1
+353,2019,Staphylococcus aureus,Enterobacterales,North America,India,48,F,Blood,Hospital,0.25,2,0.5,0.5,0.5,1.0,0.25,2.0,0.25,0.5,2.0,32,1
+354,2020,Klebsiella pneumoniae,Enterobacterales,North America,Japan,28,M,Blood,Hospital,16.0,4,0.25,0.5,4.0,8.0,16.0,0.12,0.25,2.0,8.0,8,1
+355,2023,Klebsiella pneumoniae,Enterobacterales,North America,Germany,25,M,Respiratory,Hospital,64.0,8,0.5,0.5,16.0,2.0,8.0,8.0,16.0,4.0,4.0,32,4
+356,2023,Staphylococcus aureus,Enterobacterales,North America,India,75,M,Blood,Hospital,2.0,16,4.0,4.0,16.0,4.0,1.0,8.0,1.0,4.0,32.0,4,1
+357,2018,Klebsiella pneumoniae,Enterobacterales,North America,Germany,43,M,Urine,Hospital,0.25,4,8.0,8.0,8.0,2.0,4.0,2.0,0.12,0.25,32.0,4,16
+358,2023,Escherichia coli,Enterobacterales,North America,United States,57,M,Respiratory,Hospital,32.0,2,0.12,4.0,16.0,2.0,0.25,8.0,0.12,0.25,8.0,8,1
+359,2018,Acinetobacter baumannii,Enterobacterales,North America,United States,53,F,Respiratory,Hospital,0.5,4,2.0,1.0,0.5,2.0,0.25,0.5,8.0,0.25,8.0,8,32
+360,2022,Staphylococcus aureus,Enterobacterales,North America,Germany,67,M,Urine,Hospital,4.0,8,8.0,4.0,2.0,8.0,2.0,4.0,0.03,8.0,32.0,4,64
+361,2023,Staphylococcus aureus,Enterobacterales,North America,United States,67,F,Blood,Hospital,64.0,8,0.03,0.5,8.0,4.0,4.0,4.0,0.03,2.0,1.0,128,32
+362,2023,Staphylococcus aureus,Enterobacterales,North America,United States,37,F,Respiratory,Hospital,16.0,16,4.0,8.0,16.0,4.0,16.0,1.0,4.0,2.0,16.0,8,64
+363,2019,Escherichia coli,Enterobacterales,North America,Germany,74,F,Respiratory,Hospital,0.25,4,0.5,8.0,8.0,4.0,8.0,0.25,0.03,4.0,16.0,64,64
+364,2023,Acinetobacter baumannii,Enterobacterales,North America,Germany,42,M,Urine,Hospital,32.0,16,8.0,4.0,16.0,1.0,0.5,1.0,0.06,2.0,0.5,128,1
+365,2018,Staphylococcus aureus,Enterobacterales,North America,India,73,F,Blood,Hospital,0.5,16,1.0,8.0,1.0,16.0,8.0,8.0,16.0,0.5,32.0,64,4
+366,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,45,M,Blood,Hospital,16.0,16,4.0,2.0,1.0,4.0,2.0,8.0,0.5,2.0,8.0,64,32
+367,2020,Staphylococcus aureus,Enterobacterales,North America,Germany,25,M,Blood,Hospital,8.0,8,0.06,2.0,0.5,8.0,8.0,1.0,4.0,4.0,2.0,4,4
+368,2019,Staphylococcus aureus,Enterobacterales,North America,India,68,M,Blood,Hospital,1.0,32,0.06,1.0,8.0,16.0,0.5,0.25,0.5,0.25,4.0,16,32
+369,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,20,M,Respiratory,Hospital,2.0,4,8.0,8.0,8.0,16.0,0.25,4.0,0.03,2.0,4.0,64,32
+370,2022,Escherichia coli,Enterobacterales,North America,Brazil,69,M,Blood,Hospital,0.5,16,0.5,4.0,1.0,8.0,0.25,0.12,0.06,1.0,32.0,32,64
+371,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,20,M,Blood,Hospital,64.0,2,1.0,0.5,16.0,8.0,16.0,0.25,4.0,0.25,32.0,4,4
+372,2021,Klebsiella pneumoniae,Enterobacterales,North America,Germany,31,F,Respiratory,Hospital,1.0,2,0.06,8.0,16.0,2.0,0.25,1.0,0.03,0.5,16.0,32,4
+373,2020,Escherichia coli,Enterobacterales,North America,India,58,M,Respiratory,Hospital,1.0,32,0.12,0.5,2.0,8.0,16.0,8.0,1.0,1.0,8.0,64,1
+374,2020,Escherichia coli,Enterobacterales,North America,India,81,M,Blood,Hospital,4.0,8,4.0,2.0,1.0,1.0,8.0,0.5,0.25,1.0,0.5,64,2
+375,2023,Acinetobacter baumannii,Enterobacterales,North America,Japan,45,F,Urine,Hospital,16.0,16,0.12,0.5,16.0,8.0,0.5,1.0,0.25,0.5,32.0,16,2
+376,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,26,F,Urine,Hospital,4.0,16,1.0,4.0,8.0,0.5,16.0,0.5,16.0,2.0,0.5,8,8
+377,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,33,F,Urine,Hospital,4.0,16,0.12,2.0,1.0,16.0,0.5,1.0,2.0,1.0,1.0,8,4
+378,2022,Acinetobacter baumannii,Enterobacterales,North America,Brazil,78,M,Respiratory,Hospital,8.0,4,0.12,2.0,1.0,1.0,0.5,0.12,2.0,1.0,0.5,8,32
+379,2020,Pseudomonas aeruginosa,Enterobacterales,North America,India,66,F,Respiratory,Hospital,32.0,2,0.06,4.0,4.0,4.0,4.0,2.0,0.25,4.0,32.0,16,32
+380,2019,Acinetobacter baumannii,Enterobacterales,North America,India,24,F,Respiratory,Hospital,2.0,2,8.0,4.0,4.0,0.5,1.0,2.0,0.25,0.25,4.0,8,32
+381,2018,Escherichia coli,Enterobacterales,North America,Japan,43,M,Blood,Hospital,32.0,32,8.0,1.0,1.0,0.5,1.0,0.5,2.0,1.0,1.0,16,1
+382,2023,Staphylococcus aureus,Enterobacterales,North America,Germany,35,M,Blood,Hospital,32.0,4,0.06,8.0,32.0,16.0,0.5,0.25,0.03,0.25,0.5,4,8
+383,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,29,F,Urine,Hospital,64.0,8,0.25,2.0,2.0,16.0,4.0,4.0,0.12,8.0,2.0,8,32
+384,2019,Escherichia coli,Enterobacterales,North America,Japan,74,M,Blood,Hospital,64.0,8,1.0,0.5,2.0,1.0,0.25,0.25,2.0,0.5,16.0,8,2
+385,2018,Staphylococcus aureus,Enterobacterales,North America,Germany,59,M,Urine,Hospital,32.0,2,0.25,0.5,0.5,0.5,0.5,0.12,2.0,4.0,32.0,4,4
+386,2018,Acinetobacter baumannii,Enterobacterales,North America,Germany,30,F,Blood,Hospital,1.0,8,2.0,1.0,32.0,8.0,2.0,0.12,0.03,0.5,4.0,128,32
+387,2018,Escherichia coli,Enterobacterales,North America,India,61,F,Respiratory,Hospital,16.0,2,0.12,4.0,1.0,16.0,2.0,8.0,4.0,0.5,8.0,64,32
+388,2022,Escherichia coli,Enterobacterales,North America,Germany,45,F,Blood,Hospital,16.0,2,0.03,2.0,32.0,1.0,4.0,0.5,1.0,2.0,16.0,128,32
+389,2023,Escherichia coli,Enterobacterales,North America,Japan,22,F,Blood,Hospital,1.0,2,0.25,1.0,4.0,4.0,0.5,0.12,0.12,4.0,32.0,32,8
+390,2018,Klebsiella pneumoniae,Enterobacterales,North America,Japan,48,F,Blood,Hospital,16.0,32,1.0,2.0,32.0,1.0,4.0,8.0,4.0,0.5,1.0,4,4
+391,2022,Escherichia coli,Enterobacterales,North America,Germany,30,M,Blood,Hospital,1.0,8,0.06,8.0,1.0,8.0,8.0,0.25,16.0,0.5,32.0,128,4
+392,2019,Acinetobacter baumannii,Enterobacterales,North America,India,34,M,Urine,Hospital,4.0,32,4.0,2.0,1.0,2.0,1.0,0.5,0.5,8.0,4.0,16,16
+393,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,76,F,Urine,Hospital,32.0,8,0.03,0.5,16.0,0.5,0.5,0.12,0.12,0.5,32.0,64,4
+394,2021,Staphylococcus aureus,Enterobacterales,North America,Brazil,65,M,Respiratory,Hospital,0.5,4,0.03,0.5,16.0,1.0,2.0,2.0,0.12,0.5,0.5,16,4
+395,2022,Acinetobacter baumannii,Enterobacterales,North America,Germany,26,M,Blood,Hospital,2.0,16,0.5,2.0,4.0,4.0,4.0,2.0,1.0,4.0,0.5,16,2
+396,2023,Acinetobacter baumannii,Enterobacterales,North America,India,75,F,Urine,Hospital,32.0,32,0.5,2.0,0.5,8.0,0.25,4.0,0.03,0.25,32.0,16,8
+397,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,56,F,Urine,Hospital,4.0,8,0.12,8.0,32.0,0.5,2.0,0.25,0.5,8.0,8.0,8,2
+398,2019,Escherichia coli,Enterobacterales,North America,Brazil,76,M,Urine,Hospital,64.0,2,0.12,2.0,2.0,16.0,0.5,0.5,0.03,8.0,1.0,32,8
+399,2019,Escherichia coli,Enterobacterales,North America,United States,68,M,Respiratory,Hospital,0.25,4,0.03,4.0,32.0,4.0,2.0,8.0,0.03,8.0,32.0,64,64
+400,2019,Acinetobacter baumannii,Enterobacterales,North America,Germany,40,F,Blood,Hospital,16.0,32,1.0,2.0,32.0,16.0,16.0,4.0,0.5,0.5,0.5,4,32
+401,2023,Escherichia coli,Enterobacterales,North America,Japan,53,M,Urine,Hospital,32.0,8,0.25,1.0,16.0,16.0,2.0,0.12,4.0,0.25,8.0,4,8
+402,2022,Escherichia coli,Enterobacterales,North America,Germany,53,F,Respiratory,Hospital,64.0,32,0.06,4.0,8.0,0.5,8.0,2.0,8.0,1.0,1.0,128,64
+403,2019,Klebsiella pneumoniae,Enterobacterales,North America,Germany,66,F,Respiratory,Hospital,0.5,8,0.25,4.0,8.0,0.5,1.0,4.0,0.03,1.0,0.5,32,64
+404,2023,Staphylococcus aureus,Enterobacterales,North America,Germany,34,F,Urine,Hospital,64.0,2,8.0,4.0,4.0,8.0,16.0,1.0,0.12,8.0,16.0,128,8
+405,2020,Pseudomonas aeruginosa,Enterobacterales,North America,United States,40,M,Urine,Hospital,2.0,32,0.12,0.5,0.5,1.0,8.0,2.0,0.5,2.0,16.0,32,32
+406,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,34,F,Respiratory,Hospital,2.0,16,8.0,4.0,2.0,0.5,16.0,0.12,1.0,8.0,0.5,32,4
+407,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,37,M,Urine,Hospital,2.0,16,0.12,1.0,16.0,2.0,8.0,0.12,16.0,4.0,0.5,128,64
+408,2018,Escherichia coli,Enterobacterales,North America,Japan,28,F,Respiratory,Hospital,8.0,32,0.06,4.0,16.0,16.0,4.0,0.12,2.0,4.0,8.0,32,4
+409,2023,Klebsiella pneumoniae,Enterobacterales,North America,United States,20,M,Blood,Hospital,8.0,2,0.12,4.0,4.0,8.0,2.0,0.25,1.0,0.25,0.5,8,2
+410,2018,Escherichia coli,Enterobacterales,North America,Germany,80,M,Urine,Hospital,4.0,32,0.12,4.0,8.0,4.0,16.0,8.0,0.03,0.25,16.0,32,1
+411,2019,Acinetobacter baumannii,Enterobacterales,North America,United States,22,F,Blood,Hospital,0.25,4,0.06,8.0,0.5,1.0,8.0,2.0,0.03,0.25,32.0,8,32
+412,2019,Escherichia coli,Enterobacterales,North America,India,77,M,Blood,Hospital,64.0,32,1.0,2.0,4.0,2.0,1.0,4.0,0.06,2.0,16.0,16,4
+413,2019,Klebsiella pneumoniae,Enterobacterales,North America,Germany,18,F,Urine,Hospital,0.5,2,0.25,0.5,4.0,8.0,0.25,0.5,2.0,0.5,1.0,64,32
+414,2018,Staphylococcus aureus,Enterobacterales,North America,Brazil,70,F,Blood,Hospital,0.25,8,2.0,4.0,32.0,0.5,0.25,8.0,0.25,8.0,1.0,4,1
+415,2018,Pseudomonas aeruginosa,Enterobacterales,North America,India,40,M,Urine,Hospital,8.0,16,0.5,4.0,2.0,4.0,0.5,0.25,0.12,0.25,8.0,64,8
+416,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,52,M,Urine,Hospital,2.0,2,0.25,0.5,1.0,0.5,0.25,8.0,2.0,8.0,0.5,32,4
+417,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,36,F,Urine,Hospital,8.0,2,0.5,0.5,2.0,1.0,0.5,0.12,8.0,4.0,4.0,8,8
+418,2018,Acinetobacter baumannii,Enterobacterales,North America,India,50,M,Respiratory,Hospital,32.0,32,0.06,1.0,1.0,1.0,0.25,0.12,0.5,0.25,4.0,4,2
+419,2019,Klebsiella pneumoniae,Enterobacterales,North America,Japan,48,M,Respiratory,Hospital,0.25,2,2.0,8.0,4.0,8.0,16.0,0.12,8.0,0.25,16.0,64,1
+420,2021,Acinetobacter baumannii,Enterobacterales,North America,India,53,M,Urine,Hospital,1.0,16,0.03,2.0,8.0,16.0,0.25,4.0,4.0,1.0,1.0,64,4
+421,2023,Staphylococcus aureus,Enterobacterales,North America,Japan,44,M,Blood,Hospital,4.0,32,2.0,8.0,16.0,0.5,4.0,0.25,4.0,1.0,16.0,64,8
+422,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,53,F,Respiratory,Hospital,32.0,16,8.0,8.0,32.0,8.0,1.0,1.0,8.0,0.5,8.0,16,32
+423,2022,Pseudomonas aeruginosa,Enterobacterales,North America,India,73,M,Blood,Hospital,8.0,8,2.0,2.0,0.5,4.0,0.5,1.0,0.06,2.0,1.0,32,8
+424,2021,Escherichia coli,Enterobacterales,North America,Brazil,47,F,Urine,Hospital,2.0,8,0.5,4.0,1.0,16.0,4.0,4.0,4.0,0.25,2.0,16,2
+425,2020,Klebsiella pneumoniae,Enterobacterales,North America,Germany,42,M,Urine,Hospital,8.0,16,0.12,1.0,2.0,16.0,16.0,0.5,16.0,0.25,0.5,16,2
+426,2019,Staphylococcus aureus,Enterobacterales,North America,Japan,26,F,Blood,Hospital,64.0,8,4.0,0.5,1.0,0.5,8.0,0.12,16.0,4.0,4.0,8,16
+427,2023,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,42,M,Urine,Hospital,4.0,8,0.12,1.0,16.0,8.0,16.0,0.5,1.0,8.0,1.0,8,8
+428,2022,Klebsiella pneumoniae,Enterobacterales,North America,Japan,26,M,Blood,Hospital,32.0,2,0.5,2.0,0.5,4.0,4.0,0.5,4.0,0.5,0.5,128,64
+429,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,30,F,Blood,Hospital,32.0,16,2.0,0.5,0.5,0.5,4.0,4.0,8.0,8.0,4.0,32,8
+430,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,81,M,Urine,Hospital,1.0,16,8.0,1.0,32.0,1.0,0.5,4.0,8.0,1.0,4.0,8,8
+431,2018,Pseudomonas aeruginosa,Enterobacterales,North America,India,23,M,Blood,Hospital,1.0,16,8.0,0.5,32.0,16.0,8.0,0.12,8.0,1.0,0.5,128,1
+432,2022,Acinetobacter baumannii,Enterobacterales,North America,United States,50,F,Respiratory,Hospital,16.0,2,0.03,4.0,1.0,4.0,8.0,4.0,8.0,0.25,1.0,4,2
+433,2022,Klebsiella pneumoniae,Enterobacterales,North America,United States,73,M,Blood,Hospital,0.5,16,8.0,8.0,2.0,2.0,0.5,0.12,0.25,1.0,0.5,32,32
+434,2018,Acinetobacter baumannii,Enterobacterales,North America,India,81,M,Urine,Hospital,2.0,16,0.06,8.0,4.0,1.0,1.0,2.0,4.0,1.0,8.0,4,4
+435,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,27,M,Respiratory,Hospital,1.0,2,1.0,1.0,4.0,16.0,4.0,0.5,0.5,2.0,2.0,16,4
+436,2018,Staphylococcus aureus,Enterobacterales,North America,United States,28,F,Blood,Hospital,8.0,32,8.0,2.0,32.0,1.0,0.25,0.5,8.0,0.25,0.5,32,16
+437,2021,Escherichia coli,Enterobacterales,North America,India,42,F,Respiratory,Hospital,1.0,8,1.0,8.0,2.0,0.5,8.0,1.0,8.0,0.5,1.0,128,1
+438,2023,Escherichia coli,Enterobacterales,North America,Brazil,55,F,Respiratory,Hospital,8.0,8,8.0,2.0,0.5,4.0,0.5,0.5,16.0,1.0,32.0,128,8
+439,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,82,F,Respiratory,Hospital,64.0,16,0.25,1.0,2.0,16.0,0.25,4.0,1.0,0.25,1.0,128,4
+440,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,31,M,Blood,Hospital,32.0,8,0.12,1.0,4.0,1.0,1.0,8.0,0.5,0.25,8.0,8,2
+441,2023,Acinetobacter baumannii,Enterobacterales,North America,Brazil,29,M,Respiratory,Hospital,64.0,8,0.12,4.0,4.0,1.0,8.0,4.0,0.06,2.0,4.0,4,4
+442,2019,Pseudomonas aeruginosa,Enterobacterales,North America,India,34,M,Respiratory,Hospital,0.25,4,0.25,2.0,4.0,2.0,0.5,1.0,2.0,8.0,1.0,128,8
+443,2018,Staphylococcus aureus,Enterobacterales,North America,Japan,76,M,Respiratory,Hospital,4.0,32,2.0,8.0,32.0,1.0,2.0,1.0,1.0,2.0,2.0,128,2
+444,2020,Pseudomonas aeruginosa,Enterobacterales,North America,India,20,M,Blood,Hospital,0.5,32,0.5,8.0,16.0,4.0,8.0,1.0,1.0,0.25,0.5,8,8
+445,2021,Escherichia coli,Enterobacterales,North America,United States,43,F,Respiratory,Hospital,64.0,2,2.0,0.5,1.0,1.0,0.25,4.0,2.0,8.0,16.0,4,32
+446,2021,Escherichia coli,Enterobacterales,North America,United States,25,F,Blood,Hospital,16.0,16,0.25,4.0,2.0,0.5,8.0,1.0,8.0,2.0,2.0,32,2
+447,2019,Staphylococcus aureus,Enterobacterales,North America,Japan,28,F,Urine,Hospital,1.0,2,0.12,1.0,8.0,1.0,1.0,1.0,0.06,4.0,4.0,4,64
+448,2023,Escherichia coli,Enterobacterales,North America,Japan,79,F,Urine,Hospital,8.0,4,0.06,2.0,2.0,16.0,4.0,0.5,0.5,0.5,1.0,4,16
+449,2021,Staphylococcus aureus,Enterobacterales,North America,Brazil,18,F,Urine,Hospital,8.0,32,0.5,1.0,2.0,16.0,0.5,0.5,4.0,2.0,16.0,128,32
+450,2019,Klebsiella pneumoniae,Enterobacterales,North America,United States,39,M,Urine,Hospital,4.0,2,8.0,1.0,1.0,4.0,0.25,1.0,8.0,0.25,1.0,16,1
+451,2023,Escherichia coli,Enterobacterales,North America,Germany,79,F,Blood,Hospital,4.0,4,4.0,1.0,1.0,2.0,8.0,2.0,4.0,2.0,4.0,4,32
+452,2023,Klebsiella pneumoniae,Enterobacterales,North America,United States,58,F,Urine,Hospital,0.25,4,0.12,0.5,16.0,8.0,8.0,1.0,4.0,0.5,32.0,32,4
+453,2020,Acinetobacter baumannii,Enterobacterales,North America,United States,22,M,Respiratory,Hospital,4.0,16,0.5,4.0,16.0,1.0,16.0,4.0,8.0,8.0,8.0,16,16
+454,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,49,M,Urine,Hospital,2.0,8,2.0,0.5,16.0,4.0,4.0,4.0,16.0,0.25,8.0,32,32
+455,2021,Acinetobacter baumannii,Enterobacterales,North America,India,83,F,Blood,Hospital,32.0,8,1.0,1.0,2.0,8.0,2.0,1.0,2.0,2.0,32.0,128,2
+456,2021,Acinetobacter baumannii,Enterobacterales,North America,United States,44,M,Respiratory,Hospital,32.0,32,0.03,0.5,0.5,8.0,0.5,8.0,0.12,0.25,1.0,8,2
+457,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,53,F,Blood,Hospital,16.0,8,1.0,0.5,1.0,1.0,1.0,0.25,1.0,4.0,32.0,32,1
+458,2021,Acinetobacter baumannii,Enterobacterales,North America,India,53,F,Urine,Hospital,0.25,16,0.03,1.0,2.0,8.0,4.0,8.0,4.0,1.0,4.0,64,16
+459,2023,Staphylococcus aureus,Enterobacterales,North America,Germany,62,M,Urine,Hospital,32.0,2,0.06,8.0,4.0,4.0,1.0,0.5,0.06,8.0,2.0,16,32
+460,2018,Pseudomonas aeruginosa,Enterobacterales,North America,India,30,M,Urine,Hospital,2.0,4,1.0,8.0,32.0,16.0,2.0,1.0,4.0,2.0,1.0,128,4
+461,2022,Escherichia coli,Enterobacterales,North America,Brazil,74,M,Respiratory,Hospital,2.0,32,0.03,1.0,32.0,1.0,0.5,0.25,1.0,1.0,16.0,16,2
+462,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,84,M,Urine,Hospital,64.0,32,0.25,2.0,0.5,4.0,2.0,1.0,16.0,0.25,32.0,16,4
+463,2022,Staphylococcus aureus,Enterobacterales,North America,United States,27,M,Respiratory,Hospital,32.0,16,1.0,8.0,8.0,8.0,0.5,0.5,0.12,2.0,8.0,128,4
+464,2020,Klebsiella pneumoniae,Enterobacterales,North America,United States,72,F,Blood,Hospital,0.25,4,1.0,1.0,2.0,1.0,0.25,2.0,16.0,1.0,0.5,32,64
+465,2018,Staphylococcus aureus,Enterobacterales,North America,Japan,72,M,Respiratory,Hospital,2.0,2,0.5,8.0,1.0,8.0,0.25,0.12,0.5,0.25,4.0,128,1
+466,2023,Pseudomonas aeruginosa,Enterobacterales,North America,United States,67,M,Urine,Hospital,16.0,32,0.03,0.5,4.0,0.5,2.0,4.0,1.0,2.0,16.0,64,4
+467,2018,Acinetobacter baumannii,Enterobacterales,North America,Brazil,42,M,Blood,Hospital,4.0,16,4.0,1.0,0.5,8.0,1.0,8.0,2.0,0.5,2.0,64,16
+468,2021,Klebsiella pneumoniae,Enterobacterales,North America,Germany,49,F,Blood,Hospital,1.0,4,8.0,1.0,2.0,4.0,0.25,1.0,1.0,0.5,16.0,8,2
+469,2019,Staphylococcus aureus,Enterobacterales,North America,Brazil,74,M,Respiratory,Hospital,4.0,8,4.0,0.5,4.0,1.0,2.0,1.0,16.0,0.25,8.0,16,64
+470,2023,Escherichia coli,Enterobacterales,North America,United States,28,M,Urine,Hospital,32.0,16,2.0,8.0,1.0,0.5,0.5,2.0,0.06,1.0,0.5,128,64
+471,2022,Klebsiella pneumoniae,Enterobacterales,North America,Japan,73,F,Urine,Hospital,1.0,8,0.25,8.0,8.0,8.0,0.25,0.25,4.0,0.5,4.0,32,4
+472,2022,Pseudomonas aeruginosa,Enterobacterales,North America,Brazil,79,M,Blood,Hospital,16.0,32,4.0,1.0,4.0,1.0,0.25,4.0,16.0,0.25,1.0,8,32
+473,2020,Pseudomonas aeruginosa,Enterobacterales,North America,India,63,M,Urine,Hospital,16.0,2,0.5,8.0,16.0,2.0,2.0,0.25,0.12,1.0,4.0,8,32
+474,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,40,M,Respiratory,Hospital,32.0,4,0.06,4.0,1.0,0.5,16.0,2.0,0.12,0.5,2.0,64,16
+475,2021,Escherichia coli,Enterobacterales,North America,Japan,55,M,Blood,Hospital,1.0,2,4.0,8.0,0.5,16.0,0.5,0.5,0.5,0.25,16.0,8,2
+476,2022,Klebsiella pneumoniae,Enterobacterales,North America,Germany,21,M,Urine,Hospital,0.5,16,0.12,8.0,4.0,4.0,0.5,4.0,4.0,1.0,32.0,4,1
+477,2023,Escherichia coli,Enterobacterales,North America,India,80,F,Urine,Hospital,4.0,16,8.0,2.0,1.0,16.0,0.5,4.0,16.0,0.25,4.0,64,4
+478,2018,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,40,M,Respiratory,Hospital,4.0,32,0.25,0.5,8.0,0.5,1.0,0.25,4.0,8.0,4.0,8,1
+479,2021,Klebsiella pneumoniae,Enterobacterales,North America,Germany,21,M,Blood,Hospital,2.0,8,4.0,8.0,0.5,1.0,8.0,2.0,4.0,1.0,8.0,64,4
+480,2018,Pseudomonas aeruginosa,Enterobacterales,North America,India,71,M,Urine,Hospital,32.0,2,0.5,4.0,8.0,4.0,1.0,1.0,0.5,8.0,8.0,32,16
+481,2019,Pseudomonas aeruginosa,Enterobacterales,North America,United States,62,F,Respiratory,Hospital,32.0,8,0.5,8.0,32.0,4.0,4.0,0.5,2.0,8.0,8.0,128,16
+482,2022,Acinetobacter baumannii,Enterobacterales,North America,United States,59,F,Blood,Hospital,1.0,2,0.12,8.0,0.5,8.0,16.0,2.0,0.12,8.0,16.0,32,2
+483,2019,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,21,M,Respiratory,Hospital,32.0,16,4.0,0.5,2.0,16.0,16.0,8.0,0.5,2.0,32.0,128,1
+484,2022,Acinetobacter baumannii,Enterobacterales,North America,United States,68,M,Respiratory,Hospital,1.0,16,0.03,2.0,16.0,8.0,2.0,0.12,0.06,1.0,16.0,128,2
+485,2020,Pseudomonas aeruginosa,Enterobacterales,North America,India,60,M,Respiratory,Hospital,2.0,32,0.5,0.5,4.0,0.5,4.0,8.0,0.03,4.0,0.5,8,8
+486,2019,Acinetobacter baumannii,Enterobacterales,North America,Japan,71,M,Urine,Hospital,0.25,4,0.25,0.5,1.0,1.0,16.0,4.0,8.0,0.25,4.0,128,32
+487,2020,Acinetobacter baumannii,Enterobacterales,North America,United States,73,M,Respiratory,Hospital,2.0,4,0.5,8.0,1.0,16.0,8.0,1.0,8.0,8.0,4.0,64,4
+488,2021,Klebsiella pneumoniae,Enterobacterales,North America,United States,32,M,Respiratory,Hospital,64.0,2,0.12,8.0,16.0,4.0,1.0,2.0,1.0,0.5,4.0,4,4
+489,2022,Klebsiella pneumoniae,Enterobacterales,North America,United States,32,F,Respiratory,Hospital,2.0,8,1.0,8.0,32.0,16.0,0.25,0.5,0.03,0.25,4.0,4,8
+490,2021,Acinetobacter baumannii,Enterobacterales,North America,India,79,M,Urine,Hospital,16.0,8,0.25,8.0,2.0,4.0,0.25,0.12,0.03,0.5,16.0,8,1
+491,2023,Klebsiella pneumoniae,Enterobacterales,North America,Germany,53,M,Urine,Hospital,0.25,16,0.06,4.0,4.0,0.5,16.0,2.0,0.06,0.5,2.0,4,2
+492,2023,Pseudomonas aeruginosa,Enterobacterales,North America,India,47,M,Urine,Hospital,8.0,16,0.06,2.0,16.0,2.0,2.0,4.0,4.0,0.25,1.0,16,1
+493,2022,Escherichia coli,Enterobacterales,North America,United States,37,F,Blood,Hospital,2.0,2,2.0,8.0,1.0,8.0,1.0,0.25,0.12,4.0,4.0,128,8
+494,2021,Pseudomonas aeruginosa,Enterobacterales,North America,Germany,60,F,Respiratory,Hospital,16.0,4,0.12,2.0,1.0,4.0,1.0,4.0,0.12,0.25,16.0,16,8
+495,2019,Pseudomonas aeruginosa,Enterobacterales,North America,India,68,M,Respiratory,Hospital,64.0,8,0.12,4.0,16.0,0.5,0.5,4.0,8.0,8.0,2.0,4,16
+496,2020,Acinetobacter baumannii,Enterobacterales,North America,India,18,M,Urine,Hospital,4.0,4,1.0,1.0,1.0,1.0,8.0,4.0,8.0,1.0,0.5,16,16
+497,2018,Pseudomonas aeruginosa,Enterobacterales,North America,India,55,F,Blood,Hospital,0.25,2,0.12,4.0,16.0,16.0,4.0,0.5,4.0,4.0,32.0,8,4
+498,2020,Klebsiella pneumoniae,Enterobacterales,North America,Brazil,84,F,Urine,Hospital,4.0,32,0.25,8.0,4.0,16.0,16.0,0.5,0.25,1.0,1.0,128,64
+499,2023,Staphylococcus aureus,Enterobacterales,North America,India,36,M,Urine,Hospital,0.5,16,0.12,4.0,32.0,8.0,1.0,0.5,1.0,0.25,8.0,4,64
+500,2020,Pseudomonas aeruginosa,Enterobacterales,North America,Japan,36,F,Urine,Hospital,4.0,8,0.25,2.0,0.5,0.5,2.0,4.0,0.12,0.5,16.0,64,1

@@ -1,0 +1,401 @@
+Isolate Id,Study,Species,Country,Year,Oxacillin,Oxacillin_I,Ceftriaxone,Ceftriaxone_I,Imipenem,Imipenem_I,Ciprofloxacin,Ciprofloxacin_I,Meropenem,Meropenem_I,Levofloxacin,Levofloxacin_I,Amikacin,Amikacin_I,Vancomycin,Vancomycin_I
+1,TEST,Staphylococcus aureus,Germany,2012,1,Susceptible,0.5,Intermediate,0.25,Intermediate,32,Susceptible,8,Susceptible,0.12,Susceptible,1,Susceptible,32,Intermediate
+2,TEST,Staphylococcus aureus,Australia,2010,32,Resistant,1,Resistant,2,Susceptible,0.5,Intermediate,8,Resistant,2,Susceptible,1,Resistant,0.25,Susceptible
+3,TEST,Pseudomonas aeruginosa,United States,2015,4,Intermediate,2,Susceptible,16,Intermediate,0.25,Resistant,0.25,Intermediate,2,Intermediate,4,Intermediate,1,Intermediate
+4,TEST,Staphylococcus aureus,Germany,2011,2,Susceptible,1,Susceptible,8,Resistant,16,Intermediate,4,Susceptible,4,Resistant,1,Intermediate,2,Intermediate
+5,TEST,Staphylococcus aureus,South Africa,2009,32,Intermediate,1,Susceptible,16,Resistant,2,Intermediate,32,Susceptible,4,Susceptible,1,Susceptible,4,Resistant
+6,TEST,Klebsiella pneumoniae,United States,2010,4,Susceptible,16,Resistant,16,Susceptible,2,Susceptible,1,Intermediate,32,Intermediate,2,Intermediate,8,Intermediate
+7,TEST,Pseudomonas aeruginosa,France,2011,0.5,Intermediate,16,Susceptible,0.12,Susceptible,0.5,Intermediate,0.5,Intermediate,8,Intermediate,0.25,Resistant,8,Intermediate
+8,TEST,Pseudomonas aeruginosa,Australia,2012,32,Susceptible,0.25,Intermediate,32,Resistant,4,Susceptible,2,Resistant,0.5,Resistant,0.12,Intermediate,2,Intermediate
+9,TEST,Escherichia coli,Australia,2007,2,Intermediate,32,Intermediate,1,Susceptible,4,Susceptible,32,Intermediate,0.12,Intermediate,4,Resistant,0.12,Susceptible
+10,TEST,Klebsiella pneumoniae,United Kingdom,2011,0.12,Susceptible,0.25,Susceptible,16,Susceptible,32,Susceptible,0.5,Intermediate,16,Intermediate,0.5,Resistant,32,Intermediate
+11,TEST,Pseudomonas aeruginosa,Brazil,2021,1,Intermediate,2,Resistant,4,Resistant,32,Resistant,0.25,Susceptible,1,Susceptible,4,Susceptible,32,Susceptible
+12,TEST,Escherichia coli,Germany,2006,0.12,Susceptible,0.25,Susceptible,4,Susceptible,32,Susceptible,2,Intermediate,16,Susceptible,32,Susceptible,16,Susceptible
+13,TEST,Pseudomonas aeruginosa,Japan,2010,0.25,Susceptible,8,Resistant,8,Resistant,16,Intermediate,0.12,Intermediate,0.25,Susceptible,8,Intermediate,4,Susceptible
+14,TEST,Escherichia coli,Brazil,2010,32,Resistant,0.5,Resistant,0.5,Resistant,16,Susceptible,0.25,Resistant,32,Susceptible,0.12,Intermediate,32,Susceptible
+15,TEST,Staphylococcus aureus,Brazil,2009,8,Resistant,16,Susceptible,8,Susceptible,0.5,Resistant,0.12,Resistant,2,Resistant,2,Resistant,32,Intermediate
+16,TEST,Pseudomonas aeruginosa,India,2010,2,Susceptible,0.12,Intermediate,32,Susceptible,4,Susceptible,0.12,Intermediate,16,Intermediate,32,Susceptible,0.12,Intermediate
+17,TEST,Staphylococcus aureus,India,2006,0.25,Intermediate,1,Resistant,0.25,Intermediate,1,Intermediate,0.12,Intermediate,0.25,Resistant,32,Resistant,2,Susceptible
+18,TEST,Klebsiella pneumoniae,Brazil,2012,8,Susceptible,2,Resistant,4,Susceptible,0.12,Resistant,0.25,Susceptible,32,Susceptible,32,Resistant,0.5,Resistant
+19,TEST,Staphylococcus aureus,Brazil,2015,2,Susceptible,16,Intermediate,2,Intermediate,32,Susceptible,32,Resistant,0.25,Susceptible,2,Susceptible,0.25,Intermediate
+20,TEST,Escherichia coli,United Kingdom,2013,1,Intermediate,4,Susceptible,2,Intermediate,16,Resistant,0.12,Susceptible,8,Resistant,0.12,Susceptible,4,Susceptible
+21,TEST,Klebsiella pneumoniae,India,2018,32,Intermediate,8,Intermediate,0.12,Susceptible,0.25,Intermediate,0.5,Intermediate,0.12,Resistant,32,Susceptible,8,Susceptible
+22,TEST,Staphylococcus aureus,United Kingdom,2015,0.12,Resistant,1,Intermediate,1,Intermediate,0.25,Resistant,32,Resistant,0.5,Susceptible,0.5,Susceptible,8,Susceptible
+23,TEST,Escherichia coli,France,2017,1,Resistant,0.5,Intermediate,0.25,Resistant,0.12,Resistant,1,Susceptible,16,Resistant,2,Susceptible,1,Susceptible
+24,TEST,Escherichia coli,Japan,2014,2,Susceptible,2,Resistant,32,Resistant,32,Resistant,0.12,Susceptible,2,Susceptible,2,Susceptible,0.25,Intermediate
+25,TEST,Pseudomonas aeruginosa,France,2014,8,Intermediate,32,Susceptible,8,Intermediate,1,Resistant,0.12,Intermediate,8,Susceptible,32,Intermediate,1,Resistant
+26,TEST,Pseudomonas aeruginosa,United States,2014,4,Intermediate,0.25,Intermediate,2,Intermediate,2,Intermediate,8,Resistant,8,Intermediate,2,Intermediate,0.5,Susceptible
+27,TEST,Pseudomonas aeruginosa,Japan,2009,2,Resistant,32,Susceptible,2,Resistant,1,Resistant,4,Resistant,16,Resistant,1,Intermediate,16,Intermediate
+28,TEST,Escherichia coli,United States,2013,32,Intermediate,4,Susceptible,1,Intermediate,2,Susceptible,1,Susceptible,0.12,Susceptible,1,Resistant,0.25,Resistant
+29,TEST,Pseudomonas aeruginosa,South Africa,2010,8,Resistant,8,Susceptible,0.5,Intermediate,0.12,Susceptible,8,Susceptible,0.5,Intermediate,32,Resistant,0.12,Intermediate
+30,TEST,Escherichia coli,United States,2018,0.5,Resistant,32,Intermediate,4,Resistant,32,Resistant,32,Resistant,0.5,Intermediate,16,Resistant,2,Susceptible
+31,TEST,Klebsiella pneumoniae,Australia,2019,1,Resistant,16,Susceptible,2,Susceptible,2,Resistant,4,Intermediate,0.25,Susceptible,0.5,Susceptible,8,Intermediate
+32,TEST,Escherichia coli,Brazil,2006,8,Resistant,4,Intermediate,16,Resistant,0.12,Susceptible,8,Resistant,0.12,Intermediate,8,Resistant,0.12,Resistant
+33,TEST,Klebsiella pneumoniae,Japan,2017,32,Intermediate,32,Intermediate,1,Resistant,1,Resistant,8,Resistant,0.12,Resistant,4,Intermediate,8,Intermediate
+34,TEST,Escherichia coli,China,2008,32,Susceptible,8,Intermediate,0.12,Susceptible,8,Susceptible,16,Susceptible,0.12,Resistant,8,Resistant,1,Resistant
+35,TEST,Klebsiella pneumoniae,France,2016,2,Resistant,2,Susceptible,16,Susceptible,32,Susceptible,4,Susceptible,0.25,Intermediate,0.12,Susceptible,1,Susceptible
+36,TEST,Staphylococcus aureus,South Africa,2008,1,Susceptible,16,Intermediate,0.25,Intermediate,1,Resistant,2,Resistant,0.5,Intermediate,0.25,Susceptible,2,Susceptible
+37,TEST,Staphylococcus aureus,United Kingdom,2022,8,Resistant,1,Susceptible,1,Susceptible,2,Intermediate,0.25,Intermediate,0.12,Resistant,32,Resistant,4,Susceptible
+38,TEST,Klebsiella pneumoniae,Germany,2017,16,Susceptible,8,Resistant,16,Intermediate,0.5,Resistant,0.5,Intermediate,32,Intermediate,2,Intermediate,32,Resistant
+39,TEST,Pseudomonas aeruginosa,Japan,2022,2,Resistant,1,Susceptible,2,Resistant,1,Resistant,8,Resistant,0.12,Resistant,4,Susceptible,16,Susceptible
+40,TEST,Klebsiella pneumoniae,United Kingdom,2014,2,Intermediate,2,Intermediate,0.12,Intermediate,1,Susceptible,1,Intermediate,8,Resistant,32,Susceptible,16,Intermediate
+41,TEST,Pseudomonas aeruginosa,China,2004,0.25,Resistant,1,Resistant,1,Resistant,4,Resistant,32,Intermediate,4,Resistant,32,Resistant,4,Intermediate
+42,TEST,Pseudomonas aeruginosa,United Kingdom,2013,2,Susceptible,0.25,Intermediate,1,Resistant,0.25,Intermediate,32,Intermediate,0.5,Susceptible,1,Intermediate,16,Resistant
+43,TEST,Klebsiella pneumoniae,United States,2010,2,Susceptible,4,Susceptible,2,Susceptible,32,Susceptible,2,Susceptible,0.12,Intermediate,2,Intermediate,0.5,Intermediate
+44,TEST,Pseudomonas aeruginosa,United States,2004,2,Resistant,16,Resistant,4,Susceptible,0.12,Resistant,16,Susceptible,0.25,Resistant,16,Susceptible,0.12,Susceptible
+45,TEST,Escherichia coli,South Africa,2013,0.25,Susceptible,0.25,Intermediate,8,Intermediate,1,Intermediate,8,Resistant,16,Resistant,8,Resistant,0.12,Intermediate
+46,TEST,Staphylococcus aureus,Brazil,2010,2,Intermediate,0.25,Susceptible,1,Susceptible,32,Susceptible,0.5,Susceptible,8,Resistant,16,Resistant,0.12,Susceptible
+47,TEST,Klebsiella pneumoniae,United Kingdom,2018,0.25,Intermediate,1,Resistant,1,Resistant,0.25,Intermediate,1,Intermediate,0.5,Resistant,0.5,Susceptible,0.12,Susceptible
+48,TEST,Klebsiella pneumoniae,South Africa,2022,2,Resistant,0.25,Resistant,2,Intermediate,8,Resistant,32,Intermediate,16,Resistant,0.25,Intermediate,0.12,Resistant
+49,TEST,Klebsiella pneumoniae,South Africa,2012,0.12,Susceptible,1,Intermediate,0.12,Intermediate,2,Intermediate,0.12,Susceptible,16,Intermediate,16,Resistant,0.5,Intermediate
+50,TEST,Pseudomonas aeruginosa,China,2006,16,Resistant,8,Resistant,4,Intermediate,0.25,Susceptible,4,Resistant,16,Resistant,8,Intermediate,0.12,Resistant
+51,TEST,Staphylococcus aureus,France,2012,4,Susceptible,8,Intermediate,0.12,Intermediate,32,Resistant,8,Susceptible,1,Intermediate,4,Intermediate,16,Intermediate
+52,TEST,Pseudomonas aeruginosa,Germany,2010,2,Intermediate,0.5,Resistant,16,Intermediate,16,Susceptible,0.12,Intermediate,1,Intermediate,0.5,Resistant,32,Susceptible
+53,TEST,Pseudomonas aeruginosa,United States,2011,0.25,Resistant,0.25,Intermediate,0.5,Resistant,2,Intermediate,2,Resistant,16,Resistant,1,Resistant,32,Susceptible
+54,TEST,Pseudomonas aeruginosa,Brazil,2023,32,Intermediate,0.5,Susceptible,2,Resistant,4,Intermediate,2,Susceptible,2,Intermediate,2,Intermediate,16,Susceptible
+55,TEST,Pseudomonas aeruginosa,Australia,2019,4,Resistant,32,Intermediate,8,Resistant,4,Susceptible,1,Intermediate,8,Susceptible,8,Susceptible,4,Intermediate
+56,TEST,Pseudomonas aeruginosa,Japan,2016,0.5,Resistant,0.12,Susceptible,32,Intermediate,4,Susceptible,16,Susceptible,32,Resistant,0.12,Intermediate,0.5,Resistant
+57,TEST,Escherichia coli,United States,2019,2,Resistant,8,Intermediate,0.25,Resistant,32,Resistant,4,Intermediate,16,Intermediate,0.12,Intermediate,0.25,Susceptible
+58,TEST,Klebsiella pneumoniae,Brazil,2006,8,Susceptible,0.25,Resistant,0.5,Intermediate,2,Susceptible,0.12,Resistant,0.12,Resistant,4,Resistant,8,Susceptible
+59,TEST,Escherichia coli,Australia,2017,0.5,Susceptible,0.5,Susceptible,8,Intermediate,1,Resistant,0.5,Susceptible,16,Intermediate,2,Resistant,2,Intermediate
+60,TEST,Staphylococcus aureus,China,2013,32,Susceptible,0.25,Resistant,4,Intermediate,2,Intermediate,8,Intermediate,2,Resistant,2,Susceptible,8,Resistant
+61,TEST,Staphylococcus aureus,Brazil,2016,4,Intermediate,2,Intermediate,2,Susceptible,8,Resistant,0.12,Intermediate,0.12,Intermediate,16,Resistant,1,Intermediate
+62,TEST,Klebsiella pneumoniae,Brazil,2010,2,Intermediate,0.5,Intermediate,0.25,Intermediate,0.12,Resistant,16,Susceptible,4,Intermediate,0.5,Susceptible,2,Resistant
+63,TEST,Pseudomonas aeruginosa,India,2010,0.5,Intermediate,4,Intermediate,32,Resistant,0.5,Resistant,16,Resistant,4,Susceptible,16,Susceptible,0.5,Susceptible
+64,TEST,Pseudomonas aeruginosa,Australia,2015,0.25,Resistant,0.12,Resistant,32,Susceptible,16,Resistant,2,Intermediate,8,Intermediate,4,Susceptible,1,Resistant
+65,TEST,Staphylococcus aureus,South Africa,2021,4,Intermediate,1,Intermediate,0.25,Intermediate,16,Intermediate,2,Intermediate,8,Susceptible,0.5,Susceptible,0.12,Resistant
+66,TEST,Pseudomonas aeruginosa,United States,2007,1,Intermediate,0.5,Resistant,16,Resistant,32,Resistant,0.5,Resistant,0.25,Resistant,8,Resistant,0.12,Intermediate
+67,TEST,Klebsiella pneumoniae,Brazil,2018,16,Susceptible,4,Susceptible,4,Intermediate,4,Susceptible,8,Resistant,1,Susceptible,16,Susceptible,1,Intermediate
+68,TEST,Staphylococcus aureus,Germany,2014,1,Susceptible,1,Susceptible,32,Susceptible,1,Susceptible,4,Susceptible,0.12,Resistant,0.5,Susceptible,32,Resistant
+69,TEST,Escherichia coli,United States,2004,0.5,Susceptible,4,Susceptible,4,Susceptible,0.5,Resistant,0.12,Susceptible,8,Intermediate,0.25,Intermediate,0.25,Resistant
+70,TEST,Pseudomonas aeruginosa,France,2020,0.25,Resistant,32,Susceptible,0.12,Intermediate,32,Resistant,16,Intermediate,0.12,Susceptible,16,Resistant,8,Intermediate
+71,TEST,Staphylococcus aureus,China,2018,0.25,Susceptible,4,Intermediate,0.5,Susceptible,0.5,Resistant,32,Intermediate,4,Resistant,32,Resistant,16,Intermediate
+72,TEST,Pseudomonas aeruginosa,United States,2007,32,Intermediate,1,Resistant,16,Susceptible,8,Resistant,16,Resistant,8,Intermediate,0.25,Resistant,8,Resistant
+73,TEST,Klebsiella pneumoniae,France,2008,16,Susceptible,0.25,Susceptible,0.25,Resistant,0.25,Intermediate,4,Susceptible,32,Susceptible,32,Intermediate,4,Intermediate
+74,TEST,Staphylococcus aureus,Japan,2015,8,Intermediate,0.12,Resistant,2,Resistant,0.25,Intermediate,32,Susceptible,0.5,Intermediate,16,Susceptible,0.25,Resistant
+75,TEST,Klebsiella pneumoniae,United States,2012,1,Resistant,32,Intermediate,32,Susceptible,2,Susceptible,0.5,Resistant,2,Resistant,4,Susceptible,0.5,Susceptible
+76,TEST,Pseudomonas aeruginosa,United States,2008,0.12,Susceptible,32,Susceptible,8,Resistant,16,Resistant,0.5,Resistant,2,Intermediate,4,Intermediate,0.25,Susceptible
+77,TEST,Escherichia coli,India,2023,0.12,Intermediate,0.25,Resistant,16,Intermediate,8,Resistant,16,Resistant,2,Susceptible,32,Susceptible,4,Resistant
+78,TEST,Staphylococcus aureus,United Kingdom,2022,16,Intermediate,2,Susceptible,1,Resistant,0.12,Susceptible,1,Resistant,1,Susceptible,2,Resistant,4,Susceptible
+79,TEST,Staphylococcus aureus,China,2017,0.5,Susceptible,8,Intermediate,1,Intermediate,32,Intermediate,4,Susceptible,8,Intermediate,0.12,Resistant,0.12,Resistant
+80,TEST,Staphylococcus aureus,France,2022,8,Intermediate,8,Intermediate,8,Resistant,0.25,Resistant,0.12,Resistant,0.5,Intermediate,16,Intermediate,4,Susceptible
+81,TEST,Pseudomonas aeruginosa,United States,2011,8,Intermediate,8,Intermediate,0.25,Resistant,2,Intermediate,4,Susceptible,4,Susceptible,0.25,Intermediate,0.25,Intermediate
+82,TEST,Escherichia coli,France,2015,0.5,Susceptible,0.25,Susceptible,2,Susceptible,0.5,Intermediate,0.5,Intermediate,0.25,Susceptible,16,Resistant,16,Intermediate
+83,TEST,Klebsiella pneumoniae,France,2008,16,Susceptible,16,Resistant,2,Resistant,0.12,Resistant,32,Susceptible,2,Resistant,16,Susceptible,0.12,Resistant
+84,TEST,Klebsiella pneumoniae,United States,2006,32,Resistant,16,Intermediate,32,Intermediate,0.12,Resistant,1,Resistant,16,Intermediate,0.5,Susceptible,16,Susceptible
+85,TEST,Klebsiella pneumoniae,United States,2020,0.5,Susceptible,1,Intermediate,16,Resistant,32,Intermediate,0.5,Resistant,4,Resistant,8,Resistant,4,Intermediate
+86,TEST,Staphylococcus aureus,France,2006,4,Susceptible,32,Intermediate,8,Resistant,2,Intermediate,0.5,Resistant,0.25,Intermediate,0.5,Resistant,2,Intermediate
+87,TEST,Pseudomonas aeruginosa,India,2023,0.25,Resistant,32,Resistant,4,Susceptible,32,Susceptible,8,Intermediate,4,Susceptible,4,Resistant,0.5,Susceptible
+88,TEST,Klebsiella pneumoniae,China,2010,1,Susceptible,0.5,Susceptible,2,Susceptible,32,Intermediate,32,Susceptible,4,Intermediate,0.5,Intermediate,8,Susceptible
+89,TEST,Escherichia coli,India,2023,0.5,Intermediate,16,Susceptible,8,Resistant,1,Resistant,2,Intermediate,16,Susceptible,32,Susceptible,2,Resistant
+90,TEST,Escherichia coli,France,2022,16,Resistant,2,Resistant,32,Intermediate,8,Susceptible,1,Intermediate,0.5,Resistant,0.12,Intermediate,16,Resistant
+91,TEST,Staphylococcus aureus,Australia,2007,2,Susceptible,0.5,Resistant,16,Intermediate,0.5,Resistant,0.25,Susceptible,16,Resistant,0.12,Resistant,0.12,Resistant
+92,TEST,Klebsiella pneumoniae,Brazil,2016,0.25,Resistant,1,Susceptible,4,Susceptible,4,Susceptible,0.5,Susceptible,2,Resistant,0.5,Intermediate,16,Resistant
+93,TEST,Staphylococcus aureus,United States,2004,2,Susceptible,0.5,Intermediate,32,Resistant,0.25,Resistant,1,Resistant,0.25,Susceptible,1,Resistant,16,Susceptible
+94,TEST,Staphylococcus aureus,China,2023,32,Susceptible,32,Intermediate,1,Intermediate,0.5,Resistant,8,Susceptible,4,Susceptible,8,Susceptible,0.25,Intermediate
+95,TEST,Klebsiella pneumoniae,United States,2020,32,Intermediate,32,Intermediate,0.12,Resistant,16,Susceptible,8,Resistant,2,Intermediate,0.12,Resistant,0.25,Resistant
+96,TEST,Escherichia coli,United States,2022,4,Susceptible,0.12,Resistant,32,Resistant,0.5,Intermediate,16,Intermediate,16,Intermediate,0.5,Susceptible,0.25,Intermediate
+97,TEST,Pseudomonas aeruginosa,Germany,2013,1,Susceptible,1,Susceptible,4,Resistant,32,Resistant,32,Resistant,2,Susceptible,1,Resistant,4,Susceptible
+98,TEST,Klebsiella pneumoniae,United Kingdom,2007,4,Resistant,8,Intermediate,16,Resistant,4,Susceptible,16,Intermediate,16,Resistant,32,Resistant,0.25,Intermediate
+99,TEST,Pseudomonas aeruginosa,United States,2017,0.5,Intermediate,2,Resistant,0.25,Susceptible,4,Intermediate,2,Resistant,16,Intermediate,8,Susceptible,16,Resistant
+100,TEST,Pseudomonas aeruginosa,Germany,2015,8,Resistant,0.12,Susceptible,8,Resistant,32,Intermediate,0.5,Susceptible,0.5,Intermediate,16,Susceptible,0.5,Susceptible
+101,TEST,Escherichia coli,France,2015,8,Intermediate,0.12,Intermediate,0.5,Intermediate,16,Resistant,4,Resistant,0.25,Intermediate,0.5,Intermediate,4,Resistant
+102,TEST,Klebsiella pneumoniae,United Kingdom,2011,0.25,Susceptible,0.5,Resistant,32,Resistant,32,Susceptible,2,Resistant,16,Susceptible,2,Intermediate,16,Susceptible
+103,TEST,Staphylococcus aureus,India,2006,16,Susceptible,16,Susceptible,4,Intermediate,4,Intermediate,0.25,Intermediate,32,Resistant,2,Susceptible,0.5,Resistant
+104,TEST,Escherichia coli,United States,2010,0.5,Susceptible,16,Susceptible,4,Intermediate,4,Resistant,32,Susceptible,0.25,Susceptible,2,Resistant,16,Intermediate
+105,TEST,Pseudomonas aeruginosa,Japan,2022,0.25,Susceptible,4,Intermediate,0.25,Resistant,16,Intermediate,32,Resistant,0.5,Intermediate,0.5,Susceptible,8,Intermediate
+106,TEST,Staphylococcus aureus,United States,2020,0.5,Resistant,0.5,Susceptible,4,Intermediate,1,Resistant,32,Resistant,0.25,Resistant,1,Intermediate,32,Resistant
+107,TEST,Escherichia coli,United Kingdom,2023,32,Susceptible,32,Intermediate,0.5,Intermediate,0.5,Susceptible,4,Intermediate,0.12,Susceptible,0.25,Susceptible,2,Intermediate
+108,TEST,Escherichia coli,South Africa,2017,0.12,Resistant,32,Resistant,2,Resistant,1,Intermediate,8,Resistant,16,Susceptible,0.12,Susceptible,16,Resistant
+109,TEST,Pseudomonas aeruginosa,China,2010,4,Intermediate,0.5,Resistant,4,Intermediate,4,Resistant,0.5,Resistant,32,Intermediate,0.25,Resistant,1,Resistant
+110,TEST,Staphylococcus aureus,United Kingdom,2018,1,Susceptible,0.25,Susceptible,2,Resistant,8,Susceptible,0.5,Resistant,4,Susceptible,0.5,Resistant,32,Resistant
+111,TEST,Pseudomonas aeruginosa,United Kingdom,2019,0.12,Susceptible,8,Intermediate,16,Susceptible,1,Intermediate,4,Susceptible,0.12,Resistant,16,Intermediate,16,Resistant
+112,TEST,Staphylococcus aureus,United States,2017,0.5,Resistant,4,Resistant,4,Susceptible,8,Susceptible,32,Susceptible,4,Intermediate,2,Susceptible,8,Intermediate
+113,TEST,Pseudomonas aeruginosa,Australia,2012,0.25,Susceptible,0.25,Resistant,4,Resistant,32,Resistant,0.5,Susceptible,32,Resistant,32,Susceptible,0.12,Susceptible
+114,TEST,Escherichia coli,France,2019,32,Resistant,0.5,Intermediate,32,Susceptible,4,Intermediate,4,Susceptible,8,Intermediate,2,Intermediate,4,Intermediate
+115,TEST,Pseudomonas aeruginosa,South Africa,2013,16,Susceptible,4,Resistant,0.25,Resistant,2,Intermediate,0.12,Intermediate,16,Resistant,1,Intermediate,0.12,Intermediate
+116,TEST,Pseudomonas aeruginosa,India,2020,8,Susceptible,1,Susceptible,0.25,Susceptible,0.12,Resistant,4,Resistant,0.5,Resistant,1,Resistant,32,Intermediate
+117,TEST,Pseudomonas aeruginosa,Germany,2008,32,Susceptible,32,Resistant,16,Intermediate,8,Resistant,0.5,Resistant,32,Resistant,32,Resistant,2,Intermediate
+118,TEST,Pseudomonas aeruginosa,Brazil,2011,2,Intermediate,2,Susceptible,2,Resistant,1,Intermediate,16,Resistant,16,Resistant,32,Intermediate,2,Resistant
+119,TEST,Staphylococcus aureus,South Africa,2021,8,Resistant,4,Susceptible,2,Susceptible,2,Intermediate,0.25,Resistant,16,Intermediate,2,Intermediate,16,Susceptible
+120,TEST,Escherichia coli,Australia,2012,32,Intermediate,2,Susceptible,0.25,Intermediate,1,Susceptible,0.12,Intermediate,32,Susceptible,1,Susceptible,0.25,Resistant
+121,TEST,Klebsiella pneumoniae,China,2007,0.5,Susceptible,32,Susceptible,8,Intermediate,16,Resistant,1,Resistant,4,Resistant,0.12,Susceptible,1,Intermediate
+122,TEST,Staphylococcus aureus,India,2017,0.5,Susceptible,8,Resistant,0.5,Intermediate,2,Susceptible,0.12,Resistant,0.25,Resistant,2,Resistant,32,Intermediate
+123,TEST,Pseudomonas aeruginosa,India,2020,16,Resistant,1,Susceptible,4,Susceptible,16,Intermediate,2,Intermediate,0.5,Susceptible,4,Resistant,1,Susceptible
+124,TEST,Pseudomonas aeruginosa,Japan,2020,4,Susceptible,8,Intermediate,0.25,Susceptible,0.5,Resistant,4,Susceptible,0.12,Resistant,8,Susceptible,16,Resistant
+125,TEST,Klebsiella pneumoniae,United Kingdom,2022,0.12,Resistant,4,Intermediate,1,Susceptible,0.25,Resistant,2,Susceptible,8,Intermediate,32,Intermediate,2,Intermediate
+126,TEST,Staphylococcus aureus,United Kingdom,2015,1,Susceptible,0.5,Resistant,0.5,Resistant,4,Resistant,32,Resistant,32,Intermediate,1,Susceptible,0.25,Intermediate
+127,TEST,Pseudomonas aeruginosa,Australia,2015,0.25,Intermediate,0.25,Susceptible,32,Intermediate,1,Intermediate,32,Susceptible,0.5,Resistant,32,Resistant,0.25,Intermediate
+128,TEST,Escherichia coli,South Africa,2019,0.25,Intermediate,16,Susceptible,16,Susceptible,32,Resistant,16,Intermediate,0.12,Intermediate,16,Intermediate,2,Intermediate
+129,TEST,Staphylococcus aureus,Japan,2012,0.12,Intermediate,1,Intermediate,0.25,Susceptible,8,Resistant,0.25,Intermediate,0.12,Susceptible,16,Susceptible,2,Resistant
+130,TEST,Escherichia coli,India,2017,4,Resistant,16,Resistant,8,Susceptible,32,Susceptible,4,Susceptible,0.5,Intermediate,8,Intermediate,0.5,Intermediate
+131,TEST,Escherichia coli,Germany,2004,2,Resistant,32,Resistant,32,Resistant,1,Susceptible,16,Resistant,0.5,Resistant,1,Intermediate,0.25,Susceptible
+132,TEST,Pseudomonas aeruginosa,South Africa,2004,1,Susceptible,0.25,Susceptible,0.12,Resistant,0.12,Susceptible,0.12,Resistant,16,Susceptible,32,Susceptible,0.12,Susceptible
+133,TEST,Klebsiella pneumoniae,Brazil,2022,4,Intermediate,4,Susceptible,2,Susceptible,32,Susceptible,8,Resistant,2,Susceptible,32,Intermediate,0.5,Intermediate
+134,TEST,Pseudomonas aeruginosa,Australia,2019,0.12,Resistant,8,Intermediate,4,Intermediate,8,Resistant,0.5,Resistant,8,Susceptible,32,Resistant,1,Susceptible
+135,TEST,Klebsiella pneumoniae,India,2018,0.12,Intermediate,8,Resistant,32,Intermediate,0.5,Resistant,1,Resistant,1,Resistant,0.25,Resistant,4,Susceptible
+136,TEST,Escherichia coli,Germany,2012,8,Intermediate,0.12,Susceptible,1,Intermediate,32,Susceptible,16,Susceptible,4,Resistant,0.12,Susceptible,1,Intermediate
+137,TEST,Staphylococcus aureus,China,2011,1,Resistant,1,Intermediate,4,Resistant,8,Resistant,32,Intermediate,4,Resistant,2,Resistant,32,Resistant
+138,TEST,Pseudomonas aeruginosa,United States,2019,4,Susceptible,4,Resistant,8,Susceptible,1,Intermediate,0.5,Susceptible,2,Intermediate,8,Resistant,0.5,Susceptible
+139,TEST,Klebsiella pneumoniae,Brazil,2016,1,Resistant,32,Intermediate,4,Resistant,16,Intermediate,16,Resistant,0.5,Intermediate,4,Susceptible,0.5,Intermediate
+140,TEST,Pseudomonas aeruginosa,India,2021,0.12,Intermediate,0.12,Susceptible,0.12,Susceptible,8,Susceptible,1,Susceptible,0.5,Susceptible,1,Intermediate,16,Resistant
+141,TEST,Staphylococcus aureus,South Africa,2023,16,Intermediate,16,Susceptible,0.12,Intermediate,32,Resistant,0.12,Susceptible,32,Intermediate,2,Intermediate,2,Susceptible
+142,TEST,Pseudomonas aeruginosa,India,2007,0.25,Intermediate,0.5,Susceptible,1,Intermediate,32,Resistant,4,Resistant,8,Susceptible,4,Resistant,16,Intermediate
+143,TEST,Escherichia coli,Brazil,2013,0.25,Intermediate,0.12,Susceptible,8,Resistant,8,Intermediate,16,Susceptible,0.12,Intermediate,0.5,Susceptible,16,Resistant
+144,TEST,Klebsiella pneumoniae,South Africa,2007,32,Susceptible,1,Susceptible,16,Resistant,0.12,Susceptible,2,Intermediate,0.12,Susceptible,4,Susceptible,1,Intermediate
+145,TEST,Escherichia coli,Japan,2006,2,Susceptible,1,Intermediate,8,Intermediate,32,Resistant,8,Intermediate,0.5,Intermediate,0.25,Intermediate,4,Susceptible
+146,TEST,Staphylococcus aureus,Japan,2011,0.25,Resistant,8,Resistant,0.12,Intermediate,2,Resistant,16,Susceptible,4,Intermediate,8,Resistant,0.5,Intermediate
+147,TEST,Pseudomonas aeruginosa,United States,2023,2,Susceptible,0.25,Susceptible,2,Susceptible,8,Intermediate,0.5,Intermediate,8,Resistant,4,Susceptible,0.25,Susceptible
+148,TEST,Klebsiella pneumoniae,China,2015,2,Susceptible,0.5,Susceptible,0.5,Resistant,16,Intermediate,32,Intermediate,8,Susceptible,0.12,Susceptible,4,Intermediate
+149,TEST,Staphylococcus aureus,South Africa,2023,4,Resistant,0.12,Resistant,8,Resistant,0.25,Intermediate,32,Susceptible,32,Susceptible,8,Susceptible,0.5,Resistant
+150,TEST,Klebsiella pneumoniae,United Kingdom,2019,0.5,Susceptible,0.5,Resistant,2,Resistant,2,Resistant,0.25,Resistant,2,Susceptible,16,Intermediate,1,Resistant
+151,TEST,Staphylococcus aureus,India,2013,0.12,Resistant,4,Intermediate,8,Resistant,16,Resistant,8,Intermediate,0.5,Resistant,4,Intermediate,1,Resistant
+152,TEST,Klebsiella pneumoniae,India,2016,4,Resistant,16,Intermediate,1,Resistant,8,Resistant,8,Resistant,0.25,Intermediate,1,Intermediate,32,Susceptible
+153,TEST,Staphylococcus aureus,China,2010,16,Resistant,0.25,Resistant,16,Susceptible,2,Susceptible,2,Intermediate,0.5,Intermediate,8,Resistant,0.25,Resistant
+154,TEST,Pseudomonas aeruginosa,South Africa,2016,32,Intermediate,8,Intermediate,0.12,Resistant,32,Intermediate,0.25,Susceptible,1,Intermediate,4,Susceptible,0.12,Intermediate
+155,TEST,Pseudomonas aeruginosa,France,2017,0.25,Susceptible,0.25,Resistant,1,Intermediate,32,Intermediate,1,Resistant,4,Resistant,16,Intermediate,32,Susceptible
+156,TEST,Klebsiella pneumoniae,Germany,2019,0.25,Resistant,8,Susceptible,0.25,Intermediate,0.5,Resistant,2,Resistant,16,Susceptible,32,Resistant,4,Resistant
+157,TEST,Staphylococcus aureus,China,2018,4,Susceptible,2,Susceptible,0.25,Susceptible,4,Intermediate,0.25,Intermediate,0.5,Intermediate,1,Intermediate,0.5,Intermediate
+158,TEST,Escherichia coli,France,2021,8,Resistant,1,Resistant,0.5,Susceptible,8,Resistant,0.12,Intermediate,1,Resistant,8,Resistant,0.12,Intermediate
+159,TEST,Escherichia coli,Brazil,2012,0.25,Intermediate,0.25,Intermediate,0.5,Resistant,4,Susceptible,16,Susceptible,2,Intermediate,16,Intermediate,4,Intermediate
+160,TEST,Pseudomonas aeruginosa,South Africa,2016,0.25,Resistant,4,Resistant,0.5,Intermediate,2,Intermediate,0.25,Intermediate,0.5,Resistant,0.25,Susceptible,2,Susceptible
+161,TEST,Escherichia coli,France,2008,32,Resistant,8,Intermediate,0.5,Intermediate,8,Resistant,0.5,Resistant,32,Intermediate,0.5,Intermediate,0.5,Resistant
+162,TEST,Klebsiella pneumoniae,India,2009,4,Resistant,0.12,Resistant,0.12,Resistant,0.5,Susceptible,8,Intermediate,32,Intermediate,16,Resistant,16,Resistant
+163,TEST,Pseudomonas aeruginosa,China,2009,0.25,Intermediate,0.12,Susceptible,2,Susceptible,2,Susceptible,32,Resistant,0.5,Resistant,16,Intermediate,32,Susceptible
+164,TEST,Staphylococcus aureus,United Kingdom,2021,4,Intermediate,0.12,Intermediate,16,Intermediate,1,Resistant,0.25,Intermediate,1,Resistant,0.12,Resistant,2,Resistant
+165,TEST,Staphylococcus aureus,China,2007,1,Susceptible,4,Intermediate,8,Susceptible,0.5,Susceptible,1,Susceptible,4,Intermediate,2,Intermediate,32,Susceptible
+166,TEST,Klebsiella pneumoniae,United Kingdom,2013,2,Intermediate,0.25,Susceptible,8,Susceptible,2,Intermediate,0.5,Intermediate,0.5,Susceptible,0.5,Intermediate,4,Susceptible
+167,TEST,Pseudomonas aeruginosa,China,2008,2,Intermediate,8,Resistant,16,Susceptible,0.25,Resistant,32,Intermediate,2,Intermediate,4,Resistant,16,Resistant
+168,TEST,Staphylococcus aureus,United States,2018,4,Susceptible,32,Resistant,1,Resistant,1,Resistant,2,Resistant,2,Resistant,32,Intermediate,0.5,Intermediate
+169,TEST,Pseudomonas aeruginosa,France,2005,0.12,Susceptible,16,Susceptible,0.25,Susceptible,16,Resistant,0.12,Resistant,1,Intermediate,0.5,Intermediate,2,Susceptible
+170,TEST,Klebsiella pneumoniae,United States,2015,2,Susceptible,4,Intermediate,0.5,Susceptible,8,Intermediate,2,Intermediate,1,Resistant,0.25,Intermediate,0.25,Susceptible
+171,TEST,Escherichia coli,China,2006,0.5,Intermediate,1,Intermediate,16,Susceptible,0.12,Intermediate,4,Susceptible,8,Intermediate,0.5,Resistant,0.25,Susceptible
+172,TEST,Pseudomonas aeruginosa,United States,2007,0.25,Resistant,4,Resistant,0.5,Resistant,0.5,Intermediate,0.5,Susceptible,32,Intermediate,0.12,Intermediate,0.5,Resistant
+173,TEST,Klebsiella pneumoniae,Brazil,2008,8,Intermediate,16,Susceptible,0.25,Susceptible,0.5,Susceptible,8,Resistant,8,Resistant,0.5,Susceptible,2,Intermediate
+174,TEST,Staphylococcus aureus,Brazil,2021,2,Intermediate,0.12,Intermediate,2,Susceptible,32,Intermediate,32,Susceptible,8,Resistant,0.12,Susceptible,16,Resistant
+175,TEST,Staphylococcus aureus,Brazil,2019,0.25,Intermediate,0.12,Resistant,4,Susceptible,8,Intermediate,8,Resistant,32,Intermediate,0.5,Resistant,0.25,Susceptible
+176,TEST,Staphylococcus aureus,Germany,2012,1,Susceptible,0.12,Resistant,32,Resistant,32,Resistant,8,Intermediate,8,Susceptible,32,Intermediate,0.5,Resistant
+177,TEST,Staphylococcus aureus,United Kingdom,2006,32,Susceptible,0.5,Intermediate,4,Resistant,0.25,Resistant,8,Intermediate,1,Susceptible,1,Susceptible,8,Susceptible
+178,TEST,Pseudomonas aeruginosa,South Africa,2023,0.12,Resistant,0.5,Susceptible,0.12,Intermediate,0.5,Intermediate,0.12,Susceptible,16,Resistant,32,Intermediate,2,Susceptible
+179,TEST,Klebsiella pneumoniae,India,2012,0.25,Susceptible,4,Resistant,2,Intermediate,0.25,Resistant,0.25,Resistant,16,Intermediate,4,Susceptible,16,Intermediate
+180,TEST,Escherichia coli,France,2009,2,Susceptible,0.25,Susceptible,32,Susceptible,0.12,Susceptible,1,Susceptible,16,Resistant,8,Susceptible,0.5,Susceptible
+181,TEST,Pseudomonas aeruginosa,Brazil,2014,1,Resistant,4,Resistant,0.25,Intermediate,4,Susceptible,32,Intermediate,0.12,Susceptible,1,Intermediate,0.12,Resistant
+182,TEST,Staphylococcus aureus,China,2013,2,Resistant,0.25,Intermediate,16,Susceptible,4,Susceptible,2,Intermediate,2,Intermediate,1,Resistant,4,Intermediate
+183,TEST,Pseudomonas aeruginosa,Brazil,2021,1,Susceptible,0.12,Resistant,0.12,Susceptible,32,Resistant,0.12,Resistant,0.12,Intermediate,8,Intermediate,2,Susceptible
+184,TEST,Escherichia coli,Australia,2011,8,Resistant,0.12,Susceptible,2,Susceptible,0.12,Susceptible,32,Resistant,4,Resistant,0.25,Intermediate,0.25,Intermediate
+185,TEST,Escherichia coli,Japan,2006,0.12,Resistant,0.5,Susceptible,2,Resistant,4,Resistant,4,Resistant,16,Resistant,1,Susceptible,1,Susceptible
+186,TEST,Staphylococcus aureus,India,2007,0.5,Resistant,16,Resistant,8,Susceptible,32,Resistant,1,Resistant,2,Resistant,2,Susceptible,0.25,Susceptible
+187,TEST,Klebsiella pneumoniae,South Africa,2005,1,Resistant,0.5,Susceptible,1,Resistant,8,Intermediate,0.12,Intermediate,2,Resistant,0.5,Susceptible,8,Resistant
+188,TEST,Escherichia coli,United States,2018,0.25,Susceptible,0.25,Susceptible,0.12,Susceptible,0.5,Susceptible,8,Resistant,0.25,Intermediate,2,Susceptible,0.12,Susceptible
+189,TEST,Escherichia coli,China,2008,0.25,Resistant,0.25,Susceptible,16,Susceptible,0.5,Intermediate,8,Intermediate,8,Resistant,0.12,Resistant,8,Susceptible
+190,TEST,Klebsiella pneumoniae,Brazil,2009,2,Resistant,16,Susceptible,0.12,Intermediate,1,Intermediate,2,Resistant,8,Intermediate,16,Susceptible,0.25,Resistant
+191,TEST,Pseudomonas aeruginosa,India,2017,1,Intermediate,32,Susceptible,32,Susceptible,8,Intermediate,4,Resistant,32,Resistant,4,Intermediate,32,Resistant
+192,TEST,Pseudomonas aeruginosa,United Kingdom,2009,0.12,Resistant,1,Susceptible,2,Susceptible,16,Intermediate,4,Intermediate,1,Susceptible,0.25,Susceptible,1,Resistant
+193,TEST,Staphylococcus aureus,Brazil,2022,8,Resistant,0.5,Susceptible,1,Intermediate,4,Intermediate,4,Intermediate,0.12,Intermediate,4,Intermediate,0.5,Intermediate
+194,TEST,Escherichia coli,China,2021,2,Susceptible,16,Susceptible,0.25,Susceptible,1,Intermediate,1,Susceptible,32,Resistant,0.12,Resistant,1,Susceptible
+195,TEST,Klebsiella pneumoniae,India,2014,0.12,Susceptible,0.5,Intermediate,0.5,Susceptible,32,Resistant,0.25,Resistant,8,Intermediate,0.25,Resistant,2,Resistant
+196,TEST,Escherichia coli,India,2017,16,Intermediate,4,Susceptible,32,Intermediate,4,Susceptible,0.5,Resistant,2,Intermediate,2,Susceptible,0.5,Intermediate
+197,TEST,Staphylococcus aureus,South Africa,2016,0.12,Susceptible,4,Intermediate,1,Intermediate,0.25,Resistant,0.5,Resistant,0.25,Susceptible,4,Resistant,0.5,Intermediate
+198,TEST,Staphylococcus aureus,France,2018,0.12,Resistant,1,Susceptible,0.25,Resistant,2,Susceptible,0.12,Susceptible,8,Resistant,8,Susceptible,8,Resistant
+199,TEST,Pseudomonas aeruginosa,France,2021,8,Susceptible,16,Intermediate,1,Susceptible,16,Susceptible,0.12,Resistant,0.12,Resistant,2,Susceptible,0.25,Resistant
+200,TEST,Escherichia coli,Japan,2009,0.25,Intermediate,0.25,Resistant,16,Intermediate,0.12,Resistant,0.5,Intermediate,8,Susceptible,0.12,Susceptible,4,Susceptible
+201,TEST,Escherichia coli,Japan,2021,32,Resistant,2,Resistant,1,Susceptible,0.12,Resistant,32,Resistant,0.5,Susceptible,4,Susceptible,8,Susceptible
+202,TEST,Klebsiella pneumoniae,South Africa,2019,1,Susceptible,0.12,Susceptible,0.5,Intermediate,2,Susceptible,16,Susceptible,2,Resistant,16,Resistant,2,Susceptible
+203,TEST,Pseudomonas aeruginosa,India,2015,8,Resistant,0.5,Resistant,0.12,Resistant,16,Resistant,2,Susceptible,2,Intermediate,0.12,Susceptible,0.25,Susceptible
+204,TEST,Klebsiella pneumoniae,Australia,2017,1,Intermediate,0.12,Resistant,32,Resistant,32,Intermediate,16,Intermediate,1,Resistant,2,Susceptible,8,Intermediate
+205,TEST,Staphylococcus aureus,Australia,2022,32,Intermediate,0.5,Susceptible,16,Susceptible,0.5,Susceptible,1,Susceptible,0.12,Resistant,0.25,Intermediate,8,Susceptible
+206,TEST,Escherichia coli,South Africa,2012,4,Intermediate,0.25,Susceptible,8,Intermediate,8,Intermediate,4,Resistant,32,Resistant,0.12,Intermediate,32,Resistant
+207,TEST,Staphylococcus aureus,Japan,2008,0.5,Intermediate,0.25,Susceptible,0.25,Resistant,32,Resistant,8,Resistant,8,Intermediate,16,Intermediate,16,Susceptible
+208,TEST,Escherichia coli,United Kingdom,2016,0.5,Intermediate,8,Susceptible,8,Resistant,1,Susceptible,16,Resistant,4,Susceptible,4,Resistant,2,Resistant
+209,TEST,Pseudomonas aeruginosa,United States,2011,0.5,Resistant,16,Resistant,2,Intermediate,8,Intermediate,0.25,Susceptible,16,Susceptible,8,Intermediate,16,Intermediate
+210,TEST,Klebsiella pneumoniae,Germany,2020,0.5,Susceptible,2,Intermediate,32,Resistant,0.5,Intermediate,0.12,Susceptible,1,Susceptible,0.12,Susceptible,0.12,Resistant
+211,TEST,Staphylococcus aureus,France,2010,2,Resistant,16,Intermediate,8,Intermediate,0.25,Intermediate,0.12,Susceptible,4,Resistant,16,Susceptible,16,Intermediate
+212,TEST,Klebsiella pneumoniae,France,2009,2,Intermediate,0.25,Resistant,0.12,Resistant,0.12,Susceptible,1,Susceptible,1,Intermediate,1,Resistant,8,Intermediate
+213,TEST,Staphylococcus aureus,Germany,2019,0.5,Intermediate,0.5,Intermediate,0.12,Susceptible,2,Intermediate,2,Intermediate,2,Resistant,8,Resistant,16,Resistant
+214,TEST,Escherichia coli,China,2013,32,Intermediate,8,Intermediate,0.25,Susceptible,32,Intermediate,4,Intermediate,2,Resistant,0.25,Resistant,0.25,Resistant
+215,TEST,Klebsiella pneumoniae,France,2012,2,Intermediate,2,Susceptible,0.5,Intermediate,1,Susceptible,8,Intermediate,4,Intermediate,0.5,Intermediate,0.12,Intermediate
+216,TEST,Pseudomonas aeruginosa,United Kingdom,2012,8,Resistant,8,Intermediate,0.12,Intermediate,1,Resistant,1,Intermediate,32,Intermediate,16,Intermediate,4,Intermediate
+217,TEST,Klebsiella pneumoniae,India,2021,0.5,Resistant,0.25,Resistant,0.5,Intermediate,2,Intermediate,32,Susceptible,4,Intermediate,0.25,Susceptible,4,Susceptible
+218,TEST,Klebsiella pneumoniae,Japan,2014,4,Resistant,2,Resistant,0.25,Resistant,0.12,Intermediate,0.25,Resistant,1,Intermediate,0.25,Intermediate,8,Intermediate
+219,TEST,Klebsiella pneumoniae,Japan,2005,0.5,Susceptible,1,Resistant,8,Intermediate,16,Susceptible,4,Intermediate,0.5,Susceptible,16,Resistant,0.5,Resistant
+220,TEST,Staphylococcus aureus,Germany,2018,2,Susceptible,0.5,Intermediate,0.5,Resistant,0.25,Susceptible,8,Intermediate,8,Resistant,8,Resistant,8,Susceptible
+221,TEST,Staphylococcus aureus,Australia,2010,4,Susceptible,4,Intermediate,1,Susceptible,0.12,Intermediate,1,Susceptible,4,Resistant,0.5,Susceptible,8,Intermediate
+222,TEST,Klebsiella pneumoniae,India,2006,0.12,Resistant,2,Resistant,32,Intermediate,32,Resistant,8,Intermediate,0.5,Resistant,16,Resistant,1,Susceptible
+223,TEST,Pseudomonas aeruginosa,Germany,2011,1,Intermediate,0.5,Susceptible,0.12,Intermediate,32,Susceptible,0.25,Resistant,0.12,Resistant,2,Intermediate,0.12,Intermediate
+224,TEST,Staphylococcus aureus,United States,2004,0.12,Intermediate,0.25,Resistant,16,Resistant,0.25,Intermediate,2,Resistant,0.5,Susceptible,0.12,Resistant,8,Intermediate
+225,TEST,Staphylococcus aureus,Australia,2012,0.5,Resistant,0.25,Intermediate,0.25,Resistant,0.25,Susceptible,16,Susceptible,1,Resistant,32,Susceptible,4,Intermediate
+226,TEST,Pseudomonas aeruginosa,United Kingdom,2009,0.12,Intermediate,16,Susceptible,16,Resistant,1,Susceptible,0.12,Intermediate,0.25,Susceptible,16,Susceptible,0.25,Intermediate
+227,TEST,Staphylococcus aureus,United States,2012,1,Resistant,2,Resistant,16,Susceptible,0.25,Susceptible,0.12,Resistant,4,Intermediate,4,Resistant,0.25,Susceptible
+228,TEST,Staphylococcus aureus,Germany,2008,0.5,Resistant,4,Resistant,2,Intermediate,0.25,Resistant,4,Susceptible,0.25,Resistant,8,Resistant,2,Resistant
+229,TEST,Pseudomonas aeruginosa,Japan,2009,0.25,Susceptible,0.12,Susceptible,0.25,Resistant,16,Intermediate,16,Susceptible,8,Resistant,0.12,Intermediate,0.5,Resistant
+230,TEST,Pseudomonas aeruginosa,United States,2017,16,Susceptible,0.25,Resistant,4,Susceptible,32,Intermediate,1,Intermediate,4,Intermediate,32,Intermediate,0.25,Resistant
+231,TEST,Escherichia coli,China,2015,8,Susceptible,32,Intermediate,0.12,Susceptible,0.5,Intermediate,16,Resistant,0.5,Susceptible,16,Resistant,1,Resistant
+232,TEST,Klebsiella pneumoniae,Germany,2020,1,Intermediate,8,Resistant,1,Susceptible,16,Resistant,16,Susceptible,16,Resistant,4,Susceptible,16,Intermediate
+233,TEST,Staphylococcus aureus,United States,2016,8,Susceptible,32,Intermediate,0.12,Susceptible,2,Intermediate,32,Susceptible,16,Resistant,4,Susceptible,1,Resistant
+234,TEST,Klebsiella pneumoniae,Australia,2023,16,Intermediate,4,Intermediate,16,Susceptible,0.25,Intermediate,1,Susceptible,4,Resistant,2,Intermediate,32,Resistant
+235,TEST,Staphylococcus aureus,Germany,2009,16,Susceptible,8,Susceptible,2,Intermediate,1,Susceptible,0.25,Resistant,1,Resistant,1,Intermediate,4,Susceptible
+236,TEST,Pseudomonas aeruginosa,Germany,2022,0.25,Resistant,16,Intermediate,32,Susceptible,16,Susceptible,32,Intermediate,0.12,Intermediate,8,Intermediate,16,Intermediate
+237,TEST,Escherichia coli,South Africa,2009,0.5,Susceptible,8,Intermediate,4,Intermediate,8,Resistant,1,Resistant,8,Resistant,2,Resistant,0.5,Susceptible
+238,TEST,Pseudomonas aeruginosa,South Africa,2020,2,Intermediate,32,Resistant,32,Intermediate,1,Susceptible,1,Intermediate,2,Intermediate,4,Intermediate,0.5,Intermediate
+239,TEST,Escherichia coli,Australia,2021,4,Intermediate,0.25,Resistant,32,Resistant,8,Intermediate,32,Resistant,8,Susceptible,32,Susceptible,0.12,Resistant
+240,TEST,Escherichia coli,Germany,2005,1,Resistant,0.5,Resistant,2,Susceptible,0.12,Intermediate,2,Susceptible,32,Susceptible,4,Resistant,0.25,Intermediate
+241,TEST,Escherichia coli,Australia,2016,1,Intermediate,2,Intermediate,0.12,Resistant,8,Resistant,4,Intermediate,0.12,Susceptible,2,Susceptible,16,Susceptible
+242,TEST,Klebsiella pneumoniae,South Africa,2021,1,Intermediate,1,Resistant,16,Susceptible,0.25,Susceptible,0.5,Intermediate,32,Susceptible,8,Susceptible,8,Resistant
+243,TEST,Klebsiella pneumoniae,India,2009,2,Susceptible,4,Resistant,0.5,Susceptible,0.5,Resistant,0.12,Intermediate,2,Resistant,32,Resistant,0.25,Intermediate
+244,TEST,Klebsiella pneumoniae,Australia,2011,0.5,Intermediate,0.25,Intermediate,0.5,Resistant,32,Intermediate,8,Susceptible,4,Susceptible,1,Intermediate,4,Resistant
+245,TEST,Klebsiella pneumoniae,United Kingdom,2010,32,Resistant,32,Intermediate,0.12,Susceptible,4,Resistant,1,Intermediate,1,Susceptible,4,Resistant,0.25,Resistant
+246,TEST,Klebsiella pneumoniae,Australia,2013,0.12,Intermediate,4,Intermediate,32,Resistant,16,Susceptible,2,Intermediate,1,Resistant,32,Susceptible,0.25,Susceptible
+247,TEST,Staphylococcus aureus,United States,2010,1,Intermediate,8,Susceptible,1,Intermediate,8,Intermediate,0.25,Intermediate,0.5,Susceptible,16,Intermediate,4,Susceptible
+248,TEST,Staphylococcus aureus,United States,2005,0.5,Resistant,32,Susceptible,1,Resistant,8,Resistant,16,Intermediate,8,Resistant,4,Susceptible,8,Intermediate
+249,TEST,Staphylococcus aureus,Australia,2004,0.25,Intermediate,0.12,Intermediate,0.25,Resistant,32,Susceptible,2,Intermediate,2,Intermediate,0.25,Resistant,16,Resistant
+250,TEST,Pseudomonas aeruginosa,Germany,2019,0.5,Intermediate,1,Susceptible,8,Intermediate,2,Intermediate,0.5,Resistant,4,Susceptible,32,Intermediate,0.5,Susceptible
+251,TEST,Staphylococcus aureus,Germany,2022,8,Intermediate,32,Susceptible,2,Susceptible,4,Susceptible,8,Intermediate,32,Susceptible,0.5,Susceptible,1,Intermediate
+252,TEST,Klebsiella pneumoniae,Brazil,2007,0.5,Intermediate,0.12,Intermediate,16,Intermediate,32,Susceptible,2,Intermediate,0.25,Resistant,0.25,Susceptible,16,Resistant
+253,TEST,Klebsiella pneumoniae,India,2011,0.25,Resistant,0.25,Susceptible,4,Resistant,16,Resistant,2,Intermediate,0.5,Intermediate,4,Resistant,8,Susceptible
+254,TEST,Staphylococcus aureus,France,2011,1,Intermediate,8,Resistant,4,Susceptible,4,Resistant,16,Resistant,4,Resistant,16,Intermediate,0.25,Susceptible
+255,TEST,Staphylococcus aureus,United Kingdom,2008,32,Susceptible,2,Intermediate,0.25,Intermediate,0.25,Susceptible,32,Intermediate,0.12,Intermediate,8,Intermediate,1,Susceptible
+256,TEST,Klebsiella pneumoniae,Australia,2021,16,Intermediate,0.5,Resistant,8,Susceptible,2,Susceptible,16,Intermediate,32,Susceptible,8,Resistant,32,Susceptible
+257,TEST,Escherichia coli,South Africa,2009,32,Susceptible,16,Susceptible,0.5,Intermediate,0.5,Intermediate,16,Resistant,0.12,Susceptible,16,Susceptible,0.25,Resistant
+258,TEST,Klebsiella pneumoniae,Brazil,2005,1,Intermediate,4,Resistant,16,Resistant,0.12,Susceptible,4,Susceptible,32,Intermediate,2,Intermediate,2,Intermediate
+259,TEST,Escherichia coli,Japan,2016,4,Intermediate,0.25,Intermediate,2,Resistant,1,Intermediate,8,Resistant,4,Resistant,16,Intermediate,0.12,Intermediate
+260,TEST,Escherichia coli,China,2009,1,Susceptible,32,Intermediate,2,Susceptible,0.5,Susceptible,0.5,Resistant,0.25,Intermediate,1,Resistant,4,Intermediate
+261,TEST,Staphylococcus aureus,China,2019,16,Susceptible,0.5,Intermediate,8,Susceptible,1,Susceptible,0.5,Intermediate,0.5,Susceptible,32,Susceptible,0.5,Susceptible
+262,TEST,Escherichia coli,United Kingdom,2009,32,Resistant,0.12,Intermediate,2,Susceptible,1,Resistant,16,Resistant,0.5,Susceptible,8,Intermediate,0.5,Intermediate
+263,TEST,Escherichia coli,South Africa,2020,2,Susceptible,4,Resistant,0.25,Susceptible,8,Resistant,0.5,Susceptible,0.12,Susceptible,32,Intermediate,8,Susceptible
+264,TEST,Staphylococcus aureus,India,2019,0.12,Intermediate,32,Susceptible,0.25,Resistant,0.5,Intermediate,32,Susceptible,8,Intermediate,8,Resistant,0.12,Intermediate
+265,TEST,Pseudomonas aeruginosa,Brazil,2019,8,Resistant,0.25,Resistant,0.5,Resistant,16,Susceptible,0.25,Resistant,32,Resistant,2,Susceptible,0.12,Intermediate
+266,TEST,Staphylococcus aureus,South Africa,2020,0.25,Intermediate,0.12,Resistant,1,Intermediate,4,Resistant,4,Susceptible,0.5,Resistant,2,Resistant,32,Resistant
+267,TEST,Klebsiella pneumoniae,South Africa,2012,8,Susceptible,8,Intermediate,32,Resistant,0.5,Resistant,32,Intermediate,16,Resistant,2,Intermediate,4,Intermediate
+268,TEST,Pseudomonas aeruginosa,India,2007,1,Resistant,0.5,Susceptible,1,Intermediate,8,Resistant,32,Intermediate,0.12,Susceptible,8,Intermediate,0.12,Susceptible
+269,TEST,Escherichia coli,China,2023,8,Susceptible,0.25,Resistant,1,Resistant,0.25,Intermediate,0.12,Intermediate,8,Resistant,32,Resistant,0.12,Susceptible
+270,TEST,Pseudomonas aeruginosa,China,2004,1,Intermediate,32,Resistant,1,Susceptible,32,Intermediate,1,Intermediate,0.5,Intermediate,0.12,Resistant,1,Intermediate
+271,TEST,Staphylococcus aureus,India,2006,2,Resistant,4,Intermediate,8,Resistant,1,Intermediate,0.12,Intermediate,0.25,Susceptible,32,Resistant,32,Intermediate
+272,TEST,Klebsiella pneumoniae,France,2012,1,Intermediate,1,Resistant,8,Intermediate,0.12,Resistant,0.5,Resistant,32,Susceptible,32,Susceptible,32,Resistant
+273,TEST,Klebsiella pneumoniae,United States,2020,2,Intermediate,2,Intermediate,16,Resistant,16,Susceptible,4,Resistant,16,Intermediate,0.12,Resistant,0.25,Resistant
+274,TEST,Staphylococcus aureus,Japan,2011,1,Resistant,8,Resistant,32,Intermediate,0.12,Intermediate,2,Susceptible,2,Susceptible,8,Intermediate,4,Susceptible
+275,TEST,Escherichia coli,China,2014,4,Susceptible,2,Susceptible,1,Resistant,1,Susceptible,1,Resistant,1,Susceptible,1,Susceptible,4,Susceptible
+276,TEST,Staphylococcus aureus,United States,2006,16,Intermediate,0.12,Intermediate,0.12,Resistant,4,Intermediate,4,Resistant,2,Resistant,0.5,Intermediate,2,Resistant
+277,TEST,Escherichia coli,South Africa,2008,0.12,Intermediate,8,Resistant,32,Susceptible,32,Resistant,8,Intermediate,0.5,Resistant,0.25,Intermediate,32,Resistant
+278,TEST,Klebsiella pneumoniae,Germany,2004,1,Resistant,0.25,Resistant,4,Intermediate,2,Susceptible,32,Resistant,1,Resistant,16,Intermediate,4,Resistant
+279,TEST,Escherichia coli,China,2017,1,Resistant,4,Resistant,8,Resistant,16,Susceptible,0.5,Intermediate,1,Susceptible,2,Susceptible,32,Resistant
+280,TEST,Pseudomonas aeruginosa,Brazil,2008,0.5,Resistant,0.12,Susceptible,8,Resistant,0.5,Intermediate,32,Intermediate,4,Resistant,2,Resistant,32,Intermediate
+281,TEST,Staphylococcus aureus,Japan,2007,0.5,Susceptible,1,Resistant,16,Intermediate,0.25,Resistant,4,Resistant,4,Resistant,32,Intermediate,2,Resistant
+282,TEST,Staphylococcus aureus,Japan,2007,4,Intermediate,1,Intermediate,32,Susceptible,2,Resistant,4,Intermediate,32,Resistant,16,Susceptible,8,Intermediate
+283,TEST,Klebsiella pneumoniae,China,2008,0.5,Intermediate,4,Resistant,8,Susceptible,0.25,Susceptible,4,Susceptible,4,Resistant,2,Intermediate,2,Intermediate
+284,TEST,Pseudomonas aeruginosa,United Kingdom,2018,4,Intermediate,32,Resistant,8,Susceptible,0.5,Susceptible,0.5,Intermediate,1,Intermediate,2,Intermediate,0.25,Susceptible
+285,TEST,Escherichia coli,Japan,2007,0.25,Susceptible,16,Intermediate,0.12,Susceptible,8,Intermediate,0.25,Susceptible,2,Intermediate,0.5,Susceptible,8,Resistant
+286,TEST,Escherichia coli,Brazil,2013,16,Intermediate,0.5,Susceptible,32,Susceptible,0.12,Susceptible,4,Resistant,16,Resistant,32,Resistant,32,Resistant
+287,TEST,Escherichia coli,Australia,2009,16,Intermediate,8,Intermediate,32,Resistant,4,Resistant,32,Susceptible,0.25,Resistant,2,Resistant,8,Resistant
+288,TEST,Escherichia coli,United Kingdom,2004,0.12,Intermediate,0.5,Resistant,2,Resistant,32,Susceptible,16,Resistant,2,Susceptible,8,Resistant,1,Susceptible
+289,TEST,Klebsiella pneumoniae,Brazil,2017,32,Resistant,8,Susceptible,0.5,Intermediate,8,Resistant,1,Resistant,0.25,Resistant,1,Intermediate,2,Resistant
+290,TEST,Klebsiella pneumoniae,Japan,2010,0.25,Susceptible,0.5,Resistant,0.25,Intermediate,16,Intermediate,16,Resistant,16,Susceptible,4,Susceptible,0.5,Susceptible
+291,TEST,Staphylococcus aureus,India,2007,2,Resistant,0.5,Intermediate,16,Intermediate,0.12,Susceptible,0.25,Susceptible,0.12,Resistant,1,Resistant,8,Resistant
+292,TEST,Pseudomonas aeruginosa,France,2018,0.12,Resistant,0.25,Susceptible,0.12,Resistant,8,Susceptible,32,Resistant,0.5,Susceptible,2,Resistant,0.12,Susceptible
+293,TEST,Escherichia coli,Japan,2018,1,Intermediate,0.12,Susceptible,16,Intermediate,0.25,Intermediate,1,Resistant,8,Intermediate,2,Resistant,0.5,Intermediate
+294,TEST,Staphylococcus aureus,Australia,2020,0.25,Resistant,16,Intermediate,2,Susceptible,4,Susceptible,1,Susceptible,1,Intermediate,8,Resistant,0.12,Susceptible
+295,TEST,Klebsiella pneumoniae,South Africa,2007,8,Susceptible,0.12,Susceptible,16,Intermediate,0.5,Resistant,0.25,Susceptible,0.5,Resistant,0.25,Intermediate,4,Intermediate
+296,TEST,Staphylococcus aureus,Germany,2015,0.5,Intermediate,32,Susceptible,0.5,Resistant,1,Resistant,32,Intermediate,4,Resistant,1,Susceptible,8,Resistant
+297,TEST,Escherichia coli,United Kingdom,2005,16,Intermediate,16,Intermediate,2,Intermediate,16,Susceptible,0.5,Intermediate,4,Resistant,16,Resistant,32,Susceptible
+298,TEST,Staphylococcus aureus,Australia,2008,16,Resistant,2,Intermediate,4,Resistant,0.12,Intermediate,32,Resistant,0.5,Susceptible,4,Intermediate,1,Resistant
+299,TEST,Staphylococcus aureus,Australia,2016,1,Intermediate,16,Intermediate,0.5,Intermediate,2,Resistant,8,Intermediate,4,Susceptible,0.25,Intermediate,0.25,Susceptible
+300,TEST,Escherichia coli,India,2005,1,Susceptible,16,Susceptible,0.25,Susceptible,8,Intermediate,16,Intermediate,2,Susceptible,4,Susceptible,0.25,Susceptible
+301,TEST,Escherichia coli,China,2006,16,Intermediate,0.12,Resistant,32,Intermediate,8,Resistant,0.12,Intermediate,2,Intermediate,0.12,Intermediate,0.25,Resistant
+302,TEST,Staphylococcus aureus,Brazil,2020,0.25,Susceptible,1,Intermediate,8,Susceptible,1,Intermediate,1,Intermediate,0.5,Intermediate,32,Resistant,0.25,Intermediate
+303,TEST,Klebsiella pneumoniae,China,2017,0.25,Susceptible,0.5,Intermediate,8,Intermediate,4,Intermediate,0.5,Intermediate,16,Resistant,4,Intermediate,4,Resistant
+304,TEST,Pseudomonas aeruginosa,Japan,2014,1,Intermediate,32,Susceptible,8,Intermediate,2,Resistant,16,Resistant,8,Susceptible,0.12,Resistant,0.12,Intermediate
+305,TEST,Escherichia coli,United Kingdom,2004,2,Susceptible,1,Resistant,0.12,Intermediate,2,Intermediate,32,Intermediate,0.5,Susceptible,0.12,Resistant,4,Susceptible
+306,TEST,Escherichia coli,United Kingdom,2015,1,Susceptible,2,Resistant,0.25,Intermediate,8,Intermediate,1,Intermediate,0.25,Intermediate,4,Resistant,0.5,Resistant
+307,TEST,Staphylococcus aureus,South Africa,2013,0.12,Intermediate,8,Susceptible,0.12,Resistant,4,Resistant,8,Susceptible,1,Intermediate,0.12,Intermediate,8,Susceptible
+308,TEST,Klebsiella pneumoniae,Australia,2005,4,Intermediate,0.5,Resistant,32,Intermediate,1,Susceptible,0.12,Intermediate,8,Resistant,32,Susceptible,1,Resistant
+309,TEST,Klebsiella pneumoniae,Japan,2008,0.5,Resistant,0.25,Resistant,0.12,Intermediate,8,Resistant,0.25,Resistant,32,Resistant,0.5,Susceptible,16,Intermediate
+310,TEST,Escherichia coli,China,2016,1,Intermediate,32,Susceptible,1,Susceptible,2,Resistant,4,Intermediate,0.25,Susceptible,8,Resistant,4,Resistant
+311,TEST,Escherichia coli,France,2015,0.12,Resistant,0.5,Resistant,16,Intermediate,0.5,Resistant,0.12,Susceptible,1,Intermediate,4,Susceptible,0.25,Susceptible
+312,TEST,Staphylococcus aureus,Brazil,2023,0.5,Resistant,0.12,Resistant,0.25,Resistant,16,Resistant,0.12,Resistant,1,Intermediate,32,Susceptible,1,Intermediate
+313,TEST,Klebsiella pneumoniae,Australia,2019,0.5,Intermediate,0.12,Resistant,32,Susceptible,2,Susceptible,0.12,Resistant,1,Intermediate,2,Susceptible,16,Intermediate
+314,TEST,Staphylococcus aureus,United States,2016,2,Intermediate,4,Susceptible,0.12,Resistant,8,Susceptible,8,Intermediate,0.25,Resistant,16,Intermediate,32,Susceptible
+315,TEST,Escherichia coli,Brazil,2020,16,Intermediate,0.12,Susceptible,1,Intermediate,2,Resistant,16,Resistant,0.5,Susceptible,4,Intermediate,4,Resistant
+316,TEST,Klebsiella pneumoniae,Brazil,2020,2,Susceptible,2,Resistant,0.12,Intermediate,2,Susceptible,0.5,Resistant,8,Intermediate,0.5,Susceptible,8,Intermediate
+317,TEST,Escherichia coli,Japan,2011,0.5,Resistant,2,Intermediate,4,Resistant,32,Susceptible,1,Intermediate,0.5,Intermediate,32,Intermediate,1,Susceptible
+318,TEST,Klebsiella pneumoniae,Australia,2008,8,Susceptible,0.5,Resistant,0.25,Intermediate,32,Intermediate,0.25,Susceptible,4,Susceptible,0.12,Resistant,8,Resistant
+319,TEST,Klebsiella pneumoniae,China,2012,0.5,Susceptible,0.25,Susceptible,0.5,Susceptible,2,Intermediate,1,Intermediate,1,Susceptible,0.12,Resistant,0.25,Intermediate
+320,TEST,Pseudomonas aeruginosa,India,2020,16,Intermediate,4,Susceptible,8,Resistant,16,Susceptible,0.5,Susceptible,1,Susceptible,8,Susceptible,2,Resistant
+321,TEST,Escherichia coli,Brazil,2010,0.25,Susceptible,16,Intermediate,16,Intermediate,4,Resistant,1,Resistant,8,Susceptible,8,Intermediate,4,Resistant
+322,TEST,Staphylococcus aureus,Australia,2007,16,Resistant,0.12,Susceptible,32,Intermediate,8,Intermediate,0.12,Intermediate,8,Intermediate,0.12,Susceptible,2,Resistant
+323,TEST,Pseudomonas aeruginosa,United Kingdom,2013,16,Susceptible,8,Resistant,0.12,Intermediate,32,Susceptible,16,Intermediate,16,Susceptible,32,Susceptible,0.5,Intermediate
+324,TEST,Escherichia coli,Japan,2017,4,Resistant,0.12,Susceptible,16,Intermediate,1,Resistant,0.25,Resistant,4,Intermediate,0.5,Intermediate,0.25,Susceptible
+325,TEST,Staphylococcus aureus,China,2015,0.25,Intermediate,8,Intermediate,32,Intermediate,0.5,Resistant,32,Resistant,0.12,Susceptible,4,Intermediate,0.5,Susceptible
+326,TEST,Escherichia coli,India,2005,8,Resistant,2,Intermediate,16,Resistant,0.5,Susceptible,0.5,Susceptible,0.12,Intermediate,2,Susceptible,16,Resistant
+327,TEST,Pseudomonas aeruginosa,Australia,2004,16,Susceptible,1,Intermediate,16,Resistant,8,Resistant,0.25,Intermediate,0.12,Susceptible,32,Resistant,32,Susceptible
+328,TEST,Staphylococcus aureus,India,2008,0.12,Intermediate,4,Susceptible,0.5,Susceptible,2,Resistant,0.25,Susceptible,0.25,Resistant,0.5,Susceptible,2,Intermediate
+329,TEST,Escherichia coli,China,2022,4,Susceptible,0.25,Resistant,4,Resistant,8,Susceptible,8,Intermediate,0.25,Resistant,16,Susceptible,0.25,Intermediate
+330,TEST,Klebsiella pneumoniae,France,2020,8,Intermediate,1,Intermediate,1,Intermediate,0.12,Susceptible,32,Susceptible,16,Intermediate,2,Resistant,4,Resistant
+331,TEST,Klebsiella pneumoniae,India,2023,16,Intermediate,16,Resistant,0.5,Intermediate,1,Intermediate,2,Susceptible,0.12,Susceptible,0.12,Resistant,0.25,Intermediate
+332,TEST,Escherichia coli,South Africa,2017,8,Susceptible,4,Resistant,32,Intermediate,1,Susceptible,1,Intermediate,2,Resistant,0.25,Resistant,2,Intermediate
+333,TEST,Klebsiella pneumoniae,Germany,2007,4,Resistant,8,Intermediate,0.12,Susceptible,1,Resistant,4,Intermediate,16,Resistant,0.12,Intermediate,0.5,Resistant
+334,TEST,Escherichia coli,China,2021,4,Resistant,8,Intermediate,0.12,Intermediate,2,Intermediate,4,Intermediate,32,Susceptible,1,Intermediate,4,Resistant
+335,TEST,Staphylococcus aureus,India,2012,0.12,Resistant,8,Intermediate,32,Susceptible,8,Susceptible,0.25,Resistant,4,Intermediate,0.12,Resistant,8,Susceptible
+336,TEST,Pseudomonas aeruginosa,Brazil,2015,16,Resistant,1,Intermediate,2,Susceptible,0.25,Resistant,0.12,Susceptible,0.25,Resistant,32,Susceptible,16,Intermediate
+337,TEST,Escherichia coli,Brazil,2014,16,Intermediate,32,Resistant,4,Susceptible,0.25,Intermediate,0.5,Susceptible,0.12,Resistant,8,Intermediate,32,Susceptible
+338,TEST,Staphylococcus aureus,United Kingdom,2005,0.25,Resistant,16,Susceptible,0.25,Intermediate,2,Susceptible,2,Intermediate,1,Resistant,1,Susceptible,2,Resistant
+339,TEST,Klebsiella pneumoniae,China,2007,2,Susceptible,0.5,Resistant,0.25,Susceptible,32,Intermediate,0.25,Susceptible,32,Resistant,32,Resistant,2,Susceptible
+340,TEST,Klebsiella pneumoniae,South Africa,2011,0.5,Susceptible,2,Intermediate,4,Intermediate,16,Susceptible,0.5,Susceptible,16,Intermediate,0.12,Susceptible,8,Susceptible
+341,TEST,Staphylococcus aureus,Japan,2016,0.5,Intermediate,16,Intermediate,4,Resistant,4,Susceptible,32,Susceptible,16,Intermediate,0.5,Susceptible,16,Susceptible
+342,TEST,Pseudomonas aeruginosa,United Kingdom,2018,16,Susceptible,1,Susceptible,2,Resistant,8,Susceptible,4,Resistant,16,Resistant,0.12,Susceptible,16,Susceptible
+343,TEST,Klebsiella pneumoniae,China,2018,0.5,Resistant,4,Intermediate,0.5,Intermediate,0.25,Resistant,0.25,Resistant,32,Intermediate,0.25,Resistant,32,Resistant
+344,TEST,Pseudomonas aeruginosa,South Africa,2017,1,Intermediate,1,Intermediate,0.5,Resistant,8,Susceptible,4,Susceptible,8,Resistant,4,Intermediate,1,Susceptible
+345,TEST,Staphylococcus aureus,South Africa,2019,0.25,Intermediate,16,Resistant,32,Susceptible,16,Susceptible,2,Resistant,0.25,Intermediate,0.25,Intermediate,8,Resistant
+346,TEST,Pseudomonas aeruginosa,Germany,2006,1,Susceptible,0.12,Susceptible,0.5,Resistant,32,Resistant,8,Intermediate,16,Susceptible,1,Intermediate,4,Resistant
+347,TEST,Klebsiella pneumoniae,Japan,2015,0.25,Intermediate,0.12,Intermediate,32,Resistant,0.5,Resistant,0.12,Resistant,32,Susceptible,0.12,Intermediate,32,Resistant
+348,TEST,Staphylococcus aureus,United Kingdom,2004,1,Resistant,8,Intermediate,4,Intermediate,8,Resistant,8,Resistant,32,Susceptible,0.5,Resistant,0.5,Susceptible
+349,TEST,Pseudomonas aeruginosa,France,2017,0.5,Resistant,0.5,Susceptible,0.12,Susceptible,0.12,Susceptible,16,Intermediate,8,Susceptible,0.25,Susceptible,8,Resistant
+350,TEST,Pseudomonas aeruginosa,South Africa,2009,16,Intermediate,8,Intermediate,16,Resistant,4,Susceptible,0.5,Resistant,0.12,Intermediate,16,Intermediate,1,Intermediate
+351,TEST,Klebsiella pneumoniae,Japan,2021,4,Susceptible,0.12,Intermediate,16,Intermediate,4,Susceptible,16,Intermediate,0.25,Susceptible,32,Resistant,16,Intermediate
+352,TEST,Staphylococcus aureus,Australia,2023,0.25,Susceptible,16,Intermediate,0.25,Intermediate,32,Intermediate,2,Intermediate,0.12,Resistant,32,Susceptible,16,Resistant
+353,TEST,Pseudomonas aeruginosa,South Africa,2014,8,Resistant,2,Resistant,0.5,Susceptible,2,Intermediate,2,Susceptible,16,Intermediate,0.5,Intermediate,0.12,Intermediate
+354,TEST,Klebsiella pneumoniae,South Africa,2004,2,Resistant,0.25,Susceptible,32,Susceptible,2,Resistant,0.5,Intermediate,2,Resistant,2,Susceptible,0.25,Intermediate
+355,TEST,Escherichia coli,South Africa,2008,16,Resistant,0.5,Resistant,1,Resistant,0.5,Intermediate,0.12,Resistant,0.25,Susceptible,0.5,Resistant,8,Resistant
+356,TEST,Escherichia coli,China,2009,1,Intermediate,4,Susceptible,2,Susceptible,0.12,Susceptible,16,Resistant,16,Resistant,16,Intermediate,32,Susceptible
+357,TEST,Pseudomonas aeruginosa,Japan,2019,2,Susceptible,32,Resistant,0.12,Resistant,16,Resistant,4,Intermediate,0.12,Susceptible,32,Intermediate,4,Resistant
+358,TEST,Klebsiella pneumoniae,France,2012,2,Susceptible,2,Intermediate,8,Resistant,1,Intermediate,1,Intermediate,4,Intermediate,0.5,Resistant,32,Susceptible
+359,TEST,Staphylococcus aureus,United States,2004,8,Susceptible,32,Susceptible,16,Resistant,1,Intermediate,2,Resistant,1,Susceptible,0.12,Intermediate,0.25,Susceptible
+360,TEST,Escherichia coli,South Africa,2007,0.25,Susceptible,0.5,Resistant,0.5,Susceptible,0.5,Resistant,2,Resistant,0.25,Intermediate,16,Resistant,8,Intermediate
+361,TEST,Klebsiella pneumoniae,United Kingdom,2009,0.25,Resistant,0.12,Resistant,8,Resistant,0.12,Resistant,2,Susceptible,16,Susceptible,16,Susceptible,8,Susceptible
+362,TEST,Pseudomonas aeruginosa,United States,2008,32,Resistant,1,Intermediate,0.25,Resistant,2,Susceptible,0.12,Susceptible,0.25,Intermediate,2,Resistant,0.12,Resistant
+363,TEST,Escherichia coli,Germany,2005,8,Resistant,0.5,Intermediate,4,Resistant,0.12,Intermediate,16,Resistant,8,Resistant,0.25,Intermediate,1,Susceptible
+364,TEST,Pseudomonas aeruginosa,China,2007,32,Resistant,4,Intermediate,2,Resistant,0.12,Intermediate,0.25,Resistant,32,Resistant,0.25,Resistant,2,Intermediate
+365,TEST,Escherichia coli,India,2021,0.12,Resistant,1,Resistant,8,Susceptible,4,Resistant,0.25,Intermediate,16,Intermediate,1,Susceptible,0.12,Susceptible
+366,TEST,Staphylococcus aureus,South Africa,2011,16,Resistant,0.25,Intermediate,2,Resistant,32,Resistant,0.12,Susceptible,4,Susceptible,4,Intermediate,0.12,Resistant
+367,TEST,Staphylococcus aureus,Brazil,2020,16,Intermediate,32,Susceptible,1,Susceptible,0.12,Intermediate,0.5,Resistant,0.12,Resistant,0.12,Susceptible,0.5,Susceptible
+368,TEST,Escherichia coli,Germany,2013,0.25,Resistant,0.5,Intermediate,0.25,Susceptible,0.25,Resistant,1,Susceptible,1,Resistant,4,Intermediate,8,Resistant
+369,TEST,Staphylococcus aureus,South Africa,2021,0.5,Resistant,1,Susceptible,0.5,Resistant,0.25,Susceptible,2,Susceptible,8,Susceptible,4,Intermediate,0.5,Resistant
+370,TEST,Escherichia coli,South Africa,2005,0.5,Susceptible,8,Susceptible,0.12,Resistant,0.25,Susceptible,0.12,Susceptible,0.25,Intermediate,2,Resistant,16,Intermediate
+371,TEST,Escherichia coli,Brazil,2008,2,Intermediate,16,Resistant,1,Susceptible,0.12,Intermediate,0.5,Intermediate,16,Intermediate,0.25,Intermediate,2,Resistant
+372,TEST,Pseudomonas aeruginosa,Germany,2021,1,Susceptible,0.25,Intermediate,0.25,Intermediate,4,Intermediate,32,Susceptible,16,Intermediate,1,Resistant,0.12,Susceptible
+373,TEST,Staphylococcus aureus,India,2019,16,Susceptible,0.5,Intermediate,0.12,Susceptible,4,Resistant,1,Resistant,2,Resistant,16,Susceptible,0.25,Intermediate
+374,TEST,Staphylococcus aureus,Australia,2009,0.5,Susceptible,16,Intermediate,0.25,Susceptible,1,Intermediate,16,Intermediate,4,Resistant,1,Intermediate,4,Susceptible
+375,TEST,Staphylococcus aureus,France,2011,0.25,Susceptible,8,Susceptible,8,Susceptible,0.25,Resistant,16,Susceptible,8,Susceptible,1,Intermediate,16,Susceptible
+376,TEST,Pseudomonas aeruginosa,France,2008,16,Intermediate,1,Intermediate,4,Resistant,1,Resistant,0.5,Susceptible,0.12,Resistant,0.5,Susceptible,16,Resistant
+377,TEST,Pseudomonas aeruginosa,India,2014,1,Resistant,0.5,Intermediate,0.5,Intermediate,32,Susceptible,0.25,Resistant,32,Resistant,1,Intermediate,16,Resistant
+378,TEST,Klebsiella pneumoniae,Germany,2017,1,Susceptible,4,Resistant,1,Intermediate,0.5,Intermediate,0.12,Resistant,0.12,Susceptible,16,Intermediate,32,Susceptible
+379,TEST,Pseudomonas aeruginosa,Australia,2016,16,Intermediate,0.25,Resistant,16,Susceptible,0.25,Intermediate,0.12,Intermediate,8,Susceptible,0.5,Resistant,2,Susceptible
+380,TEST,Staphylococcus aureus,Germany,2019,2,Susceptible,16,Intermediate,0.12,Resistant,16,Susceptible,8,Susceptible,4,Intermediate,16,Intermediate,0.12,Intermediate
+381,TEST,Staphylococcus aureus,Japan,2014,32,Susceptible,2,Resistant,2,Intermediate,32,Intermediate,1,Intermediate,0.25,Intermediate,4,Intermediate,0.12,Intermediate
+382,TEST,Klebsiella pneumoniae,Germany,2007,8,Resistant,16,Intermediate,0.12,Resistant,4,Susceptible,32,Intermediate,0.25,Intermediate,1,Susceptible,4,Susceptible
+383,TEST,Staphylococcus aureus,China,2022,1,Intermediate,1,Resistant,4,Resistant,32,Intermediate,8,Resistant,0.12,Susceptible,4,Resistant,16,Resistant
+384,TEST,Staphylococcus aureus,China,2021,32,Resistant,16,Intermediate,4,Intermediate,0.25,Susceptible,16,Susceptible,0.25,Resistant,0.5,Resistant,0.25,Susceptible
+385,TEST,Escherichia coli,United Kingdom,2007,0.5,Resistant,0.5,Susceptible,32,Intermediate,0.12,Resistant,8,Intermediate,32,Susceptible,16,Resistant,8,Resistant
+386,TEST,Staphylococcus aureus,United Kingdom,2010,0.25,Susceptible,1,Intermediate,4,Resistant,4,Intermediate,4,Resistant,32,Intermediate,16,Resistant,2,Intermediate
+387,TEST,Escherichia coli,United Kingdom,2009,2,Susceptible,16,Resistant,2,Susceptible,0.5,Resistant,2,Resistant,0.5,Intermediate,0.5,Intermediate,32,Resistant
+388,TEST,Escherichia coli,India,2008,0.5,Susceptible,0.25,Susceptible,4,Intermediate,0.5,Resistant,2,Resistant,0.5,Susceptible,32,Intermediate,0.12,Intermediate
+389,TEST,Klebsiella pneumoniae,France,2008,4,Resistant,32,Susceptible,32,Resistant,0.25,Susceptible,8,Resistant,0.5,Resistant,4,Susceptible,0.12,Intermediate
+390,TEST,Klebsiella pneumoniae,United Kingdom,2019,2,Intermediate,0.5,Intermediate,16,Resistant,0.25,Intermediate,16,Susceptible,0.5,Intermediate,32,Susceptible,2,Susceptible
+391,TEST,Pseudomonas aeruginosa,South Africa,2011,16,Resistant,0.25,Resistant,0.12,Intermediate,1,Intermediate,32,Susceptible,2,Susceptible,0.12,Susceptible,32,Resistant
+392,TEST,Staphylococcus aureus,Australia,2016,1,Resistant,4,Intermediate,32,Susceptible,4,Resistant,0.5,Intermediate,8,Resistant,8,Resistant,0.12,Resistant
+393,TEST,Klebsiella pneumoniae,France,2013,16,Intermediate,0.25,Susceptible,16,Intermediate,8,Resistant,2,Susceptible,8,Intermediate,8,Susceptible,0.25,Susceptible
+394,TEST,Escherichia coli,United Kingdom,2019,32,Resistant,0.25,Intermediate,8,Susceptible,0.12,Resistant,2,Resistant,0.5,Intermediate,16,Intermediate,0.5,Susceptible
+395,TEST,Escherichia coli,Japan,2013,32,Resistant,0.12,Resistant,2,Resistant,32,Intermediate,16,Susceptible,0.12,Susceptible,0.5,Resistant,2,Intermediate
+396,TEST,Pseudomonas aeruginosa,United States,2013,8,Susceptible,16,Intermediate,1,Susceptible,0.25,Resistant,16,Susceptible,4,Intermediate,16,Intermediate,8,Resistant
+397,TEST,Pseudomonas aeruginosa,United States,2015,32,Intermediate,0.12,Resistant,0.5,Intermediate,0.12,Susceptible,4,Resistant,0.5,Resistant,0.5,Susceptible,2,Resistant
+398,TEST,Pseudomonas aeruginosa,France,2005,2,Resistant,32,Intermediate,0.25,Intermediate,1,Intermediate,0.5,Susceptible,0.5,Intermediate,4,Resistant,2,Resistant
+399,TEST,Klebsiella pneumoniae,United States,2021,4,Susceptible,0.12,Susceptible,32,Resistant,4,Resistant,8,Resistant,0.5,Susceptible,1,Susceptible,32,Susceptible
+400,TEST,Escherichia coli,Australia,2023,32,Intermediate,32,Intermediate,0.25,Resistant,16,Susceptible,0.25,Susceptible,0.12,Resistant,4,Resistant,4,Susceptible

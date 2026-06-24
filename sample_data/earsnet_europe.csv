@@ -1,0 +1,379 @@
+RegionName,Bacteria,AntibioticGroup,Time,Percentage
+Germany,Escherichia coli,3rd gen. cephalosporins,2010,10.07
+Germany,Escherichia coli,3rd gen. cephalosporins,2011,8.33
+Germany,Escherichia coli,3rd gen. cephalosporins,2012,10.22
+Germany,Escherichia coli,3rd gen. cephalosporins,2013,8.95
+Germany,Escherichia coli,3rd gen. cephalosporins,2014,9.99
+Germany,Escherichia coli,3rd gen. cephalosporins,2015,12.0
+Germany,Escherichia coli,3rd gen. cephalosporins,2016,10.62
+Germany,Escherichia coli,3rd gen. cephalosporins,2017,10.76
+Germany,Escherichia coli,3rd gen. cephalosporins,2018,10.14
+Germany,Escherichia coli,3rd gen. cephalosporins,2019,10.27
+Germany,Escherichia coli,3rd gen. cephalosporins,2020,9.54
+Germany,Escherichia coli,3rd gen. cephalosporins,2021,9.43
+Germany,Escherichia coli,3rd gen. cephalosporins,2022,11.61
+Germany,Escherichia coli,3rd gen. cephalosporins,2023,10.42
+Germany,Escherichia coli,Carbapenems,2010,9.01
+Germany,Escherichia coli,Carbapenems,2011,7.11
+Germany,Escherichia coli,Carbapenems,2012,9.66
+Germany,Escherichia coli,Carbapenems,2013,10.31
+Germany,Escherichia coli,Carbapenems,2014,9.2
+Germany,Escherichia coli,Carbapenems,2015,9.36
+Germany,Escherichia coli,Carbapenems,2016,10.86
+Germany,Escherichia coli,Carbapenems,2017,11.43
+Germany,Escherichia coli,Carbapenems,2018,10.01
+Germany,Escherichia coli,Carbapenems,2019,9.6
+Germany,Escherichia coli,Carbapenems,2020,10.91
+Germany,Escherichia coli,Carbapenems,2021,10.1
+Germany,Escherichia coli,Carbapenems,2022,8.62
+Germany,Escherichia coli,Carbapenems,2023,10.71
+Germany,Escherichia coli,Methicillin,2010,8.59
+Germany,Escherichia coli,Methicillin,2011,9.74
+Germany,Escherichia coli,Methicillin,2012,7.41
+Germany,Escherichia coli,Methicillin,2013,10.02
+Germany,Escherichia coli,Methicillin,2014,10.69
+Germany,Escherichia coli,Methicillin,2015,9.07
+Germany,Escherichia coli,Methicillin,2016,8.29
+Germany,Escherichia coli,Methicillin,2017,9.29
+Germany,Escherichia coli,Methicillin,2018,9.51
+Germany,Escherichia coli,Methicillin,2019,12.11
+Germany,Escherichia coli,Methicillin,2020,10.62
+Germany,Escherichia coli,Methicillin,2021,10.16
+Germany,Escherichia coli,Methicillin,2022,12.64
+Germany,Escherichia coli,Methicillin,2023,11.85
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2010,8.52
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2011,9.07
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2012,8.29
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2013,9.66
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2014,10.8
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2015,9.89
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2016,9.67
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2017,10.1
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2018,10.14
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2019,12.97
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2020,10.12
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2021,11.36
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2022,9.3
+Germany,Klebsiella pneumoniae,3rd gen. cephalosporins,2023,9.04
+Germany,Klebsiella pneumoniae,Carbapenems,2010,6.81
+Germany,Klebsiella pneumoniae,Carbapenems,2011,8.34
+Germany,Klebsiella pneumoniae,Carbapenems,2012,7.69
+Germany,Klebsiella pneumoniae,Carbapenems,2013,9.75
+Germany,Klebsiella pneumoniae,Carbapenems,2014,10.9
+Germany,Klebsiella pneumoniae,Carbapenems,2015,10.23
+Germany,Klebsiella pneumoniae,Carbapenems,2016,9.1
+Germany,Klebsiella pneumoniae,Carbapenems,2017,11.28
+Germany,Klebsiella pneumoniae,Carbapenems,2018,11.71
+Germany,Klebsiella pneumoniae,Carbapenems,2019,10.83
+Germany,Klebsiella pneumoniae,Carbapenems,2020,10.0
+Germany,Klebsiella pneumoniae,Carbapenems,2021,10.51
+Germany,Klebsiella pneumoniae,Carbapenems,2022,11.88
+Germany,Klebsiella pneumoniae,Carbapenems,2023,10.89
+Germany,Klebsiella pneumoniae,Methicillin,2010,10.14
+Germany,Klebsiella pneumoniae,Methicillin,2011,10.42
+Germany,Klebsiella pneumoniae,Methicillin,2012,8.42
+Germany,Klebsiella pneumoniae,Methicillin,2013,8.21
+Germany,Klebsiella pneumoniae,Methicillin,2014,9.26
+Germany,Klebsiella pneumoniae,Methicillin,2015,9.63
+Germany,Klebsiella pneumoniae,Methicillin,2016,11.52
+Germany,Klebsiella pneumoniae,Methicillin,2017,8.51
+Germany,Klebsiella pneumoniae,Methicillin,2018,10.58
+Germany,Klebsiella pneumoniae,Methicillin,2019,10.61
+Germany,Klebsiella pneumoniae,Methicillin,2020,9.68
+Germany,Klebsiella pneumoniae,Methicillin,2021,11.19
+Germany,Klebsiella pneumoniae,Methicillin,2022,10.28
+Germany,Klebsiella pneumoniae,Methicillin,2023,9.83
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2010,9.87
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2011,10.54
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2012,11.22
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2013,10.01
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2014,9.9
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2015,11.07
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2016,10.06
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2017,8.79
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2018,9.15
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2019,11.25
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2020,10.91
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2021,9.04
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2022,10.7
+Germany,Staphylococcus aureus,3rd gen. cephalosporins,2023,11.59
+Germany,Staphylococcus aureus,Carbapenems,2010,8.12
+Germany,Staphylococcus aureus,Carbapenems,2011,10.81
+Germany,Staphylococcus aureus,Carbapenems,2012,10.35
+Germany,Staphylococcus aureus,Carbapenems,2013,10.79
+Germany,Staphylococcus aureus,Carbapenems,2014,12.62
+Germany,Staphylococcus aureus,Carbapenems,2015,10.46
+Germany,Staphylococcus aureus,Carbapenems,2016,9.14
+Germany,Staphylococcus aureus,Carbapenems,2017,10.05
+Germany,Staphylococcus aureus,Carbapenems,2018,9.71
+Germany,Staphylococcus aureus,Carbapenems,2019,11.68
+Germany,Staphylococcus aureus,Carbapenems,2020,10.21
+Germany,Staphylococcus aureus,Carbapenems,2021,10.48
+Germany,Staphylococcus aureus,Carbapenems,2022,9.64
+Germany,Staphylococcus aureus,Carbapenems,2023,9.52
+Germany,Staphylococcus aureus,Methicillin,2010,10.77
+Germany,Staphylococcus aureus,Methicillin,2011,11.21
+Germany,Staphylococcus aureus,Methicillin,2012,7.83
+Germany,Staphylococcus aureus,Methicillin,2013,7.66
+Germany,Staphylococcus aureus,Methicillin,2014,9.45
+Germany,Staphylococcus aureus,Methicillin,2015,8.91
+Germany,Staphylococcus aureus,Methicillin,2016,11.34
+Germany,Staphylococcus aureus,Methicillin,2017,9.58
+Germany,Staphylococcus aureus,Methicillin,2018,10.27
+Germany,Staphylococcus aureus,Methicillin,2019,9.6
+Germany,Staphylococcus aureus,Methicillin,2020,10.06
+Germany,Staphylococcus aureus,Methicillin,2021,11.18
+Germany,Staphylococcus aureus,Methicillin,2022,9.78
+Germany,Staphylococcus aureus,Methicillin,2023,9.72
+France,Escherichia coli,3rd gen. cephalosporins,2010,15.85
+France,Escherichia coli,3rd gen. cephalosporins,2011,13.16
+France,Escherichia coli,3rd gen. cephalosporins,2012,12.12
+France,Escherichia coli,3rd gen. cephalosporins,2013,14.78
+France,Escherichia coli,3rd gen. cephalosporins,2014,14.74
+France,Escherichia coli,3rd gen. cephalosporins,2015,16.02
+France,Escherichia coli,3rd gen. cephalosporins,2016,15.89
+France,Escherichia coli,3rd gen. cephalosporins,2017,15.16
+France,Escherichia coli,3rd gen. cephalosporins,2018,15.5
+France,Escherichia coli,3rd gen. cephalosporins,2019,14.21
+France,Escherichia coli,3rd gen. cephalosporins,2020,15.37
+France,Escherichia coli,3rd gen. cephalosporins,2021,15.29
+France,Escherichia coli,3rd gen. cephalosporins,2022,16.63
+France,Escherichia coli,3rd gen. cephalosporins,2023,15.15
+France,Escherichia coli,Carbapenems,2010,12.97
+France,Escherichia coli,Carbapenems,2011,14.41
+France,Escherichia coli,Carbapenems,2012,13.69
+France,Escherichia coli,Carbapenems,2013,13.6
+France,Escherichia coli,Carbapenems,2014,15.77
+France,Escherichia coli,Carbapenems,2015,16.57
+France,Escherichia coli,Carbapenems,2016,13.73
+France,Escherichia coli,Carbapenems,2017,15.61
+France,Escherichia coli,Carbapenems,2018,14.63
+France,Escherichia coli,Carbapenems,2019,16.96
+France,Escherichia coli,Carbapenems,2020,16.16
+France,Escherichia coli,Carbapenems,2021,14.74
+France,Escherichia coli,Carbapenems,2022,15.28
+France,Escherichia coli,Carbapenems,2023,16.26
+France,Escherichia coli,Methicillin,2010,13.79
+France,Escherichia coli,Methicillin,2011,13.87
+France,Escherichia coli,Methicillin,2012,13.46
+France,Escherichia coli,Methicillin,2013,14.91
+France,Escherichia coli,Methicillin,2014,15.58
+France,Escherichia coli,Methicillin,2015,13.2
+France,Escherichia coli,Methicillin,2016,14.91
+France,Escherichia coli,Methicillin,2017,14.65
+France,Escherichia coli,Methicillin,2018,14.04
+France,Escherichia coli,Methicillin,2019,15.58
+France,Escherichia coli,Methicillin,2020,16.73
+France,Escherichia coli,Methicillin,2021,16.04
+France,Escherichia coli,Methicillin,2022,15.57
+France,Escherichia coli,Methicillin,2023,14.29
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2010,14.06
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2011,14.39
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2012,14.45
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2013,14.88
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2014,13.99
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2015,13.14
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2016,15.03
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2017,15.01
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2018,15.41
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2019,16.76
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2020,16.78
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2021,16.0
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2022,15.31
+France,Klebsiella pneumoniae,3rd gen. cephalosporins,2023,16.87
+France,Klebsiella pneumoniae,Carbapenems,2010,13.75
+France,Klebsiella pneumoniae,Carbapenems,2011,14.38
+France,Klebsiella pneumoniae,Carbapenems,2012,13.28
+France,Klebsiella pneumoniae,Carbapenems,2013,13.98
+France,Klebsiella pneumoniae,Carbapenems,2014,14.3
+France,Klebsiella pneumoniae,Carbapenems,2015,13.65
+France,Klebsiella pneumoniae,Carbapenems,2016,15.4
+France,Klebsiella pneumoniae,Carbapenems,2017,14.01
+France,Klebsiella pneumoniae,Carbapenems,2018,14.3
+France,Klebsiella pneumoniae,Carbapenems,2019,15.55
+France,Klebsiella pneumoniae,Carbapenems,2020,15.08
+France,Klebsiella pneumoniae,Carbapenems,2021,14.94
+France,Klebsiella pneumoniae,Carbapenems,2022,16.04
+France,Klebsiella pneumoniae,Carbapenems,2023,15.72
+France,Klebsiella pneumoniae,Methicillin,2010,12.8
+France,Klebsiella pneumoniae,Methicillin,2011,13.62
+France,Klebsiella pneumoniae,Methicillin,2012,13.19
+France,Klebsiella pneumoniae,Methicillin,2013,16.36
+France,Klebsiella pneumoniae,Methicillin,2014,12.96
+France,Klebsiella pneumoniae,Methicillin,2015,16.25
+France,Klebsiella pneumoniae,Methicillin,2016,15.97
+France,Klebsiella pneumoniae,Methicillin,2017,15.19
+France,Klebsiella pneumoniae,Methicillin,2018,14.22
+France,Klebsiella pneumoniae,Methicillin,2019,14.98
+France,Klebsiella pneumoniae,Methicillin,2020,15.69
+France,Klebsiella pneumoniae,Methicillin,2021,18.43
+France,Klebsiella pneumoniae,Methicillin,2022,15.97
+France,Klebsiella pneumoniae,Methicillin,2023,14.06
+France,Staphylococcus aureus,3rd gen. cephalosporins,2010,14.16
+France,Staphylococcus aureus,3rd gen. cephalosporins,2011,14.51
+France,Staphylococcus aureus,3rd gen. cephalosporins,2012,13.91
+France,Staphylococcus aureus,3rd gen. cephalosporins,2013,14.52
+France,Staphylococcus aureus,3rd gen. cephalosporins,2014,15.5
+France,Staphylococcus aureus,3rd gen. cephalosporins,2015,12.0
+France,Staphylococcus aureus,3rd gen. cephalosporins,2016,14.27
+France,Staphylococcus aureus,3rd gen. cephalosporins,2017,14.62
+France,Staphylococcus aureus,3rd gen. cephalosporins,2018,17.05
+France,Staphylococcus aureus,3rd gen. cephalosporins,2019,15.26
+France,Staphylococcus aureus,3rd gen. cephalosporins,2020,15.97
+France,Staphylococcus aureus,3rd gen. cephalosporins,2021,15.82
+France,Staphylococcus aureus,3rd gen. cephalosporins,2022,17.58
+France,Staphylococcus aureus,3rd gen. cephalosporins,2023,17.46
+France,Staphylococcus aureus,Carbapenems,2010,13.75
+France,Staphylococcus aureus,Carbapenems,2011,13.42
+France,Staphylococcus aureus,Carbapenems,2012,14.41
+France,Staphylococcus aureus,Carbapenems,2013,15.54
+France,Staphylococcus aureus,Carbapenems,2014,12.58
+France,Staphylococcus aureus,Carbapenems,2015,15.83
+France,Staphylococcus aureus,Carbapenems,2016,14.75
+France,Staphylococcus aureus,Carbapenems,2017,14.98
+France,Staphylococcus aureus,Carbapenems,2018,15.3
+France,Staphylococcus aureus,Carbapenems,2019,15.35
+France,Staphylococcus aureus,Carbapenems,2020,15.55
+France,Staphylococcus aureus,Carbapenems,2021,17.13
+France,Staphylococcus aureus,Carbapenems,2022,15.87
+France,Staphylococcus aureus,Carbapenems,2023,16.54
+France,Staphylococcus aureus,Methicillin,2010,15.42
+France,Staphylococcus aureus,Methicillin,2011,14.48
+France,Staphylococcus aureus,Methicillin,2012,13.77
+France,Staphylococcus aureus,Methicillin,2013,14.34
+France,Staphylococcus aureus,Methicillin,2014,14.5
+France,Staphylococcus aureus,Methicillin,2015,15.9
+France,Staphylococcus aureus,Methicillin,2016,16.39
+France,Staphylococcus aureus,Methicillin,2017,13.78
+France,Staphylococcus aureus,Methicillin,2018,16.36
+France,Staphylococcus aureus,Methicillin,2019,16.7
+France,Staphylococcus aureus,Methicillin,2020,13.37
+France,Staphylococcus aureus,Methicillin,2021,15.76
+France,Staphylococcus aureus,Methicillin,2022,17.06
+France,Staphylococcus aureus,Methicillin,2023,16.81
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2010,11.52
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2011,8.93
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2012,10.6
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2013,12.12
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2014,10.45
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2015,10.73
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2016,11.83
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2017,13.19
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2018,11.64
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2019,11.81
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2020,12.37
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2021,13.15
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2022,14.31
+United Kingdom,Escherichia coli,3rd gen. cephalosporins,2023,13.71
+United Kingdom,Escherichia coli,Carbapenems,2010,10.92
+United Kingdom,Escherichia coli,Carbapenems,2011,11.98
+United Kingdom,Escherichia coli,Carbapenems,2012,11.42
+United Kingdom,Escherichia coli,Carbapenems,2013,11.97
+United Kingdom,Escherichia coli,Carbapenems,2014,11.25
+United Kingdom,Escherichia coli,Carbapenems,2015,9.95
+United Kingdom,Escherichia coli,Carbapenems,2016,12.48
+United Kingdom,Escherichia coli,Carbapenems,2017,13.71
+United Kingdom,Escherichia coli,Carbapenems,2018,10.98
+United Kingdom,Escherichia coli,Carbapenems,2019,15.04
+United Kingdom,Escherichia coli,Carbapenems,2020,13.53
+United Kingdom,Escherichia coli,Carbapenems,2021,11.31
+United Kingdom,Escherichia coli,Carbapenems,2022,11.81
+United Kingdom,Escherichia coli,Carbapenems,2023,12.63
+United Kingdom,Escherichia coli,Methicillin,2010,10.56
+United Kingdom,Escherichia coli,Methicillin,2011,11.53
+United Kingdom,Escherichia coli,Methicillin,2012,10.19
+United Kingdom,Escherichia coli,Methicillin,2013,10.59
+United Kingdom,Escherichia coli,Methicillin,2014,11.37
+United Kingdom,Escherichia coli,Methicillin,2015,10.61
+United Kingdom,Escherichia coli,Methicillin,2016,13.08
+United Kingdom,Escherichia coli,Methicillin,2017,12.08
+United Kingdom,Escherichia coli,Methicillin,2018,11.22
+United Kingdom,Escherichia coli,Methicillin,2019,11.45
+United Kingdom,Escherichia coli,Methicillin,2020,10.43
+United Kingdom,Escherichia coli,Methicillin,2021,13.81
+United Kingdom,Escherichia coli,Methicillin,2022,12.05
+United Kingdom,Escherichia coli,Methicillin,2023,12.34
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2010,12.22
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2011,10.91
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2012,12.06
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2013,10.25
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2014,11.39
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2015,11.3
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2016,11.18
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2017,10.51
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2018,11.61
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2019,11.21
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2020,10.57
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2021,13.42
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2022,12.72
+United Kingdom,Klebsiella pneumoniae,3rd gen. cephalosporins,2023,12.63
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2010,10.44
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2011,11.29
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2012,9.8
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2013,11.02
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2014,12.44
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2015,11.55
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2016,11.49
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2017,12.15
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2018,12.67
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2019,12.57
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2020,13.0
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2021,11.73
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2022,13.22
+United Kingdom,Klebsiella pneumoniae,Carbapenems,2023,14.65
+United Kingdom,Klebsiella pneumoniae,Methicillin,2010,10.45
+United Kingdom,Klebsiella pneumoniae,Methicillin,2011,11.23
+United Kingdom,Klebsiella pneumoniae,Methicillin,2012,11.65
+United Kingdom,Klebsiella pneumoniae,Methicillin,2013,12.87
+United Kingdom,Klebsiella pneumoniae,Methicillin,2014,11.32
+United Kingdom,Klebsiella pneumoniae,Methicillin,2015,11.66
+United Kingdom,Klebsiella pneumoniae,Methicillin,2016,12.55
+United Kingdom,Klebsiella pneumoniae,Methicillin,2017,13.1
+United Kingdom,Klebsiella pneumoniae,Methicillin,2018,11.86
+United Kingdom,Klebsiella pneumoniae,Methicillin,2019,13.25
+United Kingdom,Klebsiella pneumoniae,Methicillin,2020,13.07
+United Kingdom,Klebsiella pneumoniae,Methicillin,2021,12.48
+United Kingdom,Klebsiella pneumoniae,Methicillin,2022,12.05
+United Kingdom,Klebsiella pneumoniae,Methicillin,2023,13.11
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2010,13.21
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2011,10.75
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2012,12.84
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2013,12.05
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2014,11.25
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2015,11.49
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2016,12.16
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2017,11.4
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2018,13.98
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2019,11.83
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2020,14.92
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2021,12.48
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2022,11.81
+United Kingdom,Staphylococcus aureus,3rd gen. cephalosporins,2023,11.56
+United Kingdom,Staphylococcus aureus,Carbapenems,2010,11.39
+United Kingdom,Staphylococcus aureus,Carbapenems,2011,11.51
+United Kingdom,Staphylococcus aureus,Carbapenems,2012,11.41
+United Kingdom,Staphylococcus aureus,Carbapenems,2013,12.33
+United Kingdom,Staphylococcus aureus,Carbapenems,2014,12.08
+United Kingdom,Staphylococcus aureus,Carbapenems,2015,11.84
+United Kingdom,Staphylococcus aureus,Carbapenems,2016,10.83
+United Kingdom,Staphylococcus aureus,Carbapenems,2017,13.29
+United Kingdom,Staphylococcus aureus,Carbapenems,2018,11.87
+United Kingdom,Staphylococcus aureus,Carbapenems,2019,11.6
+United Kingdom,Staphylococcus aureus,Carbapenems,2020,12.86
+United Kingdom,Staphylococcus aureus,Carbapenems,2021,12.36
+United Kingdom,Staphylococcus aureus,Carbapenems,2022,12.03
+United Kingdom,Staphylococcus aureus,Carbapenems,2023,12.28
+United Kingdom,Staphylococcus aureus,Methicillin,2010,9.64
+United Kingdom,Staphylococcus aureus,Methicillin,2011,9.41
+United Kingdom,Staphylococcus aureus,Methicillin,2012,11.46
+United Kingdom,Staphylococcus aureus,Methicillin,2013,9.7
+United Kingdom,Staphylococcus aureus,Methicillin,2014,12.3
+United Kingdom,Staphylococcus aureus,Methicillin,2015,14.32
+United Kingdom,Staphylococcus aureus,Methicillin,2016,11.96
+United Kingdom,Staphylococcus aureus,Methicillin,2017,11.57
+United Kingdom,Staphylococcus aureus,Methicillin,2018,11.37
+United Kingdom,Staphylococcus aureus,Methicillin,2019,11.68
+United Kingdom,Staphylococcus aureus,Methicillin,2020,12.18
+United Kingdom,Staphylococcus aureus,Methicillin,2021,11.91
+United Kingdom,Staphylococcus aureus,Methicillin,2022,13.91
+United Kingdom,Staphylococcus aureus,Methicillin,2023,12.84
