@@ -1,0 +1,93 @@
+AMR Temporal Forecasting Challenge -- Summary Report
+Vivli AMR Surveillance Data Challenge 2026
+==============================================================
+
+DATA MODE : REAL FILES
+  Source files (1):
+    * test_data\KEYSTONE\Omadacycline_2015_to_2025_Surveillance_data.csv
+  Conflict strategy : mean
+
+METHODOLOGY
+----------------------------------------
+Primary model  : Random Forest (n=300, max_depth=10)
+Baseline model : Ridge Regression (alpha=1.0, standardised)
+Validation     : xgboost Quantile Regression (90% CI)
+CV strategy    : TimeSeriesSplit (5 folds, no look-ahead)
+
+MODEL PERFORMANCE
+----------------------------------------
+RF CV-MAE              : 1.113% +/- 0.301%
+Reference benchmark    : 1.61% +/- 0.64%
+
+FEATURE GROUP IMPORTANCES (RF)
+----------------------------------------
+  Temporal autocorrelation : 99.8%
+  Antibiotic consumption   : 0.1%
+  Socioeconomic factors    : 0.2%
+
+TOP 8 FEATURES
+----------------------------------------
+  rolling3_mean_resistance             0.3725
+  delta_resistance                     0.3415
+  lag1_resistance                      0.1848
+  lag2_resistance                      0.0583
+  lag3_resistance                      0.0406
+  gini                                 0.0004
+  lag1_total_DDD                       0.0003
+  urbanisation                         0.0002
+
+KEY CORRELATIONS
+----------------------------------------
+  SES-RS vs resistance (Pearson r) : 0.312  (p=0.1808)
+  log-GDP vs resistance (Pearson r): -0.515  (p=0.0201)
+
+MOST PROTECTIVE FACTORS (negative Ridge coefficients)
+----------------------------------------
+  lag3_resistance                      -0.5230
+  lag2_resistance                      -0.3871
+  lag1_total_DDD                       -0.0350
+  lag1_watch_proportion                -0.0182
+  gdp_per_capita                       -0.0051
+
+2030 COUNTRY RISK TIERS
+----------------------------------------
+  Country                    Score   Tier        Region
+  --------------------------------------------------------------
+  Poland                     31.7%   Medium      Unknown
+  Israel                     24.1%   Low         Unknown
+  Turkey                     22.0%   Low         Unknown
+  Russia                     21.4%   Low         Unknown
+  Romania                    20.9%   Low         Unknown
+  Greece                     19.0%   Low         Unknown
+  Belarus                    18.9%   Low         Unknown
+  Portugal                   18.8%   Low         Unknown
+  Italy                      16.8%   Low         Unknown
+  Slovenia                   16.0%   Low         Unknown
+  Hungary                    15.6%   Low         Unknown
+  Belgium                    15.1%   Low         Unknown
+  Czech Republic             15.1%   Low         Unknown
+  Spain                      13.4%   Low         Unknown
+  United Kingdom             13.2%   Low         Western Europe
+  Ireland                    13.1%   Low         Unknown
+  France                     12.9%   Low         Western Europe
+  United States              11.0%   Low         North America
+  Germany                    10.5%   Low         Western Europe
+  Sweden                      9.4%   Low         Unknown
+
+POLICY INTERVENTIONS (top priority per high-risk country)
+----------------------------------------
+
+==============================================================
+Pipeline runtime: 325.9s
+
+OUTPUT FILES
+----------------------------------------
+  outputs\results/panel_raw.csv
+  outputs\results/panel_features.csv
+  outputs\results/rf_forecasts_2024_2030.csv
+  outputs\results/gbm_forecasts.csv
+  outputs\results/gbm_feature_importances.csv
+  outputs\results/country_risk_tiers_2030.csv
+  outputs\results/feature_importances.csv
+  outputs\results/ridge_coefficients.csv
+  outputs\results/antibiotic_pressure_index.csv

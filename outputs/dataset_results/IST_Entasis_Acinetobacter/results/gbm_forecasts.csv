@@ -1,0 +1,2971 @@
+country,combo,year,yhat,yhat_lower,yhat_upper,source
+Argentina,A_baumannii_3GC,2024,78.63,75.14,84.46,xgboost
+Argentina,A_baumannii_AMG,2024,20.2,11.31,40.08,xgboost
+Argentina,A_baumannii_CARB,2024,90.75,75.61,93.51,xgboost
+Argentina,A_baumannii_COL,2024,5.55,4.15,6.32,xgboost
+Argentina,A_baumannii_FQ,2024,90.75,75.81,93.51,xgboost
+Argentina,A_baumannii_TET,2024,59.64,47.78,61.64,xgboost
+Australia,A_baumannii_3GC,2024,13.52,12.75,14.8,xgboost
+Australia,A_baumannii_AMG,2024,8.21,8.15,8.21,xgboost
+Australia,A_baumannii_CARB,2024,3.97,3.77,4.82,xgboost
+Australia,A_baumannii_COL,2024,0.17,0.0,3.91,xgboost
+Australia,A_baumannii_FQ,2024,13.61,12.83,13.8,xgboost
+Australia,A_baumannii_TET,2024,4.41,4.05,6.25,xgboost
+Belgium,A_baumannii_3GC,2024,38.66,23.04,38.66,xgboost
+Belgium,A_baumannii_AMG,2024,10.61,9.97,14.67,xgboost
+Belgium,A_baumannii_CARB,2024,10.87,10.07,15.94,xgboost
+Belgium,A_baumannii_COL,2024,6.63,6.63,9.07,xgboost
+Belgium,A_baumannii_FQ,2024,52.64,44.84,58.9,xgboost
+Belgium,A_baumannii_TET,2024,17.51,14.62,18.63,xgboost
+Brazil,A_baumannii_3GC,2024,100.0,77.07,100.0,xgboost
+Brazil,A_baumannii_AMG,2024,100.0,70.65,100.0,xgboost
+Brazil,A_baumannii_CARB,2024,100.0,71.96,100.0,xgboost
+Brazil,A_baumannii_COL,2024,0.13,0.07,8.21,xgboost
+Brazil,A_baumannii_FQ,2024,100.0,75.91,100.0,xgboost
+Brazil,A_baumannii_TET,2024,73.29,59.68,73.29,xgboost
+Chile,A_baumannii_3GC,2024,39.67,35.66,49.86,xgboost
+Chile,A_baumannii_AMG,2024,34.56,29.31,34.56,xgboost
+Chile,A_baumannii_CARB,2024,20.42,17.05,21.9,xgboost
+Chile,A_baumannii_COL,2024,0.37,0.0,6.74,xgboost
+Chile,A_baumannii_FQ,2024,43.81,38.38,54.56,xgboost
+Chile,A_baumannii_TET,2024,6.02,5.19,10.17,xgboost
+Colombia,A_baumannii_3GC,2024,0.8,0.06,7.54,xgboost
+Colombia,A_baumannii_AMG,2024,0.56,0.56,4.2,xgboost
+Colombia,A_baumannii_CARB,2024,23.71,18.39,25.32,xgboost
+Colombia,A_baumannii_COL,2024,0.28,0.0,4.83,xgboost
+Colombia,A_baumannii_FQ,2024,1.03,0.0,4.2,xgboost
+Colombia,A_baumannii_TET,2024,2.02,0.0,3.13,xgboost
+Croatia,A_baumannii_3GC,2024,93.13,70.95,94.45,xgboost
+Croatia,A_baumannii_AMG,2024,91.2,69.77,92.66,xgboost
+Croatia,A_baumannii_CARB,2024,92.84,69.78,94.51,xgboost
+Croatia,A_baumannii_COL,2024,3.28,3.24,7.46,xgboost
+Croatia,A_baumannii_FQ,2024,92.78,69.77,94.74,xgboost
+Croatia,A_baumannii_TET,2024,91.25,69.77,92.98,xgboost
+Czech Republic,A_baumannii_3GC,2024,26.66,19.44,26.66,xgboost
+Czech Republic,A_baumannii_AMG,2024,26.28,18.81,26.28,xgboost
+Czech Republic,A_baumannii_CARB,2024,26.96,20.21,28.37,xgboost
+Czech Republic,A_baumannii_COL,2024,0.0,0.0,5.47,xgboost
+Czech Republic,A_baumannii_FQ,2024,27.14,19.28,27.14,xgboost
+Czech Republic,A_baumannii_TET,2024,20.6,16.26,21.52,xgboost
+France,A_baumannii_3GC,2024,27.47,24.24,34.46,xgboost
+France,A_baumannii_AMG,2024,2.8,2.8,14.47,xgboost
+France,A_baumannii_CARB,2024,24.6,22.6,26.07,xgboost
+France,A_baumannii_COL,2024,0.0,0.0,5.15,xgboost
+France,A_baumannii_FQ,2024,39.85,32.86,41.97,xgboost
+France,A_baumannii_TET,2024,36.0,33.05,36.01,xgboost
+Germany,A_baumannii_3GC,2024,23.28,17.39,23.31,xgboost
+Germany,A_baumannii_AMG,2024,16.39,14.58,19.07,xgboost
+Germany,A_baumannii_CARB,2024,17.68,15.38,19.2,xgboost
+Germany,A_baumannii_COL,2024,0.09,0.0,2.81,xgboost
+Germany,A_baumannii_FQ,2024,11.11,6.5,16.98,xgboost
+Germany,A_baumannii_TET,2024,9.76,8.25,11.87,xgboost
+Greece,A_baumannii_3GC,2024,99.04,80.8,99.04,xgboost
+Greece,A_baumannii_AMG,2024,100.0,80.65,100.0,xgboost
+Greece,A_baumannii_CARB,2024,98.98,80.83,98.98,xgboost
+Greece,A_baumannii_COL,2024,31.58,23.15,47.84,xgboost
+Greece,A_baumannii_FQ,2024,99.05,80.81,99.05,xgboost
+Greece,A_baumannii_TET,2024,100.0,75.05,100.0,xgboost
+Guatemala,A_baumannii_3GC,2024,97.22,77.77,97.77,xgboost
+Guatemala,A_baumannii_AMG,2024,100.0,74.84,100.0,xgboost
+Guatemala,A_baumannii_CARB,2024,100.0,80.53,100.0,xgboost
+Guatemala,A_baumannii_COL,2024,0.26,0.0,2.94,xgboost
+Guatemala,A_baumannii_FQ,2024,99.94,75.85,99.94,xgboost
+Guatemala,A_baumannii_TET,2024,54.87,46.71,59.3,xgboost
+Hungary,A_baumannii_3GC,2024,83.84,72.07,84.37,xgboost
+Hungary,A_baumannii_AMG,2024,84.71,67.64,88.22,xgboost
+Hungary,A_baumannii_CARB,2024,38.0,33.26,51.54,xgboost
+Hungary,A_baumannii_COL,2024,0.0,0.0,5.48,xgboost
+Hungary,A_baumannii_FQ,2024,66.77,60.89,72.13,xgboost
+Hungary,A_baumannii_TET,2024,69.86,61.3,69.86,xgboost
+Israel,A_baumannii_3GC,2024,70.99,68.08,80.79,xgboost
+Israel,A_baumannii_AMG,2024,68.99,60.95,70.05,xgboost
+Israel,A_baumannii_CARB,2024,73.88,69.02,84.72,xgboost
+Israel,A_baumannii_COL,2024,0.37,0.0,6.35,xgboost
+Israel,A_baumannii_FQ,2024,71.25,68.56,80.75,xgboost
+Israel,A_baumannii_TET,2024,46.57,40.04,46.57,xgboost
+Italy,A_baumannii_3GC,2024,85.59,77.89,86.65,xgboost
+Italy,A_baumannii_AMG,2024,83.02,70.98,85.87,xgboost
+Italy,A_baumannii_CARB,2024,85.65,77.9,86.54,xgboost
+Italy,A_baumannii_COL,2024,7.36,5.7,9.79,xgboost
+Italy,A_baumannii_FQ,2024,85.85,77.89,86.58,xgboost
+Italy,A_baumannii_TET,2024,69.36,63.03,70.48,xgboost
+Japan,A_baumannii_3GC,2024,1.02,0.0,10.27,xgboost
+Japan,A_baumannii_AMG,2024,0.39,0.0,7.0,xgboost
+Japan,A_baumannii_CARB,2024,0.0,0.0,7.61,xgboost
+Japan,A_baumannii_COL,2024,0.21,0.0,6.99,xgboost
+Japan,A_baumannii_FQ,2024,1.99,0.57,11.58,xgboost
+Japan,A_baumannii_TET,2024,2.62,0.74,9.95,xgboost
+"Korea, South",A_baumannii_3GC,2024,96.72,73.62,98.07,xgboost
+"Korea, South",A_baumannii_AMG,2024,91.09,73.2,96.88,xgboost
+"Korea, South",A_baumannii_CARB,2024,96.96,73.62,98.09,xgboost
+"Korea, South",A_baumannii_COL,2024,0.0,0.0,5.55,xgboost
+"Korea, South",A_baumannii_FQ,2024,98.48,73.93,98.48,xgboost
+"Korea, South",A_baumannii_TET,2024,49.12,47.13,49.12,xgboost
+Lithuania,A_baumannii_3GC,2024,92.48,81.11,92.48,xgboost
+Lithuania,A_baumannii_AMG,2024,91.53,80.1,92.31,xgboost
+Lithuania,A_baumannii_CARB,2024,92.53,81.11,92.53,xgboost
+Lithuania,A_baumannii_COL,2024,0.0,0.0,9.25,xgboost
+Lithuania,A_baumannii_FQ,2024,92.59,81.09,92.59,xgboost
+Lithuania,A_baumannii_TET,2024,91.2,79.02,92.4,xgboost
+Malaysia,A_baumannii_3GC,2024,74.82,69.14,82.76,xgboost
+Malaysia,A_baumannii_AMG,2024,68.63,60.0,72.99,xgboost
+Malaysia,A_baumannii_CARB,2024,74.99,69.15,82.88,xgboost
+Malaysia,A_baumannii_COL,2024,0.1,0.0,5.61,xgboost
+Malaysia,A_baumannii_FQ,2024,64.48,59.53,69.56,xgboost
+Malaysia,A_baumannii_TET,2024,37.39,32.94,41.9,xgboost
+Mexico,A_baumannii_3GC,2024,78.64,70.78,80.1,xgboost
+Mexico,A_baumannii_AMG,2024,44.94,36.79,62.88,xgboost
+Mexico,A_baumannii_CARB,2024,78.54,70.77,80.17,xgboost
+Mexico,A_baumannii_COL,2024,0.09,0.0,7.52,xgboost
+Mexico,A_baumannii_FQ,2024,78.64,70.75,80.15,xgboost
+Mexico,A_baumannii_TET,2024,36.81,33.56,51.83,xgboost
+Philippines,A_baumannii_3GC,2024,25.7,21.44,38.15,xgboost
+Philippines,A_baumannii_AMG,2024,21.79,15.34,31.32,xgboost
+Philippines,A_baumannii_CARB,2024,24.67,17.74,36.46,xgboost
+Philippines,A_baumannii_COL,2024,7.16,0.04,9.66,xgboost
+Philippines,A_baumannii_FQ,2024,54.3,47.48,54.3,xgboost
+Philippines,A_baumannii_TET,2024,28.76,17.65,29.96,xgboost
+Poland,A_baumannii_3GC,2024,62.79,62.79,74.14,xgboost
+Poland,A_baumannii_AMG,2024,62.88,50.12,70.5,xgboost
+Poland,A_baumannii_CARB,2024,65.4,60.69,72.44,xgboost
+Poland,A_baumannii_COL,2024,9.2,8.02,14.04,xgboost
+Poland,A_baumannii_FQ,2024,72.4,64.96,84.92,xgboost
+Poland,A_baumannii_TET,2024,60.28,59.04,69.68,xgboost
+Portugal,A_baumannii_3GC,2024,23.69,12.13,23.69,xgboost
+Portugal,A_baumannii_AMG,2024,0.0,0.0,6.46,xgboost
+Portugal,A_baumannii_CARB,2024,23.65,12.0,23.65,xgboost
+Portugal,A_baumannii_COL,2024,0.0,0.0,4.62,xgboost
+Portugal,A_baumannii_FQ,2024,24.1,11.91,24.31,xgboost
+Portugal,A_baumannii_TET,2024,9.66,5.3,15.43,xgboost
+Romania,A_baumannii_3GC,2024,92.68,83.49,92.76,xgboost
+Romania,A_baumannii_AMG,2024,82.78,76.08,83.62,xgboost
+Romania,A_baumannii_CARB,2024,92.75,83.5,92.79,xgboost
+Romania,A_baumannii_COL,2024,0.01,0.0,5.8,xgboost
+Romania,A_baumannii_FQ,2024,92.86,83.47,92.86,xgboost
+Romania,A_baumannii_TET,2024,34.57,29.95,51.88,xgboost
+Russia,A_baumannii_3GC,2024,93.52,78.9,93.52,xgboost
+Russia,A_baumannii_AMG,2024,80.22,74.95,81.4,xgboost
+Russia,A_baumannii_CARB,2024,84.35,73.88,84.35,xgboost
+Russia,A_baumannii_COL,2024,0.0,0.0,3.3,xgboost
+Russia,A_baumannii_FQ,2024,91.25,80.47,91.96,xgboost
+Russia,A_baumannii_TET,2024,59.37,32.05,59.37,xgboost
+Spain,A_baumannii_3GC,2024,16.59,10.42,32.61,xgboost
+Spain,A_baumannii_AMG,2024,0.0,0.0,12.49,xgboost
+Spain,A_baumannii_CARB,2024,14.02,8.84,26.58,xgboost
+Spain,A_baumannii_COL,2024,0.0,0.0,6.24,xgboost
+Spain,A_baumannii_FQ,2024,19.01,16.66,37.62,xgboost
+Spain,A_baumannii_TET,2024,11.44,9.36,26.09,xgboost
+Taiwan,A_baumannii_3GC,2024,28.92,21.53,37.97,xgboost
+Taiwan,A_baumannii_AMG,2024,22.96,22.96,34.93,xgboost
+Taiwan,A_baumannii_CARB,2024,31.6,29.11,40.54,xgboost
+Taiwan,A_baumannii_COL,2024,0.0,0.0,4.78,xgboost
+Taiwan,A_baumannii_FQ,2024,28.74,21.4,38.05,xgboost
+Taiwan,A_baumannii_TET,2024,7.94,7.94,19.04,xgboost
+Thailand,A_baumannii_3GC,2024,99.61,74.89,99.64,xgboost
+Thailand,A_baumannii_AMG,2024,68.8,58.33,70.87,xgboost
+Thailand,A_baumannii_CARB,2024,99.77,74.88,99.79,xgboost
+Thailand,A_baumannii_COL,2024,0.0,0.0,3.01,xgboost
+Thailand,A_baumannii_FQ,2024,97.64,76.82,98.55,xgboost
+Thailand,A_baumannii_TET,2024,60.51,50.43,60.51,xgboost
+Turkey,A_baumannii_3GC,2024,96.36,79.71,97.38,xgboost
+Turkey,A_baumannii_AMG,2024,79.32,76.95,85.05,xgboost
+Turkey,A_baumannii_CARB,2024,95.19,82.62,95.19,xgboost
+Turkey,A_baumannii_COL,2024,0.0,0.0,4.51,xgboost
+Turkey,A_baumannii_FQ,2024,95.16,81.77,95.16,xgboost
+Turkey,A_baumannii_TET,2024,79.76,66.34,79.76,xgboost
+Ukraine,A_baumannii_3GC,2024,75.32,69.66,87.45,xgboost
+Ukraine,A_baumannii_AMG,2024,73.23,69.1,85.5,xgboost
+Ukraine,A_baumannii_CARB,2024,68.93,66.64,79.14,xgboost
+Ukraine,A_baumannii_COL,2024,3.13,3.11,3.32,xgboost
+Ukraine,A_baumannii_FQ,2024,75.09,69.56,87.69,xgboost
+Ukraine,A_baumannii_TET,2024,57.28,50.93,61.23,xgboost
+United Kingdom,A_baumannii_3GC,2024,0.0,0.0,3.36,xgboost
+United Kingdom,A_baumannii_AMG,2024,0.0,0.0,2.74,xgboost
+United Kingdom,A_baumannii_CARB,2024,0.0,0.0,3.25,xgboost
+United Kingdom,A_baumannii_COL,2024,0.63,0.0,1.38,xgboost
+United Kingdom,A_baumannii_FQ,2024,0.0,0.0,3.76,xgboost
+United Kingdom,A_baumannii_TET,2024,0.0,0.0,3.92,xgboost
+United States,A_baumannii_3GC,2024,40.88,40.88,44.58,xgboost
+United States,A_baumannii_AMG,2024,18.68,17.96,20.34,xgboost
+United States,A_baumannii_CARB,2024,37.0,34.84,38.84,xgboost
+United States,A_baumannii_COL,2024,0.58,0.0,5.42,xgboost
+United States,A_baumannii_FQ,2024,44.78,43.52,47.72,xgboost
+United States,A_baumannii_TET,2024,29.54,29.54,35.39,xgboost
+Vietnam,A_baumannii_3GC,2024,92.61,70.99,94.17,xgboost
+Vietnam,A_baumannii_AMG,2024,92.17,71.01,94.21,xgboost
+Vietnam,A_baumannii_CARB,2024,87.29,70.24,89.79,xgboost
+Vietnam,A_baumannii_COL,2024,7.61,0.0,7.61,xgboost
+Vietnam,A_baumannii_FQ,2024,92.11,71.01,94.41,xgboost
+Vietnam,A_baumannii_TET,2024,65.23,55.46,65.23,xgboost
+Argentina,A_baumannii_3GC,2025,67.27,67.27,73.75,xgboost
+Argentina,A_baumannii_AMG,2025,19.02,14.0,21.37,xgboost
+Argentina,A_baumannii_CARB,2025,81.96,76.87,88.66,xgboost
+Argentina,A_baumannii_COL,2025,6.28,5.3,6.58,xgboost
+Argentina,A_baumannii_FQ,2025,82.04,77.06,88.68,xgboost
+Argentina,A_baumannii_TET,2025,63.46,53.38,64.37,xgboost
+Australia,A_baumannii_3GC,2025,14.5,14.42,17.97,xgboost
+Australia,A_baumannii_AMG,2025,8.67,8.67,11.35,xgboost
+Australia,A_baumannii_CARB,2025,3.2,1.74,5.46,xgboost
+Australia,A_baumannii_COL,2025,0.17,0.0,3.91,xgboost
+Australia,A_baumannii_FQ,2025,14.76,14.76,17.01,xgboost
+Australia,A_baumannii_TET,2025,5.92,4.49,6.44,xgboost
+Belgium,A_baumannii_3GC,2025,46.1,35.7,48.45,xgboost
+Belgium,A_baumannii_AMG,2025,10.31,9.96,13.43,xgboost
+Belgium,A_baumannii_CARB,2025,9.97,9.97,14.52,xgboost
+Belgium,A_baumannii_COL,2025,6.24,4.72,9.56,xgboost
+Belgium,A_baumannii_FQ,2025,59.61,50.48,60.42,xgboost
+Belgium,A_baumannii_TET,2025,23.31,17.2,24.45,xgboost
+Brazil,A_baumannii_3GC,2025,99.66,81.03,99.66,xgboost
+Brazil,A_baumannii_AMG,2025,100.0,72.1,100.0,xgboost
+Brazil,A_baumannii_CARB,2025,99.22,77.57,99.22,xgboost
+Brazil,A_baumannii_COL,2025,0.2,0.01,8.21,xgboost
+Brazil,A_baumannii_FQ,2025,99.68,79.87,99.68,xgboost
+Brazil,A_baumannii_TET,2025,83.01,62.5,83.01,xgboost
+Chile,A_baumannii_3GC,2025,44.77,39.14,45.46,xgboost
+Chile,A_baumannii_AMG,2025,44.06,32.92,44.97,xgboost
+Chile,A_baumannii_CARB,2025,23.91,19.75,27.69,xgboost
+Chile,A_baumannii_COL,2025,0.25,0.25,6.5,xgboost
+Chile,A_baumannii_FQ,2025,50.06,41.79,50.34,xgboost
+Chile,A_baumannii_TET,2025,8.16,5.79,11.13,xgboost
+Colombia,A_baumannii_3GC,2025,2.98,2.98,3.66,xgboost
+Colombia,A_baumannii_AMG,2025,2.28,2.28,2.28,xgboost
+Colombia,A_baumannii_CARB,2025,27.74,21.76,29.63,xgboost
+Colombia,A_baumannii_COL,2025,0.23,0.13,1.86,xgboost
+Colombia,A_baumannii_FQ,2025,2.92,2.81,2.92,xgboost
+Colombia,A_baumannii_TET,2025,4.4,3.24,4.4,xgboost
+Croatia,A_baumannii_3GC,2025,86.68,73.97,89.02,xgboost
+Croatia,A_baumannii_AMG,2025,89.79,74.98,91.01,xgboost
+Croatia,A_baumannii_CARB,2025,86.39,72.82,88.89,xgboost
+Croatia,A_baumannii_COL,2025,0.92,0.57,7.54,xgboost
+Croatia,A_baumannii_FQ,2025,86.45,72.79,88.95,xgboost
+Croatia,A_baumannii_TET,2025,89.93,74.95,90.64,xgboost
+Czech Republic,A_baumannii_3GC,2025,35.23,27.44,35.23,xgboost
+Czech Republic,A_baumannii_AMG,2025,34.39,23.61,34.39,xgboost
+Czech Republic,A_baumannii_CARB,2025,36.56,27.68,36.93,xgboost
+Czech Republic,A_baumannii_COL,2025,0.0,0.0,5.47,xgboost
+Czech Republic,A_baumannii_FQ,2025,38.26,27.47,38.26,xgboost
+Czech Republic,A_baumannii_TET,2025,26.26,20.12,28.18,xgboost
+France,A_baumannii_3GC,2025,24.36,23.53,30.84,xgboost
+France,A_baumannii_AMG,2025,0.81,0.48,9.16,xgboost
+France,A_baumannii_CARB,2025,23.1,22.99,24.31,xgboost
+France,A_baumannii_COL,2025,0.0,0.0,5.15,xgboost
+France,A_baumannii_FQ,2025,45.46,36.74,45.46,xgboost
+France,A_baumannii_TET,2025,35.86,35.14,41.05,xgboost
+Germany,A_baumannii_3GC,2025,23.52,19.21,23.6,xgboost
+Germany,A_baumannii_AMG,2025,17.19,15.39,18.23,xgboost
+Germany,A_baumannii_CARB,2025,18.28,15.45,18.28,xgboost
+Germany,A_baumannii_COL,2025,0.09,0.0,2.81,xgboost
+Germany,A_baumannii_FQ,2025,5.16,3.47,11.43,xgboost
+Germany,A_baumannii_TET,2025,9.63,8.41,11.66,xgboost
+Greece,A_baumannii_3GC,2025,96.93,82.05,96.93,xgboost
+Greece,A_baumannii_AMG,2025,98.47,80.62,98.73,xgboost
+Greece,A_baumannii_CARB,2025,96.17,82.08,96.4,xgboost
+Greece,A_baumannii_COL,2025,34.72,26.96,36.89,xgboost
+Greece,A_baumannii_FQ,2025,97.5,82.06,97.5,xgboost
+Greece,A_baumannii_TET,2025,99.79,75.7,99.79,xgboost
+Guatemala,A_baumannii_3GC,2025,98.09,79.54,98.29,xgboost
+Guatemala,A_baumannii_AMG,2025,95.73,72.46,98.72,xgboost
+Guatemala,A_baumannii_CARB,2025,97.31,74.12,98.58,xgboost
+Guatemala,A_baumannii_COL,2025,0.26,0.0,2.94,xgboost
+Guatemala,A_baumannii_FQ,2025,99.15,75.25,99.15,xgboost
+Guatemala,A_baumannii_TET,2025,62.39,52.69,63.87,xgboost
+Hungary,A_baumannii_3GC,2025,87.43,73.33,87.43,xgboost
+Hungary,A_baumannii_AMG,2025,90.8,73.11,92.74,xgboost
+Hungary,A_baumannii_CARB,2025,35.6,32.51,39.51,xgboost
+Hungary,A_baumannii_COL,2025,0.0,0.0,4.95,xgboost
+Hungary,A_baumannii_FQ,2025,69.94,61.44,69.94,xgboost
+Hungary,A_baumannii_TET,2025,71.4,64.17,73.65,xgboost
+Israel,A_baumannii_3GC,2025,67.88,64.9,74.61,xgboost
+Israel,A_baumannii_AMG,2025,66.71,63.11,73.44,xgboost
+Israel,A_baumannii_CARB,2025,70.01,68.51,81.06,xgboost
+Israel,A_baumannii_COL,2025,0.69,0.69,6.35,xgboost
+Israel,A_baumannii_FQ,2025,68.31,66.67,74.5,xgboost
+Israel,A_baumannii_TET,2025,49.89,45.11,52.55,xgboost
+Italy,A_baumannii_3GC,2025,86.3,77.9,87.2,xgboost
+Italy,A_baumannii_AMG,2025,88.5,71.93,88.5,xgboost
+Italy,A_baumannii_CARB,2025,86.32,77.91,87.11,xgboost
+Italy,A_baumannii_COL,2025,7.37,7.37,11.86,xgboost
+Italy,A_baumannii_FQ,2025,86.04,77.91,87.47,xgboost
+Italy,A_baumannii_TET,2025,71.38,63.18,72.68,xgboost
+Japan,A_baumannii_3GC,2025,2.94,1.68,8.03,xgboost
+Japan,A_baumannii_AMG,2025,0.73,0.57,7.0,xgboost
+Japan,A_baumannii_CARB,2025,0.4,0.0,7.03,xgboost
+Japan,A_baumannii_COL,2025,0.21,0.0,6.99,xgboost
+Japan,A_baumannii_FQ,2025,1.32,0.22,8.48,xgboost
+Japan,A_baumannii_TET,2025,2.99,0.71,8.36,xgboost
+"Korea, South",A_baumannii_3GC,2025,97.39,79.54,97.39,xgboost
+"Korea, South",A_baumannii_AMG,2025,94.52,73.51,94.52,xgboost
+"Korea, South",A_baumannii_CARB,2025,98.48,79.54,98.48,xgboost
+"Korea, South",A_baumannii_COL,2025,0.0,0.0,5.55,xgboost
+"Korea, South",A_baumannii_FQ,2025,99.4,78.56,99.4,xgboost
+"Korea, South",A_baumannii_TET,2025,55.59,48.68,55.59,xgboost
+Lithuania,A_baumannii_3GC,2025,91.15,84.21,91.15,xgboost
+Lithuania,A_baumannii_AMG,2025,89.4,83.29,89.47,xgboost
+Lithuania,A_baumannii_CARB,2025,91.2,84.2,91.2,xgboost
+Lithuania,A_baumannii_COL,2025,1.62,1.62,8.56,xgboost
+Lithuania,A_baumannii_FQ,2025,91.32,84.18,91.32,xgboost
+Lithuania,A_baumannii_TET,2025,89.65,83.27,89.66,xgboost
+Malaysia,A_baumannii_3GC,2025,76.45,66.08,84.91,xgboost
+Malaysia,A_baumannii_AMG,2025,71.78,64.31,79.28,xgboost
+Malaysia,A_baumannii_CARB,2025,76.63,66.08,84.9,xgboost
+Malaysia,A_baumannii_COL,2025,0.1,0.0,5.61,xgboost
+Malaysia,A_baumannii_FQ,2025,65.33,60.5,67.92,xgboost
+Malaysia,A_baumannii_TET,2025,41.84,36.98,46.44,xgboost
+Mexico,A_baumannii_3GC,2025,84.73,72.14,84.73,xgboost
+Mexico,A_baumannii_AMG,2025,47.76,41.35,53.39,xgboost
+Mexico,A_baumannii_CARB,2025,83.1,72.93,83.46,xgboost
+Mexico,A_baumannii_COL,2025,0.27,0.0,7.42,xgboost
+Mexico,A_baumannii_FQ,2025,84.94,72.14,84.94,xgboost
+Mexico,A_baumannii_TET,2025,38.22,31.43,45.06,xgboost
+Philippines,A_baumannii_3GC,2025,22.88,21.23,32.56,xgboost
+Philippines,A_baumannii_AMG,2025,20.12,15.12,30.62,xgboost
+Philippines,A_baumannii_CARB,2025,23.62,17.8,32.61,xgboost
+Philippines,A_baumannii_COL,2025,19.12,9.99,19.9,xgboost
+Philippines,A_baumannii_FQ,2025,59.77,55.21,61.31,xgboost
+Philippines,A_baumannii_TET,2025,39.37,26.05,40.57,xgboost
+Poland,A_baumannii_3GC,2025,51.79,49.08,60.44,xgboost
+Poland,A_baumannii_AMG,2025,59.99,55.42,63.81,xgboost
+Poland,A_baumannii_CARB,2025,58.98,58.36,63.54,xgboost
+Poland,A_baumannii_COL,2025,7.98,7.59,13.4,xgboost
+Poland,A_baumannii_FQ,2025,61.8,61.8,78.4,xgboost
+Poland,A_baumannii_TET,2025,55.79,52.4,59.27,xgboost
+Portugal,A_baumannii_3GC,2025,22.91,20.24,24.7,xgboost
+Portugal,A_baumannii_AMG,2025,0.71,0.71,7.65,xgboost
+Portugal,A_baumannii_CARB,2025,23.05,20.3,24.62,xgboost
+Portugal,A_baumannii_COL,2025,0.0,0.0,4.62,xgboost
+Portugal,A_baumannii_FQ,2025,26.76,21.13,26.76,xgboost
+Portugal,A_baumannii_TET,2025,6.47,2.35,12.94,xgboost
+Romania,A_baumannii_3GC,2025,90.98,83.08,90.98,xgboost
+Romania,A_baumannii_AMG,2025,78.26,77.35,79.75,xgboost
+Romania,A_baumannii_CARB,2025,91.02,82.09,91.02,xgboost
+Romania,A_baumannii_COL,2025,0.01,0.0,5.8,xgboost
+Romania,A_baumannii_FQ,2025,91.13,82.06,91.13,xgboost
+Romania,A_baumannii_TET,2025,31.12,29.67,37.19,xgboost
+Russia,A_baumannii_3GC,2025,96.86,76.41,96.86,xgboost
+Russia,A_baumannii_AMG,2025,85.21,73.7,85.21,xgboost
+Russia,A_baumannii_CARB,2025,90.88,71.79,90.88,xgboost
+Russia,A_baumannii_COL,2025,0.0,0.0,3.3,xgboost
+Russia,A_baumannii_FQ,2025,92.22,77.62,92.63,xgboost
+Russia,A_baumannii_TET,2025,70.01,50.22,73.58,xgboost
+Spain,A_baumannii_3GC,2025,13.81,13.62,23.2,xgboost
+Spain,A_baumannii_AMG,2025,2.13,1.07,10.87,xgboost
+Spain,A_baumannii_CARB,2025,11.82,10.67,20.75,xgboost
+Spain,A_baumannii_COL,2025,0.0,0.0,5.62,xgboost
+Spain,A_baumannii_FQ,2025,18.96,15.26,22.35,xgboost
+Spain,A_baumannii_TET,2025,15.83,11.92,18.32,xgboost
+Taiwan,A_baumannii_3GC,2025,28.24,25.08,32.11,xgboost
+Taiwan,A_baumannii_AMG,2025,18.38,17.31,26.23,xgboost
+Taiwan,A_baumannii_CARB,2025,30.97,25.81,37.0,xgboost
+Taiwan,A_baumannii_COL,2025,0.0,0.0,4.78,xgboost
+Taiwan,A_baumannii_FQ,2025,28.66,23.26,29.87,xgboost
+Taiwan,A_baumannii_TET,2025,3.51,1.18,13.39,xgboost
+Thailand,A_baumannii_3GC,2025,98.65,72.97,99.63,xgboost
+Thailand,A_baumannii_AMG,2025,72.14,63.0,78.25,xgboost
+Thailand,A_baumannii_CARB,2025,98.79,72.96,99.66,xgboost
+Thailand,A_baumannii_COL,2025,0.0,0.0,3.01,xgboost
+Thailand,A_baumannii_FQ,2025,99.66,74.01,100.0,xgboost
+Thailand,A_baumannii_TET,2025,67.13,60.03,67.13,xgboost
+Turkey,A_baumannii_3GC,2025,97.13,80.03,97.94,xgboost
+Turkey,A_baumannii_AMG,2025,80.73,75.6,81.98,xgboost
+Turkey,A_baumannii_CARB,2025,96.79,82.42,97.11,xgboost
+Turkey,A_baumannii_COL,2025,0.34,0.0,1.01,xgboost
+Turkey,A_baumannii_FQ,2025,96.8,82.39,97.11,xgboost
+Turkey,A_baumannii_TET,2025,84.01,72.11,90.9,xgboost
+Ukraine,A_baumannii_3GC,2025,64.12,59.09,73.64,xgboost
+Ukraine,A_baumannii_AMG,2025,63.46,61.67,73.08,xgboost
+Ukraine,A_baumannii_CARB,2025,60.04,55.17,68.69,xgboost
+Ukraine,A_baumannii_COL,2025,0.42,0.42,3.17,xgboost
+Ukraine,A_baumannii_FQ,2025,64.11,58.58,73.59,xgboost
+Ukraine,A_baumannii_TET,2025,57.3,51.63,58.1,xgboost
+United Kingdom,A_baumannii_3GC,2025,3.56,1.44,3.56,xgboost
+United Kingdom,A_baumannii_AMG,2025,2.68,1.18,3.25,xgboost
+United Kingdom,A_baumannii_CARB,2025,2.58,1.46,3.16,xgboost
+United Kingdom,A_baumannii_COL,2025,2.45,2.45,2.45,xgboost
+United Kingdom,A_baumannii_FQ,2025,2.82,1.39,3.53,xgboost
+United Kingdom,A_baumannii_TET,2025,3.28,0.91,4.64,xgboost
+United States,A_baumannii_3GC,2025,42.37,40.63,42.37,xgboost
+United States,A_baumannii_AMG,2025,16.93,14.21,18.91,xgboost
+United States,A_baumannii_CARB,2025,39.36,37.18,40.16,xgboost
+United States,A_baumannii_COL,2025,0.64,0.0,5.76,xgboost
+United States,A_baumannii_FQ,2025,44.19,43.43,44.19,xgboost
+United States,A_baumannii_TET,2025,27.58,27.58,31.72,xgboost
+Vietnam,A_baumannii_3GC,2025,86.29,76.28,90.02,xgboost
+Vietnam,A_baumannii_AMG,2025,85.71,76.29,90.1,xgboost
+Vietnam,A_baumannii_CARB,2025,87.14,76.5,91.33,xgboost
+Vietnam,A_baumannii_COL,2025,19.53,10.88,19.53,xgboost
+Vietnam,A_baumannii_FQ,2025,85.81,76.0,89.84,xgboost
+Vietnam,A_baumannii_TET,2025,70.84,60.41,70.84,xgboost
+Argentina,A_baumannii_3GC,2026,61.15,59.84,65.01,xgboost
+Argentina,A_baumannii_AMG,2026,17.8,17.8,21.41,xgboost
+Argentina,A_baumannii_CARB,2026,71.71,71.71,76.97,xgboost
+Argentina,A_baumannii_COL,2026,6.86,5.51,8.51,xgboost
+Argentina,A_baumannii_FQ,2026,71.91,71.91,77.0,xgboost
+Argentina,A_baumannii_TET,2026,65.0,57.53,66.76,xgboost
+Australia,A_baumannii_3GC,2026,13.41,13.41,16.14,xgboost
+Australia,A_baumannii_AMG,2026,9.17,8.3,9.88,xgboost
+Australia,A_baumannii_CARB,2026,2.43,1.78,5.47,xgboost
+Australia,A_baumannii_COL,2026,0.17,0.0,3.91,xgboost
+Australia,A_baumannii_FQ,2026,14.16,14.16,17.19,xgboost
+Australia,A_baumannii_TET,2026,8.53,6.68,8.53,xgboost
+Belgium,A_baumannii_3GC,2026,48.07,46.62,55.94,xgboost
+Belgium,A_baumannii_AMG,2026,8.74,7.56,13.65,xgboost
+Belgium,A_baumannii_CARB,2026,8.18,7.6,13.49,xgboost
+Belgium,A_baumannii_COL,2026,5.17,2.87,9.27,xgboost
+Belgium,A_baumannii_FQ,2026,67.5,57.01,67.5,xgboost
+Belgium,A_baumannii_TET,2026,25.28,20.4,30.83,xgboost
+Brazil,A_baumannii_3GC,2026,99.11,81.03,99.11,xgboost
+Brazil,A_baumannii_AMG,2026,99.48,77.72,99.48,xgboost
+Brazil,A_baumannii_CARB,2026,98.38,80.09,98.38,xgboost
+Brazil,A_baumannii_COL,2026,0.2,0.01,8.21,xgboost
+Brazil,A_baumannii_FQ,2026,99.13,79.87,99.13,xgboost
+Brazil,A_baumannii_TET,2026,94.4,69.47,94.6,xgboost
+Chile,A_baumannii_3GC,2026,45.71,45.25,51.7,xgboost
+Chile,A_baumannii_AMG,2026,43.57,42.04,53.99,xgboost
+Chile,A_baumannii_CARB,2026,23.67,19.11,27.87,xgboost
+Chile,A_baumannii_COL,2026,0.0,0.0,6.51,xgboost
+Chile,A_baumannii_FQ,2026,50.31,49.27,57.19,xgboost
+Chile,A_baumannii_TET,2026,10.12,8.57,13.84,xgboost
+Colombia,A_baumannii_3GC,2026,5.08,3.91,5.08,xgboost
+Colombia,A_baumannii_AMG,2026,3.15,3.15,3.15,xgboost
+Colombia,A_baumannii_CARB,2026,29.9,23.64,36.16,xgboost
+Colombia,A_baumannii_COL,2026,0.16,0.0,1.86,xgboost
+Colombia,A_baumannii_FQ,2026,4.84,3.61,4.84,xgboost
+Colombia,A_baumannii_TET,2026,5.99,3.62,5.99,xgboost
+Croatia,A_baumannii_3GC,2026,81.49,79.06,84.84,xgboost
+Croatia,A_baumannii_AMG,2026,89.43,77.64,89.43,xgboost
+Croatia,A_baumannii_CARB,2026,82.67,79.28,85.66,xgboost
+Croatia,A_baumannii_COL,2026,0.35,0.0,6.64,xgboost
+Croatia,A_baumannii_FQ,2026,82.76,79.26,85.66,xgboost
+Croatia,A_baumannii_TET,2026,90.08,77.62,90.08,xgboost
+Czech Republic,A_baumannii_3GC,2026,36.5,36.42,43.51,xgboost
+Czech Republic,A_baumannii_AMG,2026,36.55,35.64,41.41,xgboost
+Czech Republic,A_baumannii_CARB,2026,43.69,38.76,44.47,xgboost
+Czech Republic,A_baumannii_COL,2026,0.0,0.0,5.47,xgboost
+Czech Republic,A_baumannii_FQ,2026,44.53,40.39,45.89,xgboost
+Czech Republic,A_baumannii_TET,2026,30.22,21.3,33.92,xgboost
+France,A_baumannii_3GC,2026,20.93,20.62,23.52,xgboost
+France,A_baumannii_AMG,2026,2.17,0.64,8.01,xgboost
+France,A_baumannii_CARB,2026,20.63,17.45,23.58,xgboost
+France,A_baumannii_COL,2026,0.0,0.0,5.15,xgboost
+France,A_baumannii_FQ,2026,48.51,41.53,53.51,xgboost
+France,A_baumannii_TET,2026,34.1,34.1,39.89,xgboost
+Germany,A_baumannii_3GC,2026,21.49,17.52,21.49,xgboost
+Germany,A_baumannii_AMG,2026,16.9,15.46,19.22,xgboost
+Germany,A_baumannii_CARB,2026,17.96,15.44,18.06,xgboost
+Germany,A_baumannii_COL,2026,0.09,0.0,2.81,xgboost
+Germany,A_baumannii_FQ,2026,3.48,2.43,7.31,xgboost
+Germany,A_baumannii_TET,2026,9.63,8.41,11.66,xgboost
+Greece,A_baumannii_3GC,2026,96.12,81.64,96.12,xgboost
+Greece,A_baumannii_AMG,2026,95.93,84.22,96.18,xgboost
+Greece,A_baumannii_CARB,2026,94.52,82.74,95.16,xgboost
+Greece,A_baumannii_COL,2026,34.45,34.45,44.25,xgboost
+Greece,A_baumannii_FQ,2026,96.01,83.03,96.15,xgboost
+Greece,A_baumannii_TET,2026,98.07,80.61,98.07,xgboost
+Guatemala,A_baumannii_3GC,2026,98.0,79.71,98.22,xgboost
+Guatemala,A_baumannii_AMG,2026,92.78,81.48,93.58,xgboost
+Guatemala,A_baumannii_CARB,2026,95.25,83.2,95.64,xgboost
+Guatemala,A_baumannii_COL,2026,0.26,0.0,2.94,xgboost
+Guatemala,A_baumannii_FQ,2026,97.31,81.64,97.31,xgboost
+Guatemala,A_baumannii_TET,2026,70.91,59.22,70.91,xgboost
+Hungary,A_baumannii_3GC,2026,89.96,74.85,90.15,xgboost
+Hungary,A_baumannii_AMG,2026,94.18,73.65,94.18,xgboost
+Hungary,A_baumannii_CARB,2026,34.2,34.2,41.86,xgboost
+Hungary,A_baumannii_COL,2026,0.0,0.0,4.91,xgboost
+Hungary,A_baumannii_FQ,2026,75.92,67.59,77.83,xgboost
+Hungary,A_baumannii_TET,2026,74.91,64.71,77.04,xgboost
+Israel,A_baumannii_3GC,2026,64.59,62.06,72.54,xgboost
+Israel,A_baumannii_AMG,2026,61.23,57.39,65.49,xgboost
+Israel,A_baumannii_CARB,2026,67.58,64.39,74.48,xgboost
+Israel,A_baumannii_COL,2026,0.69,0.69,6.35,xgboost
+Israel,A_baumannii_FQ,2026,64.95,62.43,72.46,xgboost
+Israel,A_baumannii_TET,2026,54.11,49.0,54.11,xgboost
+Italy,A_baumannii_3GC,2026,87.71,76.22,87.71,xgboost
+Italy,A_baumannii_AMG,2026,91.83,73.51,91.83,xgboost
+Italy,A_baumannii_CARB,2026,87.73,76.22,87.73,xgboost
+Italy,A_baumannii_COL,2026,5.39,5.39,12.02,xgboost
+Italy,A_baumannii_FQ,2026,86.04,77.91,87.47,xgboost
+Italy,A_baumannii_TET,2026,76.77,64.72,77.2,xgboost
+Japan,A_baumannii_3GC,2026,5.19,2.7,8.93,xgboost
+Japan,A_baumannii_AMG,2026,0.73,0.57,7.0,xgboost
+Japan,A_baumannii_CARB,2026,0.74,0.6,7.03,xgboost
+Japan,A_baumannii_COL,2026,0.21,0.0,6.99,xgboost
+Japan,A_baumannii_FQ,2026,1.36,0.0,7.81,xgboost
+Japan,A_baumannii_TET,2026,4.15,1.77,8.6,xgboost
+"Korea, South",A_baumannii_3GC,2026,98.18,80.62,98.18,xgboost
+"Korea, South",A_baumannii_AMG,2026,97.4,77.99,97.4,xgboost
+"Korea, South",A_baumannii_CARB,2026,98.37,80.58,98.37,xgboost
+"Korea, South",A_baumannii_COL,2026,0.0,0.0,5.55,xgboost
+"Korea, South",A_baumannii_FQ,2026,98.51,80.55,98.51,xgboost
+"Korea, South",A_baumannii_TET,2026,62.29,54.97,62.41,xgboost
+Lithuania,A_baumannii_3GC,2026,90.31,80.26,90.31,xgboost
+Lithuania,A_baumannii_AMG,2026,86.88,79.42,87.87,xgboost
+Lithuania,A_baumannii_CARB,2026,90.34,80.26,90.34,xgboost
+Lithuania,A_baumannii_COL,2026,2.17,2.17,7.66,xgboost
+Lithuania,A_baumannii_FQ,2026,90.5,80.23,90.5,xgboost
+Lithuania,A_baumannii_TET,2026,87.34,80.65,88.19,xgboost
+Malaysia,A_baumannii_3GC,2026,79.86,72.19,82.06,xgboost
+Malaysia,A_baumannii_AMG,2026,70.94,62.98,77.65,xgboost
+Malaysia,A_baumannii_CARB,2026,79.86,72.19,82.12,xgboost
+Malaysia,A_baumannii_COL,2026,0.1,0.0,5.61,xgboost
+Malaysia,A_baumannii_FQ,2026,66.05,60.59,66.05,xgboost
+Malaysia,A_baumannii_TET,2026,45.87,41.27,50.45,xgboost
+Mexico,A_baumannii_3GC,2026,94.32,69.86,94.32,xgboost
+Mexico,A_baumannii_AMG,2026,54.81,48.17,55.97,xgboost
+Mexico,A_baumannii_CARB,2026,91.95,69.71,91.95,xgboost
+Mexico,A_baumannii_COL,2026,0.23,0.0,7.42,xgboost
+Mexico,A_baumannii_FQ,2026,94.52,70.01,94.52,xgboost
+Mexico,A_baumannii_TET,2026,42.71,40.72,48.69,xgboost
+Philippines,A_baumannii_3GC,2026,24.8,20.4,29.15,xgboost
+Philippines,A_baumannii_AMG,2026,23.77,15.69,28.33,xgboost
+Philippines,A_baumannii_CARB,2026,27.02,22.4,29.19,xgboost
+Philippines,A_baumannii_COL,2026,35.5,20.48,35.5,xgboost
+Philippines,A_baumannii_FQ,2026,67.92,58.51,71.62,xgboost
+Philippines,A_baumannii_TET,2026,48.87,39.04,48.87,xgboost
+Poland,A_baumannii_3GC,2026,46.82,39.93,50.62,xgboost
+Poland,A_baumannii_AMG,2026,55.03,50.82,60.62,xgboost
+Poland,A_baumannii_CARB,2026,52.54,49.24,59.15,xgboost
+Poland,A_baumannii_COL,2026,5.65,5.65,12.99,xgboost
+Poland,A_baumannii_FQ,2026,55.75,49.99,63.52,xgboost
+Poland,A_baumannii_TET,2026,52.43,49.0,58.57,xgboost
+Portugal,A_baumannii_3GC,2026,19.36,19.29,21.04,xgboost
+Portugal,A_baumannii_AMG,2026,2.34,2.34,6.0,xgboost
+Portugal,A_baumannii_CARB,2026,18.92,18.92,21.02,xgboost
+Portugal,A_baumannii_COL,2026,0.0,0.0,4.62,xgboost
+Portugal,A_baumannii_FQ,2026,25.52,25.52,29.32,xgboost
+Portugal,A_baumannii_TET,2026,5.53,2.56,10.82,xgboost
+Romania,A_baumannii_3GC,2026,88.44,80.07,89.49,xgboost
+Romania,A_baumannii_AMG,2026,81.32,74.9,81.32,xgboost
+Romania,A_baumannii_CARB,2026,88.5,80.08,89.51,xgboost
+Romania,A_baumannii_COL,2026,0.01,0.0,5.8,xgboost
+Romania,A_baumannii_FQ,2026,88.65,80.05,89.37,xgboost
+Romania,A_baumannii_TET,2026,32.42,31.96,40.23,xgboost
+Russia,A_baumannii_3GC,2026,99.03,77.29,99.47,xgboost
+Russia,A_baumannii_AMG,2026,91.32,72.85,92.07,xgboost
+Russia,A_baumannii_CARB,2026,95.46,73.24,95.46,xgboost
+Russia,A_baumannii_COL,2026,0.0,0.0,3.3,xgboost
+Russia,A_baumannii_FQ,2026,93.79,77.7,93.79,xgboost
+Russia,A_baumannii_TET,2026,71.61,63.5,77.87,xgboost
+Spain,A_baumannii_3GC,2026,12.33,10.27,18.26,xgboost
+Spain,A_baumannii_AMG,2026,3.7,2.79,7.73,xgboost
+Spain,A_baumannii_CARB,2026,9.05,8.68,16.4,xgboost
+Spain,A_baumannii_COL,2026,0.0,0.0,5.62,xgboost
+Spain,A_baumannii_FQ,2026,18.97,14.48,21.95,xgboost
+Spain,A_baumannii_TET,2026,19.87,15.7,24.89,xgboost
+Taiwan,A_baumannii_3GC,2026,26.88,25.84,35.05,xgboost
+Taiwan,A_baumannii_AMG,2026,13.86,10.84,21.32,xgboost
+Taiwan,A_baumannii_CARB,2026,30.73,29.38,38.65,xgboost
+Taiwan,A_baumannii_COL,2026,0.0,0.0,4.78,xgboost
+Taiwan,A_baumannii_FQ,2026,27.29,25.92,35.44,xgboost
+Taiwan,A_baumannii_TET,2026,1.33,0.97,10.49,xgboost
+Thailand,A_baumannii_3GC,2026,95.34,79.53,95.71,xgboost
+Thailand,A_baumannii_AMG,2026,78.11,62.87,80.37,xgboost
+Thailand,A_baumannii_CARB,2026,95.48,79.53,95.8,xgboost
+Thailand,A_baumannii_COL,2026,0.0,0.0,3.01,xgboost
+Thailand,A_baumannii_FQ,2026,97.09,77.59,99.1,xgboost
+Thailand,A_baumannii_TET,2026,72.13,62.09,74.29,xgboost
+Turkey,A_baumannii_3GC,2026,97.91,80.73,98.02,xgboost
+Turkey,A_baumannii_AMG,2026,84.35,74.49,85.39,xgboost
+Turkey,A_baumannii_CARB,2026,98.19,80.69,98.19,xgboost
+Turkey,A_baumannii_COL,2026,0.18,0.18,0.27,xgboost
+Turkey,A_baumannii_FQ,2026,98.21,80.66,98.21,xgboost
+Turkey,A_baumannii_TET,2026,90.69,73.5,90.69,xgboost
+Ukraine,A_baumannii_3GC,2026,59.95,56.92,62.37,xgboost
+Ukraine,A_baumannii_AMG,2026,59.28,56.27,65.59,xgboost
+Ukraine,A_baumannii_CARB,2026,57.29,53.77,64.06,xgboost
+Ukraine,A_baumannii_COL,2026,0.03,0.0,0.09,xgboost
+Ukraine,A_baumannii_FQ,2026,60.0,56.85,62.34,xgboost
+Ukraine,A_baumannii_TET,2026,61.19,56.72,61.19,xgboost
+United Kingdom,A_baumannii_3GC,2026,7.01,4.15,7.01,xgboost
+United Kingdom,A_baumannii_AMG,2026,4.6,3.74,5.4,xgboost
+United Kingdom,A_baumannii_CARB,2026,4.49,3.38,4.49,xgboost
+United Kingdom,A_baumannii_COL,2026,4.18,3.34,4.18,xgboost
+United Kingdom,A_baumannii_FQ,2026,5.53,3.77,5.53,xgboost
+United Kingdom,A_baumannii_TET,2026,6.18,3.78,6.18,xgboost
+United States,A_baumannii_3GC,2026,42.25,41.62,42.94,xgboost
+United States,A_baumannii_AMG,2026,17.02,14.29,18.73,xgboost
+United States,A_baumannii_CARB,2026,41.45,41.45,41.45,xgboost
+United States,A_baumannii_COL,2026,0.68,0.0,5.76,xgboost
+United States,A_baumannii_FQ,2026,44.03,42.39,44.03,xgboost
+United States,A_baumannii_TET,2026,30.48,26.59,30.48,xgboost
+Vietnam,A_baumannii_3GC,2026,82.58,82.58,87.83,xgboost
+Vietnam,A_baumannii_AMG,2026,79.8,79.8,87.07,xgboost
+Vietnam,A_baumannii_CARB,2026,90.73,78.69,92.85,xgboost
+Vietnam,A_baumannii_COL,2026,34.97,22.28,34.97,xgboost
+Vietnam,A_baumannii_FQ,2026,81.63,81.63,87.96,xgboost
+Vietnam,A_baumannii_TET,2026,78.99,64.83,78.99,xgboost
+Argentina,A_baumannii_3GC,2027,60.78,57.51,66.07,xgboost
+Argentina,A_baumannii_AMG,2027,16.0,13.14,21.44,xgboost
+Argentina,A_baumannii_CARB,2027,66.46,64.08,74.55,xgboost
+Argentina,A_baumannii_COL,2027,6.93,5.52,8.23,xgboost
+Argentina,A_baumannii_FQ,2027,66.79,64.03,74.58,xgboost
+Argentina,A_baumannii_TET,2027,65.36,57.72,65.67,xgboost
+Australia,A_baumannii_3GC,2027,11.22,10.9,13.92,xgboost
+Australia,A_baumannii_AMG,2027,9.62,9.62,10.09,xgboost
+Australia,A_baumannii_CARB,2027,2.32,1.54,4.84,xgboost
+Australia,A_baumannii_COL,2027,0.17,0.0,3.91,xgboost
+Australia,A_baumannii_FQ,2027,11.71,11.61,13.11,xgboost
+Australia,A_baumannii_TET,2027,10.01,9.93,11.39,xgboost
+Belgium,A_baumannii_3GC,2027,54.17,47.39,54.17,xgboost
+Belgium,A_baumannii_AMG,2027,6.49,5.85,13.05,xgboost
+Belgium,A_baumannii_CARB,2027,3.76,3.76,12.67,xgboost
+Belgium,A_baumannii_COL,2027,2.03,2.03,8.13,xgboost
+Belgium,A_baumannii_FQ,2027,71.74,60.12,73.23,xgboost
+Belgium,A_baumannii_TET,2027,27.54,18.73,29.24,xgboost
+Brazil,A_baumannii_3GC,2027,98.84,80.06,98.84,xgboost
+Brazil,A_baumannii_AMG,2027,98.83,80.08,98.83,xgboost
+Brazil,A_baumannii_CARB,2027,98.38,78.92,98.38,xgboost
+Brazil,A_baumannii_COL,2027,0.2,0.01,8.21,xgboost
+Brazil,A_baumannii_FQ,2027,98.86,78.91,98.86,xgboost
+Brazil,A_baumannii_TET,2027,100.0,71.43,100.0,xgboost
+Chile,A_baumannii_3GC,2027,43.46,42.24,47.15,xgboost
+Chile,A_baumannii_AMG,2027,44.04,41.24,45.44,xgboost
+Chile,A_baumannii_CARB,2027,21.17,17.34,24.86,xgboost
+Chile,A_baumannii_COL,2027,0.0,0.0,6.51,xgboost
+Chile,A_baumannii_FQ,2027,50.83,47.89,50.83,xgboost
+Chile,A_baumannii_TET,2027,11.57,9.62,16.23,xgboost
+Colombia,A_baumannii_3GC,2027,6.04,5.4,6.31,xgboost
+Colombia,A_baumannii_AMG,2027,4.08,3.92,4.08,xgboost
+Colombia,A_baumannii_CARB,2027,29.91,29.47,36.16,xgboost
+Colombia,A_baumannii_COL,2027,0.16,0.0,1.86,xgboost
+Colombia,A_baumannii_FQ,2027,5.42,5.01,5.84,xgboost
+Colombia,A_baumannii_TET,2027,7.97,5.13,8.4,xgboost
+Croatia,A_baumannii_3GC,2027,83.86,76.31,83.86,xgboost
+Croatia,A_baumannii_AMG,2027,90.61,77.42,90.61,xgboost
+Croatia,A_baumannii_CARB,2027,84.99,75.12,84.99,xgboost
+Croatia,A_baumannii_COL,2027,0.29,0.0,6.26,xgboost
+Croatia,A_baumannii_FQ,2027,85.19,75.1,85.19,xgboost
+Croatia,A_baumannii_TET,2027,93.38,77.7,93.38,xgboost
+Czech Republic,A_baumannii_3GC,2027,38.85,38.85,43.05,xgboost
+Czech Republic,A_baumannii_AMG,2027,39.32,39.27,43.13,xgboost
+Czech Republic,A_baumannii_CARB,2027,46.82,46.02,53.83,xgboost
+Czech Republic,A_baumannii_COL,2027,0.0,0.0,5.47,xgboost
+Czech Republic,A_baumannii_FQ,2027,47.76,47.5,55.04,xgboost
+Czech Republic,A_baumannii_TET,2027,31.14,31.14,38.67,xgboost
+France,A_baumannii_3GC,2027,16.59,16.25,21.52,xgboost
+France,A_baumannii_AMG,2027,2.67,2.67,7.1,xgboost
+France,A_baumannii_CARB,2027,17.27,14.05,22.26,xgboost
+France,A_baumannii_COL,2027,0.0,0.0,5.15,xgboost
+France,A_baumannii_FQ,2027,52.51,40.33,52.51,xgboost
+France,A_baumannii_TET,2027,33.19,30.79,37.12,xgboost
+Germany,A_baumannii_3GC,2027,19.38,15.69,19.47,xgboost
+Germany,A_baumannii_AMG,2027,17.39,13.33,17.67,xgboost
+Germany,A_baumannii_CARB,2027,17.1,13.32,17.86,xgboost
+Germany,A_baumannii_COL,2027,0.09,0.0,2.81,xgboost
+Germany,A_baumannii_FQ,2027,2.86,2.24,6.26,xgboost
+Germany,A_baumannii_TET,2027,9.74,8.41,11.64,xgboost
+Greece,A_baumannii_3GC,2027,96.02,80.88,96.02,xgboost
+Greece,A_baumannii_AMG,2027,94.16,82.73,94.54,xgboost
+Greece,A_baumannii_CARB,2027,92.97,81.44,93.62,xgboost
+Greece,A_baumannii_COL,2027,33.37,33.37,39.55,xgboost
+Greece,A_baumannii_FQ,2027,93.99,81.1,95.18,xgboost
+Greece,A_baumannii_TET,2027,96.13,82.7,96.13,xgboost
+Guatemala,A_baumannii_3GC,2027,98.23,82.41,98.23,xgboost
+Guatemala,A_baumannii_AMG,2027,91.6,84.78,91.6,xgboost
+Guatemala,A_baumannii_CARB,2027,92.85,83.78,93.67,xgboost
+Guatemala,A_baumannii_COL,2027,0.26,0.0,2.94,xgboost
+Guatemala,A_baumannii_FQ,2027,95.5,82.53,95.56,xgboost
+Guatemala,A_baumannii_TET,2027,75.28,64.2,78.05,xgboost
+Hungary,A_baumannii_3GC,2027,90.51,76.66,90.51,xgboost
+Hungary,A_baumannii_AMG,2027,96.32,77.16,96.32,xgboost
+Hungary,A_baumannii_CARB,2027,31.12,31.12,39.86,xgboost
+Hungary,A_baumannii_COL,2027,0.0,0.0,4.91,xgboost
+Hungary,A_baumannii_FQ,2027,80.52,68.74,86.68,xgboost
+Hungary,A_baumannii_TET,2027,81.7,68.39,83.71,xgboost
+Israel,A_baumannii_3GC,2027,63.98,56.51,63.98,xgboost
+Israel,A_baumannii_AMG,2027,60.91,52.29,60.91,xgboost
+Israel,A_baumannii_CARB,2027,65.09,62.61,72.48,xgboost
+Israel,A_baumannii_COL,2027,0.37,0.0,6.35,xgboost
+Israel,A_baumannii_FQ,2027,64.31,56.31,64.31,xgboost
+Israel,A_baumannii_TET,2027,57.12,52.42,57.12,xgboost
+Italy,A_baumannii_3GC,2027,87.83,76.17,88.64,xgboost
+Italy,A_baumannii_AMG,2027,91.55,76.92,92.21,xgboost
+Italy,A_baumannii_CARB,2027,87.78,76.17,88.56,xgboost
+Italy,A_baumannii_COL,2027,1.44,1.44,9.88,xgboost
+Italy,A_baumannii_FQ,2027,86.0,77.91,87.08,xgboost
+Italy,A_baumannii_TET,2027,84.61,71.06,85.44,xgboost
+Japan,A_baumannii_3GC,2027,6.19,4.14,10.01,xgboost
+Japan,A_baumannii_AMG,2027,0.39,0.0,7.0,xgboost
+Japan,A_baumannii_CARB,2027,0.74,0.6,7.03,xgboost
+Japan,A_baumannii_COL,2027,0.21,0.0,6.99,xgboost
+Japan,A_baumannii_FQ,2027,1.37,0.0,7.38,xgboost
+Japan,A_baumannii_TET,2027,6.39,3.2,9.83,xgboost
+"Korea, South",A_baumannii_3GC,2027,98.56,81.87,98.56,xgboost
+"Korea, South",A_baumannii_AMG,2027,98.42,79.16,98.42,xgboost
+"Korea, South",A_baumannii_CARB,2027,98.55,83.61,98.55,xgboost
+"Korea, South",A_baumannii_COL,2027,0.0,0.0,5.55,xgboost
+"Korea, South",A_baumannii_FQ,2027,97.64,83.8,97.64,xgboost
+"Korea, South",A_baumannii_TET,2027,69.95,60.15,70.18,xgboost
+Lithuania,A_baumannii_3GC,2027,91.13,80.58,91.13,xgboost
+Lithuania,A_baumannii_AMG,2027,85.86,79.8,86.81,xgboost
+Lithuania,A_baumannii_CARB,2027,91.14,80.58,91.14,xgboost
+Lithuania,A_baumannii_COL,2027,1.95,1.95,6.63,xgboost
+Lithuania,A_baumannii_FQ,2027,91.26,80.57,91.26,xgboost
+Lithuania,A_baumannii_TET,2027,86.43,79.7,87.4,xgboost
+Malaysia,A_baumannii_3GC,2027,80.66,71.29,84.69,xgboost
+Malaysia,A_baumannii_AMG,2027,72.97,68.97,76.97,xgboost
+Malaysia,A_baumannii_CARB,2027,80.4,71.29,83.61,xgboost
+Malaysia,A_baumannii_COL,2027,0.1,0.0,5.61,xgboost
+Malaysia,A_baumannii_FQ,2027,70.14,60.84,70.14,xgboost
+Malaysia,A_baumannii_TET,2027,50.19,43.91,51.95,xgboost
+Mexico,A_baumannii_3GC,2027,100.0,69.87,100.0,xgboost
+Mexico,A_baumannii_AMG,2027,63.01,52.02,64.6,xgboost
+Mexico,A_baumannii_CARB,2027,98.24,70.32,98.24,xgboost
+Mexico,A_baumannii_COL,2027,0.19,0.0,7.43,xgboost
+Mexico,A_baumannii_FQ,2027,100.0,69.89,100.0,xgboost
+Mexico,A_baumannii_TET,2027,49.5,41.92,56.17,xgboost
+Philippines,A_baumannii_3GC,2027,31.77,20.59,31.77,xgboost
+Philippines,A_baumannii_AMG,2027,29.41,20.28,32.69,xgboost
+Philippines,A_baumannii_CARB,2027,32.69,27.27,36.85,xgboost
+Philippines,A_baumannii_COL,2027,50.09,31.95,50.59,xgboost
+Philippines,A_baumannii_FQ,2027,71.56,62.49,77.23,xgboost
+Philippines,A_baumannii_TET,2027,59.84,49.44,60.11,xgboost
+Poland,A_baumannii_3GC,2027,41.76,38.62,47.17,xgboost
+Poland,A_baumannii_AMG,2027,51.62,46.87,58.56,xgboost
+Poland,A_baumannii_CARB,2027,50.08,47.04,54.42,xgboost
+Poland,A_baumannii_COL,2027,2.61,1.85,11.46,xgboost
+Poland,A_baumannii_FQ,2027,49.49,47.69,56.56,xgboost
+Poland,A_baumannii_TET,2027,52.85,48.58,56.02,xgboost
+Portugal,A_baumannii_3GC,2027,13.96,12.43,18.57,xgboost
+Portugal,A_baumannii_AMG,2027,3.2,3.09,6.4,xgboost
+Portugal,A_baumannii_CARB,2027,13.41,11.08,18.19,xgboost
+Portugal,A_baumannii_COL,2027,0.0,0.0,4.62,xgboost
+Portugal,A_baumannii_FQ,2027,23.3,21.96,23.5,xgboost
+Portugal,A_baumannii_TET,2027,4.84,3.63,9.01,xgboost
+Romania,A_baumannii_3GC,2027,86.7,79.96,87.4,xgboost
+Romania,A_baumannii_AMG,2027,84.54,73.43,84.54,xgboost
+Romania,A_baumannii_CARB,2027,86.74,79.96,87.3,xgboost
+Romania,A_baumannii_COL,2027,0.01,0.0,5.8,xgboost
+Romania,A_baumannii_FQ,2027,86.8,79.91,87.17,xgboost
+Romania,A_baumannii_TET,2027,35.64,32.38,41.37,xgboost
+Russia,A_baumannii_3GC,2027,98.27,78.42,99.42,xgboost
+Russia,A_baumannii_AMG,2027,95.22,73.1,95.22,xgboost
+Russia,A_baumannii_CARB,2027,97.92,76.11,98.94,xgboost
+Russia,A_baumannii_COL,2027,0.0,0.0,3.3,xgboost
+Russia,A_baumannii_FQ,2027,96.49,78.09,97.54,xgboost
+Russia,A_baumannii_TET,2027,73.18,62.24,77.58,xgboost
+Spain,A_baumannii_3GC,2027,8.46,8.46,16.71,xgboost
+Spain,A_baumannii_AMG,2027,4.46,3.32,7.28,xgboost
+Spain,A_baumannii_CARB,2027,6.71,5.18,13.82,xgboost
+Spain,A_baumannii_COL,2027,0.0,0.0,5.62,xgboost
+Spain,A_baumannii_FQ,2027,18.09,13.46,21.4,xgboost
+Spain,A_baumannii_TET,2027,22.64,17.53,25.91,xgboost
+Taiwan,A_baumannii_3GC,2027,22.61,22.61,29.71,xgboost
+Taiwan,A_baumannii_AMG,2027,9.69,8.32,17.84,xgboost
+Taiwan,A_baumannii_CARB,2027,28.08,28.08,37.81,xgboost
+Taiwan,A_baumannii_COL,2027,0.0,0.0,4.78,xgboost
+Taiwan,A_baumannii_FQ,2027,24.92,24.92,30.2,xgboost
+Taiwan,A_baumannii_TET,2027,1.69,0.0,7.82,xgboost
+Thailand,A_baumannii_3GC,2027,92.03,79.71,93.38,xgboost
+Thailand,A_baumannii_AMG,2027,88.69,70.03,90.47,xgboost
+Thailand,A_baumannii_CARB,2027,92.25,79.71,93.61,xgboost
+Thailand,A_baumannii_COL,2027,0.0,0.0,3.01,xgboost
+Thailand,A_baumannii_FQ,2027,94.31,79.89,95.25,xgboost
+Thailand,A_baumannii_TET,2027,78.88,63.75,82.23,xgboost
+Turkey,A_baumannii_3GC,2027,98.14,81.59,98.14,xgboost
+Turkey,A_baumannii_AMG,2027,88.89,74.38,89.84,xgboost
+Turkey,A_baumannii_CARB,2027,98.01,80.68,98.07,xgboost
+Turkey,A_baumannii_COL,2027,0.0,0.0,0.31,xgboost
+Turkey,A_baumannii_FQ,2027,98.04,80.66,98.07,xgboost
+Turkey,A_baumannii_TET,2027,95.75,74.62,95.75,xgboost
+Ukraine,A_baumannii_3GC,2027,59.76,53.53,61.72,xgboost
+Ukraine,A_baumannii_AMG,2027,60.58,53.15,60.8,xgboost
+Ukraine,A_baumannii_CARB,2027,57.04,52.99,60.0,xgboost
+Ukraine,A_baumannii_COL,2027,0.0,0.0,0.0,xgboost
+Ukraine,A_baumannii_FQ,2027,60.3,53.31,61.54,xgboost
+Ukraine,A_baumannii_TET,2027,62.35,57.26,65.84,xgboost
+United Kingdom,A_baumannii_3GC,2027,10.02,8.08,10.02,xgboost
+United Kingdom,A_baumannii_AMG,2027,6.46,3.73,6.46,xgboost
+United Kingdom,A_baumannii_CARB,2027,6.48,3.75,6.48,xgboost
+United Kingdom,A_baumannii_COL,2027,6.18,3.71,6.18,xgboost
+United Kingdom,A_baumannii_FQ,2027,7.7,5.51,7.7,xgboost
+United Kingdom,A_baumannii_TET,2027,9.13,5.86,9.13,xgboost
+United States,A_baumannii_3GC,2027,42.27,40.62,42.27,xgboost
+United States,A_baumannii_AMG,2027,16.98,16.14,19.79,xgboost
+United States,A_baumannii_CARB,2027,42.96,41.52,43.2,xgboost
+United States,A_baumannii_COL,2027,0.68,0.0,5.76,xgboost
+United States,A_baumannii_FQ,2027,43.99,41.54,43.99,xgboost
+United States,A_baumannii_TET,2027,33.72,33.62,35.86,xgboost
+Vietnam,A_baumannii_3GC,2027,85.4,75.51,86.55,xgboost
+Vietnam,A_baumannii_AMG,2027,82.57,75.2,83.85,xgboost
+Vietnam,A_baumannii_CARB,2027,94.96,75.98,96.31,xgboost
+Vietnam,A_baumannii_COL,2027,48.26,32.64,48.26,xgboost
+Vietnam,A_baumannii_FQ,2027,85.05,75.27,85.78,xgboost
+Vietnam,A_baumannii_TET,2027,89.37,71.26,90.96,xgboost
+Argentina,A_baumannii_3GC,2028,65.07,58.07,65.07,xgboost
+Argentina,A_baumannii_AMG,2028,12.45,10.51,20.74,xgboost
+Argentina,A_baumannii_CARB,2028,68.76,61.19,70.27,xgboost
+Argentina,A_baumannii_COL,2028,5.88,5.44,10.26,xgboost
+Argentina,A_baumannii_FQ,2028,69.14,61.29,71.32,xgboost
+Argentina,A_baumannii_TET,2028,65.57,59.06,65.62,xgboost
+Australia,A_baumannii_3GC,2028,7.29,7.29,13.0,xgboost
+Australia,A_baumannii_AMG,2028,8.7,8.7,10.09,xgboost
+Australia,A_baumannii_CARB,2028,1.64,0.95,4.01,xgboost
+Australia,A_baumannii_COL,2028,0.17,0.0,3.91,xgboost
+Australia,A_baumannii_FQ,2028,7.15,7.15,12.43,xgboost
+Australia,A_baumannii_TET,2028,10.22,10.22,13.1,xgboost
+Belgium,A_baumannii_3GC,2028,62.06,53.88,62.2,xgboost
+Belgium,A_baumannii_AMG,2028,3.37,2.2,10.45,xgboost
+Belgium,A_baumannii_CARB,2028,0.96,0.16,8.98,xgboost
+Belgium,A_baumannii_COL,2028,0.7,0.03,6.89,xgboost
+Belgium,A_baumannii_FQ,2028,75.58,59.68,80.07,xgboost
+Belgium,A_baumannii_TET,2028,28.63,26.65,32.59,xgboost
+Brazil,A_baumannii_3GC,2028,99.04,77.92,99.04,xgboost
+Brazil,A_baumannii_AMG,2028,98.56,78.91,98.56,xgboost
+Brazil,A_baumannii_CARB,2028,99.54,76.78,99.54,xgboost
+Brazil,A_baumannii_COL,2028,0.2,0.01,8.21,xgboost
+Brazil,A_baumannii_FQ,2028,99.07,76.76,99.07,xgboost
+Brazil,A_baumannii_TET,2028,100.0,73.57,100.0,xgboost
+Chile,A_baumannii_3GC,2028,39.56,38.24,44.09,xgboost
+Chile,A_baumannii_AMG,2028,43.76,41.36,46.2,xgboost
+Chile,A_baumannii_CARB,2028,17.58,14.83,23.25,xgboost
+Chile,A_baumannii_COL,2028,0.0,0.0,6.5,xgboost
+Chile,A_baumannii_FQ,2028,50.72,48.65,51.56,xgboost
+Chile,A_baumannii_TET,2028,11.81,11.81,17.07,xgboost
+Colombia,A_baumannii_3GC,2028,6.89,5.63,9.08,xgboost
+Colombia,A_baumannii_AMG,2028,4.73,4.14,4.73,xgboost
+Colombia,A_baumannii_CARB,2028,30.69,28.99,35.71,xgboost
+Colombia,A_baumannii_COL,2028,0.2,0.0,1.86,xgboost
+Colombia,A_baumannii_FQ,2028,5.8,5.1,7.62,xgboost
+Colombia,A_baumannii_TET,2028,10.11,8.46,12.02,xgboost
+Croatia,A_baumannii_3GC,2028,90.74,74.61,90.74,xgboost
+Croatia,A_baumannii_AMG,2028,93.5,76.28,93.5,xgboost
+Croatia,A_baumannii_CARB,2028,90.85,74.15,90.85,xgboost
+Croatia,A_baumannii_COL,2028,0.31,0.0,6.08,xgboost
+Croatia,A_baumannii_FQ,2028,90.97,73.69,90.97,xgboost
+Croatia,A_baumannii_TET,2028,97.35,75.38,97.35,xgboost
+Czech Republic,A_baumannii_3GC,2028,40.97,40.97,44.81,xgboost
+Czech Republic,A_baumannii_AMG,2028,40.99,40.99,46.41,xgboost
+Czech Republic,A_baumannii_CARB,2028,49.78,44.04,50.49,xgboost
+Czech Republic,A_baumannii_COL,2028,0.0,0.0,5.47,xgboost
+Czech Republic,A_baumannii_FQ,2028,52.48,47.52,52.48,xgboost
+Czech Republic,A_baumannii_TET,2028,33.55,32.3,36.55,xgboost
+France,A_baumannii_3GC,2028,13.22,10.03,19.29,xgboost
+France,A_baumannii_AMG,2028,3.23,3.23,5.93,xgboost
+France,A_baumannii_CARB,2028,13.64,10.35,20.22,xgboost
+France,A_baumannii_COL,2028,0.0,0.0,5.15,xgboost
+France,A_baumannii_FQ,2028,56.1,42.41,56.1,xgboost
+France,A_baumannii_TET,2028,34.55,29.92,37.36,xgboost
+Germany,A_baumannii_3GC,2028,18.3,13.38,18.36,xgboost
+Germany,A_baumannii_AMG,2028,18.25,15.46,18.25,xgboost
+Germany,A_baumannii_CARB,2028,16.92,13.29,17.56,xgboost
+Germany,A_baumannii_COL,2028,0.09,0.0,2.81,xgboost
+Germany,A_baumannii_FQ,2028,2.08,1.99,5.01,xgboost
+Germany,A_baumannii_TET,2028,9.74,8.41,11.64,xgboost
+Greece,A_baumannii_3GC,2028,97.13,81.34,97.55,xgboost
+Greece,A_baumannii_AMG,2028,92.59,81.43,93.26,xgboost
+Greece,A_baumannii_CARB,2028,91.62,80.91,91.62,xgboost
+Greece,A_baumannii_COL,2028,33.71,32.57,38.94,xgboost
+Greece,A_baumannii_FQ,2028,93.01,80.35,93.01,xgboost
+Greece,A_baumannii_TET,2028,94.48,79.71,94.89,xgboost
+Guatemala,A_baumannii_3GC,2028,98.4,82.41,98.4,xgboost
+Guatemala,A_baumannii_AMG,2028,91.2,81.56,91.41,xgboost
+Guatemala,A_baumannii_CARB,2028,91.22,82.86,91.22,xgboost
+Guatemala,A_baumannii_COL,2028,0.26,0.0,2.94,xgboost
+Guatemala,A_baumannii_FQ,2028,93.03,82.53,93.95,xgboost
+Guatemala,A_baumannii_TET,2028,81.1,67.54,88.7,xgboost
+Hungary,A_baumannii_3GC,2028,91.2,78.02,91.2,xgboost
+Hungary,A_baumannii_AMG,2028,96.35,78.65,96.61,xgboost
+Hungary,A_baumannii_CARB,2028,29.21,28.13,38.11,xgboost
+Hungary,A_baumannii_COL,2028,0.0,0.0,4.91,xgboost
+Hungary,A_baumannii_FQ,2028,85.21,71.09,85.72,xgboost
+Hungary,A_baumannii_TET,2028,87.69,72.16,87.69,xgboost
+Israel,A_baumannii_3GC,2028,66.39,61.46,66.39,xgboost
+Israel,A_baumannii_AMG,2028,61.48,59.02,62.85,xgboost
+Israel,A_baumannii_CARB,2028,64.45,57.39,64.45,xgboost
+Israel,A_baumannii_COL,2028,0.4,0.0,6.36,xgboost
+Israel,A_baumannii_FQ,2028,66.9,61.74,66.9,xgboost
+Israel,A_baumannii_TET,2028,58.87,56.76,58.87,xgboost
+Italy,A_baumannii_3GC,2028,88.05,78.53,89.12,xgboost
+Italy,A_baumannii_AMG,2028,90.55,80.36,90.55,xgboost
+Italy,A_baumannii_CARB,2028,88.06,78.54,89.03,xgboost
+Italy,A_baumannii_COL,2028,0.11,0.0,7.42,xgboost
+Italy,A_baumannii_FQ,2028,86.03,77.91,87.36,xgboost
+Italy,A_baumannii_TET,2028,90.88,73.34,90.88,xgboost
+Japan,A_baumannii_3GC,2028,7.67,4.62,11.02,xgboost
+Japan,A_baumannii_AMG,2028,0.43,0.0,7.01,xgboost
+Japan,A_baumannii_CARB,2028,0.4,0.0,7.03,xgboost
+Japan,A_baumannii_COL,2028,0.21,0.0,6.99,xgboost
+Japan,A_baumannii_FQ,2028,1.4,0.0,7.38,xgboost
+Japan,A_baumannii_TET,2028,9.83,4.6,11.83,xgboost
+"Korea, South",A_baumannii_3GC,2028,98.72,83.24,98.72,xgboost
+"Korea, South",A_baumannii_AMG,2028,98.3,80.56,98.3,xgboost
+"Korea, South",A_baumannii_CARB,2028,98.73,83.61,98.73,xgboost
+"Korea, South",A_baumannii_COL,2028,0.0,0.0,5.55,xgboost
+"Korea, South",A_baumannii_FQ,2028,97.64,83.8,97.64,xgboost
+"Korea, South",A_baumannii_TET,2028,74.17,64.37,74.17,xgboost
+Lithuania,A_baumannii_3GC,2028,91.8,77.91,91.8,xgboost
+Lithuania,A_baumannii_AMG,2028,86.22,78.64,86.96,xgboost
+Lithuania,A_baumannii_CARB,2028,91.75,77.91,91.75,xgboost
+Lithuania,A_baumannii_COL,2028,0.11,0.11,6.66,xgboost
+Lithuania,A_baumannii_FQ,2028,91.83,77.94,91.83,xgboost
+Lithuania,A_baumannii_TET,2028,88.53,78.64,88.53,xgboost
+Malaysia,A_baumannii_3GC,2028,80.28,73.24,82.32,xgboost
+Malaysia,A_baumannii_AMG,2028,79.18,69.12,81.51,xgboost
+Malaysia,A_baumannii_CARB,2028,79.93,73.3,82.36,xgboost
+Malaysia,A_baumannii_COL,2028,0.1,0.0,5.61,xgboost
+Malaysia,A_baumannii_FQ,2028,71.91,63.44,74.21,xgboost
+Malaysia,A_baumannii_TET,2028,55.68,49.66,56.29,xgboost
+Mexico,A_baumannii_3GC,2028,99.71,72.99,99.71,xgboost
+Mexico,A_baumannii_AMG,2028,71.48,58.34,73.58,xgboost
+Mexico,A_baumannii_CARB,2028,100.0,72.56,100.0,xgboost
+Mexico,A_baumannii_COL,2028,0.19,0.0,7.43,xgboost
+Mexico,A_baumannii_FQ,2028,99.99,73.0,99.99,xgboost
+Mexico,A_baumannii_TET,2028,60.22,47.5,60.22,xgboost
+Philippines,A_baumannii_3GC,2028,36.36,33.71,43.25,xgboost
+Philippines,A_baumannii_AMG,2028,35.23,28.16,41.36,xgboost
+Philippines,A_baumannii_CARB,2028,38.42,33.24,42.83,xgboost
+Philippines,A_baumannii_COL,2028,57.86,48.81,63.23,xgboost
+Philippines,A_baumannii_FQ,2028,76.61,62.27,81.39,xgboost
+Philippines,A_baumannii_TET,2028,66.64,55.82,69.0,xgboost
+Poland,A_baumannii_3GC,2028,38.1,34.12,43.28,xgboost
+Poland,A_baumannii_AMG,2028,52.14,47.4,55.44,xgboost
+Poland,A_baumannii_CARB,2028,47.6,47.17,51.02,xgboost
+Poland,A_baumannii_COL,2028,0.47,0.45,8.93,xgboost
+Poland,A_baumannii_FQ,2028,47.17,44.59,51.45,xgboost
+Poland,A_baumannii_TET,2028,54.57,52.83,54.57,xgboost
+Portugal,A_baumannii_3GC,2028,9.44,5.88,14.8,xgboost
+Portugal,A_baumannii_AMG,2028,4.16,3.34,6.46,xgboost
+Portugal,A_baumannii_CARB,2028,7.78,5.56,14.43,xgboost
+Portugal,A_baumannii_COL,2028,0.0,0.0,4.62,xgboost
+Portugal,A_baumannii_FQ,2028,19.5,19.5,21.08,xgboost
+Portugal,A_baumannii_TET,2028,3.99,3.51,7.64,xgboost
+Romania,A_baumannii_3GC,2028,85.94,78.82,86.71,xgboost
+Romania,A_baumannii_AMG,2028,86.96,75.05,87.11,xgboost
+Romania,A_baumannii_CARB,2028,85.95,79.44,86.67,xgboost
+Romania,A_baumannii_COL,2028,0.01,0.0,5.8,xgboost
+Romania,A_baumannii_FQ,2028,85.79,78.65,86.55,xgboost
+Romania,A_baumannii_TET,2028,34.97,34.97,45.21,xgboost
+Russia,A_baumannii_3GC,2028,97.38,80.55,97.38,xgboost
+Russia,A_baumannii_AMG,2028,97.72,76.3,98.53,xgboost
+Russia,A_baumannii_CARB,2028,98.41,77.79,99.27,xgboost
+Russia,A_baumannii_COL,2028,0.0,0.0,3.3,xgboost
+Russia,A_baumannii_FQ,2028,97.31,77.42,98.96,xgboost
+Russia,A_baumannii_TET,2028,83.24,68.84,83.24,xgboost
+Spain,A_baumannii_3GC,2028,5.96,4.63,13.61,xgboost
+Spain,A_baumannii_AMG,2028,4.56,3.79,7.66,xgboost
+Spain,A_baumannii_CARB,2028,3.26,2.28,10.87,xgboost
+Spain,A_baumannii_COL,2028,0.0,0.0,5.62,xgboost
+Spain,A_baumannii_FQ,2028,16.71,13.06,20.55,xgboost
+Spain,A_baumannii_TET,2028,23.93,19.25,26.5,xgboost
+Taiwan,A_baumannii_3GC,2028,16.17,16.17,22.42,xgboost
+Taiwan,A_baumannii_AMG,2028,5.91,5.24,14.03,xgboost
+Taiwan,A_baumannii_CARB,2028,25.01,24.71,30.69,xgboost
+Taiwan,A_baumannii_COL,2028,0.0,0.0,4.78,xgboost
+Taiwan,A_baumannii_FQ,2028,20.17,20.17,24.5,xgboost
+Taiwan,A_baumannii_TET,2028,1.66,1.49,6.15,xgboost
+Thailand,A_baumannii_3GC,2028,90.36,80.34,91.68,xgboost
+Thailand,A_baumannii_AMG,2028,94.44,72.46,97.3,xgboost
+Thailand,A_baumannii_CARB,2028,90.53,80.34,91.68,xgboost
+Thailand,A_baumannii_COL,2028,0.0,0.0,3.01,xgboost
+Thailand,A_baumannii_FQ,2028,91.8,79.89,93.24,xgboost
+Thailand,A_baumannii_TET,2028,89.5,70.16,90.58,xgboost
+Turkey,A_baumannii_3GC,2028,98.34,83.33,98.34,xgboost
+Turkey,A_baumannii_AMG,2028,92.05,74.93,93.73,xgboost
+Turkey,A_baumannii_CARB,2028,97.8,83.32,97.8,xgboost
+Turkey,A_baumannii_COL,2028,0.0,0.0,0.31,xgboost
+Turkey,A_baumannii_FQ,2028,97.83,83.3,97.83,xgboost
+Turkey,A_baumannii_TET,2028,98.16,76.22,98.38,xgboost
+Ukraine,A_baumannii_3GC,2028,60.64,57.93,63.75,xgboost
+Ukraine,A_baumannii_AMG,2028,60.53,56.99,63.75,xgboost
+Ukraine,A_baumannii_CARB,2028,60.46,56.64,60.46,xgboost
+Ukraine,A_baumannii_COL,2028,0.0,0.0,0.0,xgboost
+Ukraine,A_baumannii_FQ,2028,61.25,57.67,63.65,xgboost
+Ukraine,A_baumannii_TET,2028,60.95,56.8,64.57,xgboost
+United Kingdom,A_baumannii_3GC,2028,11.29,9.86,12.02,xgboost
+United Kingdom,A_baumannii_AMG,2028,8.86,5.27,8.86,xgboost
+United Kingdom,A_baumannii_CARB,2028,8.95,5.29,8.95,xgboost
+United Kingdom,A_baumannii_COL,2028,8.74,5.32,8.74,xgboost
+United Kingdom,A_baumannii_FQ,2028,10.73,8.4,10.73,xgboost
+United Kingdom,A_baumannii_TET,2028,11.03,9.41,12.12,xgboost
+United States,A_baumannii_3GC,2028,42.23,40.62,42.23,xgboost
+United States,A_baumannii_AMG,2028,17.1,16.14,19.56,xgboost
+United States,A_baumannii_CARB,2028,43.38,41.52,43.79,xgboost
+United States,A_baumannii_COL,2028,0.68,0.0,5.76,xgboost
+United States,A_baumannii_FQ,2028,43.85,41.54,43.85,xgboost
+United States,A_baumannii_TET,2028,35.77,35.77,35.77,xgboost
+Vietnam,A_baumannii_3GC,2028,91.82,74.98,92.57,xgboost
+Vietnam,A_baumannii_AMG,2028,89.77,73.64,89.77,xgboost
+Vietnam,A_baumannii_CARB,2028,98.76,78.0,99.08,xgboost
+Vietnam,A_baumannii_COL,2028,56.06,49.19,59.55,xgboost
+Vietnam,A_baumannii_FQ,2028,91.99,74.99,93.94,xgboost
+Vietnam,A_baumannii_TET,2028,95.53,73.72,97.35,xgboost
+Argentina,A_baumannii_3GC,2029,66.22,59.58,69.83,xgboost
+Argentina,A_baumannii_AMG,2029,7.14,7.14,15.23,xgboost
+Argentina,A_baumannii_CARB,2029,71.1,62.36,77.0,xgboost
+Argentina,A_baumannii_COL,2029,4.94,2.94,9.05,xgboost
+Argentina,A_baumannii_FQ,2029,70.86,62.3,77.72,xgboost
+Argentina,A_baumannii_TET,2029,67.98,59.32,67.98,xgboost
+Australia,A_baumannii_3GC,2029,4.64,4.64,11.0,xgboost
+Australia,A_baumannii_AMG,2029,7.8,7.75,10.34,xgboost
+Australia,A_baumannii_CARB,2029,1.69,0.99,4.19,xgboost
+Australia,A_baumannii_COL,2029,0.17,0.0,3.91,xgboost
+Australia,A_baumannii_FQ,2029,4.44,4.44,10.51,xgboost
+Australia,A_baumannii_TET,2029,8.78,8.36,11.64,xgboost
+Belgium,A_baumannii_3GC,2029,68.42,58.77,70.35,xgboost
+Belgium,A_baumannii_AMG,2029,1.38,0.42,8.36,xgboost
+Belgium,A_baumannii_CARB,2029,1.04,0.0,7.16,xgboost
+Belgium,A_baumannii_COL,2029,0.15,0.0,6.07,xgboost
+Belgium,A_baumannii_FQ,2029,84.83,64.62,85.48,xgboost
+Belgium,A_baumannii_TET,2029,27.8,26.53,32.5,xgboost
+Brazil,A_baumannii_3GC,2029,99.56,77.92,99.56,xgboost
+Brazil,A_baumannii_AMG,2029,99.03,76.77,99.03,xgboost
+Brazil,A_baumannii_CARB,2029,99.49,75.89,99.49,xgboost
+Brazil,A_baumannii_COL,2029,0.2,0.01,8.21,xgboost
+Brazil,A_baumannii_FQ,2029,99.59,76.76,99.59,xgboost
+Brazil,A_baumannii_TET,2029,99.64,77.71,99.64,xgboost
+Chile,A_baumannii_3GC,2029,36.49,34.96,41.94,xgboost
+Chile,A_baumannii_AMG,2029,43.83,41.1,46.21,xgboost
+Chile,A_baumannii_CARB,2029,13.63,9.67,21.09,xgboost
+Chile,A_baumannii_COL,2029,0.0,0.0,6.5,xgboost
+Chile,A_baumannii_FQ,2029,50.67,48.79,51.57,xgboost
+Chile,A_baumannii_TET,2029,10.96,10.12,16.22,xgboost
+Colombia,A_baumannii_3GC,2029,7.4,6.18,9.33,xgboost
+Colombia,A_baumannii_AMG,2029,4.63,4.13,4.76,xgboost
+Colombia,A_baumannii_CARB,2029,31.41,30.69,36.56,xgboost
+Colombia,A_baumannii_COL,2029,0.2,0.0,1.86,xgboost
+Colombia,A_baumannii_FQ,2029,6.2,4.07,8.22,xgboost
+Colombia,A_baumannii_TET,2029,11.83,9.51,14.25,xgboost
+Croatia,A_baumannii_3GC,2029,96.98,73.46,96.98,xgboost
+Croatia,A_baumannii_AMG,2029,97.17,75.39,97.17,xgboost
+Croatia,A_baumannii_CARB,2029,96.92,72.43,96.92,xgboost
+Croatia,A_baumannii_COL,2029,0.28,0.0,6.05,xgboost
+Croatia,A_baumannii_FQ,2029,96.91,72.41,96.91,xgboost
+Croatia,A_baumannii_TET,2029,100.0,75.94,100.0,xgboost
+Czech Republic,A_baumannii_3GC,2029,46.36,42.02,47.0,xgboost
+Czech Republic,A_baumannii_AMG,2029,46.11,41.85,47.08,xgboost
+Czech Republic,A_baumannii_CARB,2029,56.84,48.9,56.84,xgboost
+Czech Republic,A_baumannii_COL,2029,0.0,0.0,5.47,xgboost
+Czech Republic,A_baumannii_FQ,2029,61.13,51.4,61.13,xgboost
+Czech Republic,A_baumannii_TET,2029,36.31,32.56,41.04,xgboost
+France,A_baumannii_3GC,2029,9.87,8.64,16.62,xgboost
+France,A_baumannii_AMG,2029,4.58,3.42,6.79,xgboost
+France,A_baumannii_CARB,2029,10.41,8.97,16.27,xgboost
+France,A_baumannii_COL,2029,0.0,0.0,5.15,xgboost
+France,A_baumannii_FQ,2029,55.39,43.8,56.25,xgboost
+France,A_baumannii_TET,2029,35.97,33.74,39.08,xgboost
+Germany,A_baumannii_3GC,2029,18.25,13.23,18.25,xgboost
+Germany,A_baumannii_AMG,2029,18.16,15.46,19.23,xgboost
+Germany,A_baumannii_CARB,2029,17.13,13.32,17.86,xgboost
+Germany,A_baumannii_COL,2029,0.09,0.0,2.81,xgboost
+Germany,A_baumannii_FQ,2029,1.52,0.89,4.08,xgboost
+Germany,A_baumannii_TET,2029,9.74,8.41,11.64,xgboost
+Greece,A_baumannii_3GC,2029,98.25,79.16,98.46,xgboost
+Greece,A_baumannii_AMG,2029,91.31,79.79,91.41,xgboost
+Greece,A_baumannii_CARB,2029,91.17,78.78,91.17,xgboost
+Greece,A_baumannii_COL,2029,34.66,30.62,39.29,xgboost
+Greece,A_baumannii_FQ,2029,94.45,79.56,94.45,xgboost
+Greece,A_baumannii_TET,2029,93.05,81.4,93.05,xgboost
+Guatemala,A_baumannii_3GC,2029,98.4,82.41,98.4,xgboost
+Guatemala,A_baumannii_AMG,2029,92.66,81.28,92.66,xgboost
+Guatemala,A_baumannii_CARB,2029,88.98,81.52,90.8,xgboost
+Guatemala,A_baumannii_COL,2029,0.26,0.0,2.94,xgboost
+Guatemala,A_baumannii_FQ,2029,91.33,82.83,91.33,xgboost
+Guatemala,A_baumannii_TET,2029,89.06,70.5,89.27,xgboost
+Hungary,A_baumannii_3GC,2029,91.68,78.31,91.68,xgboost
+Hungary,A_baumannii_AMG,2029,96.05,81.09,96.7,xgboost
+Hungary,A_baumannii_CARB,2029,27.22,27.22,36.78,xgboost
+Hungary,A_baumannii_COL,2029,0.0,0.0,4.91,xgboost
+Hungary,A_baumannii_FQ,2029,88.21,73.7,90.5,xgboost
+Hungary,A_baumannii_TET,2029,91.01,73.4,91.96,xgboost
+Israel,A_baumannii_3GC,2029,64.12,60.66,65.89,xgboost
+Israel,A_baumannii_AMG,2029,61.7,58.39,63.03,xgboost
+Israel,A_baumannii_CARB,2029,66.72,61.69,66.72,xgboost
+Israel,A_baumannii_COL,2029,0.37,0.0,6.35,xgboost
+Israel,A_baumannii_FQ,2029,67.47,60.94,67.47,xgboost
+Israel,A_baumannii_TET,2029,61.87,57.55,61.87,xgboost
+Italy,A_baumannii_3GC,2029,88.14,78.53,89.46,xgboost
+Italy,A_baumannii_AMG,2029,90.0,80.78,90.0,xgboost
+Italy,A_baumannii_CARB,2029,88.15,78.54,89.37,xgboost
+Italy,A_baumannii_COL,2029,0.0,0.0,6.52,xgboost
+Italy,A_baumannii_FQ,2029,86.06,77.91,87.75,xgboost
+Italy,A_baumannii_TET,2029,93.84,74.26,93.84,xgboost
+Japan,A_baumannii_3GC,2029,8.37,7.36,13.78,xgboost
+Japan,A_baumannii_AMG,2029,0.39,0.0,7.0,xgboost
+Japan,A_baumannii_CARB,2029,0.44,0.0,7.03,xgboost
+Japan,A_baumannii_COL,2029,0.21,0.0,6.99,xgboost
+Japan,A_baumannii_FQ,2029,1.4,0.0,7.38,xgboost
+Japan,A_baumannii_TET,2029,13.45,8.76,17.32,xgboost
+"Korea, South",A_baumannii_3GC,2029,98.72,83.6,98.72,xgboost
+"Korea, South",A_baumannii_AMG,2029,98.56,83.6,98.56,xgboost
+"Korea, South",A_baumannii_CARB,2029,98.73,83.61,98.73,xgboost
+"Korea, South",A_baumannii_COL,2029,0.0,0.0,5.55,xgboost
+"Korea, South",A_baumannii_FQ,2029,98.75,83.59,98.75,xgboost
+"Korea, South",A_baumannii_TET,2029,79.81,65.32,84.37,xgboost
+Lithuania,A_baumannii_3GC,2029,91.85,78.75,91.85,xgboost
+Lithuania,A_baumannii_AMG,2029,88.97,77.4,88.97,xgboost
+Lithuania,A_baumannii_CARB,2029,91.87,78.76,91.87,xgboost
+Lithuania,A_baumannii_COL,2029,0.0,0.0,7.64,xgboost
+Lithuania,A_baumannii_FQ,2029,91.94,78.75,91.94,xgboost
+Lithuania,A_baumannii_TET,2029,90.18,76.44,90.18,xgboost
+Malaysia,A_baumannii_3GC,2029,79.43,75.06,82.01,xgboost
+Malaysia,A_baumannii_AMG,2029,83.46,71.41,86.97,xgboost
+Malaysia,A_baumannii_CARB,2029,78.34,75.08,81.69,xgboost
+Malaysia,A_baumannii_COL,2029,0.1,0.0,5.61,xgboost
+Malaysia,A_baumannii_FQ,2029,73.64,67.25,81.98,xgboost
+Malaysia,A_baumannii_TET,2029,59.33,54.37,61.1,xgboost
+Mexico,A_baumannii_3GC,2029,97.71,77.63,97.71,xgboost
+Mexico,A_baumannii_AMG,2029,76.44,61.59,82.86,xgboost
+Mexico,A_baumannii_CARB,2029,97.98,75.6,98.48,xgboost
+Mexico,A_baumannii_COL,2029,0.23,0.0,7.42,xgboost
+Mexico,A_baumannii_FQ,2029,98.02,77.65,98.03,xgboost
+Mexico,A_baumannii_TET,2029,68.4,54.37,69.06,xgboost
+Philippines,A_baumannii_3GC,2029,41.72,36.7,47.77,xgboost
+Philippines,A_baumannii_AMG,2029,41.3,35.45,46.23,xgboost
+Philippines,A_baumannii_CARB,2029,45.7,38.78,52.63,xgboost
+Philippines,A_baumannii_COL,2029,64.56,53.1,64.56,xgboost
+Philippines,A_baumannii_FQ,2029,88.32,69.71,89.71,xgboost
+Philippines,A_baumannii_TET,2029,71.51,61.54,73.16,xgboost
+Poland,A_baumannii_3GC,2029,37.78,35.05,42.05,xgboost
+Poland,A_baumannii_AMG,2029,52.79,51.05,52.79,xgboost
+Poland,A_baumannii_CARB,2029,42.02,42.02,47.74,xgboost
+Poland,A_baumannii_COL,2029,0.37,0.0,8.57,xgboost
+Poland,A_baumannii_FQ,2029,42.25,39.07,47.12,xgboost
+Poland,A_baumannii_TET,2029,53.96,52.52,53.97,xgboost
+Portugal,A_baumannii_3GC,2029,6.47,4.52,11.75,xgboost
+Portugal,A_baumannii_AMG,2029,4.52,3.8,7.07,xgboost
+Portugal,A_baumannii_CARB,2029,2.91,2.91,11.3,xgboost
+Portugal,A_baumannii_COL,2029,0.0,0.0,4.62,xgboost
+Portugal,A_baumannii_FQ,2029,13.95,12.7,18.49,xgboost
+Portugal,A_baumannii_TET,2029,3.75,1.82,7.66,xgboost
+Romania,A_baumannii_3GC,2029,86.38,78.61,86.99,xgboost
+Romania,A_baumannii_AMG,2029,89.38,75.7,89.38,xgboost
+Romania,A_baumannii_CARB,2029,86.46,78.6,86.95,xgboost
+Romania,A_baumannii_COL,2029,0.01,0.0,5.8,xgboost
+Romania,A_baumannii_FQ,2029,86.19,78.59,86.48,xgboost
+Romania,A_baumannii_TET,2029,33.36,33.36,39.98,xgboost
+Russia,A_baumannii_3GC,2029,97.38,80.55,97.38,xgboost
+Russia,A_baumannii_AMG,2029,98.43,77.68,99.26,xgboost
+Russia,A_baumannii_CARB,2029,98.41,79.76,99.43,xgboost
+Russia,A_baumannii_COL,2029,0.0,0.0,3.3,xgboost
+Russia,A_baumannii_FQ,2029,98.08,78.37,99.33,xgboost
+Russia,A_baumannii_TET,2029,93.29,71.71,93.29,xgboost
+Spain,A_baumannii_3GC,2029,4.02,2.01,11.21,xgboost
+Spain,A_baumannii_AMG,2029,2.55,1.46,7.45,xgboost
+Spain,A_baumannii_CARB,2029,0.89,0.25,8.81,xgboost
+Spain,A_baumannii_COL,2029,0.0,0.0,5.62,xgboost
+Spain,A_baumannii_FQ,2029,16.4,12.77,20.27,xgboost
+Spain,A_baumannii_TET,2029,25.22,19.72,26.63,xgboost
+Taiwan,A_baumannii_3GC,2029,9.82,7.68,20.25,xgboost
+Taiwan,A_baumannii_AMG,2029,1.87,1.87,10.08,xgboost
+Taiwan,A_baumannii_CARB,2029,20.2,20.2,26.59,xgboost
+Taiwan,A_baumannii_COL,2029,0.0,0.0,4.78,xgboost
+Taiwan,A_baumannii_FQ,2029,14.26,11.97,22.71,xgboost
+Taiwan,A_baumannii_TET,2029,1.14,0.37,6.15,xgboost
+Thailand,A_baumannii_3GC,2029,88.22,80.32,90.16,xgboost
+Thailand,A_baumannii_AMG,2029,97.46,73.88,98.64,xgboost
+Thailand,A_baumannii_CARB,2029,88.28,80.32,90.47,xgboost
+Thailand,A_baumannii_COL,2029,0.0,0.0,3.01,xgboost
+Thailand,A_baumannii_FQ,2029,89.23,80.37,90.8,xgboost
+Thailand,A_baumannii_TET,2029,95.08,72.54,97.51,xgboost
+Turkey,A_baumannii_3GC,2029,98.34,83.33,98.34,xgboost
+Turkey,A_baumannii_AMG,2029,94.18,77.68,94.67,xgboost
+Turkey,A_baumannii_CARB,2029,97.8,83.32,97.8,xgboost
+Turkey,A_baumannii_COL,2029,0.0,0.0,0.27,xgboost
+Turkey,A_baumannii_FQ,2029,97.83,83.3,97.83,xgboost
+Turkey,A_baumannii_TET,2029,98.33,79.38,98.33,xgboost
+Ukraine,A_baumannii_3GC,2029,60.43,57.21,63.98,xgboost
+Ukraine,A_baumannii_AMG,2029,60.64,57.46,63.63,xgboost
+Ukraine,A_baumannii_CARB,2029,61.72,57.19,65.28,xgboost
+Ukraine,A_baumannii_COL,2029,0.0,0.0,0.0,xgboost
+Ukraine,A_baumannii_FQ,2029,61.22,56.95,63.92,xgboost
+Ukraine,A_baumannii_TET,2029,59.45,57.2,62.87,xgboost
+United Kingdom,A_baumannii_3GC,2029,11.76,11.76,12.28,xgboost
+United Kingdom,A_baumannii_AMG,2029,10.76,9.11,10.76,xgboost
+United Kingdom,A_baumannii_CARB,2029,10.81,9.13,10.81,xgboost
+United Kingdom,A_baumannii_COL,2029,10.58,8.87,10.58,xgboost
+United Kingdom,A_baumannii_FQ,2029,11.71,11.71,12.92,xgboost
+United Kingdom,A_baumannii_TET,2029,11.85,11.85,13.54,xgboost
+United States,A_baumannii_3GC,2029,42.27,40.62,42.27,xgboost
+United States,A_baumannii_AMG,2029,17.23,16.14,19.75,xgboost
+United States,A_baumannii_CARB,2029,43.21,41.28,43.21,xgboost
+United States,A_baumannii_COL,2029,0.68,0.0,5.76,xgboost
+United States,A_baumannii_FQ,2029,43.85,41.54,43.85,xgboost
+United States,A_baumannii_TET,2029,35.15,35.15,38.69,xgboost
+Vietnam,A_baumannii_3GC,2029,95.97,74.18,96.87,xgboost
+Vietnam,A_baumannii_AMG,2029,94.57,72.99,96.16,xgboost
+Vietnam,A_baumannii_CARB,2029,99.26,80.05,99.26,xgboost
+Vietnam,A_baumannii_COL,2029,63.07,53.73,63.07,xgboost
+Vietnam,A_baumannii_FQ,2029,96.45,73.8,96.91,xgboost
+Vietnam,A_baumannii_TET,2029,99.22,75.57,99.82,xgboost
+Argentina,A_baumannii_3GC,2030,65.34,59.18,67.33,xgboost
+Argentina,A_baumannii_AMG,2030,3.48,2.2,12.71,xgboost
+Argentina,A_baumannii_CARB,2030,71.56,60.64,77.71,xgboost
+Argentina,A_baumannii_COL,2030,3.7,2.74,7.12,xgboost
+Argentina,A_baumannii_FQ,2030,71.96,63.07,77.73,xgboost
+Argentina,A_baumannii_TET,2030,68.74,58.37,70.04,xgboost
+Australia,A_baumannii_3GC,2030,4.12,1.85,7.7,xgboost
+Australia,A_baumannii_AMG,2030,6.31,6.31,10.16,xgboost
+Australia,A_baumannii_CARB,2030,1.58,1.02,4.0,xgboost
+Australia,A_baumannii_COL,2030,0.17,0.0,3.91,xgboost
+Australia,A_baumannii_FQ,2030,3.15,0.72,7.03,xgboost
+Australia,A_baumannii_TET,2030,6.52,6.22,11.35,xgboost
+Belgium,A_baumannii_3GC,2030,70.87,61.46,73.18,xgboost
+Belgium,A_baumannii_AMG,2030,0.57,0.0,6.84,xgboost
+Belgium,A_baumannii_CARB,2030,0.53,0.0,6.01,xgboost
+Belgium,A_baumannii_COL,2030,0.0,0.0,6.09,xgboost
+Belgium,A_baumannii_FQ,2030,93.46,69.45,93.67,xgboost
+Belgium,A_baumannii_TET,2030,26.0,25.36,31.4,xgboost
+Brazil,A_baumannii_3GC,2030,99.5,77.09,99.5,xgboost
+Brazil,A_baumannii_AMG,2030,99.49,76.4,99.49,xgboost
+Brazil,A_baumannii_CARB,2030,99.38,76.78,99.38,xgboost
+Brazil,A_baumannii_COL,2030,0.2,0.01,8.21,xgboost
+Brazil,A_baumannii_FQ,2030,99.53,75.93,99.53,xgboost
+Brazil,A_baumannii_TET,2030,99.25,79.87,99.25,xgboost
+Chile,A_baumannii_3GC,2030,38.22,36.28,41.75,xgboost
+Chile,A_baumannii_AMG,2030,43.77,41.09,46.2,xgboost
+Chile,A_baumannii_CARB,2030,9.88,8.07,17.72,xgboost
+Chile,A_baumannii_COL,2030,0.0,0.0,6.5,xgboost
+Chile,A_baumannii_FQ,2030,50.72,48.77,51.57,xgboost
+Chile,A_baumannii_TET,2030,10.08,9.8,16.1,xgboost
+Colombia,A_baumannii_3GC,2030,7.78,7.78,11.25,xgboost
+Colombia,A_baumannii_AMG,2030,2.75,1.84,5.27,xgboost
+Colombia,A_baumannii_CARB,2030,35.19,30.69,41.04,xgboost
+Colombia,A_baumannii_COL,2030,0.2,0.0,1.86,xgboost
+Colombia,A_baumannii_FQ,2030,6.57,4.28,8.47,xgboost
+Colombia,A_baumannii_TET,2030,12.53,12.46,15.35,xgboost
+Croatia,A_baumannii_3GC,2030,100.0,75.46,100.0,xgboost
+Croatia,A_baumannii_AMG,2030,100.0,76.05,100.0,xgboost
+Croatia,A_baumannii_CARB,2030,100.0,73.93,100.0,xgboost
+Croatia,A_baumannii_COL,2030,0.31,0.0,6.06,xgboost
+Croatia,A_baumannii_FQ,2030,100.0,74.54,100.0,xgboost
+Croatia,A_baumannii_TET,2030,99.38,76.6,99.38,xgboost
+Czech Republic,A_baumannii_3GC,2030,51.25,45.82,53.22,xgboost
+Czech Republic,A_baumannii_AMG,2030,51.14,45.66,53.33,xgboost
+Czech Republic,A_baumannii_CARB,2030,65.57,55.58,65.57,xgboost
+Czech Republic,A_baumannii_COL,2030,0.0,0.0,5.47,xgboost
+Czech Republic,A_baumannii_FQ,2030,69.64,59.63,69.64,xgboost
+Czech Republic,A_baumannii_TET,2030,36.04,36.04,44.18,xgboost
+France,A_baumannii_3GC,2030,6.97,5.68,14.29,xgboost
+France,A_baumannii_AMG,2030,5.19,3.81,7.99,xgboost
+France,A_baumannii_CARB,2030,6.63,6.26,14.43,xgboost
+France,A_baumannii_COL,2030,0.0,0.0,5.15,xgboost
+France,A_baumannii_FQ,2030,55.5,44.83,56.98,xgboost
+France,A_baumannii_TET,2030,35.9,35.13,40.93,xgboost
+Germany,A_baumannii_3GC,2030,17.66,13.35,18.24,xgboost
+Germany,A_baumannii_AMG,2030,17.15,13.33,17.75,xgboost
+Germany,A_baumannii_CARB,2030,17.28,13.32,17.99,xgboost
+Germany,A_baumannii_COL,2030,0.09,0.0,2.81,xgboost
+Germany,A_baumannii_FQ,2030,1.47,0.0,3.34,xgboost
+Germany,A_baumannii_TET,2030,9.74,8.41,11.64,xgboost
+Greece,A_baumannii_3GC,2030,98.4,78.52,98.55,xgboost
+Greece,A_baumannii_AMG,2030,91.22,78.77,91.22,xgboost
+Greece,A_baumannii_CARB,2030,92.75,79.75,92.75,xgboost
+Greece,A_baumannii_COL,2030,34.28,34.27,40.39,xgboost
+Greece,A_baumannii_FQ,2030,96.86,79.19,96.86,xgboost
+Greece,A_baumannii_TET,2030,92.77,78.79,92.77,xgboost
+Guatemala,A_baumannii_3GC,2030,98.4,82.41,98.4,xgboost
+Guatemala,A_baumannii_AMG,2030,94.96,79.35,94.96,xgboost
+Guatemala,A_baumannii_CARB,2030,87.52,79.56,88.95,xgboost
+Guatemala,A_baumannii_COL,2030,0.26,0.0,2.94,xgboost
+Guatemala,A_baumannii_FQ,2030,89.11,81.49,90.81,xgboost
+Guatemala,A_baumannii_TET,2030,93.56,73.12,95.13,xgboost
+Hungary,A_baumannii_3GC,2030,91.78,79.7,91.78,xgboost
+Hungary,A_baumannii_AMG,2030,95.46,82.39,95.46,xgboost
+Hungary,A_baumannii_CARB,2030,27.24,24.27,30.96,xgboost
+Hungary,A_baumannii_COL,2030,0.0,0.0,4.91,xgboost
+Hungary,A_baumannii_FQ,2030,89.49,74.89,89.49,xgboost
+Hungary,A_baumannii_TET,2030,92.37,76.12,92.37,xgboost
+Israel,A_baumannii_3GC,2030,60.04,56.47,62.01,xgboost
+Israel,A_baumannii_AMG,2030,61.57,58.5,63.08,xgboost
+Israel,A_baumannii_CARB,2030,66.73,60.9,66.73,xgboost
+Israel,A_baumannii_COL,2030,0.4,0.0,6.36,xgboost
+Israel,A_baumannii_FQ,2030,66.85,62.09,69.05,xgboost
+Israel,A_baumannii_TET,2030,63.1,58.62,64.58,xgboost
+Italy,A_baumannii_3GC,2030,88.14,78.53,89.46,xgboost
+Italy,A_baumannii_AMG,2030,89.24,79.86,89.24,xgboost
+Italy,A_baumannii_CARB,2030,88.15,78.54,89.37,xgboost
+Italy,A_baumannii_COL,2030,0.0,0.0,6.2,xgboost
+Italy,A_baumannii_FQ,2030,86.06,77.91,87.75,xgboost
+Italy,A_baumannii_TET,2030,95.06,76.91,95.06,xgboost
+Japan,A_baumannii_3GC,2030,8.38,7.55,13.72,xgboost
+Japan,A_baumannii_AMG,2030,0.43,0.0,7.01,xgboost
+Japan,A_baumannii_CARB,2030,0.4,0.0,7.03,xgboost
+Japan,A_baumannii_COL,2030,0.21,0.0,6.99,xgboost
+Japan,A_baumannii_FQ,2030,1.4,0.0,7.38,xgboost
+Japan,A_baumannii_TET,2030,16.63,12.4,19.89,xgboost
+"Korea, South",A_baumannii_3GC,2030,98.72,83.6,98.72,xgboost
+"Korea, South",A_baumannii_AMG,2030,98.74,83.6,98.74,xgboost
+"Korea, South",A_baumannii_CARB,2030,98.73,83.61,98.73,xgboost
+"Korea, South",A_baumannii_COL,2030,0.0,0.0,5.55,xgboost
+"Korea, South",A_baumannii_FQ,2030,98.65,81.85,98.65,xgboost
+"Korea, South",A_baumannii_TET,2030,88.35,70.71,88.35,xgboost
+Lithuania,A_baumannii_3GC,2030,91.99,80.22,91.99,xgboost
+Lithuania,A_baumannii_AMG,2030,90.38,75.49,90.38,xgboost
+Lithuania,A_baumannii_CARB,2030,91.94,80.22,91.94,xgboost
+Lithuania,A_baumannii_COL,2030,0.0,0.0,6.62,xgboost
+Lithuania,A_baumannii_FQ,2030,92.23,80.2,92.23,xgboost
+Lithuania,A_baumannii_TET,2030,92.01,77.67,92.01,xgboost
+Malaysia,A_baumannii_3GC,2030,78.23,75.27,81.63,xgboost
+Malaysia,A_baumannii_AMG,2030,85.85,73.34,87.5,xgboost
+Malaysia,A_baumannii_CARB,2030,75.91,75.13,80.87,xgboost
+Malaysia,A_baumannii_COL,2030,0.1,0.0,5.61,xgboost
+Malaysia,A_baumannii_FQ,2030,79.47,69.74,81.48,xgboost
+Malaysia,A_baumannii_TET,2030,64.26,57.88,64.79,xgboost
+Mexico,A_baumannii_3GC,2030,95.42,78.05,95.61,xgboost
+Mexico,A_baumannii_AMG,2030,84.08,67.31,89.79,xgboost
+Mexico,A_baumannii_CARB,2030,95.31,77.34,95.71,xgboost
+Mexico,A_baumannii_COL,2030,0.23,0.0,7.42,xgboost
+Mexico,A_baumannii_FQ,2030,95.39,78.07,95.69,xgboost
+Mexico,A_baumannii_TET,2030,73.01,60.33,75.28,xgboost
+Philippines,A_baumannii_3GC,2030,45.69,43.74,53.17,xgboost
+Philippines,A_baumannii_AMG,2030,46.73,42.9,54.31,xgboost
+Philippines,A_baumannii_CARB,2030,52.5,45.69,57.92,xgboost
+Philippines,A_baumannii_COL,2030,71.01,61.46,71.78,xgboost
+Philippines,A_baumannii_FQ,2030,95.54,71.52,97.71,xgboost
+Philippines,A_baumannii_TET,2030,77.44,63.28,82.72,xgboost
+Poland,A_baumannii_3GC,2030,41.65,40.66,43.78,xgboost
+Poland,A_baumannii_AMG,2030,52.57,51.94,52.57,xgboost
+Poland,A_baumannii_CARB,2030,38.04,33.92,41.37,xgboost
+Poland,A_baumannii_COL,2030,0.09,0.01,7.43,xgboost
+Poland,A_baumannii_FQ,2030,38.7,34.04,42.49,xgboost
+Poland,A_baumannii_TET,2030,56.99,53.52,56.99,xgboost
+Portugal,A_baumannii_3GC,2030,3.79,2.54,8.98,xgboost
+Portugal,A_baumannii_AMG,2030,2.37,2.35,6.16,xgboost
+Portugal,A_baumannii_CARB,2030,0.79,0.0,7.8,xgboost
+Portugal,A_baumannii_COL,2030,0.0,0.0,4.62,xgboost
+Portugal,A_baumannii_FQ,2030,8.78,5.94,14.76,xgboost
+Portugal,A_baumannii_TET,2030,3.86,1.33,7.43,xgboost
+Romania,A_baumannii_3GC,2030,88.79,77.67,88.79,xgboost
+Romania,A_baumannii_AMG,2030,89.73,76.27,89.73,xgboost
+Romania,A_baumannii_CARB,2030,88.78,76.35,88.78,xgboost
+Romania,A_baumannii_COL,2030,0.01,0.0,5.8,xgboost
+Romania,A_baumannii_FQ,2030,87.28,77.65,87.35,xgboost
+Romania,A_baumannii_TET,2030,32.49,31.87,38.71,xgboost
+Russia,A_baumannii_3GC,2030,98.59,80.34,99.44,xgboost
+Russia,A_baumannii_AMG,2030,98.5,78.44,99.44,xgboost
+Russia,A_baumannii_CARB,2030,98.62,80.34,99.46,xgboost
+Russia,A_baumannii_COL,2030,0.0,0.0,3.3,xgboost
+Russia,A_baumannii_FQ,2030,98.58,78.59,99.49,xgboost
+Russia,A_baumannii_TET,2030,96.94,72.88,97.41,xgboost
+Spain,A_baumannii_3GC,2030,2.66,1.02,9.1,xgboost
+Spain,A_baumannii_AMG,2030,0.77,0.77,7.7,xgboost
+Spain,A_baumannii_CARB,2030,0.51,0.0,7.08,xgboost
+Spain,A_baumannii_COL,2030,0.0,0.0,5.62,xgboost
+Spain,A_baumannii_FQ,2030,15.7,13.05,20.19,xgboost
+Spain,A_baumannii_TET,2030,28.85,20.34,29.35,xgboost
+Taiwan,A_baumannii_3GC,2030,4.51,3.12,15.39,xgboost
+Taiwan,A_baumannii_AMG,2030,0.47,0.1,7.73,xgboost
+Taiwan,A_baumannii_CARB,2030,14.6,11.55,22.63,xgboost
+Taiwan,A_baumannii_COL,2030,0.0,0.0,4.78,xgboost
+Taiwan,A_baumannii_FQ,2030,8.56,5.87,17.94,xgboost
+Taiwan,A_baumannii_TET,2030,1.14,0.0,6.32,xgboost
+Thailand,A_baumannii_3GC,2030,86.63,77.78,89.48,xgboost
+Thailand,A_baumannii_AMG,2030,97.67,77.32,99.42,xgboost
+Thailand,A_baumannii_CARB,2030,86.73,77.78,89.53,xgboost
+Thailand,A_baumannii_COL,2030,0.0,0.0,3.01,xgboost
+Thailand,A_baumannii_FQ,2030,86.95,79.31,89.46,xgboost
+Thailand,A_baumannii_TET,2030,97.81,73.56,99.23,xgboost
+Turkey,A_baumannii_3GC,2030,98.34,83.33,98.34,xgboost
+Turkey,A_baumannii_AMG,2030,96.4,79.77,97.07,xgboost
+Turkey,A_baumannii_CARB,2030,98.33,83.32,98.33,xgboost
+Turkey,A_baumannii_COL,2030,0.0,0.0,0.27,xgboost
+Turkey,A_baumannii_FQ,2030,98.36,83.3,98.36,xgboost
+Turkey,A_baumannii_TET,2030,98.28,82.38,98.28,xgboost
+Ukraine,A_baumannii_3GC,2030,60.37,57.86,63.62,xgboost
+Ukraine,A_baumannii_AMG,2030,60.72,57.87,63.88,xgboost
+Ukraine,A_baumannii_CARB,2030,60.72,56.82,64.06,xgboost
+Ukraine,A_baumannii_COL,2030,0.0,0.0,0.0,xgboost
+Ukraine,A_baumannii_FQ,2030,61.11,57.88,63.7,xgboost
+Ukraine,A_baumannii_TET,2030,59.14,55.89,60.85,xgboost
+United Kingdom,A_baumannii_3GC,2030,11.9,11.36,11.9,xgboost
+United Kingdom,A_baumannii_AMG,2030,11.73,11.73,11.88,xgboost
+United Kingdom,A_baumannii_CARB,2030,11.77,11.77,11.8,xgboost
+United Kingdom,A_baumannii_COL,2030,11.49,10.07,11.49,xgboost
+United Kingdom,A_baumannii_FQ,2030,11.98,11.98,12.07,xgboost
+United Kingdom,A_baumannii_TET,2030,12.44,12.44,13.69,xgboost
+United States,A_baumannii_3GC,2030,42.26,40.62,42.26,xgboost
+United States,A_baumannii_AMG,2030,17.23,16.14,19.75,xgboost
+United States,A_baumannii_CARB,2030,43.21,40.82,43.21,xgboost
+United States,A_baumannii_COL,2030,0.68,0.0,5.76,xgboost
+United States,A_baumannii_FQ,2030,43.85,41.54,43.85,xgboost
+United States,A_baumannii_TET,2030,33.34,33.34,37.44,xgboost
+Vietnam,A_baumannii_3GC,2030,99.06,78.59,99.39,xgboost
+Vietnam,A_baumannii_AMG,2030,98.15,76.53,99.77,xgboost
+Vietnam,A_baumannii_CARB,2030,98.32,81.26,98.71,xgboost
+Vietnam,A_baumannii_COL,2030,70.66,62.36,71.28,xgboost
+Vietnam,A_baumannii_FQ,2030,99.27,78.19,99.74,xgboost
+Vietnam,A_baumannii_TET,2030,99.43,79.76,99.6,xgboost
+Argentina,A_baumannii_3GC,2016,95.83333333333333,,,xgboost_fitted
+Argentina,A_baumannii_3GC,2017,96.15384615384616,,,xgboost_fitted
+Argentina,A_baumannii_3GC,2018,62.96296296296296,,,xgboost_fitted
+Argentina,A_baumannii_3GC,2019,95.45454545454545,,,xgboost_fitted
+Argentina,A_baumannii_3GC,2020,90.0,,,xgboost_fitted
+Argentina,A_baumannii_3GC,2021,,,,xgboost_fitted
+Argentina,A_baumannii_3GC,2022,,,,xgboost_fitted
+Argentina,A_baumannii_3GC,2023,,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2016,66.66666666666667,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2017,57.692307692307686,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2018,29.629629629629626,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2019,77.27272727272727,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2020,40.0,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2021,,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2022,,,,xgboost_fitted
+Argentina,A_baumannii_AMG,2023,,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2016,91.66666666666667,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2017,92.3076923076923,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2018,66.66666666666667,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2019,95.45454545454545,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2020,95.0,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2021,,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2022,,,,xgboost_fitted
+Argentina,A_baumannii_CARB,2023,,,,xgboost_fitted
+Argentina,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Argentina,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Argentina,A_baumannii_COL,2018,7.4074074074074066,,,xgboost_fitted
+Argentina,A_baumannii_COL,2019,4.545454545454546,,,xgboost_fitted
+Argentina,A_baumannii_COL,2020,5.0,,,xgboost_fitted
+Argentina,A_baumannii_COL,2021,,,,xgboost_fitted
+Argentina,A_baumannii_COL,2022,,,,xgboost_fitted
+Argentina,A_baumannii_COL,2023,,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2016,95.83333333333333,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2017,96.15384615384616,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2018,66.66666666666667,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2019,95.45454545454545,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2020,95.0,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2021,,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2022,,,,xgboost_fitted
+Argentina,A_baumannii_FQ,2023,,,,xgboost_fitted
+Argentina,A_baumannii_TET,2016,33.333333333333336,,,xgboost_fitted
+Argentina,A_baumannii_TET,2017,17.307692307692307,,,xgboost_fitted
+Argentina,A_baumannii_TET,2018,7.4074074074074066,,,xgboost_fitted
+Argentina,A_baumannii_TET,2019,31.818181818181817,,,xgboost_fitted
+Argentina,A_baumannii_TET,2020,52.5,,,xgboost_fitted
+Argentina,A_baumannii_TET,2021,,,,xgboost_fitted
+Argentina,A_baumannii_TET,2022,,,,xgboost_fitted
+Argentina,A_baumannii_TET,2023,,,,xgboost_fitted
+Australia,A_baumannii_3GC,2016,35.0,,,xgboost_fitted
+Australia,A_baumannii_3GC,2017,20.0,,,xgboost_fitted
+Australia,A_baumannii_3GC,2018,9.090909090909092,,,xgboost_fitted
+Australia,A_baumannii_3GC,2019,,,,xgboost_fitted
+Australia,A_baumannii_3GC,2020,5.0,,,xgboost_fitted
+Australia,A_baumannii_3GC,2021,10.0,,,xgboost_fitted
+Australia,A_baumannii_3GC,2022,,,,xgboost_fitted
+Australia,A_baumannii_3GC,2023,,,,xgboost_fitted
+Australia,A_baumannii_AMG,2016,15.0,,,xgboost_fitted
+Australia,A_baumannii_AMG,2017,20.0,,,xgboost_fitted
+Australia,A_baumannii_AMG,2018,0.0,,,xgboost_fitted
+Australia,A_baumannii_AMG,2019,,,,xgboost_fitted
+Australia,A_baumannii_AMG,2020,0.0,,,xgboost_fitted
+Australia,A_baumannii_AMG,2021,5.0,,,xgboost_fitted
+Australia,A_baumannii_AMG,2022,,,,xgboost_fitted
+Australia,A_baumannii_AMG,2023,,,,xgboost_fitted
+Australia,A_baumannii_CARB,2016,27.5,,,xgboost_fitted
+Australia,A_baumannii_CARB,2017,20.0,,,xgboost_fitted
+Australia,A_baumannii_CARB,2018,0.0,,,xgboost_fitted
+Australia,A_baumannii_CARB,2019,,,,xgboost_fitted
+Australia,A_baumannii_CARB,2020,5.0,,,xgboost_fitted
+Australia,A_baumannii_CARB,2021,5.0,,,xgboost_fitted
+Australia,A_baumannii_CARB,2022,,,,xgboost_fitted
+Australia,A_baumannii_CARB,2023,,,,xgboost_fitted
+Australia,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Australia,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Australia,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Australia,A_baumannii_COL,2019,,,,xgboost_fitted
+Australia,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Australia,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Australia,A_baumannii_COL,2022,,,,xgboost_fitted
+Australia,A_baumannii_COL,2023,,,,xgboost_fitted
+Australia,A_baumannii_FQ,2016,35.0,,,xgboost_fitted
+Australia,A_baumannii_FQ,2017,13.333333333333334,,,xgboost_fitted
+Australia,A_baumannii_FQ,2018,4.545454545454546,,,xgboost_fitted
+Australia,A_baumannii_FQ,2019,,,,xgboost_fitted
+Australia,A_baumannii_FQ,2020,5.0,,,xgboost_fitted
+Australia,A_baumannii_FQ,2021,10.0,,,xgboost_fitted
+Australia,A_baumannii_FQ,2022,,,,xgboost_fitted
+Australia,A_baumannii_FQ,2023,,,,xgboost_fitted
+Australia,A_baumannii_TET,2016,20.0,,,xgboost_fitted
+Australia,A_baumannii_TET,2017,10.0,,,xgboost_fitted
+Australia,A_baumannii_TET,2018,0.0,,,xgboost_fitted
+Australia,A_baumannii_TET,2019,,,,xgboost_fitted
+Australia,A_baumannii_TET,2020,0.0,,,xgboost_fitted
+Australia,A_baumannii_TET,2021,2.5,,,xgboost_fitted
+Australia,A_baumannii_TET,2022,,,,xgboost_fitted
+Australia,A_baumannii_TET,2023,,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2016,35.0,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2017,38.888888888888886,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2018,26.08695652173913,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2019,10.0,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2020,7.6923076923076925,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2021,25.000000000000004,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2022,,,,xgboost_fitted
+Belgium,A_baumannii_3GC,2023,,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2016,20.0,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2017,5.555555555555555,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2018,17.391304347826086,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2019,10.0,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2020,7.6923076923076925,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2021,10.000000000000002,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2022,,,,xgboost_fitted
+Belgium,A_baumannii_AMG,2023,,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2016,27.5,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2017,22.22222222222222,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2018,17.391304347826086,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2019,15.0,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2020,7.6923076923076925,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2021,10.000000000000002,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2022,,,,xgboost_fitted
+Belgium,A_baumannii_CARB,2023,,,,xgboost_fitted
+Belgium,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Belgium,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Belgium,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Belgium,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Belgium,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Belgium,A_baumannii_COL,2021,5.000000000000001,,,xgboost_fitted
+Belgium,A_baumannii_COL,2022,,,,xgboost_fitted
+Belgium,A_baumannii_COL,2023,,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2016,45.0,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2017,38.888888888888886,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2018,26.08695652173913,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2019,30.0,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2020,30.769230769230766,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2021,45.0,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2022,,,,xgboost_fitted
+Belgium,A_baumannii_FQ,2023,,,,xgboost_fitted
+Belgium,A_baumannii_TET,2016,20.0,,,xgboost_fitted
+Belgium,A_baumannii_TET,2017,36.111111111111114,,,xgboost_fitted
+Belgium,A_baumannii_TET,2018,6.521739130434781,,,xgboost_fitted
+Belgium,A_baumannii_TET,2019,5.0,,,xgboost_fitted
+Belgium,A_baumannii_TET,2020,7.6923076923076925,,,xgboost_fitted
+Belgium,A_baumannii_TET,2021,12.5,,,xgboost_fitted
+Belgium,A_baumannii_TET,2022,,,,xgboost_fitted
+Belgium,A_baumannii_TET,2023,,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2016,85.71428571428571,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2017,54.54545454545455,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2018,86.20689655172414,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2019,77.27272727272727,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2020,100.0,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2021,100.0,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2022,,,,xgboost_fitted
+Brazil,A_baumannii_3GC,2023,,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2016,66.66666666666666,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2017,27.272727272727273,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2018,68.96551724137932,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2019,63.63636363636365,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2020,73.68421052631578,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2021,95.0,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2022,,,,xgboost_fitted
+Brazil,A_baumannii_AMG,2023,,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2016,80.95238095238095,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2017,54.54545454545455,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2018,79.3103448275862,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2019,72.72727272727273,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2020,89.47368421052632,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2021,100.0,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2022,,,,xgboost_fitted
+Brazil,A_baumannii_CARB,2023,,,,xgboost_fitted
+Brazil,A_baumannii_COL,2016,9.523809523809522,,,xgboost_fitted
+Brazil,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Brazil,A_baumannii_COL,2018,3.4482758620689653,,,xgboost_fitted
+Brazil,A_baumannii_COL,2019,4.545454545454546,,,xgboost_fitted
+Brazil,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Brazil,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Brazil,A_baumannii_COL,2022,,,,xgboost_fitted
+Brazil,A_baumannii_COL,2023,,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2016,85.71428571428571,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2017,45.45454545454545,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2018,82.75862068965517,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2019,77.27272727272727,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2020,100.0,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2021,100.0,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2022,,,,xgboost_fitted
+Brazil,A_baumannii_FQ,2023,,,,xgboost_fitted
+Brazil,A_baumannii_TET,2016,14.285714285714286,,,xgboost_fitted
+Brazil,A_baumannii_TET,2017,4.545454545454546,,,xgboost_fitted
+Brazil,A_baumannii_TET,2018,6.896551724137931,,,xgboost_fitted
+Brazil,A_baumannii_TET,2019,38.63636363636363,,,xgboost_fitted
+Brazil,A_baumannii_TET,2020,57.89473684210526,,,xgboost_fitted
+Brazil,A_baumannii_TET,2021,65.0,,,xgboost_fitted
+Brazil,A_baumannii_TET,2022,,,,xgboost_fitted
+Brazil,A_baumannii_TET,2023,,,,xgboost_fitted
+Chile,A_baumannii_3GC,2016,50.0,,,xgboost_fitted
+Chile,A_baumannii_3GC,2017,14.285714285714286,,,xgboost_fitted
+Chile,A_baumannii_3GC,2018,,,,xgboost_fitted
+Chile,A_baumannii_3GC,2019,,,,xgboost_fitted
+Chile,A_baumannii_3GC,2020,,,,xgboost_fitted
+Chile,A_baumannii_3GC,2021,30.0,,,xgboost_fitted
+Chile,A_baumannii_3GC,2022,,,,xgboost_fitted
+Chile,A_baumannii_3GC,2023,,,,xgboost_fitted
+Chile,A_baumannii_AMG,2016,62.5,,,xgboost_fitted
+Chile,A_baumannii_AMG,2017,7.142857142857143,,,xgboost_fitted
+Chile,A_baumannii_AMG,2018,,,,xgboost_fitted
+Chile,A_baumannii_AMG,2019,,,,xgboost_fitted
+Chile,A_baumannii_AMG,2020,,,,xgboost_fitted
+Chile,A_baumannii_AMG,2021,20.0,,,xgboost_fitted
+Chile,A_baumannii_AMG,2022,,,,xgboost_fitted
+Chile,A_baumannii_AMG,2023,,,,xgboost_fitted
+Chile,A_baumannii_CARB,2016,43.75,,,xgboost_fitted
+Chile,A_baumannii_CARB,2017,7.142857142857143,,,xgboost_fitted
+Chile,A_baumannii_CARB,2018,,,,xgboost_fitted
+Chile,A_baumannii_CARB,2019,,,,xgboost_fitted
+Chile,A_baumannii_CARB,2020,,,,xgboost_fitted
+Chile,A_baumannii_CARB,2021,12.500000000000002,,,xgboost_fitted
+Chile,A_baumannii_CARB,2022,,,,xgboost_fitted
+Chile,A_baumannii_CARB,2023,,,,xgboost_fitted
+Chile,A_baumannii_COL,2016,6.25,,,xgboost_fitted
+Chile,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Chile,A_baumannii_COL,2018,,,,xgboost_fitted
+Chile,A_baumannii_COL,2019,,,,xgboost_fitted
+Chile,A_baumannii_COL,2020,,,,xgboost_fitted
+Chile,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Chile,A_baumannii_COL,2022,,,,xgboost_fitted
+Chile,A_baumannii_COL,2023,,,,xgboost_fitted
+Chile,A_baumannii_FQ,2016,68.75,,,xgboost_fitted
+Chile,A_baumannii_FQ,2017,7.142857142857143,,,xgboost_fitted
+Chile,A_baumannii_FQ,2018,,,,xgboost_fitted
+Chile,A_baumannii_FQ,2019,,,,xgboost_fitted
+Chile,A_baumannii_FQ,2020,,,,xgboost_fitted
+Chile,A_baumannii_FQ,2021,30.0,,,xgboost_fitted
+Chile,A_baumannii_FQ,2022,,,,xgboost_fitted
+Chile,A_baumannii_FQ,2023,,,,xgboost_fitted
+Chile,A_baumannii_TET,2016,3.125,,,xgboost_fitted
+Chile,A_baumannii_TET,2017,3.5714285714285716,,,xgboost_fitted
+Chile,A_baumannii_TET,2018,,,,xgboost_fitted
+Chile,A_baumannii_TET,2019,,,,xgboost_fitted
+Chile,A_baumannii_TET,2020,,,,xgboost_fitted
+Chile,A_baumannii_TET,2021,5.0,,,xgboost_fitted
+Chile,A_baumannii_TET,2022,,,,xgboost_fitted
+Chile,A_baumannii_TET,2023,,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2016,,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2017,,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2018,22.727272727272727,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2019,13.636363636363637,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2020,10.0,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2021,0.0,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2022,,,,xgboost_fitted
+Colombia,A_baumannii_3GC,2023,,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2016,,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2017,,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2018,13.636363636363633,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2019,4.545454545454546,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2020,4.999999999999999,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2021,0.0,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2022,,,,xgboost_fitted
+Colombia,A_baumannii_AMG,2023,,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2016,,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2017,,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2018,22.727272727272727,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2019,13.636363636363637,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2020,5.0,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2021,14.999999999999996,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2022,,,,xgboost_fitted
+Colombia,A_baumannii_CARB,2023,,,,xgboost_fitted
+Colombia,A_baumannii_COL,2016,,,,xgboost_fitted
+Colombia,A_baumannii_COL,2017,,,,xgboost_fitted
+Colombia,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Colombia,A_baumannii_COL,2019,9.090909090909092,,,xgboost_fitted
+Colombia,A_baumannii_COL,2020,4.999999999999999,,,xgboost_fitted
+Colombia,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Colombia,A_baumannii_COL,2022,,,,xgboost_fitted
+Colombia,A_baumannii_COL,2023,,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2016,,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2017,,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2018,45.45454545454545,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2019,4.545454545454546,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2020,4.999999999999999,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2021,0.0,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2022,,,,xgboost_fitted
+Colombia,A_baumannii_FQ,2023,,,,xgboost_fitted
+Colombia,A_baumannii_TET,2016,,,,xgboost_fitted
+Colombia,A_baumannii_TET,2017,,,,xgboost_fitted
+Colombia,A_baumannii_TET,2018,0.0,,,xgboost_fitted
+Colombia,A_baumannii_TET,2019,0.0,,,xgboost_fitted
+Colombia,A_baumannii_TET,2020,2.4999999999999996,,,xgboost_fitted
+Colombia,A_baumannii_TET,2021,0.0,,,xgboost_fitted
+Colombia,A_baumannii_TET,2022,,,,xgboost_fitted
+Colombia,A_baumannii_TET,2023,,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2016,,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2017,,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2018,,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2019,,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2020,,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2021,100.0,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2022,,,,xgboost_fitted
+Croatia,A_baumannii_3GC,2023,,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2016,,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2017,,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2018,,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2019,,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2020,,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2021,95.0,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2022,,,,xgboost_fitted
+Croatia,A_baumannii_AMG,2023,,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2016,,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2017,,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2018,,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2019,,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2020,,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2021,100.0,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2022,,,,xgboost_fitted
+Croatia,A_baumannii_CARB,2023,,,,xgboost_fitted
+Croatia,A_baumannii_COL,2016,,,,xgboost_fitted
+Croatia,A_baumannii_COL,2017,,,,xgboost_fitted
+Croatia,A_baumannii_COL,2018,,,,xgboost_fitted
+Croatia,A_baumannii_COL,2019,,,,xgboost_fitted
+Croatia,A_baumannii_COL,2020,,,,xgboost_fitted
+Croatia,A_baumannii_COL,2021,5.0,,,xgboost_fitted
+Croatia,A_baumannii_COL,2022,,,,xgboost_fitted
+Croatia,A_baumannii_COL,2023,,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2016,,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2017,,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2018,,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2019,,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2020,,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2021,100.0,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2022,,,,xgboost_fitted
+Croatia,A_baumannii_FQ,2023,,,,xgboost_fitted
+Croatia,A_baumannii_TET,2016,,,,xgboost_fitted
+Croatia,A_baumannii_TET,2017,,,,xgboost_fitted
+Croatia,A_baumannii_TET,2018,,,,xgboost_fitted
+Croatia,A_baumannii_TET,2019,,,,xgboost_fitted
+Croatia,A_baumannii_TET,2020,,,,xgboost_fitted
+Croatia,A_baumannii_TET,2021,95.0,,,xgboost_fitted
+Croatia,A_baumannii_TET,2022,,,,xgboost_fitted
+Croatia,A_baumannii_TET,2023,,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2016,16.666666666666668,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2017,25.0,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2018,24.999999999999996,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2019,35.714285714285715,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2020,5.0,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2021,15.0,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2022,,,,xgboost_fitted
+Czech Republic,A_baumannii_3GC,2023,,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2016,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2017,14.999999999999996,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2018,16.666666666666668,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2019,28.571428571428573,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2020,5.0,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2021,15.0,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2022,,,,xgboost_fitted
+Czech Republic,A_baumannii_AMG,2023,,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2016,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2017,14.999999999999996,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2018,12.499999999999998,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2019,14.285714285714286,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2020,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2021,15.0,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2022,,,,xgboost_fitted
+Czech Republic,A_baumannii_CARB,2023,,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2017,5.0,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2022,,,,xgboost_fitted
+Czech Republic,A_baumannii_COL,2023,,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2016,5.555555555555556,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2017,20.0,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2018,24.999999999999996,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2019,35.714285714285715,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2020,5.0,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2021,15.0,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2022,,,,xgboost_fitted
+Czech Republic,A_baumannii_FQ,2023,,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2016,2.777777777777778,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2017,17.500000000000004,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2018,8.333333333333334,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2019,25.0,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2020,5.0,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2021,12.500000000000002,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2022,,,,xgboost_fitted
+Czech Republic,A_baumannii_TET,2023,,,,xgboost_fitted
+France,A_baumannii_3GC,2016,19.047619047619047,,,xgboost_fitted
+France,A_baumannii_3GC,2017,18.46153846153846,,,xgboost_fitted
+France,A_baumannii_3GC,2018,5.555555555555555,,,xgboost_fitted
+France,A_baumannii_3GC,2019,34.285714285714285,,,xgboost_fitted
+France,A_baumannii_3GC,2020,36.666666666666664,,,xgboost_fitted
+France,A_baumannii_3GC,2021,31.428571428571427,,,xgboost_fitted
+France,A_baumannii_3GC,2022,,,,xgboost_fitted
+France,A_baumannii_3GC,2023,,,,xgboost_fitted
+France,A_baumannii_AMG,2016,7.142857142857143,,,xgboost_fitted
+France,A_baumannii_AMG,2017,1.5384615384615385,,,xgboost_fitted
+France,A_baumannii_AMG,2018,2.7777777777777777,,,xgboost_fitted
+France,A_baumannii_AMG,2019,28.571428571428573,,,xgboost_fitted
+France,A_baumannii_AMG,2020,29.999999999999993,,,xgboost_fitted
+France,A_baumannii_AMG,2021,14.285714285714286,,,xgboost_fitted
+France,A_baumannii_AMG,2022,,,,xgboost_fitted
+France,A_baumannii_AMG,2023,,,,xgboost_fitted
+France,A_baumannii_CARB,2016,15.476190476190476,,,xgboost_fitted
+France,A_baumannii_CARB,2017,4.615384615384615,,,xgboost_fitted
+France,A_baumannii_CARB,2018,2.7777777777777777,,,xgboost_fitted
+France,A_baumannii_CARB,2019,28.571428571428573,,,xgboost_fitted
+France,A_baumannii_CARB,2020,26.666666666666668,,,xgboost_fitted
+France,A_baumannii_CARB,2021,25.714285714285715,,,xgboost_fitted
+France,A_baumannii_CARB,2022,,,,xgboost_fitted
+France,A_baumannii_CARB,2023,,,,xgboost_fitted
+France,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+France,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+France,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+France,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+France,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+France,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+France,A_baumannii_COL,2022,,,,xgboost_fitted
+France,A_baumannii_COL,2023,,,,xgboost_fitted
+France,A_baumannii_FQ,2016,38.095238095238095,,,xgboost_fitted
+France,A_baumannii_FQ,2017,18.46153846153846,,,xgboost_fitted
+France,A_baumannii_FQ,2018,11.111111111111109,,,xgboost_fitted
+France,A_baumannii_FQ,2019,39.99999999999999,,,xgboost_fitted
+France,A_baumannii_FQ,2020,43.333333333333336,,,xgboost_fitted
+France,A_baumannii_FQ,2021,40.0,,,xgboost_fitted
+France,A_baumannii_FQ,2022,,,,xgboost_fitted
+France,A_baumannii_FQ,2023,,,,xgboost_fitted
+France,A_baumannii_TET,2016,8.333333333333334,,,xgboost_fitted
+France,A_baumannii_TET,2017,7.6923076923076925,,,xgboost_fitted
+France,A_baumannii_TET,2018,0.0,,,xgboost_fitted
+France,A_baumannii_TET,2019,24.28571428571429,,,xgboost_fitted
+France,A_baumannii_TET,2020,31.666666666666668,,,xgboost_fitted
+France,A_baumannii_TET,2021,34.285714285714285,,,xgboost_fitted
+France,A_baumannii_TET,2022,,,,xgboost_fitted
+France,A_baumannii_TET,2023,,,,xgboost_fitted
+Germany,A_baumannii_3GC,2016,24.390243902439025,,,xgboost_fitted
+Germany,A_baumannii_3GC,2017,6.122448979591836,,,xgboost_fitted
+Germany,A_baumannii_3GC,2018,10.714285714285714,,,xgboost_fitted
+Germany,A_baumannii_3GC,2019,22.857142857142858,,,xgboost_fitted
+Germany,A_baumannii_3GC,2020,16.666666666666668,,,xgboost_fitted
+Germany,A_baumannii_3GC,2021,20.0,,,xgboost_fitted
+Germany,A_baumannii_3GC,2022,,,,xgboost_fitted
+Germany,A_baumannii_3GC,2023,,,,xgboost_fitted
+Germany,A_baumannii_AMG,2016,14.634146341463415,,,xgboost_fitted
+Germany,A_baumannii_AMG,2017,6.122448979591836,,,xgboost_fitted
+Germany,A_baumannii_AMG,2018,10.714285714285714,,,xgboost_fitted
+Germany,A_baumannii_AMG,2019,2.8571428571428568,,,xgboost_fitted
+Germany,A_baumannii_AMG,2020,10.0,,,xgboost_fitted
+Germany,A_baumannii_AMG,2021,14.285714285714285,,,xgboost_fitted
+Germany,A_baumannii_AMG,2022,,,,xgboost_fitted
+Germany,A_baumannii_AMG,2023,,,,xgboost_fitted
+Germany,A_baumannii_CARB,2016,25.609756097560975,,,xgboost_fitted
+Germany,A_baumannii_CARB,2017,8.163265306122447,,,xgboost_fitted
+Germany,A_baumannii_CARB,2018,10.714285714285714,,,xgboost_fitted
+Germany,A_baumannii_CARB,2019,8.571428571428571,,,xgboost_fitted
+Germany,A_baumannii_CARB,2020,15.000000000000002,,,xgboost_fitted
+Germany,A_baumannii_CARB,2021,17.142857142857142,,,xgboost_fitted
+Germany,A_baumannii_CARB,2022,,,,xgboost_fitted
+Germany,A_baumannii_CARB,2023,,,,xgboost_fitted
+Germany,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Germany,A_baumannii_COL,2017,4.081632653061225,,,xgboost_fitted
+Germany,A_baumannii_COL,2018,3.5714285714285716,,,xgboost_fitted
+Germany,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Germany,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Germany,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Germany,A_baumannii_COL,2022,,,,xgboost_fitted
+Germany,A_baumannii_COL,2023,,,,xgboost_fitted
+Germany,A_baumannii_FQ,2016,31.70731707317073,,,xgboost_fitted
+Germany,A_baumannii_FQ,2017,8.163265306122447,,,xgboost_fitted
+Germany,A_baumannii_FQ,2018,14.285714285714286,,,xgboost_fitted
+Germany,A_baumannii_FQ,2019,14.285714285714285,,,xgboost_fitted
+Germany,A_baumannii_FQ,2020,29.999999999999996,,,xgboost_fitted
+Germany,A_baumannii_FQ,2021,20.0,,,xgboost_fitted
+Germany,A_baumannii_FQ,2022,,,,xgboost_fitted
+Germany,A_baumannii_FQ,2023,,,,xgboost_fitted
+Germany,A_baumannii_TET,2016,20.73170731707317,,,xgboost_fitted
+Germany,A_baumannii_TET,2017,4.081632653061225,,,xgboost_fitted
+Germany,A_baumannii_TET,2018,3.5714285714285716,,,xgboost_fitted
+Germany,A_baumannii_TET,2019,7.142857142857142,,,xgboost_fitted
+Germany,A_baumannii_TET,2020,10.0,,,xgboost_fitted
+Germany,A_baumannii_TET,2021,10.0,,,xgboost_fitted
+Germany,A_baumannii_TET,2022,,,,xgboost_fitted
+Germany,A_baumannii_TET,2023,,,,xgboost_fitted
+Greece,A_baumannii_3GC,2016,92.3076923076923,,,xgboost_fitted
+Greece,A_baumannii_3GC,2017,95.45454545454545,,,xgboost_fitted
+Greece,A_baumannii_3GC,2018,96.0,,,xgboost_fitted
+Greece,A_baumannii_3GC,2019,100.0,,,xgboost_fitted
+Greece,A_baumannii_3GC,2020,96.7741935483871,,,xgboost_fitted
+Greece,A_baumannii_3GC,2021,100.0,,,xgboost_fitted
+Greece,A_baumannii_3GC,2022,,,,xgboost_fitted
+Greece,A_baumannii_3GC,2023,,,,xgboost_fitted
+Greece,A_baumannii_AMG,2016,96.15384615384616,,,xgboost_fitted
+Greece,A_baumannii_AMG,2017,95.45454545454545,,,xgboost_fitted
+Greece,A_baumannii_AMG,2018,96.0,,,xgboost_fitted
+Greece,A_baumannii_AMG,2019,100.0,,,xgboost_fitted
+Greece,A_baumannii_AMG,2020,93.54838709677419,,,xgboost_fitted
+Greece,A_baumannii_AMG,2021,100.0,,,xgboost_fitted
+Greece,A_baumannii_AMG,2022,,,,xgboost_fitted
+Greece,A_baumannii_AMG,2023,,,,xgboost_fitted
+Greece,A_baumannii_CARB,2016,78.84615384615384,,,xgboost_fitted
+Greece,A_baumannii_CARB,2017,95.45454545454545,,,xgboost_fitted
+Greece,A_baumannii_CARB,2018,96.0,,,xgboost_fitted
+Greece,A_baumannii_CARB,2019,100.0,,,xgboost_fitted
+Greece,A_baumannii_CARB,2020,96.7741935483871,,,xgboost_fitted
+Greece,A_baumannii_CARB,2021,100.0,,,xgboost_fitted
+Greece,A_baumannii_CARB,2022,,,,xgboost_fitted
+Greece,A_baumannii_CARB,2023,,,,xgboost_fitted
+Greece,A_baumannii_COL,2016,42.30769230769231,,,xgboost_fitted
+Greece,A_baumannii_COL,2017,40.909090909090914,,,xgboost_fitted
+Greece,A_baumannii_COL,2018,48.0,,,xgboost_fitted
+Greece,A_baumannii_COL,2019,57.692307692307686,,,xgboost_fitted
+Greece,A_baumannii_COL,2020,70.96774193548387,,,xgboost_fitted
+Greece,A_baumannii_COL,2021,45.0,,,xgboost_fitted
+Greece,A_baumannii_COL,2022,,,,xgboost_fitted
+Greece,A_baumannii_COL,2023,,,,xgboost_fitted
+Greece,A_baumannii_FQ,2016,96.15384615384616,,,xgboost_fitted
+Greece,A_baumannii_FQ,2017,90.9090909090909,,,xgboost_fitted
+Greece,A_baumannii_FQ,2018,100.0,,,xgboost_fitted
+Greece,A_baumannii_FQ,2019,100.0,,,xgboost_fitted
+Greece,A_baumannii_FQ,2020,96.7741935483871,,,xgboost_fitted
+Greece,A_baumannii_FQ,2021,100.0,,,xgboost_fitted
+Greece,A_baumannii_FQ,2022,,,,xgboost_fitted
+Greece,A_baumannii_FQ,2023,,,,xgboost_fitted
+Greece,A_baumannii_TET,2016,65.38461538461539,,,xgboost_fitted
+Greece,A_baumannii_TET,2017,72.72727272727273,,,xgboost_fitted
+Greece,A_baumannii_TET,2018,54.0,,,xgboost_fitted
+Greece,A_baumannii_TET,2019,88.46153846153847,,,xgboost_fitted
+Greece,A_baumannii_TET,2020,87.09677419354838,,,xgboost_fitted
+Greece,A_baumannii_TET,2021,95.0,,,xgboost_fitted
+Greece,A_baumannii_TET,2022,,,,xgboost_fitted
+Greece,A_baumannii_TET,2023,,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2016,88.88888888888889,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2017,92.3076923076923,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2018,95.83333333333333,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2019,95.45454545454545,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2020,90.0,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2021,95.0,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2022,,,,xgboost_fitted
+Guatemala,A_baumannii_3GC,2023,,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2016,94.44444444444444,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2017,80.76923076923077,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2018,87.5,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2019,90.9090909090909,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2020,40.0,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2021,95.0,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2022,,,,xgboost_fitted
+Guatemala,A_baumannii_AMG,2023,,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2016,88.88888888888889,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2017,90.38461538461539,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2018,95.83333333333333,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2019,100.0,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2020,59.999999999999986,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2021,95.0,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2022,,,,xgboost_fitted
+Guatemala,A_baumannii_CARB,2023,,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2018,4.166666666666667,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2022,,,,xgboost_fitted
+Guatemala,A_baumannii_COL,2023,,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2016,100.0,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2017,73.07692307692307,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2018,91.66666666666667,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2019,86.36363636363636,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2020,80.0,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2021,95.0,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2022,,,,xgboost_fitted
+Guatemala,A_baumannii_FQ,2023,,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2016,19.444444444444446,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2017,28.846153846153843,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2018,0.0,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2019,36.36363636363637,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2020,35.00000000000001,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2021,45.0,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2022,,,,xgboost_fitted
+Guatemala,A_baumannii_TET,2023,,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2016,76.19047619047619,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2017,85.71428571428571,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2018,70.83333333333334,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2019,81.25,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2020,76.1904761904762,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2021,80.0,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2022,,,,xgboost_fitted
+Hungary,A_baumannii_3GC,2023,,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2016,38.095238095238095,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2017,71.42857142857143,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2018,54.166666666666664,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2019,68.75,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2020,57.14285714285713,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2021,75.0,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2022,,,,xgboost_fitted
+Hungary,A_baumannii_AMG,2023,,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2016,66.66666666666666,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2017,71.42857142857143,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2018,62.5,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2019,78.125,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2020,71.42857142857144,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2021,50.0,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2022,,,,xgboost_fitted
+Hungary,A_baumannii_CARB,2023,,,,xgboost_fitted
+Hungary,A_baumannii_COL,2016,4.761904761904762,,,xgboost_fitted
+Hungary,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Hungary,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Hungary,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Hungary,A_baumannii_COL,2020,4.761904761904762,,,xgboost_fitted
+Hungary,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Hungary,A_baumannii_COL,2022,,,,xgboost_fitted
+Hungary,A_baumannii_COL,2023,,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2016,85.71428571428571,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2017,85.71428571428571,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2018,70.83333333333334,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2019,81.25,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2020,90.47619047619048,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2021,75.0,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2022,,,,xgboost_fitted
+Hungary,A_baumannii_FQ,2023,,,,xgboost_fitted
+Hungary,A_baumannii_TET,2016,47.61904761904761,,,xgboost_fitted
+Hungary,A_baumannii_TET,2017,35.714285714285715,,,xgboost_fitted
+Hungary,A_baumannii_TET,2018,12.5,,,xgboost_fitted
+Hungary,A_baumannii_TET,2019,43.75,,,xgboost_fitted
+Hungary,A_baumannii_TET,2020,59.52380952380951,,,xgboost_fitted
+Hungary,A_baumannii_TET,2021,65.0,,,xgboost_fitted
+Hungary,A_baumannii_TET,2022,,,,xgboost_fitted
+Hungary,A_baumannii_TET,2023,,,,xgboost_fitted
+Israel,A_baumannii_3GC,2016,93.33333333333333,,,xgboost_fitted
+Israel,A_baumannii_3GC,2017,,,,xgboost_fitted
+Israel,A_baumannii_3GC,2018,73.07692307692307,,,xgboost_fitted
+Israel,A_baumannii_3GC,2019,70.58823529411765,,,xgboost_fitted
+Israel,A_baumannii_3GC,2020,73.33333333333333,,,xgboost_fitted
+Israel,A_baumannii_3GC,2021,,,,xgboost_fitted
+Israel,A_baumannii_3GC,2022,,,,xgboost_fitted
+Israel,A_baumannii_3GC,2023,,,,xgboost_fitted
+Israel,A_baumannii_AMG,2016,80.0,,,xgboost_fitted
+Israel,A_baumannii_AMG,2017,,,,xgboost_fitted
+Israel,A_baumannii_AMG,2018,61.53846153846153,,,xgboost_fitted
+Israel,A_baumannii_AMG,2019,41.1764705882353,,,xgboost_fitted
+Israel,A_baumannii_AMG,2020,60.00000000000001,,,xgboost_fitted
+Israel,A_baumannii_AMG,2021,,,,xgboost_fitted
+Israel,A_baumannii_AMG,2022,,,,xgboost_fitted
+Israel,A_baumannii_AMG,2023,,,,xgboost_fitted
+Israel,A_baumannii_CARB,2016,73.33333333333333,,,xgboost_fitted
+Israel,A_baumannii_CARB,2017,,,,xgboost_fitted
+Israel,A_baumannii_CARB,2018,73.07692307692307,,,xgboost_fitted
+Israel,A_baumannii_CARB,2019,64.70588235294117,,,xgboost_fitted
+Israel,A_baumannii_CARB,2020,73.33333333333333,,,xgboost_fitted
+Israel,A_baumannii_CARB,2021,,,,xgboost_fitted
+Israel,A_baumannii_CARB,2022,,,,xgboost_fitted
+Israel,A_baumannii_CARB,2023,,,,xgboost_fitted
+Israel,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Israel,A_baumannii_COL,2017,,,,xgboost_fitted
+Israel,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Israel,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Israel,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Israel,A_baumannii_COL,2021,,,,xgboost_fitted
+Israel,A_baumannii_COL,2022,,,,xgboost_fitted
+Israel,A_baumannii_COL,2023,,,,xgboost_fitted
+Israel,A_baumannii_FQ,2016,93.33333333333333,,,xgboost_fitted
+Israel,A_baumannii_FQ,2017,,,,xgboost_fitted
+Israel,A_baumannii_FQ,2018,73.07692307692307,,,xgboost_fitted
+Israel,A_baumannii_FQ,2019,70.58823529411765,,,xgboost_fitted
+Israel,A_baumannii_FQ,2020,73.33333333333333,,,xgboost_fitted
+Israel,A_baumannii_FQ,2021,,,,xgboost_fitted
+Israel,A_baumannii_FQ,2022,,,,xgboost_fitted
+Israel,A_baumannii_FQ,2023,,,,xgboost_fitted
+Israel,A_baumannii_TET,2016,36.666666666666664,,,xgboost_fitted
+Israel,A_baumannii_TET,2017,,,,xgboost_fitted
+Israel,A_baumannii_TET,2018,9.615384615384617,,,xgboost_fitted
+Israel,A_baumannii_TET,2019,32.35294117647059,,,xgboost_fitted
+Israel,A_baumannii_TET,2020,41.666666666666664,,,xgboost_fitted
+Israel,A_baumannii_TET,2021,,,,xgboost_fitted
+Israel,A_baumannii_TET,2022,,,,xgboost_fitted
+Israel,A_baumannii_TET,2023,,,,xgboost_fitted
+Italy,A_baumannii_3GC,2016,88.63636363636364,,,xgboost_fitted
+Italy,A_baumannii_3GC,2017,77.58620689655173,,,xgboost_fitted
+Italy,A_baumannii_3GC,2018,80.0,,,xgboost_fitted
+Italy,A_baumannii_3GC,2019,85.71428571428571,,,xgboost_fitted
+Italy,A_baumannii_3GC,2020,86.20689655172414,,,xgboost_fitted
+Italy,A_baumannii_3GC,2021,85.71428571428571,,,xgboost_fitted
+Italy,A_baumannii_3GC,2022,,,,xgboost_fitted
+Italy,A_baumannii_3GC,2023,,,,xgboost_fitted
+Italy,A_baumannii_AMG,2016,86.36363636363636,,,xgboost_fitted
+Italy,A_baumannii_AMG,2017,79.31034482758619,,,xgboost_fitted
+Italy,A_baumannii_AMG,2018,80.0,,,xgboost_fitted
+Italy,A_baumannii_AMG,2019,77.14285714285715,,,xgboost_fitted
+Italy,A_baumannii_AMG,2020,72.41379310344827,,,xgboost_fitted
+Italy,A_baumannii_AMG,2021,77.14285714285715,,,xgboost_fitted
+Italy,A_baumannii_AMG,2022,,,,xgboost_fitted
+Italy,A_baumannii_AMG,2023,,,,xgboost_fitted
+Italy,A_baumannii_CARB,2016,90.9090909090909,,,xgboost_fitted
+Italy,A_baumannii_CARB,2017,80.17241379310344,,,xgboost_fitted
+Italy,A_baumannii_CARB,2018,80.0,,,xgboost_fitted
+Italy,A_baumannii_CARB,2019,82.85714285714286,,,xgboost_fitted
+Italy,A_baumannii_CARB,2020,86.20689655172414,,,xgboost_fitted
+Italy,A_baumannii_CARB,2021,85.71428571428571,,,xgboost_fitted
+Italy,A_baumannii_CARB,2022,,,,xgboost_fitted
+Italy,A_baumannii_CARB,2023,,,,xgboost_fitted
+Italy,A_baumannii_COL,2016,11.363636363636363,,,xgboost_fitted
+Italy,A_baumannii_COL,2017,12.068965517241379,,,xgboost_fitted
+Italy,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Italy,A_baumannii_COL,2019,5.714285714285714,,,xgboost_fitted
+Italy,A_baumannii_COL,2020,3.4482758620689653,,,xgboost_fitted
+Italy,A_baumannii_COL,2021,5.714285714285714,,,xgboost_fitted
+Italy,A_baumannii_COL,2022,,,,xgboost_fitted
+Italy,A_baumannii_COL,2023,,,,xgboost_fitted
+Italy,A_baumannii_FQ,2016,93.18181818181819,,,xgboost_fitted
+Italy,A_baumannii_FQ,2017,84.48275862068965,,,xgboost_fitted
+Italy,A_baumannii_FQ,2018,90.0,,,xgboost_fitted
+Italy,A_baumannii_FQ,2019,85.71428571428571,,,xgboost_fitted
+Italy,A_baumannii_FQ,2020,86.20689655172414,,,xgboost_fitted
+Italy,A_baumannii_FQ,2021,85.71428571428571,,,xgboost_fitted
+Italy,A_baumannii_FQ,2022,,,,xgboost_fitted
+Italy,A_baumannii_FQ,2023,,,,xgboost_fitted
+Italy,A_baumannii_TET,2016,47.72727272727273,,,xgboost_fitted
+Italy,A_baumannii_TET,2017,60.344827586206904,,,xgboost_fitted
+Italy,A_baumannii_TET,2018,26.666666666666668,,,xgboost_fitted
+Italy,A_baumannii_TET,2019,62.857142857142854,,,xgboost_fitted
+Italy,A_baumannii_TET,2020,55.172413793103445,,,xgboost_fitted
+Italy,A_baumannii_TET,2021,64.28571428571429,,,xgboost_fitted
+Italy,A_baumannii_TET,2022,,,,xgboost_fitted
+Italy,A_baumannii_TET,2023,,,,xgboost_fitted
+Japan,A_baumannii_3GC,2016,,,,xgboost_fitted
+Japan,A_baumannii_3GC,2017,37.5,,,xgboost_fitted
+Japan,A_baumannii_3GC,2018,,,,xgboost_fitted
+Japan,A_baumannii_3GC,2019,26.08695652173913,,,xgboost_fitted
+Japan,A_baumannii_3GC,2020,5.0,,,xgboost_fitted
+Japan,A_baumannii_3GC,2021,0.0,,,xgboost_fitted
+Japan,A_baumannii_3GC,2022,,,,xgboost_fitted
+Japan,A_baumannii_3GC,2023,,,,xgboost_fitted
+Japan,A_baumannii_AMG,2016,,,,xgboost_fitted
+Japan,A_baumannii_AMG,2017,24.999999999999996,,,xgboost_fitted
+Japan,A_baumannii_AMG,2018,,,,xgboost_fitted
+Japan,A_baumannii_AMG,2019,0.0,,,xgboost_fitted
+Japan,A_baumannii_AMG,2020,0.0,,,xgboost_fitted
+Japan,A_baumannii_AMG,2021,0.0,,,xgboost_fitted
+Japan,A_baumannii_AMG,2022,,,,xgboost_fitted
+Japan,A_baumannii_AMG,2023,,,,xgboost_fitted
+Japan,A_baumannii_CARB,2016,,,,xgboost_fitted
+Japan,A_baumannii_CARB,2017,12.499999999999998,,,xgboost_fitted
+Japan,A_baumannii_CARB,2018,,,,xgboost_fitted
+Japan,A_baumannii_CARB,2019,10.869565217391305,,,xgboost_fitted
+Japan,A_baumannii_CARB,2020,0.0,,,xgboost_fitted
+Japan,A_baumannii_CARB,2021,0.0,,,xgboost_fitted
+Japan,A_baumannii_CARB,2022,,,,xgboost_fitted
+Japan,A_baumannii_CARB,2023,,,,xgboost_fitted
+Japan,A_baumannii_COL,2016,,,,xgboost_fitted
+Japan,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Japan,A_baumannii_COL,2018,,,,xgboost_fitted
+Japan,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Japan,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Japan,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Japan,A_baumannii_COL,2022,,,,xgboost_fitted
+Japan,A_baumannii_COL,2023,,,,xgboost_fitted
+Japan,A_baumannii_FQ,2016,,,,xgboost_fitted
+Japan,A_baumannii_FQ,2017,24.999999999999996,,,xgboost_fitted
+Japan,A_baumannii_FQ,2018,,,,xgboost_fitted
+Japan,A_baumannii_FQ,2019,26.08695652173913,,,xgboost_fitted
+Japan,A_baumannii_FQ,2020,10.0,,,xgboost_fitted
+Japan,A_baumannii_FQ,2021,5.0,,,xgboost_fitted
+Japan,A_baumannii_FQ,2022,,,,xgboost_fitted
+Japan,A_baumannii_FQ,2023,,,,xgboost_fitted
+Japan,A_baumannii_TET,2016,,,,xgboost_fitted
+Japan,A_baumannii_TET,2017,12.499999999999998,,,xgboost_fitted
+Japan,A_baumannii_TET,2018,,,,xgboost_fitted
+Japan,A_baumannii_TET,2019,19.565217391304348,,,xgboost_fitted
+Japan,A_baumannii_TET,2020,5.0,,,xgboost_fitted
+Japan,A_baumannii_TET,2021,2.5,,,xgboost_fitted
+Japan,A_baumannii_TET,2022,,,,xgboost_fitted
+Japan,A_baumannii_TET,2023,,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2016,96.15384615384616,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2017,91.66666666666667,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2018,81.81818181818181,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2019,65.21739130434783,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2020,85.0,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2021,95.0,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2022,,,,xgboost_fitted
+"Korea, South",A_baumannii_3GC,2023,,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2016,88.46153846153847,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2017,66.66666666666667,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2018,40.90909090909091,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2019,52.17391304347826,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2020,69.99999999999999,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2021,85.0,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2022,,,,xgboost_fitted
+"Korea, South",A_baumannii_AMG,2023,,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2016,96.15384615384616,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2017,95.83333333333333,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2018,77.27272727272727,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2019,65.21739130434783,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2020,85.0,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2021,95.0,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2022,,,,xgboost_fitted
+"Korea, South",A_baumannii_CARB,2023,,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2016,0.0,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2017,0.0,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2018,4.545454545454545,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2019,0.0,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2020,0.0,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2021,0.0,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2022,,,,xgboost_fitted
+"Korea, South",A_baumannii_COL,2023,,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2016,96.15384615384616,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2017,95.83333333333333,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2018,81.81818181818181,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2019,69.56521739130434,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2020,85.0,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2021,95.0,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2022,,,,xgboost_fitted
+"Korea, South",A_baumannii_FQ,2023,,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2016,44.23076923076923,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2017,35.416666666666664,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2018,13.636363636363633,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2019,39.13043478260869,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2020,47.5,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2021,47.5,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2022,,,,xgboost_fitted
+"Korea, South",A_baumannii_TET,2023,,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2016,,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2017,,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2018,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2019,93.75,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2020,100.0,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2021,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2022,,,,xgboost_fitted
+Lithuania,A_baumannii_3GC,2023,,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2016,,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2017,,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2018,90.0,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2019,87.5,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2020,100.0,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2021,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2022,,,,xgboost_fitted
+Lithuania,A_baumannii_AMG,2023,,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2016,,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2017,,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2018,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2019,93.75,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2020,100.0,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2021,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2022,,,,xgboost_fitted
+Lithuania,A_baumannii_CARB,2023,,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2016,,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2017,,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2018,15.0,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2019,18.75,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2020,30.0,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2022,,,,xgboost_fitted
+Lithuania,A_baumannii_COL,2023,,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2016,,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2017,,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2018,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2019,93.75,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2020,100.0,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2021,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2022,,,,xgboost_fitted
+Lithuania,A_baumannii_FQ,2023,,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2016,,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2017,,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2018,42.5,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2019,71.875,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2020,100.0,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2021,95.0,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2022,,,,xgboost_fitted
+Lithuania,A_baumannii_TET,2023,,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2016,,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2017,,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2018,63.63636363636363,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2019,78.26086956521739,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2020,60.0,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2021,69.99999999999999,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2022,,,,xgboost_fitted
+Malaysia,A_baumannii_3GC,2023,,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2016,,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2017,,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2018,36.36363636363637,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2019,69.56521739130434,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2020,40.0,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2021,55.0,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2022,,,,xgboost_fitted
+Malaysia,A_baumannii_AMG,2023,,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2016,,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2017,,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2018,63.63636363636363,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2019,78.26086956521739,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2020,60.0,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2021,69.99999999999999,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2022,,,,xgboost_fitted
+Malaysia,A_baumannii_CARB,2023,,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2016,,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2017,,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2022,,,,xgboost_fitted
+Malaysia,A_baumannii_COL,2023,,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2016,,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2017,,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2018,50.0,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2019,56.52173913043478,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2020,50.0,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2021,60.0,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2022,,,,xgboost_fitted
+Malaysia,A_baumannii_FQ,2023,,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2016,,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2017,,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2018,0.0,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2019,23.913043478260875,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2020,25.0,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2021,32.5,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2022,,,,xgboost_fitted
+Malaysia,A_baumannii_TET,2023,,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2016,65.38461538461539,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2017,88.88888888888889,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2018,78.26086956521738,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2019,90.90909090909089,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2020,89.47368421052632,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2021,79.99999999999999,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2022,,,,xgboost_fitted
+Mexico,A_baumannii_3GC,2023,,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2016,61.53846153846153,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2017,85.18518518518519,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2018,65.21739130434783,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2019,90.90909090909089,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2020,89.47368421052632,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2021,55.0,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2022,,,,xgboost_fitted
+Mexico,A_baumannii_AMG,2023,,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2016,59.61538461538463,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2017,90.74074074074075,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2018,82.6086956521739,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2019,90.90909090909089,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2020,89.47368421052632,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2021,79.99999999999999,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2022,,,,xgboost_fitted
+Mexico,A_baumannii_CARB,2023,,,,xgboost_fitted
+Mexico,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Mexico,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Mexico,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Mexico,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Mexico,A_baumannii_COL,2020,5.2631578947368425,,,xgboost_fitted
+Mexico,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Mexico,A_baumannii_COL,2022,,,,xgboost_fitted
+Mexico,A_baumannii_COL,2023,,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2016,69.23076923076923,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2017,96.29629629629629,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2018,82.6086956521739,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2019,90.90909090909089,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2020,89.47368421052632,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2021,79.99999999999999,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2022,,,,xgboost_fitted
+Mexico,A_baumannii_FQ,2023,,,,xgboost_fitted
+Mexico,A_baumannii_TET,2016,40.38461538461539,,,xgboost_fitted
+Mexico,A_baumannii_TET,2017,59.25925925925925,,,xgboost_fitted
+Mexico,A_baumannii_TET,2018,19.565217391304344,,,xgboost_fitted
+Mexico,A_baumannii_TET,2019,61.363636363636374,,,xgboost_fitted
+Mexico,A_baumannii_TET,2020,65.78947368421052,,,xgboost_fitted
+Mexico,A_baumannii_TET,2021,47.5,,,xgboost_fitted
+Mexico,A_baumannii_TET,2022,,,,xgboost_fitted
+Mexico,A_baumannii_TET,2023,,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2016,,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2017,10.0,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2018,50.0,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2019,,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2020,35.0,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2021,,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2022,,,,xgboost_fitted
+Philippines,A_baumannii_3GC,2023,,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2016,,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2017,10.0,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2018,50.0,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2019,,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2020,30.0,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2021,,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2022,,,,xgboost_fitted
+Philippines,A_baumannii_AMG,2023,,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2016,,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2017,10.0,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2018,50.0,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2019,,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2020,32.5,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2021,,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2022,,,,xgboost_fitted
+Philippines,A_baumannii_CARB,2023,,,,xgboost_fitted
+Philippines,A_baumannii_COL,2016,,,,xgboost_fitted
+Philippines,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Philippines,A_baumannii_COL,2018,4.545454545454546,,,xgboost_fitted
+Philippines,A_baumannii_COL,2019,,,,xgboost_fitted
+Philippines,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Philippines,A_baumannii_COL,2021,,,,xgboost_fitted
+Philippines,A_baumannii_COL,2022,,,,xgboost_fitted
+Philippines,A_baumannii_COL,2023,,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2016,,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2017,20.0,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2018,50.0,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2019,,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2020,50.0,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2021,,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2022,,,,xgboost_fitted
+Philippines,A_baumannii_FQ,2023,,,,xgboost_fitted
+Philippines,A_baumannii_TET,2016,,,,xgboost_fitted
+Philippines,A_baumannii_TET,2017,5.0,,,xgboost_fitted
+Philippines,A_baumannii_TET,2018,9.090909090909092,,,xgboost_fitted
+Philippines,A_baumannii_TET,2019,,,,xgboost_fitted
+Philippines,A_baumannii_TET,2020,17.5,,,xgboost_fitted
+Philippines,A_baumannii_TET,2021,,,,xgboost_fitted
+Philippines,A_baumannii_TET,2022,,,,xgboost_fitted
+Philippines,A_baumannii_TET,2023,,,,xgboost_fitted
+Poland,A_baumannii_3GC,2016,,,,xgboost_fitted
+Poland,A_baumannii_3GC,2017,,,,xgboost_fitted
+Poland,A_baumannii_3GC,2018,100.0,,,xgboost_fitted
+Poland,A_baumannii_3GC,2019,61.904761904761905,,,xgboost_fitted
+Poland,A_baumannii_3GC,2020,60.0,,,xgboost_fitted
+Poland,A_baumannii_3GC,2021,70.0,,,xgboost_fitted
+Poland,A_baumannii_3GC,2022,,,,xgboost_fitted
+Poland,A_baumannii_3GC,2023,,,,xgboost_fitted
+Poland,A_baumannii_AMG,2016,,,,xgboost_fitted
+Poland,A_baumannii_AMG,2017,,,,xgboost_fitted
+Poland,A_baumannii_AMG,2018,75.0,,,xgboost_fitted
+Poland,A_baumannii_AMG,2019,47.61904761904761,,,xgboost_fitted
+Poland,A_baumannii_AMG,2020,30.0,,,xgboost_fitted
+Poland,A_baumannii_AMG,2021,55.0,,,xgboost_fitted
+Poland,A_baumannii_AMG,2022,,,,xgboost_fitted
+Poland,A_baumannii_AMG,2023,,,,xgboost_fitted
+Poland,A_baumannii_CARB,2016,,,,xgboost_fitted
+Poland,A_baumannii_CARB,2017,,,,xgboost_fitted
+Poland,A_baumannii_CARB,2018,91.66666666666667,,,xgboost_fitted
+Poland,A_baumannii_CARB,2019,57.142857142857146,,,xgboost_fitted
+Poland,A_baumannii_CARB,2020,50.00000000000001,,,xgboost_fitted
+Poland,A_baumannii_CARB,2021,65.0,,,xgboost_fitted
+Poland,A_baumannii_CARB,2022,,,,xgboost_fitted
+Poland,A_baumannii_CARB,2023,,,,xgboost_fitted
+Poland,A_baumannii_COL,2016,,,,xgboost_fitted
+Poland,A_baumannii_COL,2017,,,,xgboost_fitted
+Poland,A_baumannii_COL,2018,8.333333333333332,,,xgboost_fitted
+Poland,A_baumannii_COL,2019,9.523809523809522,,,xgboost_fitted
+Poland,A_baumannii_COL,2020,9.999999999999998,,,xgboost_fitted
+Poland,A_baumannii_COL,2021,10.0,,,xgboost_fitted
+Poland,A_baumannii_COL,2022,,,,xgboost_fitted
+Poland,A_baumannii_COL,2023,,,,xgboost_fitted
+Poland,A_baumannii_FQ,2016,,,,xgboost_fitted
+Poland,A_baumannii_FQ,2017,,,,xgboost_fitted
+Poland,A_baumannii_FQ,2018,100.0,,,xgboost_fitted
+Poland,A_baumannii_FQ,2019,61.904761904761905,,,xgboost_fitted
+Poland,A_baumannii_FQ,2020,60.0,,,xgboost_fitted
+Poland,A_baumannii_FQ,2021,75.0,,,xgboost_fitted
+Poland,A_baumannii_FQ,2022,,,,xgboost_fitted
+Poland,A_baumannii_FQ,2023,,,,xgboost_fitted
+Poland,A_baumannii_TET,2016,,,,xgboost_fitted
+Poland,A_baumannii_TET,2017,,,,xgboost_fitted
+Poland,A_baumannii_TET,2018,60.416666666666664,,,xgboost_fitted
+Poland,A_baumannii_TET,2019,54.76190476190476,,,xgboost_fitted
+Poland,A_baumannii_TET,2020,52.5,,,xgboost_fitted
+Poland,A_baumannii_TET,2021,62.5,,,xgboost_fitted
+Poland,A_baumannii_TET,2022,,,,xgboost_fitted
+Poland,A_baumannii_TET,2023,,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2016,100.0,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2017,83.33333333333334,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2018,61.90476190476189,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2019,50.0,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2020,26.31578947368421,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2021,,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2022,,,,xgboost_fitted
+Portugal,A_baumannii_3GC,2023,,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2016,58.333333333333336,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2017,50.0,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2018,28.571428571428566,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2019,25.0,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2020,5.263157894736842,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2021,,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2022,,,,xgboost_fitted
+Portugal,A_baumannii_AMG,2023,,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2016,100.0,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2017,83.33333333333334,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2018,66.66666666666666,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2019,50.0,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2020,26.31578947368421,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2021,,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2022,,,,xgboost_fitted
+Portugal,A_baumannii_CARB,2023,,,,xgboost_fitted
+Portugal,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Portugal,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Portugal,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Portugal,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Portugal,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Portugal,A_baumannii_COL,2021,,,,xgboost_fitted
+Portugal,A_baumannii_COL,2022,,,,xgboost_fitted
+Portugal,A_baumannii_COL,2023,,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2016,100.0,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2017,83.33333333333334,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2018,71.42857142857142,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2019,50.0,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2020,26.31578947368421,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2021,,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2022,,,,xgboost_fitted
+Portugal,A_baumannii_FQ,2023,,,,xgboost_fitted
+Portugal,A_baumannii_TET,2016,56.25,,,xgboost_fitted
+Portugal,A_baumannii_TET,2017,41.66666666666667,,,xgboost_fitted
+Portugal,A_baumannii_TET,2018,9.523809523809524,,,xgboost_fitted
+Portugal,A_baumannii_TET,2019,31.25,,,xgboost_fitted
+Portugal,A_baumannii_TET,2020,18.421052631578945,,,xgboost_fitted
+Portugal,A_baumannii_TET,2021,,,,xgboost_fitted
+Portugal,A_baumannii_TET,2022,,,,xgboost_fitted
+Portugal,A_baumannii_TET,2023,,,,xgboost_fitted
+Romania,A_baumannii_3GC,2016,,,,xgboost_fitted
+Romania,A_baumannii_3GC,2017,,,,xgboost_fitted
+Romania,A_baumannii_3GC,2018,83.33333333333333,,,xgboost_fitted
+Romania,A_baumannii_3GC,2019,100.0,,,xgboost_fitted
+Romania,A_baumannii_3GC,2020,100.0,,,xgboost_fitted
+Romania,A_baumannii_3GC,2021,95.0,,,xgboost_fitted
+Romania,A_baumannii_3GC,2022,,,,xgboost_fitted
+Romania,A_baumannii_3GC,2023,,,,xgboost_fitted
+Romania,A_baumannii_AMG,2016,,,,xgboost_fitted
+Romania,A_baumannii_AMG,2017,,,,xgboost_fitted
+Romania,A_baumannii_AMG,2018,66.66666666666667,,,xgboost_fitted
+Romania,A_baumannii_AMG,2019,81.81818181818183,,,xgboost_fitted
+Romania,A_baumannii_AMG,2020,100.0,,,xgboost_fitted
+Romania,A_baumannii_AMG,2021,90.0,,,xgboost_fitted
+Romania,A_baumannii_AMG,2022,,,,xgboost_fitted
+Romania,A_baumannii_AMG,2023,,,,xgboost_fitted
+Romania,A_baumannii_CARB,2016,,,,xgboost_fitted
+Romania,A_baumannii_CARB,2017,,,,xgboost_fitted
+Romania,A_baumannii_CARB,2018,75.0,,,xgboost_fitted
+Romania,A_baumannii_CARB,2019,100.0,,,xgboost_fitted
+Romania,A_baumannii_CARB,2020,100.0,,,xgboost_fitted
+Romania,A_baumannii_CARB,2021,95.0,,,xgboost_fitted
+Romania,A_baumannii_CARB,2022,,,,xgboost_fitted
+Romania,A_baumannii_CARB,2023,,,,xgboost_fitted
+Romania,A_baumannii_COL,2016,,,,xgboost_fitted
+Romania,A_baumannii_COL,2017,,,,xgboost_fitted
+Romania,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Romania,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Romania,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Romania,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Romania,A_baumannii_COL,2022,,,,xgboost_fitted
+Romania,A_baumannii_COL,2023,,,,xgboost_fitted
+Romania,A_baumannii_FQ,2016,,,,xgboost_fitted
+Romania,A_baumannii_FQ,2017,,,,xgboost_fitted
+Romania,A_baumannii_FQ,2018,87.5,,,xgboost_fitted
+Romania,A_baumannii_FQ,2019,100.0,,,xgboost_fitted
+Romania,A_baumannii_FQ,2020,100.0,,,xgboost_fitted
+Romania,A_baumannii_FQ,2021,95.0,,,xgboost_fitted
+Romania,A_baumannii_FQ,2022,,,,xgboost_fitted
+Romania,A_baumannii_FQ,2023,,,,xgboost_fitted
+Romania,A_baumannii_TET,2016,,,,xgboost_fitted
+Romania,A_baumannii_TET,2017,,,,xgboost_fitted
+Romania,A_baumannii_TET,2018,14.583333333333334,,,xgboost_fitted
+Romania,A_baumannii_TET,2019,50.0,,,xgboost_fitted
+Romania,A_baumannii_TET,2020,77.5,,,xgboost_fitted
+Romania,A_baumannii_TET,2021,50.0,,,xgboost_fitted
+Romania,A_baumannii_TET,2022,,,,xgboost_fitted
+Romania,A_baumannii_TET,2023,,,,xgboost_fitted
+Russia,A_baumannii_3GC,2016,100.0,,,xgboost_fitted
+Russia,A_baumannii_3GC,2017,100.0,,,xgboost_fitted
+Russia,A_baumannii_3GC,2018,85.71428571428571,,,xgboost_fitted
+Russia,A_baumannii_3GC,2019,89.79591836734694,,,xgboost_fitted
+Russia,A_baumannii_3GC,2020,,,,xgboost_fitted
+Russia,A_baumannii_3GC,2021,,,,xgboost_fitted
+Russia,A_baumannii_3GC,2022,,,,xgboost_fitted
+Russia,A_baumannii_3GC,2023,,,,xgboost_fitted
+Russia,A_baumannii_AMG,2016,100.0,,,xgboost_fitted
+Russia,A_baumannii_AMG,2017,95.83333333333333,,,xgboost_fitted
+Russia,A_baumannii_AMG,2018,85.71428571428571,,,xgboost_fitted
+Russia,A_baumannii_AMG,2019,79.59183673469387,,,xgboost_fitted
+Russia,A_baumannii_AMG,2020,,,,xgboost_fitted
+Russia,A_baumannii_AMG,2021,,,,xgboost_fitted
+Russia,A_baumannii_AMG,2022,,,,xgboost_fitted
+Russia,A_baumannii_AMG,2023,,,,xgboost_fitted
+Russia,A_baumannii_CARB,2016,75.92592592592592,,,xgboost_fitted
+Russia,A_baumannii_CARB,2017,87.5,,,xgboost_fitted
+Russia,A_baumannii_CARB,2018,78.57142857142857,,,xgboost_fitted
+Russia,A_baumannii_CARB,2019,79.59183673469387,,,xgboost_fitted
+Russia,A_baumannii_CARB,2020,,,,xgboost_fitted
+Russia,A_baumannii_CARB,2021,,,,xgboost_fitted
+Russia,A_baumannii_CARB,2022,,,,xgboost_fitted
+Russia,A_baumannii_CARB,2023,,,,xgboost_fitted
+Russia,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Russia,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Russia,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Russia,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Russia,A_baumannii_COL,2020,,,,xgboost_fitted
+Russia,A_baumannii_COL,2021,,,,xgboost_fitted
+Russia,A_baumannii_COL,2022,,,,xgboost_fitted
+Russia,A_baumannii_COL,2023,,,,xgboost_fitted
+Russia,A_baumannii_FQ,2016,100.0,,,xgboost_fitted
+Russia,A_baumannii_FQ,2017,100.0,,,xgboost_fitted
+Russia,A_baumannii_FQ,2018,89.28571428571429,,,xgboost_fitted
+Russia,A_baumannii_FQ,2019,89.79591836734694,,,xgboost_fitted
+Russia,A_baumannii_FQ,2020,,,,xgboost_fitted
+Russia,A_baumannii_FQ,2021,,,,xgboost_fitted
+Russia,A_baumannii_FQ,2022,,,,xgboost_fitted
+Russia,A_baumannii_FQ,2023,,,,xgboost_fitted
+Russia,A_baumannii_TET,2016,29.629629629629626,,,xgboost_fitted
+Russia,A_baumannii_TET,2017,31.25,,,xgboost_fitted
+Russia,A_baumannii_TET,2018,5.357142857142857,,,xgboost_fitted
+Russia,A_baumannii_TET,2019,34.69387755102041,,,xgboost_fitted
+Russia,A_baumannii_TET,2020,,,,xgboost_fitted
+Russia,A_baumannii_TET,2021,,,,xgboost_fitted
+Russia,A_baumannii_TET,2022,,,,xgboost_fitted
+Russia,A_baumannii_TET,2023,,,,xgboost_fitted
+Spain,A_baumannii_3GC,2016,67.44186046511628,,,xgboost_fitted
+Spain,A_baumannii_3GC,2017,66.66666666666667,,,xgboost_fitted
+Spain,A_baumannii_3GC,2018,54.54545454545455,,,xgboost_fitted
+Spain,A_baumannii_3GC,2019,51.42857142857143,,,xgboost_fitted
+Spain,A_baumannii_3GC,2020,66.66666666666667,,,xgboost_fitted
+Spain,A_baumannii_3GC,2021,26.666666666666668,,,xgboost_fitted
+Spain,A_baumannii_3GC,2022,,,,xgboost_fitted
+Spain,A_baumannii_3GC,2023,,,,xgboost_fitted
+Spain,A_baumannii_AMG,2016,37.2093023255814,,,xgboost_fitted
+Spain,A_baumannii_AMG,2017,48.333333333333336,,,xgboost_fitted
+Spain,A_baumannii_AMG,2018,45.45454545454546,,,xgboost_fitted
+Spain,A_baumannii_AMG,2019,20.0,,,xgboost_fitted
+Spain,A_baumannii_AMG,2020,43.333333333333336,,,xgboost_fitted
+Spain,A_baumannii_AMG,2021,6.666666666666667,,,xgboost_fitted
+Spain,A_baumannii_AMG,2022,,,,xgboost_fitted
+Spain,A_baumannii_AMG,2023,,,,xgboost_fitted
+Spain,A_baumannii_CARB,2016,60.46511627906977,,,xgboost_fitted
+Spain,A_baumannii_CARB,2017,55.833333333333336,,,xgboost_fitted
+Spain,A_baumannii_CARB,2018,54.54545454545455,,,xgboost_fitted
+Spain,A_baumannii_CARB,2019,48.57142857142857,,,xgboost_fitted
+Spain,A_baumannii_CARB,2020,63.333333333333336,,,xgboost_fitted
+Spain,A_baumannii_CARB,2021,23.333333333333332,,,xgboost_fitted
+Spain,A_baumannii_CARB,2022,,,,xgboost_fitted
+Spain,A_baumannii_CARB,2023,,,,xgboost_fitted
+Spain,A_baumannii_COL,2016,2.3255813953488373,,,xgboost_fitted
+Spain,A_baumannii_COL,2017,1.6666666666666667,,,xgboost_fitted
+Spain,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Spain,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Spain,A_baumannii_COL,2020,3.3333333333333335,,,xgboost_fitted
+Spain,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Spain,A_baumannii_COL,2022,,,,xgboost_fitted
+Spain,A_baumannii_COL,2023,,,,xgboost_fitted
+Spain,A_baumannii_FQ,2016,72.09302325581395,,,xgboost_fitted
+Spain,A_baumannii_FQ,2017,65.00000000000001,,,xgboost_fitted
+Spain,A_baumannii_FQ,2018,60.60606060606061,,,xgboost_fitted
+Spain,A_baumannii_FQ,2019,54.285714285714285,,,xgboost_fitted
+Spain,A_baumannii_FQ,2020,66.66666666666667,,,xgboost_fitted
+Spain,A_baumannii_FQ,2021,33.333333333333336,,,xgboost_fitted
+Spain,A_baumannii_FQ,2022,,,,xgboost_fitted
+Spain,A_baumannii_FQ,2023,,,,xgboost_fitted
+Spain,A_baumannii_TET,2016,52.325581395348834,,,xgboost_fitted
+Spain,A_baumannii_TET,2017,49.16666666666667,,,xgboost_fitted
+Spain,A_baumannii_TET,2018,19.696969696969695,,,xgboost_fitted
+Spain,A_baumannii_TET,2019,44.285714285714285,,,xgboost_fitted
+Spain,A_baumannii_TET,2020,63.333333333333336,,,xgboost_fitted
+Spain,A_baumannii_TET,2021,16.666666666666668,,,xgboost_fitted
+Spain,A_baumannii_TET,2022,,,,xgboost_fitted
+Spain,A_baumannii_TET,2023,,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2016,55.55555555555556,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2017,69.56521739130434,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2018,47.61904761904762,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2019,36.36363636363636,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2020,60.0,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2021,40.0,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2022,,,,xgboost_fitted
+Taiwan,A_baumannii_3GC,2023,,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2016,51.85185185185186,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2017,60.869565217391305,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2018,33.333333333333336,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2019,36.36363636363636,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2020,40.0,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2021,30.0,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2022,,,,xgboost_fitted
+Taiwan,A_baumannii_AMG,2023,,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2016,55.55555555555556,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2017,65.21739130434783,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2018,42.857142857142854,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2019,36.36363636363636,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2020,50.0,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2021,40.0,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2022,,,,xgboost_fitted
+Taiwan,A_baumannii_CARB,2023,,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2022,,,,xgboost_fitted
+Taiwan,A_baumannii_COL,2023,,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2016,59.25925925925926,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2017,69.56521739130434,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2018,42.857142857142854,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2019,36.36363636363636,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2020,60.0,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2021,40.0,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2022,,,,xgboost_fitted
+Taiwan,A_baumannii_FQ,2023,,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2016,33.333333333333336,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2017,39.130434782608695,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2018,7.142857142857143,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2019,25.0,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2020,40.0,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2021,20.0,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2022,,,,xgboost_fitted
+Taiwan,A_baumannii_TET,2023,,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2016,83.33333333333334,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2017,90.9090909090909,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2018,78.26086956521739,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2019,95.45454545454545,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2020,66.66666666666667,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2021,90.0,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2022,,,,xgboost_fitted
+Thailand,A_baumannii_3GC,2023,,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2016,66.66666666666666,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2017,63.63636363636363,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2018,65.21739130434783,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2019,63.63636363636363,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2020,55.55555555555556,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2021,60.0,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2022,,,,xgboost_fitted
+Thailand,A_baumannii_AMG,2023,,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2016,83.33333333333334,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2017,90.9090909090909,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2018,78.26086956521739,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2019,95.45454545454545,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2020,66.66666666666667,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2021,90.0,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2022,,,,xgboost_fitted
+Thailand,A_baumannii_CARB,2023,,,,xgboost_fitted
+Thailand,A_baumannii_COL,2016,8.333333333333332,,,xgboost_fitted
+Thailand,A_baumannii_COL,2017,18.181818181818183,,,xgboost_fitted
+Thailand,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+Thailand,A_baumannii_COL,2019,4.545454545454546,,,xgboost_fitted
+Thailand,A_baumannii_COL,2020,0.0,,,xgboost_fitted
+Thailand,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Thailand,A_baumannii_COL,2022,,,,xgboost_fitted
+Thailand,A_baumannii_COL,2023,,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2016,83.33333333333334,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2017,95.45454545454545,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2018,78.26086956521739,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2019,100.0,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2020,77.77777777777777,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2021,90.0,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2022,,,,xgboost_fitted
+Thailand,A_baumannii_FQ,2023,,,,xgboost_fitted
+Thailand,A_baumannii_TET,2016,50.0,,,xgboost_fitted
+Thailand,A_baumannii_TET,2017,52.27272727272727,,,xgboost_fitted
+Thailand,A_baumannii_TET,2018,15.217391304347828,,,xgboost_fitted
+Thailand,A_baumannii_TET,2019,47.72727272727273,,,xgboost_fitted
+Thailand,A_baumannii_TET,2020,44.44444444444444,,,xgboost_fitted
+Thailand,A_baumannii_TET,2021,50.0,,,xgboost_fitted
+Thailand,A_baumannii_TET,2022,,,,xgboost_fitted
+Thailand,A_baumannii_TET,2023,,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2016,100.0,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2017,90.0,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2018,96.15384615384616,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2019,93.33333333333333,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2020,92.0,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2021,95.0,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2022,,,,xgboost_fitted
+Turkey,A_baumannii_3GC,2023,,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2016,35.0,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2017,84.99999999999999,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2018,84.61538461538461,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2019,80.0,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2020,92.0,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2021,85.0,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2022,,,,xgboost_fitted
+Turkey,A_baumannii_AMG,2023,,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2016,100.0,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2017,90.0,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2018,96.15384615384616,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2019,93.33333333333333,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2020,96.0,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2021,95.0,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2022,,,,xgboost_fitted
+Turkey,A_baumannii_CARB,2023,,,,xgboost_fitted
+Turkey,A_baumannii_COL,2016,20.0,,,xgboost_fitted
+Turkey,A_baumannii_COL,2017,25.000000000000004,,,xgboost_fitted
+Turkey,A_baumannii_COL,2018,15.384615384615385,,,xgboost_fitted
+Turkey,A_baumannii_COL,2019,0.0,,,xgboost_fitted
+Turkey,A_baumannii_COL,2020,8.0,,,xgboost_fitted
+Turkey,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+Turkey,A_baumannii_COL,2022,,,,xgboost_fitted
+Turkey,A_baumannii_COL,2023,,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2016,100.0,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2017,90.0,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2018,96.15384615384616,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2019,90.0,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2020,96.0,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2021,95.0,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2022,,,,xgboost_fitted
+Turkey,A_baumannii_FQ,2023,,,,xgboost_fitted
+Turkey,A_baumannii_TET,2016,45.0,,,xgboost_fitted
+Turkey,A_baumannii_TET,2017,65.0,,,xgboost_fitted
+Turkey,A_baumannii_TET,2018,28.846153846153843,,,xgboost_fitted
+Turkey,A_baumannii_TET,2019,70.0,,,xgboost_fitted
+Turkey,A_baumannii_TET,2020,62.0,,,xgboost_fitted
+Turkey,A_baumannii_TET,2021,70.0,,,xgboost_fitted
+Turkey,A_baumannii_TET,2022,,,,xgboost_fitted
+Turkey,A_baumannii_TET,2023,,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2016,,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2017,,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2018,,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2019,,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2020,,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2021,89.99999999999999,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2022,,,,xgboost_fitted
+Ukraine,A_baumannii_3GC,2023,,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2016,,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2017,,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2018,,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2019,,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2020,,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2021,85.0,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2022,,,,xgboost_fitted
+Ukraine,A_baumannii_AMG,2023,,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2016,,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2017,,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2018,,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2019,,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2020,,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2021,79.99999999999999,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2022,,,,xgboost_fitted
+Ukraine,A_baumannii_CARB,2023,,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2016,,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2017,,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2018,,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2019,,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2020,,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2021,4.999999999999999,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2022,,,,xgboost_fitted
+Ukraine,A_baumannii_COL,2023,,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2016,,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2017,,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2018,,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2019,,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2020,,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2021,89.99999999999999,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2022,,,,xgboost_fitted
+Ukraine,A_baumannii_FQ,2023,,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2016,,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2017,,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2018,,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2019,,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2020,,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2021,60.0,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2022,,,,xgboost_fitted
+Ukraine,A_baumannii_TET,2023,,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2016,12.500000000000002,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2017,6.25,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2018,12.5,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2019,20.833333333333336,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2020,,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2021,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2022,,,,xgboost_fitted
+United Kingdom,A_baumannii_3GC,2023,,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2016,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2017,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2018,12.5,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2019,16.666666666666664,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2020,,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2021,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2022,,,,xgboost_fitted
+United Kingdom,A_baumannii_AMG,2023,,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2016,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2017,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2018,12.5,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2019,20.833333333333336,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2020,,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2021,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2022,,,,xgboost_fitted
+United Kingdom,A_baumannii_CARB,2023,,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2017,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2018,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2019,4.166666666666666,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2020,,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2021,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2022,,,,xgboost_fitted
+United Kingdom,A_baumannii_COL,2023,,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2016,12.500000000000002,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2017,12.5,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2018,16.666666666666664,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2019,20.833333333333336,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2020,,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2021,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2022,,,,xgboost_fitted
+United Kingdom,A_baumannii_FQ,2023,,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2016,12.500000000000002,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2017,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2018,4.166666666666666,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2019,14.58333333333333,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2020,,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2021,0.0,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2022,,,,xgboost_fitted
+United Kingdom,A_baumannii_TET,2023,,,,xgboost_fitted
+United States,A_baumannii_3GC,2016,50.38167938931297,,,xgboost_fitted
+United States,A_baumannii_3GC,2017,43.373493975903614,,,xgboost_fitted
+United States,A_baumannii_3GC,2018,29.6875,,,xgboost_fitted
+United States,A_baumannii_3GC,2019,38.97637795275591,,,xgboost_fitted
+United States,A_baumannii_3GC,2020,37.99999999999999,,,xgboost_fitted
+United States,A_baumannii_3GC,2021,41.276595744680854,,,xgboost_fitted
+United States,A_baumannii_3GC,2022,,,,xgboost_fitted
+United States,A_baumannii_3GC,2023,,,,xgboost_fitted
+United States,A_baumannii_AMG,2016,26.335877862595417,,,xgboost_fitted
+United States,A_baumannii_AMG,2017,25.70281124497992,,,xgboost_fitted
+United States,A_baumannii_AMG,2018,12.890624999999998,,,xgboost_fitted
+United States,A_baumannii_AMG,2019,20.47244094488189,,,xgboost_fitted
+United States,A_baumannii_AMG,2020,23.999999999999996,,,xgboost_fitted
+United States,A_baumannii_AMG,2021,21.70212765957447,,,xgboost_fitted
+United States,A_baumannii_AMG,2022,,,,xgboost_fitted
+United States,A_baumannii_AMG,2023,,,,xgboost_fitted
+United States,A_baumannii_CARB,2016,36.25954198473283,,,xgboost_fitted
+United States,A_baumannii_CARB,2017,27.710843373493976,,,xgboost_fitted
+United States,A_baumannii_CARB,2018,22.265624999999996,,,xgboost_fitted
+United States,A_baumannii_CARB,2019,32.08661417322835,,,xgboost_fitted
+United States,A_baumannii_CARB,2020,30.2,,,xgboost_fitted
+United States,A_baumannii_CARB,2021,33.829787234042556,,,xgboost_fitted
+United States,A_baumannii_CARB,2022,,,,xgboost_fitted
+United States,A_baumannii_CARB,2023,,,,xgboost_fitted
+United States,A_baumannii_COL,2016,6.4885496183206115,,,xgboost_fitted
+United States,A_baumannii_COL,2017,3.2128514056224895,,,xgboost_fitted
+United States,A_baumannii_COL,2018,0.78125,,,xgboost_fitted
+United States,A_baumannii_COL,2019,1.1811023622047243,,,xgboost_fitted
+United States,A_baumannii_COL,2020,2.8,,,xgboost_fitted
+United States,A_baumannii_COL,2021,0.425531914893617,,,xgboost_fitted
+United States,A_baumannii_COL,2022,,,,xgboost_fitted
+United States,A_baumannii_COL,2023,,,,xgboost_fitted
+United States,A_baumannii_FQ,2016,50.38167938931298,,,xgboost_fitted
+United States,A_baumannii_FQ,2017,44.17670682730924,,,xgboost_fitted
+United States,A_baumannii_FQ,2018,32.8125,,,xgboost_fitted
+United States,A_baumannii_FQ,2019,42.91338582677165,,,xgboost_fitted
+United States,A_baumannii_FQ,2020,40.4,,,xgboost_fitted
+United States,A_baumannii_FQ,2021,44.25531914893616,,,xgboost_fitted
+United States,A_baumannii_FQ,2022,,,,xgboost_fitted
+United States,A_baumannii_FQ,2023,,,,xgboost_fitted
+United States,A_baumannii_TET,2016,25.19083969465649,,,xgboost_fitted
+United States,A_baumannii_TET,2017,25.301204819277107,,,xgboost_fitted
+United States,A_baumannii_TET,2018,4.4921875,,,xgboost_fitted
+United States,A_baumannii_TET,2019,26.377952755905508,,,xgboost_fitted
+United States,A_baumannii_TET,2020,25.599999999999998,,,xgboost_fitted
+United States,A_baumannii_TET,2021,29.148936170212767,,,xgboost_fitted
+United States,A_baumannii_TET,2022,,,,xgboost_fitted
+United States,A_baumannii_TET,2023,,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2016,100.0,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2017,,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2018,,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2019,,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2020,,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2021,,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2022,,,,xgboost_fitted
+Vietnam,A_baumannii_3GC,2023,,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2016,100.0,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2017,,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2018,,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2019,,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2020,,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2021,,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2022,,,,xgboost_fitted
+Vietnam,A_baumannii_AMG,2023,,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2016,90.9090909090909,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2017,,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2018,,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2019,,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2020,,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2021,,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2022,,,,xgboost_fitted
+Vietnam,A_baumannii_CARB,2023,,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2016,0.0,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2017,,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2018,,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2019,,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2020,,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2021,,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2022,,,,xgboost_fitted
+Vietnam,A_baumannii_COL,2023,,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2016,100.0,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2017,,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2018,,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2019,,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2020,,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2021,,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2022,,,,xgboost_fitted
+Vietnam,A_baumannii_FQ,2023,,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2016,63.63636363636363,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2017,,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2018,,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2019,,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2020,,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2021,,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2022,,,,xgboost_fitted
+Vietnam,A_baumannii_TET,2023,,,,xgboost_fitted

@@ -1,0 +1,17 @@
+feature,coefficient
+lag1_resistance,0.0
+lag2_resistance,0.0
+lag3_resistance,0.0
+rolling3_mean_resistance,0.0
+delta_resistance,0.0
+lag1_total_DDD,0.0
+lag1_watch_proportion,0.0
+antibiotic_pressure_index,0.0
+ses_risk_score,0.0
+gdp_per_capita,0.0
+health_expenditure,0.0
+sanitation,0.0
+physicians,0.0
+urbanisation,0.0
+gini,0.0
+water_access,0.0

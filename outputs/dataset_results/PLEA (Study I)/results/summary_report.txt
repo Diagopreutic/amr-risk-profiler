@@ -1,0 +1,74 @@
+AMR Temporal Forecasting Challenge -- Summary Report
+Vivli AMR Surveillance Data Challenge 2026
+==============================================================
+
+DATA MODE : REAL FILES
+  Source files (1):
+    * test_data\PLEA (Study I)\PLEA Study I (n=3150)_updated.csv
+  Conflict strategy : mean
+
+METHODOLOGY
+----------------------------------------
+Primary model  : Random Forest (n=300, max_depth=10)
+Baseline model : Ridge Regression (alpha=1.0, standardised)
+Validation     : xgboost Quantile Regression (90% CI)
+CV strategy    : TimeSeriesSplit (5 folds, no look-ahead)
+
+MODEL PERFORMANCE
+----------------------------------------
+RF CV-MAE              : 11.662% +/- 6.972%
+Reference benchmark    : 1.61% +/- 0.64%
+
+FEATURE GROUP IMPORTANCES (RF)
+----------------------------------------
+  Temporal autocorrelation : 92.9%
+  Antibiotic consumption   : 0.6%
+  Socioeconomic factors    : 6.5%
+
+TOP 8 FEATURES
+----------------------------------------
+  delta_resistance                     0.5511
+  rolling3_mean_resistance             0.0761
+  lag1_resistance                      0.0668
+  health_expenditure                   0.0365
+  lag2_resistance                      0.0296
+  lag3_resistance                      0.0196
+  gini                                 0.0107
+  lag1_watch_proportion                0.0041
+
+KEY CORRELATIONS
+----------------------------------------
+  SES-RS vs resistance (Pearson r) : nan  (p=nan)
+  log-GDP vs resistance: insufficient data
+
+MOST PROTECTIVE FACTORS (negative Ridge coefficients)
+----------------------------------------
+  lag3_resistance                      -1.8858
+  lag2_resistance                      -1.1217
+  physicians                           -0.6282
+  health_expenditure                   -0.6109
+  lag1_total_DDD                       -0.5825
+
+2030 COUNTRY RISK TIERS
+----------------------------------------
+  Country                    Score   Tier        Region
+  --------------------------------------------------------------
+  India                      14.3%   Low         South/SE Asia
+
+POLICY INTERVENTIONS (top priority per high-risk country)
+----------------------------------------
+
+==============================================================
+Pipeline runtime: 22.2s
+
+OUTPUT FILES
+----------------------------------------
+  outputs\results/panel_raw.csv
+  outputs\results/panel_features.csv
+  outputs\results/rf_forecasts_2024_2030.csv
+  outputs\results/gbm_forecasts.csv
+  outputs\results/gbm_feature_importances.csv
+  outputs\results/country_risk_tiers_2030.csv
+  outputs\results/feature_importances.csv
+  outputs\results/ridge_coefficients.csv
+  outputs\results/antibiotic_pressure_index.csv

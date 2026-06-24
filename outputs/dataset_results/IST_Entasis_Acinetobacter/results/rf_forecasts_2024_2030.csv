@@ -1,0 +1,1387 @@
+country,combo,year,rf_forecast
+Argentina,A_baumannii_3GC,2024,85.19
+Argentina,A_baumannii_AMG,2024,19.19
+Argentina,A_baumannii_CARB,2024,94.58
+Argentina,A_baumannii_COL,2024,7.06
+Argentina,A_baumannii_FQ,2024,94.58
+Argentina,A_baumannii_TET,2024,63.31
+Australia,A_baumannii_3GC,2024,12.56
+Australia,A_baumannii_AMG,2024,9.11
+Australia,A_baumannii_CARB,2024,2.37
+Australia,A_baumannii_COL,2024,0.39
+Australia,A_baumannii_FQ,2024,12.52
+Australia,A_baumannii_TET,2024,4.18
+Belgium,A_baumannii_3GC,2024,37.51
+Belgium,A_baumannii_AMG,2024,11.02
+Belgium,A_baumannii_CARB,2024,11.04
+Belgium,A_baumannii_COL,2024,9.17
+Belgium,A_baumannii_FQ,2024,57.85
+Belgium,A_baumannii_TET,2024,15.92
+Brazil,A_baumannii_3GC,2024,97.32
+Brazil,A_baumannii_AMG,2024,96.62
+Brazil,A_baumannii_CARB,2024,97.3
+Brazil,A_baumannii_COL,2024,0.06
+Brazil,A_baumannii_FQ,2024,97.32
+Brazil,A_baumannii_TET,2024,71.04
+Chile,A_baumannii_3GC,2024,45.1
+Chile,A_baumannii_AMG,2024,36.94
+Chile,A_baumannii_CARB,2024,17.36
+Chile,A_baumannii_COL,2024,0.31
+Chile,A_baumannii_FQ,2024,48.43
+Chile,A_baumannii_TET,2024,7.65
+Colombia,A_baumannii_3GC,2024,0.57
+Colombia,A_baumannii_AMG,2024,0.34
+Colombia,A_baumannii_CARB,2024,30.48
+Colombia,A_baumannii_COL,2024,0.35
+Colombia,A_baumannii_FQ,2024,0.34
+Colombia,A_baumannii_TET,2024,0.05
+Croatia,A_baumannii_3GC,2024,92.18
+Croatia,A_baumannii_AMG,2024,91.25
+Croatia,A_baumannii_CARB,2024,92.18
+Croatia,A_baumannii_COL,2024,1.66
+Croatia,A_baumannii_FQ,2024,92.18
+Croatia,A_baumannii_TET,2024,91.25
+Czech Republic,A_baumannii_3GC,2024,28.73
+Czech Republic,A_baumannii_AMG,2024,28.26
+Czech Republic,A_baumannii_CARB,2024,29.76
+Czech Republic,A_baumannii_COL,2024,0.03
+Czech Republic,A_baumannii_FQ,2024,28.73
+Czech Republic,A_baumannii_TET,2024,21.73
+France,A_baumannii_3GC,2024,30.25
+France,A_baumannii_AMG,2024,3.79
+France,A_baumannii_CARB,2024,25.23
+France,A_baumannii_COL,2024,0.08
+France,A_baumannii_FQ,2024,39.86
+France,A_baumannii_TET,2024,36.34
+Germany,A_baumannii_3GC,2024,22.96
+Germany,A_baumannii_AMG,2024,16.55
+Germany,A_baumannii_CARB,2024,18.42
+Germany,A_baumannii_COL,2024,0.55
+Germany,A_baumannii_FQ,2024,8.67
+Germany,A_baumannii_TET,2024,8.84
+Greece,A_baumannii_3GC,2024,99.19
+Greece,A_baumannii_AMG,2024,99.22
+Greece,A_baumannii_CARB,2024,99.19
+Greece,A_baumannii_COL,2024,31.49
+Greece,A_baumannii_FQ,2024,99.19
+Greece,A_baumannii_TET,2024,98.58
+Guatemala,A_baumannii_3GC,2024,96.93
+Guatemala,A_baumannii_AMG,2024,91.77
+Guatemala,A_baumannii_CARB,2024,96.48
+Guatemala,A_baumannii_COL,2024,0.03
+Guatemala,A_baumannii_FQ,2024,96.82
+Guatemala,A_baumannii_TET,2024,56.71
+Hungary,A_baumannii_3GC,2024,86.8
+Hungary,A_baumannii_AMG,2024,83.72
+Hungary,A_baumannii_CARB,2024,34.05
+Hungary,A_baumannii_COL,2024,0.02
+Hungary,A_baumannii_FQ,2024,62.86
+Hungary,A_baumannii_TET,2024,68.94
+Israel,A_baumannii_3GC,2024,72.81
+Israel,A_baumannii_AMG,2024,71.0
+Israel,A_baumannii_CARB,2024,73.56
+Israel,A_baumannii_COL,2024,0.32
+Israel,A_baumannii_FQ,2024,72.81
+Israel,A_baumannii_TET,2024,45.97
+Italy,A_baumannii_3GC,2024,84.99
+Italy,A_baumannii_AMG,2024,78.6
+Italy,A_baumannii_CARB,2024,84.94
+Italy,A_baumannii_COL,2024,9.01
+Italy,A_baumannii_FQ,2024,84.99
+Italy,A_baumannii_TET,2024,68.12
+Japan,A_baumannii_3GC,2024,0.78
+Japan,A_baumannii_AMG,2024,0.07
+Japan,A_baumannii_CARB,2024,0.39
+Japan,A_baumannii_COL,2024,0.07
+Japan,A_baumannii_FQ,2024,1.17
+Japan,A_baumannii_TET,2024,0.96
+"Korea, South",A_baumannii_3GC,2024,96.98
+"Korea, South",A_baumannii_AMG,2024,92.06
+"Korea, South",A_baumannii_CARB,2024,96.98
+"Korea, South",A_baumannii_COL,2024,0.0
+"Korea, South",A_baumannii_FQ,2024,97.17
+"Korea, South",A_baumannii_TET,2024,46.78
+Lithuania,A_baumannii_3GC,2024,91.49
+Lithuania,A_baumannii_AMG,2024,91.42
+Lithuania,A_baumannii_CARB,2024,91.49
+Lithuania,A_baumannii_COL,2024,1.18
+Lithuania,A_baumannii_FQ,2024,91.49
+Lithuania,A_baumannii_TET,2024,91.18
+Malaysia,A_baumannii_3GC,2024,75.89
+Malaysia,A_baumannii_AMG,2024,69.31
+Malaysia,A_baumannii_CARB,2024,75.89
+Malaysia,A_baumannii_COL,2024,0.0
+Malaysia,A_baumannii_FQ,2024,67.06
+Malaysia,A_baumannii_TET,2024,40.5
+Mexico,A_baumannii_3GC,2024,73.29
+Mexico,A_baumannii_AMG,2024,38.95
+Mexico,A_baumannii_CARB,2024,73.29
+Mexico,A_baumannii_COL,2024,0.34
+Mexico,A_baumannii_FQ,2024,73.29
+Mexico,A_baumannii_TET,2024,32.62
+Philippines,A_baumannii_3GC,2024,17.96
+Philippines,A_baumannii_AMG,2024,13.46
+Philippines,A_baumannii_CARB,2024,15.63
+Philippines,A_baumannii_COL,2024,0.01
+Philippines,A_baumannii_FQ,2024,47.93
+Philippines,A_baumannii_TET,2024,28.54
+Poland,A_baumannii_3GC,2024,69.7
+Poland,A_baumannii_AMG,2024,67.26
+Poland,A_baumannii_CARB,2024,70.73
+Poland,A_baumannii_COL,2024,9.34
+Poland,A_baumannii_FQ,2024,77.45
+Poland,A_baumannii_TET,2024,66.4
+Portugal,A_baumannii_3GC,2024,15.92
+Portugal,A_baumannii_AMG,2024,1.46
+Portugal,A_baumannii_CARB,2024,16.66
+Portugal,A_baumannii_COL,2024,0.01
+Portugal,A_baumannii_FQ,2024,16.9
+Portugal,A_baumannii_TET,2024,5.44
+Romania,A_baumannii_3GC,2024,91.56
+Romania,A_baumannii_AMG,2024,79.19
+Romania,A_baumannii_CARB,2024,91.56
+Romania,A_baumannii_COL,2024,0.02
+Romania,A_baumannii_FQ,2024,91.56
+Romania,A_baumannii_TET,2024,31.96
+Russia,A_baumannii_3GC,2024,94.26
+Russia,A_baumannii_AMG,2024,78.25
+Russia,A_baumannii_CARB,2024,87.68
+Russia,A_baumannii_COL,2024,0.0
+Russia,A_baumannii_FQ,2024,93.99
+Russia,A_baumannii_TET,2024,56.28
+Spain,A_baumannii_3GC,2024,17.22
+Spain,A_baumannii_AMG,2024,1.87
+Spain,A_baumannii_CARB,2024,14.74
+Spain,A_baumannii_COL,2024,0.02
+Spain,A_baumannii_FQ,2024,24.32
+Spain,A_baumannii_TET,2024,11.55
+Taiwan,A_baumannii_3GC,2024,23.86
+Taiwan,A_baumannii_AMG,2024,22.74
+Taiwan,A_baumannii_CARB,2024,30.56
+Taiwan,A_baumannii_COL,2024,0.0
+Taiwan,A_baumannii_FQ,2024,23.86
+Taiwan,A_baumannii_TET,2024,6.03
+Thailand,A_baumannii_3GC,2024,95.41
+Thailand,A_baumannii_AMG,2024,66.68
+Thailand,A_baumannii_CARB,2024,95.41
+Thailand,A_baumannii_COL,2024,0.02
+Thailand,A_baumannii_FQ,2024,94.96
+Thailand,A_baumannii_TET,2024,56.89
+Turkey,A_baumannii_3GC,2024,93.83
+Turkey,A_baumannii_AMG,2024,75.73
+Turkey,A_baumannii_CARB,2024,91.99
+Turkey,A_baumannii_COL,2024,0.49
+Turkey,A_baumannii_FQ,2024,91.99
+Turkey,A_baumannii_TET,2024,75.5
+Ukraine,A_baumannii_3GC,2024,80.13
+Ukraine,A_baumannii_AMG,2024,78.82
+Ukraine,A_baumannii_CARB,2024,77.48
+Ukraine,A_baumannii_COL,2024,1.72
+Ukraine,A_baumannii_FQ,2024,80.13
+Ukraine,A_baumannii_TET,2024,62.85
+United Kingdom,A_baumannii_3GC,2024,1.47
+United Kingdom,A_baumannii_AMG,2024,1.45
+United Kingdom,A_baumannii_CARB,2024,1.47
+United Kingdom,A_baumannii_COL,2024,0.28
+United Kingdom,A_baumannii_FQ,2024,1.48
+United Kingdom,A_baumannii_TET,2024,1.27
+United States,A_baumannii_3GC,2024,41.6
+United States,A_baumannii_AMG,2024,20.87
+United States,A_baumannii_CARB,2024,36.79
+United States,A_baumannii_COL,2024,0.71
+United States,A_baumannii_FQ,2024,43.24
+United States,A_baumannii_TET,2024,30.49
+Vietnam,A_baumannii_3GC,2024,90.68
+Vietnam,A_baumannii_AMG,2024,90.68
+Vietnam,A_baumannii_CARB,2024,87.18
+Vietnam,A_baumannii_COL,2024,0.03
+Vietnam,A_baumannii_FQ,2024,90.68
+Vietnam,A_baumannii_TET,2024,65.16
+Argentina,A_baumannii_3GC,2025,88.43
+Argentina,A_baumannii_AMG,2025,12.38
+Argentina,A_baumannii_CARB,2025,94.99
+Argentina,A_baumannii_COL,2025,9.5
+Argentina,A_baumannii_FQ,2025,94.99
+Argentina,A_baumannii_TET,2025,67.29
+Australia,A_baumannii_3GC,2025,14.53
+Australia,A_baumannii_AMG,2025,11.26
+Australia,A_baumannii_CARB,2025,1.17
+Australia,A_baumannii_COL,2025,1.64
+Australia,A_baumannii_FQ,2025,14.48
+Australia,A_baumannii_TET,2025,4.89
+Belgium,A_baumannii_3GC,2025,46.26
+Belgium,A_baumannii_AMG,2025,10.84
+Belgium,A_baumannii_CARB,2025,11.03
+Belgium,A_baumannii_COL,2025,11.44
+Belgium,A_baumannii_FQ,2025,64.58
+Belgium,A_baumannii_TET,2025,19.25
+Brazil,A_baumannii_3GC,2025,93.43
+Brazil,A_baumannii_AMG,2025,97.09
+Brazil,A_baumannii_CARB,2025,93.26
+Brazil,A_baumannii_COL,2025,0.84
+Brazil,A_baumannii_FQ,2025,93.43
+Brazil,A_baumannii_TET,2025,74.79
+Chile,A_baumannii_3GC,2025,55.36
+Chile,A_baumannii_AMG,2025,48.29
+Chile,A_baumannii_CARB,2025,19.8
+Chile,A_baumannii_COL,2025,1.41
+Chile,A_baumannii_FQ,2025,53.5
+Chile,A_baumannii_TET,2025,9.88
+Colombia,A_baumannii_3GC,2025,3.35
+Colombia,A_baumannii_AMG,2025,1.45
+Colombia,A_baumannii_CARB,2025,46.45
+Colombia,A_baumannii_COL,2025,1.45
+Colombia,A_baumannii_FQ,2025,1.45
+Colombia,A_baumannii_TET,2025,0.78
+Croatia,A_baumannii_3GC,2025,83.96
+Croatia,A_baumannii_AMG,2025,91.41
+Croatia,A_baumannii_CARB,2025,83.96
+Croatia,A_baumannii_COL,2025,0.55
+Croatia,A_baumannii_FQ,2025,83.96
+Croatia,A_baumannii_TET,2025,91.41
+Czech Republic,A_baumannii_3GC,2025,39.81
+Czech Republic,A_baumannii_AMG,2025,39.26
+Czech Republic,A_baumannii_CARB,2025,41.26
+Czech Republic,A_baumannii_COL,2025,0.84
+Czech Republic,A_baumannii_FQ,2025,39.81
+Czech Republic,A_baumannii_TET,2025,32.53
+France,A_baumannii_3GC,2025,31.92
+France,A_baumannii_AMG,2025,1.42
+France,A_baumannii_CARB,2025,24.93
+France,A_baumannii_COL,2025,0.75
+France,A_baumannii_FQ,2025,40.94
+France,A_baumannii_TET,2025,38.08
+Germany,A_baumannii_3GC,2025,25.03
+Germany,A_baumannii_AMG,2025,18.43
+Germany,A_baumannii_CARB,2025,18.42
+Germany,A_baumannii_COL,2025,3.21
+Germany,A_baumannii_FQ,2025,2.51
+Germany,A_baumannii_TET,2025,7.39
+Greece,A_baumannii_3GC,2025,96.31
+Greece,A_baumannii_AMG,2025,96.29
+Greece,A_baumannii_CARB,2025,96.31
+Greece,A_baumannii_COL,2025,28.3
+Greece,A_baumannii_FQ,2025,96.31
+Greece,A_baumannii_TET,2025,99.18
+Guatemala,A_baumannii_3GC,2025,97.6
+Guatemala,A_baumannii_AMG,2025,89.65
+Guatemala,A_baumannii_CARB,2025,96.92
+Guatemala,A_baumannii_COL,2025,0.82
+Guatemala,A_baumannii_FQ,2025,97.63
+Guatemala,A_baumannii_TET,2025,64.37
+Hungary,A_baumannii_3GC,2025,91.13
+Hungary,A_baumannii_AMG,2025,89.99
+Hungary,A_baumannii_CARB,2025,32.03
+Hungary,A_baumannii_COL,2025,0.83
+Hungary,A_baumannii_FQ,2025,57.77
+Hungary,A_baumannii_TET,2025,69.83
+Israel,A_baumannii_3GC,2025,71.41
+Israel,A_baumannii_AMG,2025,71.81
+Israel,A_baumannii_CARB,2025,73.28
+Israel,A_baumannii_COL,2025,1.55
+Israel,A_baumannii_FQ,2025,71.41
+Israel,A_baumannii_TET,2025,48.33
+Italy,A_baumannii_3GC,2025,84.77
+Italy,A_baumannii_AMG,2025,80.25
+Italy,A_baumannii_CARB,2025,84.77
+Italy,A_baumannii_COL,2025,10.93
+Italy,A_baumannii_FQ,2025,84.77
+Italy,A_baumannii_TET,2025,66.76
+Japan,A_baumannii_3GC,2025,3.31
+Japan,A_baumannii_AMG,2025,0.8
+Japan,A_baumannii_CARB,2025,1.47
+Japan,A_baumannii_COL,2025,0.8
+Japan,A_baumannii_FQ,2025,0.57
+Japan,A_baumannii_TET,2025,0.38
+"Korea, South",A_baumannii_3GC,2025,98.79
+"Korea, South",A_baumannii_AMG,2025,95.88
+"Korea, South",A_baumannii_CARB,2025,98.79
+"Korea, South",A_baumannii_COL,2025,0.0
+"Korea, South",A_baumannii_FQ,2025,98.79
+"Korea, South",A_baumannii_TET,2025,47.39
+Lithuania,A_baumannii_3GC,2025,89.31
+Lithuania,A_baumannii_AMG,2025,89.19
+Lithuania,A_baumannii_CARB,2025,89.31
+Lithuania,A_baumannii_COL,2025,4.51
+Lithuania,A_baumannii_FQ,2025,89.31
+Lithuania,A_baumannii_TET,2025,89.01
+Malaysia,A_baumannii_3GC,2025,78.9
+Malaysia,A_baumannii_AMG,2025,74.54
+Malaysia,A_baumannii_CARB,2025,78.9
+Malaysia,A_baumannii_COL,2025,0.0
+Malaysia,A_baumannii_FQ,2025,70.62
+Malaysia,A_baumannii_TET,2025,50.05
+Mexico,A_baumannii_3GC,2025,70.42
+Mexico,A_baumannii_AMG,2025,36.26
+Mexico,A_baumannii_CARB,2025,70.42
+Mexico,A_baumannii_COL,2025,1.48
+Mexico,A_baumannii_FQ,2025,70.42
+Mexico,A_baumannii_TET,2025,25.36
+Philippines,A_baumannii_3GC,2025,8.92
+Philippines,A_baumannii_AMG,2025,6.54
+Philippines,A_baumannii_CARB,2025,7.91
+Philippines,A_baumannii_COL,2025,0.8
+Philippines,A_baumannii_FQ,2025,48.17
+Philippines,A_baumannii_TET,2025,40.26
+Poland,A_baumannii_3GC,2025,66.67
+Poland,A_baumannii_AMG,2025,66.65
+Poland,A_baumannii_CARB,2025,69.25
+Poland,A_baumannii_COL,2025,7.61
+Poland,A_baumannii_FQ,2025,75.86
+Poland,A_baumannii_TET,2025,66.18
+Portugal,A_baumannii_3GC,2025,10.85
+Portugal,A_baumannii_AMG,2025,0.88
+Portugal,A_baumannii_CARB,2025,11.85
+Portugal,A_baumannii_COL,2025,0.77
+Portugal,A_baumannii_FQ,2025,11.91
+Portugal,A_baumannii_TET,2025,1.42
+Romania,A_baumannii_3GC,2025,89.39
+Romania,A_baumannii_AMG,2025,71.82
+Romania,A_baumannii_CARB,2025,89.39
+Romania,A_baumannii_COL,2025,0.82
+Romania,A_baumannii_FQ,2025,89.39
+Romania,A_baumannii_TET,2025,30.32
+Russia,A_baumannii_3GC,2025,97.29
+Russia,A_baumannii_AMG,2025,86.25
+Russia,A_baumannii_CARB,2025,92.93
+Russia,A_baumannii_COL,2025,0.0
+Russia,A_baumannii_FQ,2025,97.46
+Russia,A_baumannii_TET,2025,65.34
+Spain,A_baumannii_3GC,2025,14.71
+Spain,A_baumannii_AMG,2025,1.13
+Spain,A_baumannii_CARB,2025,12.42
+Spain,A_baumannii_COL,2025,0.75
+Spain,A_baumannii_FQ,2025,20.88
+Spain,A_baumannii_TET,2025,11.04
+Taiwan,A_baumannii_3GC,2025,15.28
+Taiwan,A_baumannii_AMG,2025,18.34
+Taiwan,A_baumannii_CARB,2025,25.93
+Taiwan,A_baumannii_COL,2025,0.0
+Taiwan,A_baumannii_FQ,2025,15.28
+Taiwan,A_baumannii_TET,2025,1.98
+Thailand,A_baumannii_3GC,2025,96.02
+Thailand,A_baumannii_AMG,2025,70.5
+Thailand,A_baumannii_CARB,2025,96.02
+Thailand,A_baumannii_COL,2025,0.79
+Thailand,A_baumannii_FQ,2025,96.28
+Thailand,A_baumannii_TET,2025,62.38
+Turkey,A_baumannii_3GC,2025,91.57
+Turkey,A_baumannii_AMG,2025,71.68
+Turkey,A_baumannii_CARB,2025,90.03
+Turkey,A_baumannii_COL,2025,3.4
+Turkey,A_baumannii_FQ,2025,90.03
+Turkey,A_baumannii_TET,2025,84.26
+Ukraine,A_baumannii_3GC,2025,71.27
+Ukraine,A_baumannii_AMG,2025,74.41
+Ukraine,A_baumannii_CARB,2025,78.59
+Ukraine,A_baumannii_COL,2025,0.62
+Ukraine,A_baumannii_FQ,2025,71.27
+Ukraine,A_baumannii_TET,2025,67.08
+United Kingdom,A_baumannii_3GC,2025,4.38
+United Kingdom,A_baumannii_AMG,2025,3.91
+United Kingdom,A_baumannii_CARB,2025,4.38
+United Kingdom,A_baumannii_COL,2025,1.46
+United Kingdom,A_baumannii_FQ,2025,4.38
+United Kingdom,A_baumannii_TET,2025,3.76
+United States,A_baumannii_3GC,2025,41.1
+United States,A_baumannii_AMG,2025,20.99
+United States,A_baumannii_CARB,2025,38.05
+United States,A_baumannii_COL,2025,1.7
+United States,A_baumannii_FQ,2025,41.1
+United States,A_baumannii_TET,2025,32.2
+Vietnam,A_baumannii_3GC,2025,81.23
+Vietnam,A_baumannii_AMG,2025,81.23
+Vietnam,A_baumannii_CARB,2025,89.22
+Vietnam,A_baumannii_COL,2025,0.81
+Vietnam,A_baumannii_FQ,2025,81.23
+Vietnam,A_baumannii_TET,2025,68.67
+Argentina,A_baumannii_3GC,2026,92.71
+Argentina,A_baumannii_AMG,2026,6.93
+Argentina,A_baumannii_CARB,2026,96.73
+Argentina,A_baumannii_COL,2026,10.87
+Argentina,A_baumannii_FQ,2026,96.73
+Argentina,A_baumannii_TET,2026,71.26
+Australia,A_baumannii_3GC,2026,15.57
+Australia,A_baumannii_AMG,2026,12.26
+Australia,A_baumannii_CARB,2026,0.86
+Australia,A_baumannii_COL,2026,3.34
+Australia,A_baumannii_FQ,2026,15.41
+Australia,A_baumannii_TET,2026,7.6
+Belgium,A_baumannii_3GC,2026,55.24
+Belgium,A_baumannii_AMG,2026,8.71
+Belgium,A_baumannii_CARB,2026,8.71
+Belgium,A_baumannii_COL,2026,12.16
+Belgium,A_baumannii_FQ,2026,70.34
+Belgium,A_baumannii_TET,2026,21.55
+Brazil,A_baumannii_3GC,2026,92.31
+Brazil,A_baumannii_AMG,2026,97.29
+Brazil,A_baumannii_CARB,2026,92.13
+Brazil,A_baumannii_COL,2026,3.44
+Brazil,A_baumannii_FQ,2026,92.31
+Brazil,A_baumannii_TET,2026,85.93
+Chile,A_baumannii_3GC,2026,61.09
+Chile,A_baumannii_AMG,2026,55.91
+Chile,A_baumannii_CARB,2026,22.08
+Chile,A_baumannii_COL,2026,3.33
+Chile,A_baumannii_FQ,2026,56.15
+Chile,A_baumannii_TET,2026,11.03
+Colombia,A_baumannii_3GC,2026,4.72
+Colombia,A_baumannii_AMG,2026,3.44
+Colombia,A_baumannii_CARB,2026,59.36
+Colombia,A_baumannii_COL,2026,3.44
+Colombia,A_baumannii_FQ,2026,3.44
+Colombia,A_baumannii_TET,2026,3.39
+Croatia,A_baumannii_3GC,2026,74.23
+Croatia,A_baumannii_AMG,2026,94.75
+Croatia,A_baumannii_CARB,2026,74.23
+Croatia,A_baumannii_COL,2026,0.34
+Croatia,A_baumannii_FQ,2026,74.23
+Croatia,A_baumannii_TET,2026,94.75
+Czech Republic,A_baumannii_3GC,2026,46.88
+Czech Republic,A_baumannii_AMG,2026,46.19
+Czech Republic,A_baumannii_CARB,2026,49.92
+Czech Republic,A_baumannii_COL,2026,3.58
+Czech Republic,A_baumannii_FQ,2026,46.88
+Czech Republic,A_baumannii_TET,2026,42.28
+France,A_baumannii_3GC,2026,34.49
+France,A_baumannii_AMG,2026,0.84
+France,A_baumannii_CARB,2026,24.73
+France,A_baumannii_COL,2026,3.16
+France,A_baumannii_FQ,2026,41.31
+France,A_baumannii_TET,2026,39.04
+Germany,A_baumannii_3GC,2026,26.36
+Germany,A_baumannii_AMG,2026,19.0
+Germany,A_baumannii_CARB,2026,17.17
+Germany,A_baumannii_COL,2026,4.39
+Germany,A_baumannii_FQ,2026,1.6
+Germany,A_baumannii_TET,2026,5.14
+Greece,A_baumannii_3GC,2026,94.99
+Greece,A_baumannii_AMG,2026,94.99
+Greece,A_baumannii_CARB,2026,94.99
+Greece,A_baumannii_COL,2026,27.59
+Greece,A_baumannii_FQ,2026,94.99
+Greece,A_baumannii_TET,2026,99.02
+Guatemala,A_baumannii_3GC,2026,97.56
+Guatemala,A_baumannii_AMG,2026,90.6
+Guatemala,A_baumannii_CARB,2026,97.56
+Guatemala,A_baumannii_COL,2026,3.54
+Guatemala,A_baumannii_FQ,2026,97.56
+Guatemala,A_baumannii_TET,2026,71.13
+Hungary,A_baumannii_3GC,2026,92.64
+Hungary,A_baumannii_AMG,2026,92.48
+Hungary,A_baumannii_CARB,2026,35.26
+Hungary,A_baumannii_COL,2026,3.61
+Hungary,A_baumannii_FQ,2026,57.79
+Hungary,A_baumannii_TET,2026,72.31
+Israel,A_baumannii_3GC,2026,69.14
+Israel,A_baumannii_AMG,2026,69.93
+Israel,A_baumannii_CARB,2026,71.7
+Israel,A_baumannii_COL,2026,3.4
+Israel,A_baumannii_FQ,2026,69.14
+Israel,A_baumannii_TET,2026,47.86
+Italy,A_baumannii_3GC,2026,84.8
+Italy,A_baumannii_AMG,2026,81.24
+Italy,A_baumannii_CARB,2026,84.8
+Italy,A_baumannii_COL,2026,11.42
+Italy,A_baumannii_FQ,2026,84.8
+Italy,A_baumannii_TET,2026,63.43
+Japan,A_baumannii_3GC,2026,4.53
+Japan,A_baumannii_AMG,2026,3.3
+Japan,A_baumannii_CARB,2026,3.35
+Japan,A_baumannii_COL,2026,3.3
+Japan,A_baumannii_FQ,2026,0.39
+Japan,A_baumannii_TET,2026,0.1
+"Korea, South",A_baumannii_3GC,2026,98.76
+"Korea, South",A_baumannii_AMG,2026,98.19
+"Korea, South",A_baumannii_CARB,2026,98.76
+"Korea, South",A_baumannii_COL,2026,0.0
+"Korea, South",A_baumannii_FQ,2026,98.72
+"Korea, South",A_baumannii_TET,2026,47.62
+Lithuania,A_baumannii_3GC,2026,88.69
+Lithuania,A_baumannii_AMG,2026,88.68
+Lithuania,A_baumannii_CARB,2026,88.69
+Lithuania,A_baumannii_COL,2026,5.66
+Lithuania,A_baumannii_FQ,2026,88.69
+Lithuania,A_baumannii_TET,2026,88.52
+Malaysia,A_baumannii_3GC,2026,82.29
+Malaysia,A_baumannii_AMG,2026,76.61
+Malaysia,A_baumannii_CARB,2026,82.29
+Malaysia,A_baumannii_COL,2026,0.0
+Malaysia,A_baumannii_FQ,2026,70.8
+Malaysia,A_baumannii_TET,2026,57.66
+Mexico,A_baumannii_3GC,2026,77.96
+Mexico,A_baumannii_AMG,2026,39.17
+Mexico,A_baumannii_CARB,2026,77.96
+Mexico,A_baumannii_COL,2026,3.45
+Mexico,A_baumannii_FQ,2026,77.96
+Mexico,A_baumannii_TET,2026,21.56
+Philippines,A_baumannii_3GC,2026,3.44
+Philippines,A_baumannii_AMG,2026,2.55
+Philippines,A_baumannii_CARB,2026,2.83
+Philippines,A_baumannii_COL,2026,3.54
+Philippines,A_baumannii_FQ,2026,49.29
+Philippines,A_baumannii_TET,2026,51.05
+Poland,A_baumannii_3GC,2026,63.77
+Poland,A_baumannii_AMG,2026,63.9
+Poland,A_baumannii_CARB,2026,65.59
+Poland,A_baumannii_COL,2026,5.27
+Poland,A_baumannii_FQ,2026,74.55
+Poland,A_baumannii_TET,2026,64.4
+Portugal,A_baumannii_3GC,2026,5.51
+Portugal,A_baumannii_AMG,2026,0.35
+Portugal,A_baumannii_CARB,2026,6.6
+Portugal,A_baumannii_COL,2026,3.42
+Portugal,A_baumannii_FQ,2026,6.41
+Portugal,A_baumannii_TET,2026,0.71
+Romania,A_baumannii_3GC,2026,88.99
+Romania,A_baumannii_AMG,2026,66.97
+Romania,A_baumannii_CARB,2026,88.99
+Romania,A_baumannii_COL,2026,3.58
+Romania,A_baumannii_FQ,2026,88.99
+Romania,A_baumannii_TET,2026,33.19
+Russia,A_baumannii_3GC,2026,98.17
+Russia,A_baumannii_AMG,2026,91.99
+Russia,A_baumannii_CARB,2026,96.49
+Russia,A_baumannii_COL,2026,0.0
+Russia,A_baumannii_FQ,2026,98.23
+Russia,A_baumannii_TET,2026,69.66
+Spain,A_baumannii_3GC,2026,12.01
+Spain,A_baumannii_AMG,2026,0.45
+Spain,A_baumannii_CARB,2026,10.37
+Spain,A_baumannii_COL,2026,3.36
+Spain,A_baumannii_FQ,2026,17.57
+Spain,A_baumannii_TET,2026,8.72
+Taiwan,A_baumannii_3GC,2026,8.05
+Taiwan,A_baumannii_AMG,2026,13.04
+Taiwan,A_baumannii_CARB,2026,23.84
+Taiwan,A_baumannii_COL,2026,0.0
+Taiwan,A_baumannii_FQ,2026,8.05
+Taiwan,A_baumannii_TET,2026,0.84
+Thailand,A_baumannii_3GC,2026,96.89
+Thailand,A_baumannii_AMG,2026,70.64
+Thailand,A_baumannii_CARB,2026,96.89
+Thailand,A_baumannii_COL,2026,3.49
+Thailand,A_baumannii_FQ,2026,96.92
+Thailand,A_baumannii_TET,2026,67.45
+Turkey,A_baumannii_3GC,2026,89.52
+Turkey,A_baumannii_AMG,2026,77.92
+Turkey,A_baumannii_CARB,2026,89.47
+Turkey,A_baumannii_COL,2026,4.81
+Turkey,A_baumannii_FQ,2026,89.47
+Turkey,A_baumannii_TET,2026,90.41
+Ukraine,A_baumannii_3GC,2026,64.53
+Ukraine,A_baumannii_AMG,2026,76.91
+Ukraine,A_baumannii_CARB,2026,80.97
+Ukraine,A_baumannii_COL,2026,0.41
+Ukraine,A_baumannii_FQ,2026,64.53
+Ukraine,A_baumannii_TET,2026,70.1
+United Kingdom,A_baumannii_3GC,2026,5.33
+United Kingdom,A_baumannii_AMG,2026,4.84
+United Kingdom,A_baumannii_CARB,2026,5.33
+United Kingdom,A_baumannii_COL,2026,3.28
+United Kingdom,A_baumannii_FQ,2026,5.33
+United Kingdom,A_baumannii_TET,2026,4.62
+United States,A_baumannii_3GC,2026,40.6
+United States,A_baumannii_AMG,2026,21.85
+United States,A_baumannii_CARB,2026,38.56
+United States,A_baumannii_COL,2026,3.24
+United States,A_baumannii_FQ,2026,40.17
+United States,A_baumannii_TET,2026,34.28
+Vietnam,A_baumannii_3GC,2026,73.72
+Vietnam,A_baumannii_AMG,2026,73.72
+Vietnam,A_baumannii_CARB,2026,92.58
+Vietnam,A_baumannii_COL,2026,3.52
+Vietnam,A_baumannii_FQ,2026,73.72
+Vietnam,A_baumannii_TET,2026,70.62
+Argentina,A_baumannii_3GC,2027,96.07
+Argentina,A_baumannii_AMG,2027,2.54
+Argentina,A_baumannii_CARB,2027,97.67
+Argentina,A_baumannii_COL,2027,10.98
+Argentina,A_baumannii_FQ,2027,97.67
+Argentina,A_baumannii_TET,2027,74.41
+Australia,A_baumannii_3GC,2027,16.65
+Australia,A_baumannii_AMG,2027,13.14
+Australia,A_baumannii_CARB,2027,0.48
+Australia,A_baumannii_COL,2027,4.36
+Australia,A_baumannii_FQ,2027,16.65
+Australia,A_baumannii_TET,2027,9.93
+Belgium,A_baumannii_3GC,2027,63.16
+Belgium,A_baumannii_AMG,2027,6.86
+Belgium,A_baumannii_CARB,2027,6.71
+Belgium,A_baumannii_COL,2027,12.93
+Belgium,A_baumannii_FQ,2027,73.82
+Belgium,A_baumannii_TET,2027,23.74
+Brazil,A_baumannii_3GC,2027,92.98
+Brazil,A_baumannii_AMG,2027,97.29
+Brazil,A_baumannii_CARB,2027,92.9
+Brazil,A_baumannii_COL,2027,4.7
+Brazil,A_baumannii_FQ,2027,92.98
+Brazil,A_baumannii_TET,2027,93.53
+Chile,A_baumannii_3GC,2027,65.44
+Chile,A_baumannii_AMG,2027,60.76
+Chile,A_baumannii_CARB,2027,24.01
+Chile,A_baumannii_COL,2027,4.35
+Chile,A_baumannii_FQ,2027,58.93
+Chile,A_baumannii_TET,2027,10.88
+Colombia,A_baumannii_3GC,2027,5.05
+Colombia,A_baumannii_AMG,2027,4.54
+Colombia,A_baumannii_CARB,2027,65.95
+Colombia,A_baumannii_COL,2027,4.54
+Colombia,A_baumannii_FQ,2027,4.54
+Colombia,A_baumannii_TET,2027,4.7
+Croatia,A_baumannii_3GC,2027,70.52
+Croatia,A_baumannii_AMG,2027,98.15
+Croatia,A_baumannii_CARB,2027,70.52
+Croatia,A_baumannii_COL,2027,0.03
+Croatia,A_baumannii_FQ,2027,70.52
+Croatia,A_baumannii_TET,2027,98.15
+Czech Republic,A_baumannii_3GC,2027,54.59
+Czech Republic,A_baumannii_AMG,2027,54.13
+Czech Republic,A_baumannii_CARB,2027,57.13
+Czech Republic,A_baumannii_COL,2027,5.07
+Czech Republic,A_baumannii_FQ,2027,54.59
+Czech Republic,A_baumannii_TET,2027,51.96
+France,A_baumannii_3GC,2027,36.77
+France,A_baumannii_AMG,2027,0.31
+France,A_baumannii_CARB,2027,24.87
+France,A_baumannii_COL,2027,4.11
+France,A_baumannii_FQ,2027,41.46
+France,A_baumannii_TET,2027,40.25
+Germany,A_baumannii_3GC,2027,27.32
+Germany,A_baumannii_AMG,2027,19.23
+Germany,A_baumannii_CARB,2027,15.52
+Germany,A_baumannii_COL,2027,4.97
+Germany,A_baumannii_FQ,2027,1.21
+Germany,A_baumannii_TET,2027,2.88
+Greece,A_baumannii_3GC,2027,94.92
+Greece,A_baumannii_AMG,2027,94.92
+Greece,A_baumannii_CARB,2027,94.92
+Greece,A_baumannii_COL,2027,27.37
+Greece,A_baumannii_FQ,2027,94.92
+Greece,A_baumannii_TET,2027,99.01
+Guatemala,A_baumannii_3GC,2027,97.58
+Guatemala,A_baumannii_AMG,2027,93.76
+Guatemala,A_baumannii_CARB,2027,97.58
+Guatemala,A_baumannii_COL,2027,5.02
+Guatemala,A_baumannii_FQ,2027,97.58
+Guatemala,A_baumannii_TET,2027,75.04
+Hungary,A_baumannii_3GC,2027,93.81
+Hungary,A_baumannii_AMG,2027,93.83
+Hungary,A_baumannii_CARB,2027,38.76
+Hungary,A_baumannii_COL,2027,5.09
+Hungary,A_baumannii_FQ,2027,63.08
+Hungary,A_baumannii_TET,2027,78.76
+Israel,A_baumannii_3GC,2027,67.12
+Israel,A_baumannii_AMG,2027,67.98
+Israel,A_baumannii_CARB,2027,69.93
+Israel,A_baumannii_COL,2027,4.44
+Israel,A_baumannii_FQ,2027,67.12
+Israel,A_baumannii_TET,2027,47.89
+Italy,A_baumannii_3GC,2027,84.85
+Italy,A_baumannii_AMG,2027,81.45
+Italy,A_baumannii_CARB,2027,84.85
+Italy,A_baumannii_COL,2027,11.25
+Italy,A_baumannii_FQ,2027,84.85
+Italy,A_baumannii_TET,2027,59.15
+Japan,A_baumannii_3GC,2027,4.92
+Japan,A_baumannii_AMG,2027,4.49
+Japan,A_baumannii_CARB,2027,4.4
+Japan,A_baumannii_COL,2027,4.49
+Japan,A_baumannii_FQ,2027,0.08
+Japan,A_baumannii_TET,2027,0.09
+"Korea, South",A_baumannii_3GC,2027,98.71
+"Korea, South",A_baumannii_AMG,2027,98.78
+"Korea, South",A_baumannii_CARB,2027,98.71
+"Korea, South",A_baumannii_COL,2027,0.0
+"Korea, South",A_baumannii_FQ,2027,98.71
+"Korea, South",A_baumannii_TET,2027,47.66
+Lithuania,A_baumannii_3GC,2027,89.5
+Lithuania,A_baumannii_AMG,2027,89.5
+Lithuania,A_baumannii_CARB,2027,89.5
+Lithuania,A_baumannii_COL,2027,8.12
+Lithuania,A_baumannii_FQ,2027,89.5
+Lithuania,A_baumannii_TET,2027,89.5
+Malaysia,A_baumannii_3GC,2027,84.0
+Malaysia,A_baumannii_AMG,2027,80.05
+Malaysia,A_baumannii_CARB,2027,84.0
+Malaysia,A_baumannii_COL,2027,0.0
+Malaysia,A_baumannii_FQ,2027,73.55
+Malaysia,A_baumannii_TET,2027,62.69
+Mexico,A_baumannii_3GC,2027,89.94
+Mexico,A_baumannii_AMG,2027,43.51
+Mexico,A_baumannii_CARB,2027,89.94
+Mexico,A_baumannii_COL,2027,4.54
+Mexico,A_baumannii_FQ,2027,89.94
+Mexico,A_baumannii_TET,2027,19.19
+Philippines,A_baumannii_3GC,2027,0.95
+Philippines,A_baumannii_AMG,2027,0.76
+Philippines,A_baumannii_CARB,2027,0.83
+Philippines,A_baumannii_COL,2027,5.04
+Philippines,A_baumannii_FQ,2027,49.89
+Philippines,A_baumannii_TET,2027,60.02
+Poland,A_baumannii_3GC,2027,59.4
+Poland,A_baumannii_AMG,2027,59.51
+Poland,A_baumannii_CARB,2027,61.58
+Poland,A_baumannii_COL,2027,2.28
+Poland,A_baumannii_FQ,2027,74.15
+Poland,A_baumannii_TET,2027,60.95
+Portugal,A_baumannii_3GC,2027,1.3
+Portugal,A_baumannii_AMG,2027,0.03
+Portugal,A_baumannii_CARB,2027,2.41
+Portugal,A_baumannii_COL,2027,4.74
+Portugal,A_baumannii_FQ,2027,2.14
+Portugal,A_baumannii_TET,2027,0.35
+Romania,A_baumannii_3GC,2027,89.8
+Romania,A_baumannii_AMG,2027,72.41
+Romania,A_baumannii_CARB,2027,89.8
+Romania,A_baumannii_COL,2027,5.06
+Romania,A_baumannii_FQ,2027,89.8
+Romania,A_baumannii_TET,2027,37.38
+Russia,A_baumannii_3GC,2027,98.07
+Russia,A_baumannii_AMG,2027,95.53
+Russia,A_baumannii_CARB,2027,98.24
+Russia,A_baumannii_COL,2027,0.0
+Russia,A_baumannii_FQ,2027,98.07
+Russia,A_baumannii_TET,2027,71.29
+Spain,A_baumannii_3GC,2027,8.22
+Spain,A_baumannii_AMG,2027,0.09
+Spain,A_baumannii_CARB,2027,7.69
+Spain,A_baumannii_COL,2027,4.66
+Spain,A_baumannii_FQ,2027,13.03
+Spain,A_baumannii_TET,2027,6.66
+Taiwan,A_baumannii_3GC,2027,3.08
+Taiwan,A_baumannii_AMG,2027,8.01
+Taiwan,A_baumannii_CARB,2027,22.54
+Taiwan,A_baumannii_COL,2027,0.0
+Taiwan,A_baumannii_FQ,2027,3.08
+Taiwan,A_baumannii_TET,2027,0.36
+Thailand,A_baumannii_3GC,2027,97.16
+Thailand,A_baumannii_AMG,2027,77.29
+Thailand,A_baumannii_CARB,2027,97.16
+Thailand,A_baumannii_COL,2027,4.82
+Thailand,A_baumannii_FQ,2027,97.16
+Thailand,A_baumannii_TET,2027,70.15
+Turkey,A_baumannii_3GC,2027,89.18
+Turkey,A_baumannii_AMG,2027,87.08
+Turkey,A_baumannii_CARB,2027,90.23
+Turkey,A_baumannii_COL,2027,7.51
+Turkey,A_baumannii_FQ,2027,90.23
+Turkey,A_baumannii_TET,2027,92.29
+Ukraine,A_baumannii_3GC,2027,61.59
+Ukraine,A_baumannii_AMG,2027,79.6
+Ukraine,A_baumannii_CARB,2027,81.91
+Ukraine,A_baumannii_COL,2027,0.1
+Ukraine,A_baumannii_FQ,2027,61.59
+Ukraine,A_baumannii_TET,2027,70.94
+United Kingdom,A_baumannii_3GC,2027,8.16
+United Kingdom,A_baumannii_AMG,2027,7.96
+United Kingdom,A_baumannii_CARB,2027,8.16
+United Kingdom,A_baumannii_COL,2027,4.06
+United Kingdom,A_baumannii_FQ,2027,8.16
+United Kingdom,A_baumannii_TET,2027,4.92
+United States,A_baumannii_3GC,2027,40.53
+United States,A_baumannii_AMG,2027,23.78
+United States,A_baumannii_CARB,2027,38.8
+United States,A_baumannii_COL,2027,4.0
+United States,A_baumannii_FQ,2027,40.13
+United States,A_baumannii_TET,2027,36.22
+Vietnam,A_baumannii_3GC,2027,71.14
+Vietnam,A_baumannii_AMG,2027,71.14
+Vietnam,A_baumannii_CARB,2027,95.58
+Vietnam,A_baumannii_COL,2027,5.01
+Vietnam,A_baumannii_FQ,2027,71.14
+Vietnam,A_baumannii_TET,2027,74.98
+Argentina,A_baumannii_3GC,2028,97.5
+Argentina,A_baumannii_AMG,2028,0.87
+Argentina,A_baumannii_CARB,2028,97.64
+Argentina,A_baumannii_COL,2028,9.76
+Argentina,A_baumannii_FQ,2028,97.64
+Argentina,A_baumannii_TET,2028,84.31
+Australia,A_baumannii_3GC,2028,17.47
+Australia,A_baumannii_AMG,2028,13.77
+Australia,A_baumannii_CARB,2028,0.48
+Australia,A_baumannii_COL,2028,4.91
+Australia,A_baumannii_FQ,2028,17.57
+Australia,A_baumannii_TET,2028,11.07
+Belgium,A_baumannii_3GC,2028,70.19
+Belgium,A_baumannii_AMG,2028,4.48
+Belgium,A_baumannii_CARB,2028,4.29
+Belgium,A_baumannii_COL,2028,13.5
+Belgium,A_baumannii_FQ,2028,84.64
+Belgium,A_baumannii_TET,2028,25.2
+Brazil,A_baumannii_3GC,2028,95.32
+Brazil,A_baumannii_AMG,2028,97.28
+Brazil,A_baumannii_CARB,2028,95.24
+Brazil,A_baumannii_COL,2028,5.05
+Brazil,A_baumannii_FQ,2028,95.32
+Brazil,A_baumannii_TET,2028,96.27
+Chile,A_baumannii_3GC,2028,67.48
+Chile,A_baumannii_AMG,2028,65.03
+Chile,A_baumannii_CARB,2028,25.23
+Chile,A_baumannii_COL,2028,4.91
+Chile,A_baumannii_FQ,2028,61.68
+Chile,A_baumannii_TET,2028,8.75
+Colombia,A_baumannii_3GC,2028,4.27
+Colombia,A_baumannii_AMG,2028,5.0
+Colombia,A_baumannii_CARB,2028,72.52
+Colombia,A_baumannii_COL,2028,5.0
+Colombia,A_baumannii_FQ,2028,5.0
+Colombia,A_baumannii_TET,2028,5.03
+Croatia,A_baumannii_3GC,2028,77.32
+Croatia,A_baumannii_AMG,2028,99.04
+Croatia,A_baumannii_CARB,2028,77.32
+Croatia,A_baumannii_COL,2028,0.04
+Croatia,A_baumannii_FQ,2028,77.32
+Croatia,A_baumannii_TET,2028,99.04
+Czech Republic,A_baumannii_3GC,2028,62.41
+Czech Republic,A_baumannii_AMG,2028,62.18
+Czech Republic,A_baumannii_CARB,2028,63.58
+Czech Republic,A_baumannii_COL,2028,7.77
+Czech Republic,A_baumannii_FQ,2028,62.41
+Czech Republic,A_baumannii_TET,2028,60.79
+France,A_baumannii_3GC,2028,38.29
+France,A_baumannii_AMG,2028,0.12
+France,A_baumannii_CARB,2028,25.07
+France,A_baumannii_COL,2028,4.6
+France,A_baumannii_FQ,2028,41.51
+France,A_baumannii_TET,2028,41.21
+Germany,A_baumannii_3GC,2028,27.12
+Germany,A_baumannii_AMG,2028,18.69
+Germany,A_baumannii_CARB,2028,14.33
+Germany,A_baumannii_COL,2028,8.08
+Germany,A_baumannii_FQ,2028,0.73
+Germany,A_baumannii_TET,2028,1.61
+Greece,A_baumannii_3GC,2028,98.05
+Greece,A_baumannii_AMG,2028,98.05
+Greece,A_baumannii_CARB,2028,98.05
+Greece,A_baumannii_COL,2028,25.99
+Greece,A_baumannii_FQ,2028,98.05
+Greece,A_baumannii_TET,2028,99.02
+Guatemala,A_baumannii_3GC,2028,97.58
+Guatemala,A_baumannii_AMG,2028,96.53
+Guatemala,A_baumannii_CARB,2028,97.58
+Guatemala,A_baumannii_COL,2028,7.76
+Guatemala,A_baumannii_FQ,2028,97.58
+Guatemala,A_baumannii_TET,2028,86.13
+Hungary,A_baumannii_3GC,2028,95.01
+Hungary,A_baumannii_AMG,2028,95.02
+Hungary,A_baumannii_CARB,2028,41.59
+Hungary,A_baumannii_COL,2028,7.79
+Hungary,A_baumannii_FQ,2028,69.38
+Hungary,A_baumannii_TET,2028,88.12
+Israel,A_baumannii_3GC,2028,66.17
+Israel,A_baumannii_AMG,2028,66.43
+Israel,A_baumannii_CARB,2028,68.31
+Israel,A_baumannii_COL,2028,4.95
+Israel,A_baumannii_FQ,2028,66.17
+Israel,A_baumannii_TET,2028,48.26
+Italy,A_baumannii_3GC,2028,84.94
+Italy,A_baumannii_AMG,2028,81.81
+Italy,A_baumannii_CARB,2028,84.94
+Italy,A_baumannii_COL,2028,9.34
+Italy,A_baumannii_FQ,2028,84.94
+Italy,A_baumannii_TET,2028,56.28
+Japan,A_baumannii_3GC,2028,4.34
+Japan,A_baumannii_AMG,2028,4.92
+Japan,A_baumannii_CARB,2028,4.9
+Japan,A_baumannii_COL,2028,4.92
+Japan,A_baumannii_FQ,2028,0.09
+Japan,A_baumannii_TET,2028,0.07
+"Korea, South",A_baumannii_3GC,2028,98.71
+"Korea, South",A_baumannii_AMG,2028,98.72
+"Korea, South",A_baumannii_CARB,2028,98.71
+"Korea, South",A_baumannii_COL,2028,0.0
+"Korea, South",A_baumannii_FQ,2028,98.71
+"Korea, South",A_baumannii_TET,2028,47.66
+Lithuania,A_baumannii_3GC,2028,91.81
+Lithuania,A_baumannii_AMG,2028,91.81
+Lithuania,A_baumannii_CARB,2028,91.81
+Lithuania,A_baumannii_COL,2028,10.11
+Lithuania,A_baumannii_FQ,2028,91.81
+Lithuania,A_baumannii_TET,2028,91.83
+Malaysia,A_baumannii_3GC,2028,84.71
+Malaysia,A_baumannii_AMG,2028,83.07
+Malaysia,A_baumannii_CARB,2028,84.71
+Malaysia,A_baumannii_COL,2028,0.0
+Malaysia,A_baumannii_FQ,2028,79.48
+Malaysia,A_baumannii_TET,2028,67.97
+Mexico,A_baumannii_3GC,2028,94.39
+Mexico,A_baumannii_AMG,2028,48.51
+Mexico,A_baumannii_CARB,2028,94.39
+Mexico,A_baumannii_COL,2028,5.0
+Mexico,A_baumannii_FQ,2028,94.39
+Mexico,A_baumannii_TET,2028,16.08
+Philippines,A_baumannii_3GC,2028,0.35
+Philippines,A_baumannii_AMG,2028,0.34
+Philippines,A_baumannii_CARB,2028,0.39
+Philippines,A_baumannii_COL,2028,7.75
+Philippines,A_baumannii_FQ,2028,50.21
+Philippines,A_baumannii_TET,2028,64.44
+Poland,A_baumannii_3GC,2028,55.9
+Poland,A_baumannii_AMG,2028,56.3
+Poland,A_baumannii_CARB,2028,57.46
+Poland,A_baumannii_COL,2028,0.88
+Poland,A_baumannii_FQ,2028,74.21
+Poland,A_baumannii_TET,2028,56.61
+Portugal,A_baumannii_3GC,2028,0.5
+Portugal,A_baumannii_AMG,2028,0.02
+Portugal,A_baumannii_CARB,2028,0.7
+Portugal,A_baumannii_COL,2028,5.04
+Portugal,A_baumannii_FQ,2028,0.69
+Portugal,A_baumannii_TET,2028,0.03
+Romania,A_baumannii_3GC,2028,92.02
+Romania,A_baumannii_AMG,2028,80.57
+Romania,A_baumannii_CARB,2028,92.02
+Romania,A_baumannii_COL,2028,7.78
+Romania,A_baumannii_FQ,2028,92.02
+Romania,A_baumannii_TET,2028,42.7
+Russia,A_baumannii_3GC,2028,98.04
+Russia,A_baumannii_AMG,2028,97.32
+Russia,A_baumannii_CARB,2028,98.09
+Russia,A_baumannii_COL,2028,0.0
+Russia,A_baumannii_FQ,2028,98.04
+Russia,A_baumannii_TET,2028,77.06
+Spain,A_baumannii_3GC,2028,5.22
+Spain,A_baumannii_AMG,2028,0.02
+Spain,A_baumannii_CARB,2028,4.52
+Spain,A_baumannii_COL,2028,5.02
+Spain,A_baumannii_FQ,2028,8.1
+Spain,A_baumannii_TET,2028,4.18
+Taiwan,A_baumannii_3GC,2028,0.86
+Taiwan,A_baumannii_AMG,2028,3.28
+Taiwan,A_baumannii_CARB,2028,22.22
+Taiwan,A_baumannii_COL,2028,0.0
+Taiwan,A_baumannii_FQ,2028,0.86
+Taiwan,A_baumannii_TET,2028,0.02
+Thailand,A_baumannii_3GC,2028,97.17
+Thailand,A_baumannii_AMG,2028,89.54
+Thailand,A_baumannii_CARB,2028,97.17
+Thailand,A_baumannii_COL,2028,7.5
+Thailand,A_baumannii_FQ,2028,97.18
+Thailand,A_baumannii_TET,2028,70.37
+Turkey,A_baumannii_3GC,2028,90.26
+Turkey,A_baumannii_AMG,2028,91.21
+Turkey,A_baumannii_CARB,2028,91.74
+Turkey,A_baumannii_COL,2028,9.86
+Turkey,A_baumannii_FQ,2028,91.74
+Turkey,A_baumannii_TET,2028,92.88
+Ukraine,A_baumannii_3GC,2028,62.05
+Ukraine,A_baumannii_AMG,2028,81.41
+Ukraine,A_baumannii_CARB,2028,82.34
+Ukraine,A_baumannii_COL,2028,0.05
+Ukraine,A_baumannii_FQ,2028,62.05
+Ukraine,A_baumannii_TET,2028,73.32
+United Kingdom,A_baumannii_3GC,2028,11.12
+United Kingdom,A_baumannii_AMG,2028,11.06
+United Kingdom,A_baumannii_CARB,2028,11.12
+United Kingdom,A_baumannii_COL,2028,4.64
+United Kingdom,A_baumannii_FQ,2028,11.12
+United Kingdom,A_baumannii_TET,2028,4.92
+United States,A_baumannii_3GC,2028,40.65
+United States,A_baumannii_AMG,2028,25.54
+United States,A_baumannii_CARB,2028,38.75
+United States,A_baumannii_COL,2028,4.48
+United States,A_baumannii_FQ,2028,40.42
+United States,A_baumannii_TET,2028,36.97
+Vietnam,A_baumannii_3GC,2028,79.4
+Vietnam,A_baumannii_AMG,2028,79.4
+Vietnam,A_baumannii_CARB,2028,96.51
+Vietnam,A_baumannii_COL,2028,7.78
+Vietnam,A_baumannii_FQ,2028,79.4
+Vietnam,A_baumannii_TET,2028,87.75
+Argentina,A_baumannii_3GC,2029,97.63
+Argentina,A_baumannii_AMG,2029,0.54
+Argentina,A_baumannii_CARB,2029,97.65
+Argentina,A_baumannii_COL,2029,7.84
+Argentina,A_baumannii_FQ,2029,97.65
+Argentina,A_baumannii_TET,2029,92.61
+Australia,A_baumannii_3GC,2029,17.29
+Australia,A_baumannii_AMG,2029,14.13
+Australia,A_baumannii_CARB,2029,0.46
+Australia,A_baumannii_COL,2029,7.32
+Australia,A_baumannii_FQ,2029,17.55
+Australia,A_baumannii_TET,2029,11.11
+Belgium,A_baumannii_3GC,2029,73.97
+Belgium,A_baumannii_AMG,2029,1.48
+Belgium,A_baumannii_CARB,2029,1.37
+Belgium,A_baumannii_COL,2029,13.18
+Belgium,A_baumannii_FQ,2029,93.49
+Belgium,A_baumannii_TET,2029,26.14
+Brazil,A_baumannii_3GC,2029,96.28
+Brazil,A_baumannii_AMG,2029,97.28
+Brazil,A_baumannii_CARB,2029,96.28
+Brazil,A_baumannii_COL,2029,4.34
+Brazil,A_baumannii_FQ,2029,96.28
+Brazil,A_baumannii_TET,2029,97.03
+Chile,A_baumannii_3GC,2029,66.75
+Chile,A_baumannii_AMG,2029,67.14
+Chile,A_baumannii_CARB,2029,25.78
+Chile,A_baumannii_COL,2029,7.35
+Chile,A_baumannii_FQ,2029,63.39
+Chile,A_baumannii_TET,2029,6.74
+Colombia,A_baumannii_3GC,2029,1.23
+Colombia,A_baumannii_AMG,2029,6.71
+Colombia,A_baumannii_CARB,2029,78.03
+Colombia,A_baumannii_COL,2029,6.71
+Colombia,A_baumannii_FQ,2029,6.71
+Colombia,A_baumannii_TET,2029,4.27
+Croatia,A_baumannii_3GC,2029,90.23
+Croatia,A_baumannii_AMG,2029,98.88
+Croatia,A_baumannii_CARB,2029,90.23
+Croatia,A_baumannii_COL,2029,0.84
+Croatia,A_baumannii_FQ,2029,90.23
+Croatia,A_baumannii_TET,2029,98.88
+Czech Republic,A_baumannii_3GC,2029,69.62
+Czech Republic,A_baumannii_AMG,2029,69.15
+Czech Republic,A_baumannii_CARB,2029,69.98
+Czech Republic,A_baumannii_COL,2029,9.9
+Czech Republic,A_baumannii_FQ,2029,69.62
+Czech Republic,A_baumannii_TET,2029,68.03
+France,A_baumannii_3GC,2029,39.15
+France,A_baumannii_AMG,2029,0.09
+France,A_baumannii_CARB,2029,25.09
+France,A_baumannii_COL,2029,4.7
+France,A_baumannii_FQ,2029,41.64
+France,A_baumannii_TET,2029,41.43
+Germany,A_baumannii_3GC,2029,26.07
+Germany,A_baumannii_AMG,2029,17.41
+Germany,A_baumannii_CARB,2029,12.37
+Germany,A_baumannii_COL,2029,10.86
+Germany,A_baumannii_FQ,2029,0.65
+Germany,A_baumannii_TET,2029,1.17
+Greece,A_baumannii_3GC,2029,99.14
+Greece,A_baumannii_AMG,2029,99.14
+Greece,A_baumannii_CARB,2029,99.14
+Greece,A_baumannii_COL,2029,24.77
+Greece,A_baumannii_FQ,2029,99.14
+Greece,A_baumannii_TET,2029,99.02
+Guatemala,A_baumannii_3GC,2029,97.58
+Guatemala,A_baumannii_AMG,2029,97.57
+Guatemala,A_baumannii_CARB,2029,97.58
+Guatemala,A_baumannii_COL,2029,9.93
+Guatemala,A_baumannii_FQ,2029,97.58
+Guatemala,A_baumannii_TET,2029,93.32
+Hungary,A_baumannii_3GC,2029,95.05
+Hungary,A_baumannii_AMG,2029,95.05
+Hungary,A_baumannii_CARB,2029,43.1
+Hungary,A_baumannii_COL,2029,9.88
+Hungary,A_baumannii_FQ,2029,72.14
+Hungary,A_baumannii_TET,2029,91.54
+Israel,A_baumannii_3GC,2029,66.33
+Israel,A_baumannii_AMG,2029,65.11
+Israel,A_baumannii_CARB,2029,66.92
+Israel,A_baumannii_COL,2029,7.36
+Israel,A_baumannii_FQ,2029,66.33
+Israel,A_baumannii_TET,2029,48.43
+Italy,A_baumannii_3GC,2029,84.94
+Italy,A_baumannii_AMG,2029,82.98
+Italy,A_baumannii_CARB,2029,84.94
+Italy,A_baumannii_COL,2029,7.02
+Italy,A_baumannii_FQ,2029,84.94
+Italy,A_baumannii_TET,2029,55.94
+Japan,A_baumannii_3GC,2029,1.34
+Japan,A_baumannii_AMG,2029,6.1
+Japan,A_baumannii_CARB,2029,7.3
+Japan,A_baumannii_COL,2029,6.1
+Japan,A_baumannii_FQ,2029,0.8
+Japan,A_baumannii_TET,2029,0.07
+"Korea, South",A_baumannii_3GC,2029,98.71
+"Korea, South",A_baumannii_AMG,2029,98.71
+"Korea, South",A_baumannii_CARB,2029,98.71
+"Korea, South",A_baumannii_COL,2029,0.0
+"Korea, South",A_baumannii_FQ,2029,98.71
+"Korea, South",A_baumannii_TET,2029,47.68
+Lithuania,A_baumannii_3GC,2029,92.63
+Lithuania,A_baumannii_AMG,2029,92.63
+Lithuania,A_baumannii_CARB,2029,92.63
+Lithuania,A_baumannii_COL,2029,10.95
+Lithuania,A_baumannii_FQ,2029,92.63
+Lithuania,A_baumannii_TET,2029,92.63
+Malaysia,A_baumannii_3GC,2029,84.98
+Malaysia,A_baumannii_AMG,2029,84.5
+Malaysia,A_baumannii_CARB,2029,84.98
+Malaysia,A_baumannii_COL,2029,0.0
+Malaysia,A_baumannii_FQ,2029,83.45
+Malaysia,A_baumannii_TET,2029,70.91
+Mexico,A_baumannii_3GC,2029,96.83
+Mexico,A_baumannii_AMG,2029,53.47
+Mexico,A_baumannii_CARB,2029,96.83
+Mexico,A_baumannii_COL,2029,7.35
+Mexico,A_baumannii_FQ,2029,96.83
+Mexico,A_baumannii_TET,2029,13.01
+Philippines,A_baumannii_3GC,2029,0.02
+Philippines,A_baumannii_AMG,2029,0.02
+Philippines,A_baumannii_CARB,2029,0.08
+Philippines,A_baumannii_COL,2029,9.92
+Philippines,A_baumannii_FQ,2029,50.43
+Philippines,A_baumannii_TET,2029,69.54
+Poland,A_baumannii_3GC,2029,53.81
+Poland,A_baumannii_AMG,2029,53.86
+Poland,A_baumannii_CARB,2029,54.39
+Poland,A_baumannii_COL,2029,0.51
+Poland,A_baumannii_FQ,2029,74.11
+Poland,A_baumannii_TET,2029,54.14
+Portugal,A_baumannii_3GC,2029,0.37
+Portugal,A_baumannii_AMG,2029,0.01
+Portugal,A_baumannii_CARB,2029,0.4
+Portugal,A_baumannii_COL,2029,4.32
+Portugal,A_baumannii_FQ,2029,0.4
+Portugal,A_baumannii_TET,2029,0.02
+Romania,A_baumannii_3GC,2029,93.74
+Romania,A_baumannii_AMG,2029,89.12
+Romania,A_baumannii_CARB,2029,93.74
+Romania,A_baumannii_COL,2029,9.88
+Romania,A_baumannii_FQ,2029,93.74
+Romania,A_baumannii_TET,2029,49.33
+Russia,A_baumannii_3GC,2029,98.04
+Russia,A_baumannii_AMG,2029,98.08
+Russia,A_baumannii_CARB,2029,98.1
+Russia,A_baumannii_COL,2029,0.0
+Russia,A_baumannii_FQ,2029,98.04
+Russia,A_baumannii_TET,2029,88.53
+Spain,A_baumannii_3GC,2029,1.86
+Spain,A_baumannii_AMG,2029,0.01
+Spain,A_baumannii_CARB,2029,1.45
+Spain,A_baumannii_COL,2029,4.37
+Spain,A_baumannii_FQ,2029,3.36
+Spain,A_baumannii_TET,2029,1.37
+Taiwan,A_baumannii_3GC,2029,0.4
+Taiwan,A_baumannii_AMG,2029,0.78
+Taiwan,A_baumannii_CARB,2029,22.67
+Taiwan,A_baumannii_COL,2029,0.0
+Taiwan,A_baumannii_FQ,2029,0.4
+Taiwan,A_baumannii_TET,2029,0.01
+Thailand,A_baumannii_3GC,2029,97.17
+Thailand,A_baumannii_AMG,2029,94.39
+Thailand,A_baumannii_CARB,2029,97.17
+Thailand,A_baumannii_COL,2029,9.89
+Thailand,A_baumannii_FQ,2029,97.17
+Thailand,A_baumannii_TET,2029,77.65
+Turkey,A_baumannii_3GC,2029,91.79
+Turkey,A_baumannii_AMG,2029,92.13
+Turkey,A_baumannii_CARB,2029,92.2
+Turkey,A_baumannii_COL,2029,11.12
+Turkey,A_baumannii_FQ,2029,92.2
+Turkey,A_baumannii_TET,2029,92.99
+Ukraine,A_baumannii_3GC,2029,66.19
+Ukraine,A_baumannii_AMG,2029,81.85
+Ukraine,A_baumannii_CARB,2029,82.72
+Ukraine,A_baumannii_COL,2029,0.04
+Ukraine,A_baumannii_FQ,2029,66.19
+Ukraine,A_baumannii_TET,2029,76.97
+United Kingdom,A_baumannii_3GC,2029,13.1
+United Kingdom,A_baumannii_AMG,2029,12.92
+United Kingdom,A_baumannii_CARB,2029,13.1
+United Kingdom,A_baumannii_COL,2029,4.97
+United Kingdom,A_baumannii_FQ,2029,13.1
+United Kingdom,A_baumannii_TET,2029,4.39
+United States,A_baumannii_3GC,2029,40.66
+United States,A_baumannii_AMG,2029,27.0
+United States,A_baumannii_CARB,2029,38.81
+United States,A_baumannii_COL,2029,4.65
+United States,A_baumannii_FQ,2029,40.62
+United States,A_baumannii_TET,2029,37.25
+Vietnam,A_baumannii_3GC,2029,91.45
+Vietnam,A_baumannii_AMG,2029,91.45
+Vietnam,A_baumannii_CARB,2029,97.36
+Vietnam,A_baumannii_COL,2029,9.95
+Vietnam,A_baumannii_FQ,2029,91.45
+Vietnam,A_baumannii_TET,2029,94.03
+Argentina,A_baumannii_3GC,2030,97.65
+Argentina,A_baumannii_AMG,2030,0.16
+Argentina,A_baumannii_CARB,2030,97.65
+Argentina,A_baumannii_COL,2030,5.36
+Argentina,A_baumannii_FQ,2030,97.65
+Argentina,A_baumannii_TET,2030,95.83
+Australia,A_baumannii_3GC,2030,16.14
+Australia,A_baumannii_AMG,2030,13.19
+Australia,A_baumannii_CARB,2030,0.46
+Australia,A_baumannii_COL,2030,9.68
+Australia,A_baumannii_FQ,2030,16.21
+Australia,A_baumannii_TET,2030,9.88
+Belgium,A_baumannii_3GC,2030,84.27
+Belgium,A_baumannii_AMG,2030,0.41
+Belgium,A_baumannii_CARB,2030,0.4
+Belgium,A_baumannii_COL,2030,11.65
+Belgium,A_baumannii_FQ,2030,97.46
+Belgium,A_baumannii_TET,2030,26.38
+Brazil,A_baumannii_3GC,2030,97.03
+Brazil,A_baumannii_AMG,2030,97.28
+Brazil,A_baumannii_CARB,2030,97.03
+Brazil,A_baumannii_COL,2030,1.39
+Brazil,A_baumannii_FQ,2030,97.03
+Brazil,A_baumannii_TET,2030,97.29
+Chile,A_baumannii_3GC,2030,66.04
+Chile,A_baumannii_AMG,2030,66.57
+Chile,A_baumannii_CARB,2030,25.94
+Chile,A_baumannii_COL,2030,9.64
+Chile,A_baumannii_FQ,2030,64.69
+Chile,A_baumannii_TET,2030,4.21
+Colombia,A_baumannii_3GC,2030,0.28
+Colombia,A_baumannii_AMG,2030,9.3
+Colombia,A_baumannii_CARB,2030,89.65
+Colombia,A_baumannii_COL,2030,9.3
+Colombia,A_baumannii_FQ,2030,9.3
+Colombia,A_baumannii_TET,2030,1.23
+Croatia,A_baumannii_3GC,2030,95.65
+Croatia,A_baumannii_AMG,2030,97.08
+Croatia,A_baumannii_CARB,2030,95.65
+Croatia,A_baumannii_COL,2030,3.58
+Croatia,A_baumannii_FQ,2030,95.65
+Croatia,A_baumannii_TET,2030,97.08
+Czech Republic,A_baumannii_3GC,2030,74.02
+Czech Republic,A_baumannii_AMG,2030,73.66
+Czech Republic,A_baumannii_CARB,2030,73.92
+Czech Republic,A_baumannii_COL,2030,10.96
+Czech Republic,A_baumannii_FQ,2030,74.02
+Czech Republic,A_baumannii_TET,2030,72.56
+France,A_baumannii_3GC,2030,40.35
+France,A_baumannii_AMG,2030,0.08
+France,A_baumannii_CARB,2030,24.96
+France,A_baumannii_COL,2030,1.98
+France,A_baumannii_FQ,2030,41.61
+France,A_baumannii_TET,2030,41.51
+Germany,A_baumannii_3GC,2030,25.06
+Germany,A_baumannii_AMG,2030,15.53
+Germany,A_baumannii_CARB,2030,10.9
+Germany,A_baumannii_COL,2030,12.3
+Germany,A_baumannii_FQ,2030,0.63
+Germany,A_baumannii_TET,2030,0.8
+Greece,A_baumannii_3GC,2030,99.02
+Greece,A_baumannii_AMG,2030,99.02
+Greece,A_baumannii_CARB,2030,99.02
+Greece,A_baumannii_COL,2030,23.86
+Greece,A_baumannii_FQ,2030,99.02
+Greece,A_baumannii_TET,2030,99.02
+Guatemala,A_baumannii_3GC,2030,97.58
+Guatemala,A_baumannii_AMG,2030,97.55
+Guatemala,A_baumannii_CARB,2030,97.58
+Guatemala,A_baumannii_COL,2030,11.07
+Guatemala,A_baumannii_FQ,2030,97.58
+Guatemala,A_baumannii_TET,2030,96.05
+Hungary,A_baumannii_3GC,2030,95.01
+Hungary,A_baumannii_AMG,2030,95.01
+Hungary,A_baumannii_CARB,2030,43.06
+Hungary,A_baumannii_COL,2030,10.97
+Hungary,A_baumannii_FQ,2030,75.4
+Hungary,A_baumannii_TET,2030,92.51
+Israel,A_baumannii_3GC,2030,66.7
+Israel,A_baumannii_AMG,2030,63.96
+Israel,A_baumannii_CARB,2030,65.42
+Israel,A_baumannii_COL,2030,9.7
+Israel,A_baumannii_FQ,2030,66.7
+Israel,A_baumannii_TET,2030,48.48
+Italy,A_baumannii_3GC,2030,84.92
+Italy,A_baumannii_AMG,2030,84.59
+Italy,A_baumannii_CARB,2030,84.92
+Italy,A_baumannii_COL,2030,4.3
+Italy,A_baumannii_FQ,2030,84.92
+Italy,A_baumannii_TET,2030,58.34
+Japan,A_baumannii_3GC,2030,0.39
+Japan,A_baumannii_AMG,2030,8.76
+Japan,A_baumannii_CARB,2030,9.66
+Japan,A_baumannii_COL,2030,8.76
+Japan,A_baumannii_FQ,2030,3.3
+Japan,A_baumannii_TET,2030,0.07
+"Korea, South",A_baumannii_3GC,2030,98.71
+"Korea, South",A_baumannii_AMG,2030,98.71
+"Korea, South",A_baumannii_CARB,2030,98.71
+"Korea, South",A_baumannii_COL,2030,0.0
+"Korea, South",A_baumannii_FQ,2030,98.71
+"Korea, South",A_baumannii_TET,2030,48.11
+Lithuania,A_baumannii_3GC,2030,93.95
+Lithuania,A_baumannii_AMG,2030,93.95
+Lithuania,A_baumannii_CARB,2030,93.95
+Lithuania,A_baumannii_COL,2030,10.76
+Lithuania,A_baumannii_FQ,2030,93.95
+Lithuania,A_baumannii_TET,2030,93.95
+Malaysia,A_baumannii_3GC,2030,84.98
+Malaysia,A_baumannii_AMG,2030,84.87
+Malaysia,A_baumannii_CARB,2030,84.98
+Malaysia,A_baumannii_COL,2030,0.0
+Malaysia,A_baumannii_FQ,2030,84.73
+Malaysia,A_baumannii_TET,2030,71.23
+Mexico,A_baumannii_3GC,2030,97.7
+Mexico,A_baumannii_AMG,2030,60.95
+Mexico,A_baumannii_CARB,2030,97.7
+Mexico,A_baumannii_COL,2030,9.6
+Mexico,A_baumannii_FQ,2030,97.7
+Mexico,A_baumannii_TET,2030,9.24
+Philippines,A_baumannii_3GC,2030,0.01
+Philippines,A_baumannii_AMG,2030,0.01
+Philippines,A_baumannii_CARB,2030,0.01
+Philippines,A_baumannii_COL,2030,11.06
+Philippines,A_baumannii_FQ,2030,50.41
+Philippines,A_baumannii_TET,2030,73.88
+Poland,A_baumannii_3GC,2030,52.88
+Poland,A_baumannii_AMG,2030,52.84
+Poland,A_baumannii_CARB,2030,53.26
+Poland,A_baumannii_COL,2030,0.19
+Poland,A_baumannii_FQ,2030,74.16
+Poland,A_baumannii_TET,2030,53.31
+Portugal,A_baumannii_3GC,2030,0.01
+Portugal,A_baumannii_AMG,2030,0.01
+Portugal,A_baumannii_CARB,2030,0.08
+Portugal,A_baumannii_COL,2030,1.28
+Portugal,A_baumannii_FQ,2030,0.08
+Portugal,A_baumannii_TET,2030,0.01
+Romania,A_baumannii_3GC,2030,94.96
+Romania,A_baumannii_AMG,2030,91.79
+Romania,A_baumannii_CARB,2030,94.96
+Romania,A_baumannii_COL,2030,10.95
+Romania,A_baumannii_FQ,2030,94.96
+Romania,A_baumannii_TET,2030,55.12
+Russia,A_baumannii_3GC,2030,98.04
+Russia,A_baumannii_AMG,2030,98.1
+Russia,A_baumannii_CARB,2030,98.1
+Russia,A_baumannii_COL,2030,0.0
+Russia,A_baumannii_FQ,2030,98.04
+Russia,A_baumannii_TET,2030,93.13
+Spain,A_baumannii_3GC,2030,0.62
+Spain,A_baumannii_AMG,2030,0.0
+Spain,A_baumannii_CARB,2030,0.39
+Spain,A_baumannii_COL,2030,1.4
+Spain,A_baumannii_FQ,2030,0.82
+Spain,A_baumannii_TET,2030,0.43
+Taiwan,A_baumannii_3GC,2030,0.08
+Taiwan,A_baumannii_AMG,2030,0.37
+Taiwan,A_baumannii_CARB,2030,23.26
+Taiwan,A_baumannii_COL,2030,0.0
+Taiwan,A_baumannii_FQ,2030,0.08
+Taiwan,A_baumannii_TET,2030,0.0
+Thailand,A_baumannii_3GC,2030,97.17
+Thailand,A_baumannii_AMG,2030,96.25
+Thailand,A_baumannii_CARB,2030,97.17
+Thailand,A_baumannii_COL,2030,11.07
+Thailand,A_baumannii_FQ,2030,97.17
+Thailand,A_baumannii_TET,2030,89.93
+Turkey,A_baumannii_3GC,2030,92.23
+Turkey,A_baumannii_AMG,2030,92.62
+Turkey,A_baumannii_CARB,2030,92.79
+Turkey,A_baumannii_COL,2030,11.14
+Turkey,A_baumannii_FQ,2030,92.79
+Turkey,A_baumannii_TET,2030,92.96
+Ukraine,A_baumannii_3GC,2030,69.59
+Ukraine,A_baumannii_AMG,2030,82.33
+Ukraine,A_baumannii_CARB,2030,82.56
+Ukraine,A_baumannii_COL,2030,0.03
+Ukraine,A_baumannii_FQ,2030,69.59
+Ukraine,A_baumannii_TET,2030,79.28
+United Kingdom,A_baumannii_3GC,2030,15.26
+United Kingdom,A_baumannii_AMG,2030,15.0
+United Kingdom,A_baumannii_CARB,2030,15.26
+United Kingdom,A_baumannii_COL,2030,4.92
+United Kingdom,A_baumannii_FQ,2030,15.26
+United Kingdom,A_baumannii_TET,2030,1.86
+United States,A_baumannii_3GC,2030,40.66
+United States,A_baumannii_AMG,2030,27.44
+United States,A_baumannii_CARB,2030,38.83
+United States,A_baumannii_COL,2030,2.31
+United States,A_baumannii_FQ,2030,40.66
+United States,A_baumannii_TET,2030,37.42
+Vietnam,A_baumannii_3GC,2030,94.75
+Vietnam,A_baumannii_AMG,2030,94.75
+Vietnam,A_baumannii_CARB,2030,97.38
+Vietnam,A_baumannii_COL,2030,11.02
+Vietnam,A_baumannii_FQ,2030,94.75
+Vietnam,A_baumannii_TET,2030,96.46

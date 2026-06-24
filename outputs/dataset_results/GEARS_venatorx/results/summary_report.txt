@@ -1,0 +1,132 @@
+AMR Temporal Forecasting Challenge -- Summary Report
+Vivli AMR Surveillance Data Challenge 2026
+==============================================================
+
+DATA MODE : REAL FILES
+  Source files (1):
+    * test_data\GEARS\Venatorx_surveillance_data_2024_06_06.csv
+  Conflict strategy : mean
+
+METHODOLOGY
+----------------------------------------
+Primary model  : Random Forest (n=300, max_depth=10)
+Baseline model : Ridge Regression (alpha=1.0, standardised)
+Validation     : xgboost Quantile Regression (90% CI)
+CV strategy    : TimeSeriesSplit (5 folds, no look-ahead)
+
+MODEL PERFORMANCE
+----------------------------------------
+RF CV-MAE              : 1.194% +/- 1.085%
+Reference benchmark    : 1.61% +/- 0.64%
+
+FEATURE GROUP IMPORTANCES (RF)
+----------------------------------------
+  Temporal autocorrelation : 99.7%
+  Antibiotic consumption   : 0.1%
+  Socioeconomic factors    : 0.2%
+
+TOP 8 FEATURES
+----------------------------------------
+  delta_resistance                     0.6340
+  lag1_resistance                      0.2615
+  rolling3_mean_resistance             0.0666
+  lag2_resistance                      0.0182
+  lag3_resistance                      0.0165
+  lag1_total_DDD                       0.0007
+  water_access                         0.0003
+  gini                                 0.0003
+
+KEY CORRELATIONS
+----------------------------------------
+  SES-RS vs resistance (Pearson r) : 0.533  (p=0.0000)
+  log-GDP vs resistance (Pearson r): -0.612  (p=0.0000)
+
+MOST PROTECTIVE FACTORS (negative Ridge coefficients)
+----------------------------------------
+  lag3_resistance                      -0.0531
+  lag2_resistance                      -0.0419
+  lag1_watch_proportion                -0.0009
+  lag1_total_DDD                       -0.0006
+  water_access                         -0.0002
+
+2030 COUNTRY RISK TIERS
+----------------------------------------
+  Country                    Score   Tier        Region
+  --------------------------------------------------------------
+  Brazil                     43.1%   Medium      Latin America
+  Thailand                   42.5%   Medium      Unknown
+  Russia                     38.7%   Medium      Unknown
+  Taiwan                     36.1%   Medium      Unknown
+  South Africa               35.6%   Medium      Sub-Saharan Africa
+  Latvia                     34.9%   Medium      Unknown
+  Nigeria                    33.4%   Medium      Sub-Saharan Africa
+  Romania                    29.1%   Medium      Unknown
+  Morocco                    27.5%   Medium      Unknown
+  Turkey                     27.3%   Medium      Unknown
+  Puerto Rico                27.3%   Medium      Unknown
+  Hungary                    27.0%   Medium      Unknown
+  Argentina                  26.6%   Medium      Unknown
+  Singapore                  26.3%   Medium      Unknown
+  Ecuador                    25.6%   Medium      Unknown
+  Mexico                     25.6%   Medium      Latin America
+  Chile                      25.6%   Medium      Unknown
+  Malaysia                   25.0%   Low         Unknown
+  Philippines                24.3%   Low         Unknown
+  Venezuela                  23.8%   Low         Unknown
+  Canada                     22.9%   Low         Unknown
+  Cameroon                   22.8%   Low         Unknown
+  India                      22.5%   Low         South/SE Asia
+  Israel                     22.4%   Low         Unknown
+  Lithuania                  22.3%   Low         Unknown
+  Colombia                   21.9%   Low         Unknown
+  Greece                     21.4%   Low         Unknown
+  Guatemala                  20.3%   Low         Unknown
+  United States              19.8%   Low         North America
+  Korea, South               19.7%   Low         Unknown
+  Vietnam                    18.2%   Low         Unknown
+  Croatia                    17.0%   Low         Unknown
+  Panama                     16.9%   Low         Unknown
+  Ukraine                    16.5%   Low         Unknown
+  Saudi Arabia               15.9%   Low         Unknown
+  Dominican Republic         15.8%   Low         Unknown
+  Costa Rica                 15.1%   Low         Unknown
+  France                     14.6%   Low         Western Europe
+  Italy                      14.1%   Low         Unknown
+  Germany                    13.9%   Low         Western Europe
+  Slovenia                   13.0%   Low         Unknown
+  Hong Kong                  12.8%   Low         Unknown
+  Japan                      12.6%   Low         Unknown
+  Ireland                    12.6%   Low         Unknown
+  Czech Republic             12.5%   Low         Unknown
+  Australia                  11.8%   Low         Unknown
+  United Kingdom             11.7%   Low         Western Europe
+  Portugal                   10.7%   Low         Unknown
+  Spain                      10.5%   Low         Unknown
+  Netherlands                10.3%   Low         Unknown
+  New Zealand                10.1%   Low         Unknown
+  Qatar                       9.7%   Low         Unknown
+  Switzerland                 9.3%   Low         Unknown
+  Poland                      9.1%   Low         Unknown
+  Belgium                     9.1%   Low         Unknown
+  Sweden                      8.4%   Low         Unknown
+  Kuwait                      7.0%   Low         Unknown
+  Denmark                     5.5%   Low         Unknown
+  Finland                     3.1%   Low         Unknown
+
+POLICY INTERVENTIONS (top priority per high-risk country)
+----------------------------------------
+
+==============================================================
+Pipeline runtime: 492.1s
+
+OUTPUT FILES
+----------------------------------------
+  outputs\results/panel_raw.csv
+  outputs\results/panel_features.csv
+  outputs\results/rf_forecasts_2024_2030.csv
+  outputs\results/gbm_forecasts.csv
+  outputs\results/gbm_feature_importances.csv
+  outputs\results/country_risk_tiers_2030.csv
+  outputs\results/feature_importances.csv
+  outputs\results/ridge_coefficients.csv
+  outputs\results/antibiotic_pressure_index.csv
