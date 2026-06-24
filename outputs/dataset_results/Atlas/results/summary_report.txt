@@ -1,0 +1,166 @@
+AMR Temporal Forecasting Challenge -- Summary Report
+Vivli AMR Surveillance Data Challenge 2026
+==============================================================
+
+DATA MODE : REAL FILES
+  Source files (1):
+    * test_data\ATLAS\atlas_vivli_2004_2024.csv
+  Conflict strategy : mean
+
+METHODOLOGY
+----------------------------------------
+Primary model  : Random Forest (n=300, max_depth=10)
+Baseline model : Ridge Regression (alpha=1.0, standardised)
+Validation     : xgboost Quantile Regression (90% CI)
+CV strategy    : TimeSeriesSplit (5 folds, no look-ahead)
+
+MODEL PERFORMANCE
+----------------------------------------
+RF CV-MAE              : 0.271% +/- 0.046%
+Reference benchmark    : 1.61% +/- 0.64%
+
+FEATURE GROUP IMPORTANCES (RF)
+----------------------------------------
+  Temporal autocorrelation : 100.0%
+  Antibiotic consumption   : 0.0%
+  Socioeconomic factors    : 0.0%
+
+TOP 8 FEATURES
+----------------------------------------
+  rolling3_mean_resistance             0.7062
+  delta_resistance                     0.2015
+  lag1_resistance                      0.0921
+  lag2_resistance                      0.0000
+  lag1_watch_proportion                0.0000
+  lag3_resistance                      0.0000
+  gini                                 0.0000
+  gdp_per_capita                       0.0000
+
+KEY CORRELATIONS
+----------------------------------------
+  SES-RS vs resistance (Pearson r) : 0.538  (p=0.0000)
+  log-GDP vs resistance (Pearson r): -0.616  (p=0.0000)
+
+MOST PROTECTIVE FACTORS (negative Ridge coefficients)
+----------------------------------------
+  lag3_resistance                      -0.0206
+  lag2_resistance                      -0.0161
+  antibiotic_pressure_index            -0.0000
+  water_access                         -0.0000
+  urbanisation                         -0.0000
+
+2030 COUNTRY RISK TIERS
+----------------------------------------
+  Country                    Score   Tier        Region
+  --------------------------------------------------------------
+  Indonesia                  65.4%   Critical    South/SE Asia
+  Egypt                      48.1%   High        Unknown
+  Estonia                    44.2%   Medium      Unknown
+  Ghana                      43.5%   Medium      Unknown
+  Honduras                   43.4%   Medium      Unknown
+  Tunisia                    42.6%   Medium      Unknown
+  Serbia                     39.6%   Medium      Unknown
+  Malawi                     38.5%   Medium      Unknown
+  Slovak Republic            37.5%   Medium      Unknown
+  India                      37.2%   Medium      South/SE Asia
+  Mauritius                  36.8%   Medium      Unknown
+  Turkey                     35.9%   Medium      Unknown
+  Puerto Rico                35.5%   Medium      Unknown
+  Ukraine                    34.8%   Medium      Unknown
+  Vietnam                    34.3%   Medium      Unknown
+  Guatemala                  33.7%   Medium      Unknown
+  Pakistan                   33.5%   Medium      Unknown
+  Romania                    32.7%   Medium      Unknown
+  Latvia                     31.8%   Medium      Unknown
+  Qatar                      31.7%   Medium      Unknown
+  Greece                     30.9%   Medium      Unknown
+  Morocco                    30.7%   Medium      Unknown
+  Nigeria                    30.4%   Medium      Sub-Saharan Africa
+  Ivory Coast                29.3%   Medium      Unknown
+  Jordan                     29.2%   Medium      Unknown
+  Brazil                     29.1%   Medium      Latin America
+  El Salvador                29.0%   Medium      Unknown
+  Poland                     28.8%   Medium      Unknown
+  Panama                     28.7%   Medium      Unknown
+  Jamaica                    28.6%   Medium      Unknown
+  Kenya                      28.3%   Medium      Sub-Saharan Africa
+  Taiwan                     28.1%   Medium      Unknown
+  Namibia                    27.7%   Medium      Unknown
+  Nicaragua                  27.7%   Medium      Unknown
+  Argentina                  27.2%   Medium      Unknown
+  South Africa               27.1%   Medium      Sub-Saharan Africa
+  Bulgaria                   26.9%   Medium      Unknown
+  Croatia                    26.4%   Medium      Unknown
+  Philippines                26.4%   Medium      Unknown
+  Venezuela                  25.8%   Medium      Unknown
+  Cameroon                   25.5%   Medium      Unknown
+  Saudi Arabia               24.6%   Low         Unknown
+  Mexico                     24.4%   Low         Latin America
+  Uganda                     24.3%   Low         Unknown
+  Dominican Republic         24.3%   Low         Unknown
+  Colombia                   24.0%   Low         Unknown
+  Chile                      23.9%   Low         Unknown
+  Lithuania                  23.7%   Low         Unknown
+  Korea, South               23.6%   Low         Unknown
+  Italy                      23.5%   Low         Unknown
+  China                      23.5%   Low         East Asia
+  Oman                       23.4%   Low         Unknown
+  Slovenia                   23.2%   Low         Unknown
+  Malaysia                   22.9%   Low         Unknown
+  Canada                     22.7%   Low         Unknown
+  Russia                     22.6%   Low         Unknown
+  Singapore                  22.5%   Low         Unknown
+  Portugal                   22.5%   Low         Unknown
+  Lebanon                    22.5%   Low         Unknown
+  Kuwait                     22.4%   Low         Unknown
+  Japan                      21.9%   Low         Unknown
+  Israel                     21.2%   Low         Unknown
+  Hong Kong                  21.0%   Low         Unknown
+  Costa Rica                 20.8%   Low         Unknown
+  Spain                      20.6%   Low         Unknown
+  Ireland                    19.9%   Low         Unknown
+  Thailand                   19.7%   Low         Unknown
+  United States              19.3%   Low         North America
+  Netherlands                18.8%   Low         Unknown
+  Australia                  18.6%   Low         Unknown
+  Denmark                    18.6%   Low         Unknown
+  Finland                    18.6%   Low         Unknown
+  Sweden                     18.5%   Low         Unknown
+  Switzerland                18.1%   Low         Unknown
+  United Kingdom             17.7%   Low         Western Europe
+  Czech Republic             16.4%   Low         Unknown
+  Austria                    16.2%   Low         Unknown
+  New Zealand                16.2%   Low         Unknown
+  Belgium                    15.5%   Low         Unknown
+  Germany                    15.2%   Low         Western Europe
+  France                     14.9%   Low         Western Europe
+  Hungary                    13.9%   Low         Unknown
+  Norway                     12.0%   Low         Unknown
+
+POLICY INTERVENTIONS (top priority per high-risk country)
+----------------------------------------
+
+  Indonesia [Critical]:
+    URGENT: Declare national AMR emergency and activate crisis response plan
+    Immediately restrict OTC antibiotic sales -- mandatory prescription required
+    Deploy WHO-supported antimicrobial stewardship programmes in all hospitals
+
+  Egypt [High]:
+    Implement national antibiotic stewardship action plan within 12 months
+    Restrict Watch-group antibiotic prescribing to specialist approval
+    Mandatory reporting of AMR surveillance data to national authority
+
+==============================================================
+Pipeline runtime: 4376.6s
+
+OUTPUT FILES
+----------------------------------------
+  outputs\results/panel_raw.csv
+  outputs\results/panel_features.csv
+  outputs\results/rf_forecasts_2024_2030.csv
+  outputs\results/gbm_forecasts.csv
+  outputs\results/gbm_feature_importances.csv
+  outputs\results/country_risk_tiers_2030.csv
+  outputs\results/feature_importances.csv
+  outputs\results/ridge_coefficients.csv
+  outputs\results/antibiotic_pressure_index.csv
