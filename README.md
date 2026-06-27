@@ -2,7 +2,7 @@
 Machine learning pipeline for AMR resistance profiling, risk tier classification, and modifiable driver identification across multi-format global surveillance datasets.
 
 ## Installation
-git clone https://github.com/your-username/amr-risk-profiler.git
+git clone https://github.com/Diagopreutic/amr-risk-profiler.git
 cd amr-risk-profiler
 pip install -r requirements.txt
 
