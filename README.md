@@ -14,7 +14,7 @@ Machine learning pipeline for AMR resistance profiling, risk tier classification
 `python fetch_worldbank_cache.py`
 
 ### Run on your surveillance file
-`python main.py --amr your_data.csv`
+`python main.py --amr your_data.csv` <br>
 `python main.py --amr your_data.xlsx` (for datasets similar to SPIDAAR-RWE)
 
 ### Specify a historical start year
