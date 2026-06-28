@@ -15,6 +15,7 @@ Machine learning pipeline for AMR resistance profiling, risk tier classification
 
 ### Run on your surveillance file
 `python main.py --amr your_data.csv`
+`python main.py --amr your_data.xlsx` (for datasets similar to SPIDAAR-RWE)
 
 ### Specify a historical start year
 `python main.py --amr your_data.csv --start-year 2010`
